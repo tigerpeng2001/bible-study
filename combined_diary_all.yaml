@@ -1223,3 +1223,33 @@
   grammar: null
   Friday_review:
     note: null
+- date: '2025-11-24'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '3.13':
+    - Después Jesús subió* al monte, llamó* a los que Él quiso, y ellos vinieron a
+      Él.
+    '3.14':
+    - 'Designó a doce, para que estuvieran con Él y para enviarlos a predicar, '
+    '3:15':
+    - y para que tuvieran autoridad de expulsar demonios.
+  vocabulary:
+    subió: v. subir. Preterite él/ella/usted conjugation. went up, ascended
+    monte: n. monte. mountain, hill
+    llamó: v. llamar. Preterite él/ella/usted conjugation. called
+    quiso: v. querer. Preterite él/ella/usted conjugation. wanted
+    vinieron: v. venir. Preterite ellos/ellas/ustedes conjugation. came
+    designó: v. designar. Preterite él/ella/usted conjugation. designated, appointed
+    estuvieran: v. estar. Imperfect subjunctive ellos/ellas/ustedes conjugation. to
+      be
+    enviarlos: v. enviar + los. to send them
+    tuvieran: v. tener. Imperfect subjunctive ellos/ellas/ustedes conjugation. to
+      have
+    predicar: v. predicar. to preach
+    autoridad: n. autoridad. authority, power
+    expulsar: v. expulsar. to expel, to cast out
+  grammar:
+    Friday_review: null
