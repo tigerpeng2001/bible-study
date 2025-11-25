@@ -5,50 +5,81 @@ IFS=$'\n\t'
 SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
 source "$SCRIPT_DIR/config.sh"
 
-if [ "$#" -ne 2 ]; then
-  echo "Usage: $0 INPUT.pages OUTPUT_BASE_DIR" >&2
+if [ "$#" -ne 1 ]; then
+  echo "Usage: $0 path/to/file.pages" >&2
   exit 2
 fi
 
 INPUT_PAGES="$1"
-OUT_BASE="$2"
 
-mkdir -p "$OUT_BASE/epub" "$OUT_BASE/html" "$OUT_BASE/markdown"
+# ──────────────────────────────────────────────
+# 1. Compute relative path inside pages/
+# ──────────────────────────────────────────────
 
-BASE_NAME=$(basename "$INPUT_PAGES" .pages)
-EPUB_OUT="$OUT_BASE/epub/$BASE_NAME.epub"
+# Strip leading "pages/"
+REL_PATH="${INPUT_PAGES#pages/}"
 
-ABS_INPUT=$(cd "$(dirname "$INPUT_PAGES")" && pwd)/$(basename "$INPUT_PAGES")
+# Extract subdirectory (e.g., マルコによる福音書)
+REL_DIR="$(dirname "$REL_PATH")"
+
+# Extract base filename without .pages
+BASE_NAME="$(basename "$INPUT_PAGES" .pages)"
+
+# ──────────────────────────────────────────────
+# 2. Compute correct output paths (NEVER under pages/)
+# ──────────────────────────────────────────────
+
+EPUB_OUT="epub/$REL_DIR/$BASE_NAME.epub"
+HTML_DIR="html/$REL_DIR"
+MD_OUT="markdown/$REL_DIR/$BASE_NAME.md"
+
 mkdir -p "$(dirname "$EPUB_OUT")"
+mkdir -p "$HTML_DIR"
+mkdir -p "$(dirname "$MD_OUT")"
+
+# ──────────────────────────────────────────────
+# 3. Absolute paths (AppleScript requires absolute)
+# ──────────────────────────────────────────────
+ABS_INPUT=$(cd "$(dirname "$INPUT_PAGES")" && pwd)/$(basename "$INPUT_PAGES")
 ABS_EPUB=$(cd "$(dirname "$EPUB_OUT")" && pwd)/$(basename "$EPUB_OUT")
 
+# ──────────────────────────────────────────────
+# 4. Export Pages → EPUB
+# ──────────────────────────────────────────────
 $OSASCRIPT_BIN "$SCRIPT_DIR/export_pages_to_epub.applescript" "$ABS_INPUT" "$ABS_EPUB"
 
+# ──────────────────────────────────────────────
+# 5. Unzip EPUB to temp area
+# ──────────────────────────────────────────────
 UNZIP_DIR="$TMPDIR/$(date +%s%N)_$BASE_NAME"
 mkdir -p "$UNZIP_DIR"
+
 unzip -q "$ABS_EPUB" -d "$UNZIP_DIR"
 
-HTML_SRC_DIR="$UNZIP_DIR/OEBPS"
-[ ! -d "$HTML_SRC_DIR" ] && HTML_SRC_DIR="$UNZIP_DIR"
+if [ -d "$UNZIP_DIR/OEBPS" ]; then
+  SRC_HTML="$UNZIP_DIR/OEBPS"
+else
+  SRC_HTML="$UNZIP_DIR"
+fi
 
-HTML_TARGET_DIR="$OUT_BASE/html/$BASE_NAME"
-mkdir -p "$HTML_TARGET_DIR"
+# Clean HTML dir
+mkdir -p "$HTML_DIR"
+rm -rf "$HTML_DIR"/*
+cp "$SRC_HTML"/*.xhtml "$HTML_DIR"/ 2>/dev/null || true
+cp "$SRC_HTML"/*.html  "$HTML_DIR"/ 2>/dev/null || true
 
-shopt -s nullglob
-for f in "$HTML_SRC_DIR"/*.xhtml "$HTML_SRC_DIR"/*.html; do
-  cp "$f" "$HTML_TARGET_DIR/"
-done
-shopt -u nullglob
-
-MD_OUT="$OUT_BASE/markdown/$BASE_NAME.md"
+# ──────────────────────────────────────────────
+# 6. Convert XHTML → Markdown
+# ──────────────────────────────────────────────
 : > "$MD_OUT"
 
-for chapter in $(ls -1 "$HTML_TARGET_DIR" | sort); do
-  src="$HTML_TARGET_DIR/$chapter"
+for chapter in $(ls -1 "$HTML_DIR" | sort); do
+  src="$HTML_DIR/$chapter"
   echo "# Converted: $chapter" >> "$MD_OUT"
   pandoc "${PANDOC_OPTS[@]}" "$src" -o - >> "$MD_OUT"
   echo -e "\n\n" >> "$MD_OUT"
 done
 
+# Cleanup temp
 rm -rf "$UNZIP_DIR"
 
