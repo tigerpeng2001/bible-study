@@ -1,0 +1,24 @@
+date: "2025-11-25"
+weekday: "Tuesday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "3:16":
+    - "Designó, pues, a los doce: Simón (a quien puso por nombre Pedro),
+  "3:17":
+    - "Jacobo, hijo de Zebedeo, y Juan hermano de Jacobo (a quienes puso por nombre Boanerges, que significa: «Hijos del Trueno»);"
+  "3:18":  
+    - "Andrés, Felipe, Bartolomé, Mateo, Tomás, Jacobo, hijo de Alfeo, Tadeo, Simón el cananita;"
+  "3:19":
+    - "y Judas Iscariote, el que también lo entregó."
+vocabulary:
+  designó: "v. designar. Preterite él/ella/usted conjugation. to designate, to appoint"
+  pues: "adv. pues. therefore, then"
+  puso: "v. poner. Preterite él/ella/usted conjugation. put, placed"
+  significa: "v. significar. Present él/ella/usted conjugation. means"
+  trueno: "n. trueno. thunder"
+  entregó: "v. entregar. Preterite él/ella/usted conjugation. to deliver, to betray"
+grammar:
+Friday_review:
+  note:
