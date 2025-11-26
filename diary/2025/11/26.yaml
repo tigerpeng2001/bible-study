@@ -1,0 +1,24 @@
+date: "2025-11-26"
+weekday: "Wednesday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "3:20":
+    - "イエスが家に帰られると、群衆がまた集まって来て、一同は食事をする暇もないほどであった。"
+  "3:21":
+    - "身内の人たちはイエスのことを聞いて取り押さえに来た。"
+    - "「あの男は気が変になっている」と言われていたからである。"
+vocabulary:
+  ほど: "adv. to the extent that, so much that"
+  身内: "n. みうち. relatives, family members"
+  取り押さえ: "v. とりおさえる. to restrain, to seize"
+  気が変になる: "adj. きがかわる. to go crazy, to become insane"
+grammar:
+  と言われていたからである:
+    structure: "〜と言われていたからである"
+    explanation: "This structure is used to explain the reason for something based on hearsay or common knowledge. It combines the passive form of a verb (言われていた) with からである to indicate causation."
+    example:
+      - sentence: "彼は忙しいと言われていたからである。"  
+Friday_review:
+  note:
