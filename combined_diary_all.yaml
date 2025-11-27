@@ -1253,3 +1253,94 @@
     expulsar: v. expulsar. to expel, to cast out
   grammar:
     Friday_review: null
+- date: '2025-11-25'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '3:16':
+    - 'Designó, pues, a los doce: Simón (a quien puso por nombre Pedro),'
+    '3:17':
+    - 'Jacobo, hijo de Zebedeo, y Juan hermano de Jacobo (a quienes puso por nombre
+      Boanerges, que significa: «Hijos del Trueno»);'
+    '3:18':
+    - Andrés, Felipe, Bartolomé, Mateo, Tomás, Jacobo, hijo de Alfeo, Tadeo, Simón
+      el cananita;
+    '3:19':
+    - y Judas Iscariote, el que también lo entregó.
+  vocabulary:
+    designó: v. designar. Preterite él/ella/usted conjugation. to designate, to appoint
+    pues: adv. pues. therefore, then
+    puso: v. poner. Preterite él/ella/usted conjugation. put, placed
+    significa: v. significar. Present él/ella/usted conjugation. means
+    trueno: n. trueno. thunder
+    entregó: v. entregar. Preterite él/ella/usted conjugation. to deliver, to betray
+  grammar: null
+  Friday_review:
+    note: null
+- date: '2025-11-26'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '3:20':
+    - イエスが家に帰られると、群衆がまた集まって来て、一同は食事をする暇もないほどであった。
+    '3:21':
+    - 身内の人たちはイエスのことを聞いて取り押さえに来た。
+    - 「あの男は気が変になっている」と言われていたからである。
+  vocabulary:
+    ほど: adv. to the extent that, so much that
+    身内: n. みうち. relatives, family members
+    取り押さえ: v. とりおさえる. to restrain, to seize
+    気が変になる: adj. きがかわる. to go crazy, to become insane
+  grammar:
+    と言われていたからである:
+      structure: 〜と言われていたからである
+      explanation: This structure is used to explain the reason for something based
+        on hearsay or common knowledge. It combines the passive form of a verb (言われていた)
+        with からである to indicate causation.
+      example:
+      - sentence: 彼は忙しいと言われていたからである。
+  Friday_review:
+    note: null
+- date: '2025-11-27'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '3:22':
+    - エルサレムから下って来た律法学者たちも、「あの男はベルゼブルに取りつかれている」と言い、
+    - また、「悪霊の頭の力で悪霊を追い出している」と言っていた。
+    '3:23':
+    - そこで、イエスは彼らを呼び寄せて、たとえを用いて語られた。「どうして、サタンがサタンを追い出せよう。
+    '3:24':
+    - 国が内輪で争えば、その国は成り立たない。
+    '3:25':
+    - 家が内輪で争えば、その家は成り立たない。
+    '3:26':
+    - 同じように、サタンが内輪もめして争えば、立ち行かず、滅びてしまう。
+  vocabulary:
+    下だって来た: v. くだってきた. Past tense. くだる (to go down) + くる (to come). to have come down
+    律法学者: n. りっぽうがくしゃ. expert in the law, legal scholar
+    取りつかれている: v. とりつかれる. Progressive form. to be possessed (by a spirit)
+    悪霊: n. あくりょう. evil spirit, demon
+    頭の力: n. とうのちから. chief power, main strength
+    追い出している: v. おいだす. Progressive form. to drive out, to expel
+    呼び寄せて: v. よびよせる. Te-form. to summon, to call over
+    たとえ: n. たとえ. parable, metaphor
+    用いて: v. もちいる. Te-form. to use, to employ
+    語られた: v. かたる. Past tense (honorific). to speak, to tell
+    国: n. くに. country, nation
+    内輪: n. うちわ. inner circle, within a group
+    争えば: v. あらそう. Conditional form. to quarrel, to dispute
+    成り立たない: v. なりたつ. Negative form. to be viable, to hold true
+    おなじように: adv. likewise, in the same way
+    内輪もめして: v. うちわもめする. Te-form. to have internal disputes
+    立ち行かず: v. たちゆく. Negative form. to go on, to manage
+    滅びてしまう: v. ほろびる. Te-form + しまう. to perish, to be destroyed
+  grammar: null
+  Friday_review:
+    note: null
