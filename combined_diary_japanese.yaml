@@ -591,7 +591,7 @@
     ほど: adv. to the extent that, so much that
     身内: n. みうち. relatives, family members
     取り押さえ: v. とりおさえる. to restrain, to seize
-    気が変になる: adj. きがかわる. to go crazy, to become insane
+    気が変になる: adj. きげんになる. to go crazy, to lose one's mind
   grammar:
     と言われていたからである:
       structure: 〜と言われていたからである
@@ -638,6 +638,24 @@
     内輪もめして: v. うちわもめする. Te-form. to have internal disputes
     立ち行かず: v. たちゆく. Negative form. to go on, to manage
     滅びてしまう: v. ほろびる. Te-form + しまう. to perish, to be destroyed
-  grammar: null
+  grammar:
+  - 立ち行かず:
+      grammatical_element: 助動詞_ず (Auxiliary_zu)
+      type: 文語的 (Literary/Classical)
+      primary_function: 接続 (Connection/Conjunction)
+      role_in_sentence:
+      - 打消しのまま次の文に繋ぐ (Connects to the next clause while remaining negative)
+      - 「〜ないで」に相当 (Equivalent to "without doing X")
+      example_context: 立ち行かず、滅びてしまう。
+    立ち行かない:
+      grammatical_element: 助動詞_ない (Auxiliary_nai)
+      type: 口語的 (Colloquial/Modern)
+      primary_function: 終止_連体 (Termination/Adnominal)
+      role_in_sentence:
+      - 文を終止させる (Ends the sentence: 終止形)
+      - 名詞を修飾する (Modifies a noun: 連体形)
+      example_context:
+      - この事業は立ち行かない。
+      - 立ち行かない会社を救う。
   Friday_review:
     note: null
