@@ -701,3 +701,26 @@
   grammar: null
   Friday_review:
     note: null
+- date: '2025-12-01'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '3.28':
+    - En verdad les digo que todos los pecados serán perdonados a los hijos de los
+      hombres, y las blasfemias con que blasfemen,
+    '3:29':
+    - 'y pero cualquiera que blasfeme contra el Espíritu Santo no tiene jamás perdón,
+      sino que es culpable de pecado eterno». '
+    '3:30':
+    - 'Porque decían: «Tiene un espíritu inmundo».'
+  vocabulary:
+    perdonados: v. perdonar. past participle. to forgive, to pardon
+    blasfemias: n. blasfemia. blasphemies
+    cualquiera: pron. cualquiera. anyone, whoever
+    jamás: adv. jamás. never
+    culpable: adj. culpable. guilty, responsible
+    inmundo: adj. inmundo. unclean, impure
+  grammar:
+    Friday_review: null
