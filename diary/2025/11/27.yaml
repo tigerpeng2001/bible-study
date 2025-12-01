@@ -15,6 +15,9 @@ verses:
     - "家が内輪で争えば、その家は成り立たない。"
   "3:26":
     - "同じように、サタンが内輪もめして争えば、立ち行かず、滅びてしまう。"
+  "3:27":
+    - "また、まず強い人を縛り上げなければ、だれも、その人の家に押し入って、家財道具を奪い取ることはできない。"
+    - "まず縛ってから、その家を略奪するものだ"
 vocabulary:
   下だって来た: "v. くだってきた. Past tense. くだる (to go down) + くる (to come). to have come down"
   律法学者: "n. りっぽうがくしゃ. expert in the law, legal scholar"
@@ -34,6 +37,11 @@ vocabulary:
   内輪もめして: "v. うちわもめする. Te-form. to have internal disputes"
   立ち行かず: "v. たちゆく. Negative form. to go on, to manage"
   滅びてしまう: "v. ほろびる. Te-form + しまう. to perish, to be destroyed"
+  しばり上げなければ: "v. しばりあげる. Conditional form. to tie up tightly"
+  押し入って: "v. おしいる. Te-form. to break into, to raid"
+  家財道具: "n. かざいどうぐ. household goods, furniture"
+  奪い取る: "v. うばいとる. to snatch away, to seize"
+  略奪する: "v. りゃくだつする. to plunder, to loot"
 grammar:
 - 立ち行かず:
     grammatical_element: 助動詞_ず (Auxiliary_zu)
