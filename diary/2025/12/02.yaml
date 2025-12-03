@@ -1,0 +1,35 @@
+date: "2025-12-02"
+weekday: "Tuesday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "3:31":
+    - "Entonces llegaron* Su madre y Sus hermanos, y quedándose afuera, mandaron a llamar a Jesús."
+  "3:32":
+    - "Y había una multitud sentada alrededor de Él, y le dijeron*: «Tu madre y Tus hermanos están afuera y te buscan». "
+  "3:33":
+    - "«¿Quiénes son Mi madre y Mis hermanos?», les dijo* Jesús."
+  "3:34":  
+    - "Y mirando a los que estaban sentados en círculo alrededor de Él, dijo*: «Aquí están Mi madre y Mis hermanos."
+  "3:35":
+    - "Porque cualquiera que hace la voluntad de Dios, ese es Mi hermano, y hermana y madre»."
+vocabulary:
+  llegaron: "v. llegar. Preterite él/ella/usted conjugation. to arrive, to come to  a place"
+  quedándose: "adv. quedarse. Gerundio. staying, remaining  outside (oneself)"
+  mandaron: "v. mandar. Preterite ellos/ellas/ustedes conjugation. to order, to command"
+  había: "v. haber. Imperfect él/ella/usted conjugation. there was, there were"
+  multitud: "n. multitud. crowd, multitude "
+  sentada: "v. sentar. Past participle. to sit, to seat"
+  alrededor: "adv. alrededor. around, surrounding"
+  dijeron: "v. decir. Preterite ellos/ellas/ustedes conjugation. to say, to tell"
+  buscan: "v. buscar. Present ellos/ellas/ustedes conjugation. to look for, to seek"
+  mirando: "v. mirar. Gerundio. looking at, watching"
+  sentados: "v. sentar. Past participle. to sit, to seat"
+  círculo: "n. círculo. circle"
+  haciendo: "v. hacer. Gerundio. doing, making"
+  voluntad: "n. voluntad. will, desire"
+  ese: "adj. ese. that (demonstrative adjective)" 
+grammar:
+Friday_review:
+  note:
