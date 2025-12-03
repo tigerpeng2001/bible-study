@@ -1285,6 +1285,31 @@
   version: 新共同訳 (日本聖書協会 1987, 1988)
   target_language: Japanese
   verses:
+    '4:1':
+    - イエスは、再び湖のほとりで教え始められた。
+    - おびただしい群衆が、そばに集まって来た。
+    - そこで、イエスは舟に乗って腰を下ろし、湖の上におられたが、群衆は皆、湖畔にいた。
+    '4:2':
+    - イエスはたとえでいろいろと教えられ、その中で次のように言われた。
+  vocabulary:
+    再び: 'adv. again, once more '
+    湖のほとり: n. みずうみのほとり. lakeside, lake shore
+    おびただしい: adj. 夥しい. おびただしい. numerous, abundant
+    腰をおろし: v. とりおろす. to sit down, to take a seat
+    おられたが: v. いる. Past tense (honorific). to be, to exist (honorific)
+    湖畔: n. こはん. lakeside, lake shore
+    たとえ: n. たとえ. parable, metaphor
+    いろいろと: adv. variously, in various ways
+    次のように: phr. as follows, in the following way
+  grammar: null
+  Friday_review:
+    note: null
+- date: '2025-11-26'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
     '3:20':
     - イエスが家に帰られると、群衆がまた集まって来て、一同は食事をする暇もないほどであった。
     '3:21':
