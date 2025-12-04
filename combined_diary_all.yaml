@@ -1336,6 +1336,59 @@
   version: 新共同訳 (日本聖書協会 1987, 1988)
   target_language: Japanese
   verses:
+    '4:3':
+    - よく聞きなさい。種を蒔く人が種蒔きに出て行った。
+    '4:4':
+    - 蒔いている間に、ある種は道端に落ち、鳥が来て食べてしまった。
+    '4:5':
+    - ほかの種は、石だらけで土の少ない所に落ち、そこは土が浅いのですぐ芽を出した。
+    '4:6':
+    - しかし、日が昇ると焼けて、根がないために枯れてしまった。
+    '4:7':
+    - ほかの種は茨の中に落ちた。すると茨が伸びて覆いふさいだので、実を結ばなかった。
+    '4:8':
+    - また、ほかの種は良い土地に落ち、芽生え、育って実を結び、あるものは三十倍、あるものは六十倍、あるものは百倍にもなった。」
+    '4:9':
+    - そして、「聞く耳のある者は聞きなさい」と言われた。
+  vocabulary:
+    種: n. たね. seed
+    蒔く人: n. まくひと. sower
+    種蒔き: n. たねまき. sowing of seeds
+    道端: n. みちばた. roadside, wayside
+    土: n. つち. soil, earth
+    所: n. ところ. place
+    おち: v. おちる. to fall
+    ほか: adj. ほか. other, another
+    石だらけ: adj. いしだらけ. full of stones
+    浅い: adj. あさい. shallow
+    芽を出す: exp. めをだす. to sprout, to bud
+    日が昇る: exp. ひがのぼる. the sun rises
+    焼けて: v. やける. to burn, to be burned
+    根: n. ね. root
+    枯れる: v. かれる. to wither, to dry up
+    茨: n. いばら. thorn, briar
+    すると: conj. すると. then, thereupon
+    伸びて: v. のびる. to stretch, to extend
+    覆いふさいだ: v. おおいふさぐ. to cover completely
+    実を結ばない: exp. みをむすばない. to not bear fruit
+    良い土地: n. よいとち. good soil
+    芽生え: v. めばえる. to sprout, to bud
+    育って: v. そだつ. to grow, to be raised
+    実を結び: exp. みをむすぶ. to bear fruit
+    あるもの: pron. あるもの. some (of them)
+    三十倍: n. さんじゅうばい. thirty times
+    聞く耳: exp. きくみみ. listening ear, attentive ear
+  grammar:
+  - てしまった: Used to indicate that an action has been completed, often with a sense
+      of regret or finality.
+  Friday_review:
+    note: null
+- date: '2025-11-27'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
     '3:22':
     - エルサレムから下って来た律法学者たちも、「あの男はベルゼブルに取りつかれている」と言い、
     - また、「悪霊の頭の力で悪霊を追い出している」と言っていた。
