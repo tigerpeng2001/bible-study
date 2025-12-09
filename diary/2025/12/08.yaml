@@ -1,0 +1,37 @@
+date: "2025-12-08"
+weekday: "Monday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "4.10":
+    - "Cuando Jesús se quedó solo, Sus seguidores junto con los doce le preguntaban sobre las parábolas.
+  "4:11":
+    - "«A ustedes les ha sido dado el misterio del reino de Dios», les decía, «pero los que están afuera reciben todo en parábolas; "
+  "4:12":
+    - "para que viendo, vean pero no perciban, y oyendo, oigan pero no entiendan, no sea que se conviertan y sean perdonados»."
+vocabulary:
+  quedó: "v. quedar. past participle. to stay, to remain"
+  parábolas: "n. parábola. parable"
+  seguidores: "n. seguidor. follower"
+  junto con: "exp. junto con. together with"
+  sobre: "prep. sobre. about, on, over"
+  les: "pron. les. to them"
+  ha sido dado: "exp. haber sido dado. has been given"
+  misterio: "n. misterio. mystery"
+  reino: "n. reino. kingdom"
+  afuera: "adv. afuera. outside"
+  reciben: "v. recibir. to receive"
+  para que: "conj. para que. so that"
+  viendo: "v. ver. gerund. seeing"
+  vean: "v. ver. subjunctive. to see"
+  pero: "conj. pero. but"
+  no perciban: "exp. no percibir. to not perceive"
+  oyendo: "v. oír. gerund. hearing"
+  oigan: "v. oír. subjunctive. to hear"
+  no entiendan: "exp. no entender. to not understand"
+  no sea que: "conj. no sea que. lest"
+  se conviertan: "exp. convertirse. to convert, to turn"
+  sean perdonados: "exp. ser perdonado. to be forgiven"
+grammar:
+ Friday_review:
