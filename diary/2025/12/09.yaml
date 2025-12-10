@@ -1,0 +1,50 @@
+date: "2025-12-09"
+weekday: "Tuesday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "4:13":
+    - "También les dijo*: «¿No entienden esta parábola? ¿Cómo, pues, comprenderán todas las otras parábolas?"
+  "4:14":
+    - "El sembrador siembra la palabra."
+  "4:15":
+    - "Estos que están junto al camino donde se siembra la palabra,"
+    - "son aquellos que en cuanto la oyen, al instante viene Satanás y se lleva la palabra que se ha sembrado en ellos. "
+  "4:16":
+    - "Y de igual manera, estos en que se sembró la semilla en pedregales son los que al oír la palabra enseguida la reciben con gozo; "
+  "4:17":
+    - "pero no tienen raíz profunda en sí mismos, sino que solo son temporales."
+    - "Entonces, cuando viene la aflicción o la persecución por causa de la palabra, enseguida se apartan de ella. "
+vocabulary:
+  entienden: "v. entender. Present ellos/ellas/ustedes conjugation. to understand"
+  pues: "adv. pues. conjunction. then, well, so"
+  comprenderán: "v. comprender. Future ellos/ellas/ustedes conjugation. to understand, to comprehend"
+  otras: "adj. otro/a. other, another"
+  parábolas: "n. parábola. parable"
+  sembrador: "n. sembrador. sower"
+  siembra: "v. sembrar. Present él/ella/usted conjugation. to sow"
+  palabra: "n. palabra. word"
+  junto: "adv. junto. together, close"
+  camino: "n. camino. road, way"
+  donde: "adv. donde. where"
+  aquellos: "pron. aquel/lla. those"
+  cuanto: "conj. cuanto. as soon as"
+  oyen: "v. oír. Present ellos/ellas/ustedes conjugation. to hear"
+  igual: "adv. igual. likewise, similarly"
+  semilla: "n. semilla. seed"
+  pedregales: "n. pedregal. stony ground"
+  enseguida: "adv. enseguida. immediately"
+  reciben: "v. recibir. Present ellos/ellas/ustedes conjugation. to receive"
+  gozo: "n. gozo. joy, delight"
+  raíz: "n. raíz. root"
+  profunda: "adj. profundo/a. deep, profound"
+  sí mismos: "pron. sí mismos. themselves"
+  temporales: "adj. temporal. temporary"
+  aflicción: "n. aflicción. affliction, distress"
+  persecución: "n. persecución. persecution"
+  causa: "n. causa. cause, reason"
+  apartan: "v. apartar. Present ellos/ellas/ustedes conjugation. to separate, to leave"
+grammar:
+Friday_review:
+  note:
