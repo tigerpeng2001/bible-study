@@ -1609,3 +1609,48 @@
   grammar: null
   Friday_review:
     note: null
+- date: '2025-12-10'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '4:18':
+    - また、ほかの人たちは茨の中に蒔かれるものである。
+    - この人たちは御言葉を聞くが
+    '4:19':
+    - この世の思い煩いや富の誘惑、その他いろいろな欲望が心に入り込み、御言葉を覆いふさいで実らない。
+    '4:20':
+    - 良い土地に蒔かれたものとは、御言葉を聞いて受け入れる人たちであり、
+    - ある者は三十倍、ある者は六十倍、ある者は百倍の実を結ぶのである。」
+  vocabulary:
+    茨: n. いばら. thorn, briar
+    蒔かれる: v. まかれる. to be sown (passive form)
+    御言葉: n. みことば. the word (of God)
+    聞く: v. きく. to hear, to listen
+    世の思い煩い: exp. よのおもいわずらい. worldly anxieties, worries of the world
+    富の誘惑: exp. とみのゆうわく. the lure of wealth
+    その他: adv. そのた. other, others
+    欲望: n. よくぼう. desire, craving
+    入り込み: v. いりこむ. to enter, to go into
+    覆いふさいで: v. おおいふさぐ. to cover completely
+    実らない: v. みのる. to bear fruit (negative form)
+    良い土地: n. よいとち. good soil
+    ある者: pron. あるもの. some (of them)
+    受け入れる: v. うけいれる. to accept, to receive
+    三十倍: n. さんじゅうばい. thirty times
+    百倍: n. ひゃくばい. one hundred times
+  grammar:
+    入り込み:
+      note: continuative form used to connect verbs, indicating that one action leads
+        into another.
+    覆覆いふさいで:
+      note: te-form used to connect actions, indicating that the action of covering
+        leads to the next action.
+    実らない:
+      note: negative form indicating that the action of bearing fruit does not occur.
+    とは:
+      note: used to define or explain a term or concept, similar to 'as for' or 'refers
+        to'.
+  Friday_review:
+    note: null
