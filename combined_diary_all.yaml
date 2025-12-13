@@ -1654,3 +1654,39 @@
         to'.
   Friday_review:
     note: null
+- date: '2025-12-11'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '4:21':
+    - また、イエスは言われた。
+    - 「ともし火を持って来るのは、升の下や寝台の下に置くためだろうか。
+    - 燭台の上に置くためではないか。
+    '4:22':
+    - 隠れているもので、あらわにならないものはなく、秘められたもので、公にならないものはない。
+    '4:23':
+    - 聞く耳のある者は聞きなさい。」
+  vocabulary:
+    ともし火: n. ともしび. lamp, light
+    持って来る: v. もってくる. to bring
+    のは: particle. nominalizer, turns verb phrases into nouns
+    升: n. ます. measuring box
+    下: n. した. under, below
+    寝台: n. しんだい. bed, couch
+    置くためだろうか: phr. is it for the purpose of placing
+    燭台: n. しょくだい. candlestick, candle holder
+    隠れている: adj. かくれている. hidden
+    あらわにならない: adj. あらわにならない. not revealed
+    秘められた: adj. ひめられた. hidden, secret
+    公にならない: adj. おおやけにならない. not made public
+    聞く耳: exp. きくみみ. listening ear, attentive ear
+    ある者: pron. あるもの. thjose who have
+  grammar:
+  - のは: Used to nominalize verb phrases, turning them into noun phrases that can function
+      as subjects or objects in a sentence.
+  - だろうか: Used to express uncertainty or to pose a rhetorical question, often translated
+      as 'is it that...' or 'could it be that...'.
+  Friday_review:
+    note: null
