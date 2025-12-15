@@ -1690,3 +1690,29 @@
       as 'is it that...' or 'could it be that...'.
   Friday_review:
     note: null
+- date: '2025-12-15'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '4.24':
+    - 'Además les decía: «Cuídense de lo que oigan. Con la medida con que ustedes
+      midan, se les medirá, y aun más se les dará.'
+    '4:25':
+    - Porque al que tiene, se le dará más, pero al que no tiene, aun lo que tiene
+      se le quitará».
+  vocabulary:
+    Además: adv. además. besides, furthermore
+    cuídense: v. cuidarse. affirmative command form. to take care of oneself
+    lo que: pron. lo que. what, that which
+    oigan: v. oír. present subjunctive form. to hear
+    medida: n. medida.  measure, measurement
+    midan: v. medir. present subjunctive form. to measure
+    se les medirá: v. medirse. forurture tense. impersonal/passive, to be measured
+      (for them)
+    se les dará: v. darse. forurture tense. impersonal/passive, to be given (to them)
+    se le quitará: v. quitarse. furture tense. impersonal/passive, will be taken away
+      (from him/her)
+  grammar:
+    Friday_review: null
