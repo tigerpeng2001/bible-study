@@ -24,6 +24,7 @@ grammar:
   - たとえを用いずに語ることはなかったが: 
     type: "grammar_point"
     explanation: "This structure uses a double negative to express that something did happen. 'ことはなかった' means 'did not happen,' so when combined with '用いずに語る,' it indicates that Jesus did indeed use parables to speak."
+    structure: "Verb (negative gerund) + ことはなかった"
     example_sentence: "彼は嘘をつくことはなかった。 (He did not lie.)"
   - 用いずに: 
     type: "grammar_point"
