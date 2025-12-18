@@ -1,0 +1,33 @@
+date: "2025-12-18"
+weekday: "Thursday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "4:33":
+    - "イエスは、人々の聞く力に応じて、このように多くのたとえで御言葉を語られた。"
+  "4:34":
+    - "たとえを用いずに語ることはなかったが、御自分の弟子たちにはひそかにすべてを説明された。"
+vocabulary:
+  聞く力: "exp. きくちから. ability to hear, listening ability"
+  応じて: "adv. おうじて. according to, in response to"
+  多くのたとえ: "exp. おおくのたとえ. many parables"
+  御言葉: "n. みことば. the Word (of God), divine word"
+  語られた: "v. かたる. past polite passive form. to speak, to tell"
+  用いずに: "adv. もちいずに. without using"
+  御自分: "n. ごじぶん. oneself (honorific)"
+  弟子たち: "n. でしだち. disciples"
+  ひそかに: "adv. ひそかに. secretly, privately"
+  すべて: "pron. すべて. all, everything"
+  説明された: "v. せつめい. past polite passive form. to explain"
+grammar:
+  - たとえを用いずに語ることはなかったが: 
+    type: "grammar_point"
+    explanation: "This structure uses a double negative to express that something did happen. 'ことはなかった' means 'did not happen,' so when combined with '用いずに語る,' it indicates that Jesus did indeed use parables to speak."
+    example_sentence: "彼は嘘をつくことはなかった。 (He did not lie.)"
+  - 用いずに: 
+    type: "grammar_point"
+    explanation: "'ずに' is a negative gerund form used to indicate 'without doing' something. It is formed by taking the negative stem of a verb and adding 'ずに.'"
+    example_sentence: "食べずに出かけた。 (I went out without eating.)"
+Friday_review:
+  note:
