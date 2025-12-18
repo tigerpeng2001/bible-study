@@ -1,0 +1,34 @@
+date: "2025-12-17"
+weekday: "Wednesday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "4:30":
+    - "更に、イエスは言われた。「神の国を何にたとえようか。どのようなたとえで示そうか。"
+  "4:31":
+    - "それは、からし種のようなものである。土に蒔くときには、地上のどんな種よりも小さいが、"
+  "4:32":
+    - "蒔くと、成長してどんな野菜よりも大きくなり、葉の陰に空の鳥が巣を作れるほど大きな枝を張る。」"
+vocabulary:
+  更に: "adv. さらに. furthermore, moreover"
+  たとえよう: "v. たとえる. to compare, to liken (to something)  (volitional form)"
+  示そう: "v. しめす. to show, to indicate (volitional form)"
+  からし種: "n. からしだね. mustard seed"
+  土: "n. つち. soil, earth"
+  蒔く: "v. まく. to sow, to plant"
+  地上: "n. ちじょう. surface of the earth, ground"
+  種: "n. たね. seed"
+  成長: "n. せいちょう. growth"
+  野菜: "n. やさい. vegetable"
+  葉: "n. は. leaf"
+  陰: "n. かげ. shade, shadow"
+  空: "n. そら. sky"
+  鳥: "n. とり. bird"
+  巣: "n. す. nest"
+  作れる: "v. つくる. potential form. to be able to make, to be able to create"
+  枝: "n. えだ. branch"
+  張る: "v. はる. to stretch, to spread" 
+grammar:
+Friday_review:
+ 
