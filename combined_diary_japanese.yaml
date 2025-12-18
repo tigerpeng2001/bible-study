@@ -828,3 +828,73 @@
       as 'is it that...' or 'could it be that...'.
   Friday_review:
     note: null
+- date: '2025-12-17'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '4:30':
+    - 更に、イエスは言われた。「神の国を何にたとえようか。どのようなたとえで示そうか。
+    '4:31':
+    - それは、からし種のようなものである。土に蒔くときには、地上のどんな種よりも小さいが、
+    '4:32':
+    - 蒔くと、成長してどんな野菜よりも大きくなり、葉の陰に空の鳥が巣を作れるほど大きな枝を張る。」
+  vocabulary:
+    更に: adv. さらに. furthermore, moreover
+    たとえよう: v. たとえる. to compare, to liken (to something)  (volitional form)
+    示そう: v. しめす. to show, to indicate (volitional form)
+    からし種: n. からしだね. mustard seed
+    土: n. つち. soil, earth
+    蒔く: v. まく. to sow, to plant
+    地上: n. ちじょう. surface of the earth, ground
+    種: n. たね. seed
+    成長: n. せいちょう. growth
+    野菜: n. やさい. vegetable
+    葉: n. は. leaf
+    陰: n. かげ. shade, shadow
+    空: n. そら. sky
+    鳥: n. とり. bird
+    巣: n. す. nest
+    作れる: v. つくる. potential form. to be able to make, to be able to create
+    枝: n. えだ. branch
+    張る: v. はる. to stretch, to spread
+  grammar: null
+  Friday_review: null
+- date: '2025-12-18'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '4:33':
+    - イエスは、人々の聞く力に応じて、このように多くのたとえで御言葉を語られた。
+    '4:34':
+    - たとえを用いずに語ることはなかったが、御自分の弟子たちにはひそかにすべてを説明された。
+  vocabulary:
+    聞く力: exp. きくちから. ability to hear, listening ability
+    応じて: adv. おうじて. according to, in response to
+    多くのたとえ: exp. おおくのたとえ. many parables
+    御言葉: n. みことば. the Word (of God), divine word
+    語られた: v. かたる. past polite passive form. to speak, to tell
+    用いずに: adv. もちいずに. without using
+    御自分: n. ごじぶん. oneself (honorific)
+    弟子たち: n. でしだち. disciples
+    ひそかに: adv. ひそかに. secretly, privately
+    すべて: pron. すべて. all, everything
+    説明された: v. せつめい. past polite passive form. to explain
+  grammar:
+  - たとえを用いずに語ることはなかったが: null
+    type: grammar_point
+    explanation: This structure uses a double negative to express that something did
+      happen. 'ことはなかった' means 'did not happen,' so when combined with '用いずに語る,' it
+      indicates that Jesus did indeed use parables to speak.
+    structure: Verb (negative gerund) + ことはなかった
+    example_sentence: 彼は嘘をつくことはなかった。 (He did not lie.)
+  - 用いずに: null
+    type: grammar_point
+    explanation: '''ずに'' is a negative gerund form used to indicate ''without doing''
+      something. It is formed by taking the negative stem of a verb and adding ''ずに.'''
+    example_sentence: 食べずに出かけた。 (I went out without eating.)
+  Friday_review:
+    note: null
