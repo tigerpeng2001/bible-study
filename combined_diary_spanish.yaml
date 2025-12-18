@@ -886,3 +886,44 @@
       (from him/her)
   grammar:
     Friday_review: null
+- date: '2025-12-16'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '4:26':
+    - 'Jesús decía también: «El reino de Dios es como un hombre que echa semilla en
+      la tierra,'
+    '4:27':
+    - y se acuesta de noche y se levanta de día, y la semilla brota y crece; cómo,
+      él no lo sabe.
+    '4:28':
+    - La tierra produce fruto por sí misma; primero la hoja, luego la espiga, y después
+      el grano maduro en la espiga.
+    '4:29':
+    - Y cuando el fruto lo permite, él enseguida mete la hoz, porque ha llegado el
+      tiempo de la siega».
+  vocabulary:
+    semilla: n. semilla. seed
+    acuesta: v. acostarse. Present él/ella/usted conjugation. to go to bed, to lie
+      down
+    levanta: v. levantarse. Present él/ella/usted conjugation. to get up, to rise
+    brota: v. brotar. Present él/ella/usted conjugation. to sprout, to bud
+    crece: v. crecer. Present él/ella/usted conjugation. to grow
+    cómo: adv. cómo. how
+    sí misma: pron. sí mismo/a. himself, herself, itself, themselves
+    hoja: n. hoja. leaf
+    espiga: n. espiga. ear (of grain)
+    grano: n. grano. grain, seed
+    maduro: adj. maduro/a. mature, ripe
+    permite: v. permitir. Present él/ella/usted conjugation. to allow, to permit
+    enseguida: adv. enseguida. immediately
+    mete: v. meter. Present él/ella/usted conjugation. to put in, to insert
+    hoz: n. hoz. sickle
+    llegado: adj. llegado/a. arrived
+    tiempo: n. tiempo. time, weather
+    siega: n. siega. harvest
+  grammar: null
+  Friday_review:
+    note: null
