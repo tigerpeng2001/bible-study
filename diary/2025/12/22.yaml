@@ -1,0 +1,82 @@
+date: "2025-12-22"
+weekday: "Monday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "4.35":
+    - "Ese mismo día, caída ya la tarde, Jesús les dijo*: «Pasemos al otro lado».
+  "4:36":
+    - "Despidiendo a la multitud, lo llevaron con ellos en la barca, como estaba; y había otras barcas con Él."
+  "4:37":
+    - "Pero se levantó* una violenta tempestad, y las olas se lanzaban sobre la barca de tal manera que ya la barca se llenaba de agua."
+  "4:38":
+    - "Jesús estaba en la popa, durmiendo sobre una almohadilla; entonces lo despertaron y le dijeron: «Maestro, ¿no te importa que perezcamos?»."
+vocabulary:
+  caida: "v. caer. past participle feminine form. fallen"
+  Despidiendo: "v. despedir. gerund form. dismissing, sending away"
+  llevaron: "v. llevar. past tense. they took, they carried"
+  barca: "n. boat, small ship"
+  había: "v. haber. imperfect tense. there was, there were"
+  violenta: "adj. violent, fierce"
+  tempestad: "n. storm, tempest"
+  olas: "n. waves"
+  lanzaban: "v. lanzar. imperfect tense. they were throwing, they were hurling"
+  popa: "n. stern (of a boat)"
+  almohadilla: "n. cushion, pad"
+  despertaron: "v. despertar. past tense. they woke (him) up"
+  importa: "v. importar. present tense. it matters, it is important"
+  perezcamos: "v. perecer. present subjunctive. we perish"
+grammar:
+  - caída ya la tarde: 
+    type: "grammar_point"
+    explanation: "This phrase uses the past participle 'caída' to indicate that the action of falling (in this case, the evening falling) has already occurred. It sets the temporal context for the main action."
+    structure: "Past Participle + ya + Noun"
+    example_sentence: "La nieve caída cubría el suelo. (The fallen snow covered the ground.)"
+    Chinese_translation: "當夜幕降臨"
+    Japanese_translation: "暮に及びて"
+  - ya:
+    context: "caída ya la tarde"
+    grammatical_role: "Adverb of time / Aspectual marker"
+    primary_functions:
+      - definition: "Completion of an action or state"
+        nuance: "Indicates that the transition to evening has already fully occurred."
+      - definition: "Temporal transition"
+        nuance: "Acts as a narrative bridge between the daytime activities and the nighttime crossing."
+    contextual_meanings:
+      with_past_participle:
+        meaning: "Already / By this time"
+        example: "caída ya (having already fallen)"
+      with_present_tense:
+        meaning: "Now / Right now"
+        example: "ya voy (I am coming now)"
+      with_negative_expressions:
+        meaning: "No longer"
+        example: "ya no (no longer)"
+    linguistic_impact:
+      narrative_tone: "Adds emphasis to the readiness or the specific moment a new event begins."
+      scenic_value: "Establishes a 'point of no return' for the day's timeline."
+  - "como estaba":
+    literal_translation: "as he was / just as he was"
+    grammatical_breakdown:
+      - word: "como"
+        role: "Adverb/Conjunction"
+        function: "Expresses manner or condition."
+      - word: "estaba"
+        role: "Verb (Estar)"
+        tense: "Imperfect indicative"
+        nuance: "Describes a continuous state or location in the past."
+    theological_and_narrative_significance:
+      physical_state: "Indicates that Jesus did not leave the boat after teaching the crowd from it (v. 1). He remained in the same position."
+      sense_of_urgency: "Suggests there was no preparation or transition period. They set off immediately 'just as he was' in the boat."
+      humanity_of_jesus: "Hints at his exhaustion. He was so tired from teaching that he stayed in the boat and soon fell asleep on a cushion (v. 38)."
+    comparison_to_other_versions:
+      chinese_union: "仍在船上 (Still in the boat)"
+      english_niv: "just as he was"
+      classical_japanese: "舟にありしまま (Remaining in the boat as is)"
+  - lo llevaron con ellos en la barca, como estaba: 
+    type: "grammar_point"
+    explanation: "The phrase 'como estaba' means 'as it was,' indicating that they took Jesus in the boat without making any changes or adjustments to the boat's condition."
+    structure: "como + verb in imperfect tense"
+    example_sentence: "Tomó el libro como estaba. (He took the book as it was.)"
+Friday_review:
