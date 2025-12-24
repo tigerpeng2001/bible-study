@@ -28,7 +28,7 @@ vocabulary:
   importa: "v. importar. present tense. it matters, it is important"
   perezcamos: "v. perecer. present subjunctive. we perish"
 grammar:
-  - caída ya la tarde: 
+  - "caída ya la tarde": 
     type: "grammar_point"
     explanation: "This phrase uses the past participle 'caída' to indicate that the action of falling (in this case, the evening falling) has already occurred. It sets the temporal context for the main action."
     structure: "Past Participle + ya + Noun"
