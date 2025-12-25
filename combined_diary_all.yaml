@@ -1974,3 +1974,110 @@
       original_greek_parallel: ἐγένετο (egeneto - became/happened)
       intensity_level: High; suggests the calm 'fell upon' the scene immediately
   Friday_review: null
+- date: '2025-12-24'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '5:1':
+    - 一行は、湖の向こう岸にあるゲラサ人の地方に着いた。
+    '5:2':
+    - イエスが舟から上がられるとすぐに、汚れた霊に取りつかれた人が墓場からやって来た。
+    '5:3':
+    - この人は墓場を住まいとしており、もはやだれも、鎖を用いてさえつなぎとめておくことはできなかった。
+    '5:4':
+    - これまでにも度々足枷や鎖で縛られたが、鎖は引きちぎり足枷は砕いてしまい、だれも彼を縛っておくことはできなかったのである。
+    '5:5':
+    - 昼彼は昼も夜も墓場や山で叫んだり、石で自分を打ちたたいたりしていた。
+  vocabulary:
+    一行: n. いっこう. party, group of people
+    向こう岸: n. むこうぎし. opposite shore, far side of the river/lake
+    着いた: v. つく. past tense. arrived
+    上がられる: v. あがられる. あがる. honorific form. to get on/off (a vehicle), to rise
+    汚れた霊: n. けがれたれい. unclean spirit
+    取りつかれた: v. とりつかれる. past tense passive form. possessed (by a spirit)
+    墓場: n. はかば. graveyard, cemetery
+    やって来た: v. やってくる. past tense. came (here)
+    住まい: n. すまい. dwelling, residence
+    としており: aux. である. gerund form. to be, to exist
+    おり: aux. おる. humble form of いる. to be, to exist
+    もはや: adv. もはや. no longer, not anymore
+    鎖: n. くさり. chain
+    用いて: v. もちいる. gerund form. using, employing
+    つなぎとめて: v. つなぎとめる. gerund form. to tie up, to fasten
+    縛られた: v. しばられる. past tense passive form. was tied up
+    引きちぎり: v. ひきちぎる. gerund form. to tear off, to rip apart
+    足枷: n. あしかせ. fetter, shackle
+    砕いて: v. くだく. gerund form. to break, to smash
+    縛っておく: v. しばっておく. to keep tied up
+    度々: adv. たびたび. often, repeatedly
+    昼: n. ひる. daytime, noon
+    夜: n. よる. night
+    山: n. やま. mountain
+    叫んだり: v. さけぶ. gerund form with 'たり'. to shout, to scream
+    石: n. いし. stone
+    打ちたたいたり: v. うちたたく. gerund form with 'たり'. to strike, to hit
+  grammar:
+  - とすぐに: null
+    components:
+    - particle: と
+      function: Conjunctive particle indicating a conditional or immediate temporal
+        connection between two actions.
+    - adverb: すぐに
+      meaning: Immediately, instantly, or right away
+    grammatical_function:
+      description: Connects two clauses to show that the second action occurs almost
+        instantaneously after the first.
+      sequence: Action A (Verb in dictionary form) + とすぐに + Action B
+    analysis_in_verse:
+      action_a: 上がられる (agarareru) - To step out/get out (honorific)
+      action_b: やって来た (yatte kita) - Came along / appeared
+      combined_meaning: As soon as [Jesus] stepped out [of the boat], [the man] appeared.
+    stylistic_note:
+      register: Standard narrative Japanese (frequently used in the Shin Kyodo Yaku
+        translation).
+      emphasis: Highlights the suddenness and promptness of the encounter between
+        Jesus and the man with the unclean spirit.
+  - 〜を...としており: null
+    verse_context: この人は墓場を住まいとしており...
+    components:
+    - particle: を (o)
+      function: Marks the object being treated as something else (The tombs).
+    - noun: 住まい (sumai)
+      meaning: Dwelling/Residence.
+    - construction: としており (to shite ori)
+      meaning: Taking as... or Living in the state of...
+    grammatical_function:
+      description: Defines the role or status assigned to a location or object.
+      sequence: Noun A (Place) + を + Noun B (Role) + としており
+    analysis_in_verse:
+      subject: この人 (The man)
+      location: 墓場 (Graveyard)
+      role: 住まい (Home)
+      combined_meaning: This man was making the graveyard his home (and was there).
+  - 〜ておく: null
+    explanation: '''〜ておく'' is a grammatical construction used to indicate that an
+      action is done in preparation for a future event or to maintain a certain state.'
+    structure: Verb (te-form) + おく
+    example_sentence: ドアを閉めておく。 (I will close the door in advance / to keep it closed.)
+    Chinese_translation: 事先做某事以備將來
+    Japanese_translation: 将来のために〜しておく
+    verse_context: '...つなぎとめておくことはできなかった。'
+    components:
+    - verb_stem: つなぎとめ (tsunagitome)
+      meaning: To tie down or to bind fast.
+    - auxiliary: ておく (te oku)
+      function: Indicates the action is performed with the intention of maintaining
+        the resulting state.
+    grammatical_function:
+      description: Combined with a transitive verb, it expresses performing an action
+        so that the state continues to exist.
+      nuance_in_verse: It implies the act of "keeping" the man bound or "holding him
+        in restraint" over a period of time.
+    analysis_in_verse:
+      action: Binding the man with chains.
+      intended_result: Keeping him restrained/stationary.
+      combined_meaning: No one was able to [successfully bind him and keep him that
+        way].
+  Friday_review: null
