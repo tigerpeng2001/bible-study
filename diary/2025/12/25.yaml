@@ -1,0 +1,54 @@
+date: "2025-12-25"
+weekday: "Thursday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "5:6":
+    - "イエスを遠くから見ると、走り寄ってひれ伏し、"
+  "5:7":
+    - "大声で叫んだ。「いと高き神の子イエス、かまわないでくれ。後生だから、苦しめないでほしい。」"
+  "5:8":
+    - "イエスが、「汚れた霊、この人から出て行け」と言われたからである。"
+  "5:9":
+    - "そこで、イエスが、「名は何というのか」とお尋ねになると、「名はレギオン。大勢だから」と言った。"
+  "5:10":
+    - "そして、自分たちをこの地方から追い出さないようにと、イエスにしきりに願った。"
+vocabulary:
+  走り寄って: "v. はしりよる. gerund form. to run up to, to run towards"
+  ひれ伏し: "v. ひれふす. gerund form. to bow down, to prostrate oneself"
+  大声で: "exp. おおごえで. in a loud voice"
+  叫んだ: "v. さけぶ. past tense. shouted, yelled"
+  いと高き神の子: "exp. いとたかきかみのこ. Son of the Most High God"
+  後生だから: "exp. ごしょうだから. for my life, for my soul"
+  苦しめないでほしい: "v. くるしめる. negative request form. please do not torment/distress"
+  出て行け: "v. でていく. imperative form. get out, leave"
+  そこで: "adv. そこで. therefore, so, then"
+  レギオン: "n. れぎおん. legion (a large unit of the Roman army, typically composed of 3,000 to 6,000 soldiers)"
+  大勢: "n. たいぜい. multitude, large number of people"
+  おいださないように: "v. おいだす. negative gerund form. so as not to drive out, to avoid expelling"
+  しきりに: "adv. しきりに. repeatedly, earnestly, frequently"
+  願った: "v. ねがう. past tense. to wish, to request"
+grammar:
+  - "いと高き神の子イエス、かまわないでくれ。":
+    type: "grammar_point"
+    explanation: "The phrase 'かまわないでくれ' is a negative request form used to ask someone not to do something. 'かまう' means 'to mind' or 'to care about,' and when combined with 'ないでくれ,' it forms a polite request asking the listener not to mind or interfere."
+    structure: "Verb (negative form) + で + くれ"
+    example_sentence: "邪魔しないでくれ。 (Please do not disturb me.)"
+  - "後生だから": 
+    type: "grammar_point"
+    explanation: "The phrase '後生だから' is used to express a plea for mercy or compassion, often translated as 'for my life' or 'for my soul.' It is commonly used in contexts where someone is begging or earnestly requesting something."
+    structure: "後生 (ごしょう) + だから"
+    example_sentence: "助けてください、後生だから。 (Please help me, for my life.)"
+  - "名は何というのか": 
+    type: "grammar_point"
+    explanation: "The phrase '名は何というのか' is a formal way of asking 'What is your name?' or 'What do you call yourself?' The structure uses '何という' to inquire about the name or designation of something or someone."
+    structure: "名 (な) + は + 何という + の + か"
+    example_sentence: "彼の名は何というのか。 (What is his name?)"
+  - "いわれてるからである": 
+    type: "grammar_point"
+    explanation: "The phrase 'からである' is used to provide a reason or explanation for something. It can be translated as 'because' or 'the reason is that.' In this context, it explains why Jesus said what he did."
+    structure: "Clause + からである"
+    example_sentence: "彼は忙しいからである。 (It is because he is busy.)"
+Friday_review:
+  note:
