@@ -46,9 +46,9 @@ grammar:
   - "とすぐに":
     components:
       - particle: "と"
-        function: Conjunctive particle indicating a conditional or immediate temporal connection between two actions.
+        function: "Conjunctive particle indicating a conditional or immediate temporal connection between two actions."
       - adverb: "すぐに"
-        meaning: "Immediately, instantly, or right away".
+        meaning: "Immediately, instantly, or right away"
     grammatical_function:
       description: "Connects two clauses to show that the second action occurs almost instantaneously after the first."
       sequence: "Action A (Verb in dictionary form) + とすぐに + Action B"
