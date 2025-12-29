@@ -1,0 +1,27 @@
+date: "2025-12-29"
+weekday: "Monday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "5:11":
+    - "Había allí una gran manada de cerdos paciendo junto al monte. "
+  "5:12":
+    - "Y los demonios le rogaron, diciendo: «Envíanos a los cerdos para que entremos en ellos». "
+  "5:13":
+    - "Jesús les dio permiso. Y saliendo los espíritus inmundos, entraron en los cerdos;"
+    - "y la manada, unos 2,000, se precipitó por un despeñadero al mar, y en el mar se ahogaron."
+vocabulary:
+  piara: "n. herd, flock (of animals)"
+  cerdos: "n. pigs, hogs"
+  manada: "n. herd, flock (of animals)"
+  junto: "adv. together, next to"
+  monte: "n. mountain, hill"
+  rogaron: "v. rogar. past tense. they begged, they pleaded"
+  diciendo: "v. decir. gerund form. saying"
+  inmundos: "adj. unclean, impure"
+  precipitó: "v. precipitarse. past tense. rushed, plunged"
+  despeñadero: "n. cliff, precipice"
+  ahogaron: "v. ahogar. past tense. they drowned"
+grammar:
+Friday_review:
