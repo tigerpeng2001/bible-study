@@ -1,0 +1,47 @@
+date: "2025-12-23"
+weekday: "Monday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "4.39":
+    - "Jesús se levantó, reprendió al viento y dijo al mar: «¡Cálmate, sosiégate!». Y el viento cesó, y sobrevino una gran calma."
+  "4:40":
+    - "Entonces les dijo: «¿Por qué están atemorizados? ¿Cómo no tienen fe?»."
+  "4:41":
+    - "Y se llenaron de gran temor, y se decían unos a otros: «¿Quién, pues, es Este que aun el viento y el mar le obedecen?»."
+vocabulary:
+  reprendió: "v. reprender. past tense. he/she reprimanded"
+  viento: "n. viento. wind"
+  sosiégate: "v. sosiegar. affirmative command form. to calm down, to quiet"
+  cesó: "v. cesar. past tense. it ceased, it stopped"
+  sobrevino: "v. sobrevenir. past tense. a great calm came over, it came upon"
+  atemorizados: "adj. atemorizado. past participle plural form. frightened, scared"
+  entonces: "adv. entonces. then, at that time"
+  tienen: "v. tener. present tense. they have"
+  fe: "n. fe. faith, belief"
+  llenaron: "v. llenar. past tense. they were filled"
+  temor: "n. temor. fear"
+  decían: "v. decir. imperfect tense. they were saying"
+  unos a otros: "exp. unos a otros. to one another, each other"
+  pues: "adv. pues. then, therefore"
+  aun: "adv. aun. even"
+  le obedecen: "v. obedecer. present tense. they obey him"
+grammar:
+  term: "sobrevino"
+  translation: "ensued / came upon / supervened"
+  linguistic_details:
+    root_verb: "sobrevenir"
+    grammatical_form: "third-person singular preterite (indicative)"
+    etymology: "From Latin supervenire (super- 'over' + venire 'come')"
+  contextual_usage:
+    action: "Describes the arrival of the 'gran calma' (great calm)"
+    nuance: "Indicates a sudden, unexpected occurrence that follows a specific event"
+    grammatical_impact: |
+      The use of the preterite tense highlights a completed, instantaneous action
+      following Jesus' command to the sea.
+  comparative_notes:
+    english_equivalent: "became / happened"
+    original_greek_parallel: "ἐγένετο (egeneto - became/happened)"
+    intensity_level: "High; suggests the calm 'fell upon' the scene immediately"
+Friday_review:
