@@ -2201,3 +2201,71 @@
     tuvieron: v. tener. preterite ellos/ellas/ustedes. they had
   grammar: null
   Friday_review: null
+- date: '2025-12-31'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '5:18':
+    - イエスが舟に乗られると、悪霊に取りつかれていた人が、一緒に行きたいと願った。
+    '5:19':
+    - イエスはそれを許さないで、こう言われた。「自分の家に帰りなさい。そして身内の人に、主があなたを憐れみ、あなたにしてくださったことをことごとく知らせなさい。」
+    '5:20':
+    - その人は立ち去り、イエスが自分にしてくださったことをことごとくデカポリス地方に言い広め始めた。人々は皆驚いた。
+  vocabulary:
+    こう言われた: v. こういわれた. いう. past tense honorific form. (He) said (honorific)
+    身内: n. みうち. relatives, family members
+    憐れみ: v. あわれむ. to have mercy on, to pity someone. 連用形, continuative form, or someone
+      call it Masu-form / Stem;
+    ことごとく: adv. ことごとく. entirely, completely
+    立ち去り: v. たちさる. gerund form. to leave, to depart
+    言い広め始めた: v. いいひろめはじめた. いう + ひろめる + はじめる. past tense. began to spread (the word)
+    驚いた: v. おどろく. past tense. was surprised, was amazed
+  grammar:
+  - こういわれた:
+      components:
+      - demonstrative_adverb: こう
+        meaning: In this way, like this
+      - verb: 言われた
+        base_form: 言う
+        function: Past tense honorific form of 'to say'
+      grammatical_function:
+        description: Used to report speech in a respectful manner, indicating that
+          the speaker holds a higher status.
+        structure: こう + verb (honorific past tense)
+      analysis_in_verse:
+        reported_speech: イエスはそれを許さないで、こう言われた。
+        meaning_in_context: '[Jesus] said this (in this way) without permitting it.'
+      stylistic_note:
+        register: Formal and respectful language, commonly used in religious texts
+          and formal narratives.
+        emphasis: Emphasizes the authority and respect due to Jesus as the speaker.
+  - 主があなたを憐れみ、あなたにしてくださったことをことごとく知らせなさい。:
+      components:
+      - subject: 主が
+        meaning: The Lord (subject of the sentence)
+      - verb_phrase: あなたを憐れみ、あなたにしてくださったことを
+        meaning: has had mercy on you and all that He has done for you
+        憐れみ:
+        - verb: 憐れみ
+          base_form: 憐れむ
+          function: 連用形, continuative form. stem form. used in compound verbs, or
+            to connect actions in formal, written, or biblical Japanese, while te-form
+            is more common in spoken language.
+      - imperative_verb: 知らせなさい
+        base_form: 知らせる
+        function: Imperative form. 'Let (someone) know'
+      grammatical_function:
+        description: A command or instruction given to inform others about the actions
+          of the Lord.
+        structure: Subject + verb phrase + imperative verb
+      analysis_in_verse:
+        context: 自分の家に帰りなさい。そして身内の人に、主があなたを憐れみ、あなたにしてくださったことをことごとく知らせなさい。
+        meaning_in_context: Go back to your home and tell your relatives all that
+          the Lord has done for you.
+      stylistic_note:
+        register: Formal and instructive language, often found in religious teachings.
+        emphasis: Highlights the importance of sharing the testimony of divine intervention
+          and mercy.
+  Friday_review: null
