@@ -2269,3 +2269,32 @@
         emphasis: Highlights the importance of sharing the testimony of divine intervention
           and mercy.
   Friday_review: null
+- date: '2026-01-01'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '5:21':
+    - イエスが舟に乗って再び向こう岸に渡られると、大勢の群衆がそばに集まって来た。イエスは湖のほとりにおられた。
+    '5:22':
+    - 会堂長の一人でヤイロという名の人が来て、イエスを見ると足もとにひれ伏して、
+    '5:23':
+    - しきりに願った。「わたしの幼い娘が死にそうです。どうか、おいでになって手を置いてやってください。そうすれば、娘は助かり、生きるでしょう。」
+    '5:24':
+    - そこで、イエスはヤイロと一緒に出かけて行かれた。
+  vocabulary:
+    再び: adv. ふたたび. again, once more
+    向こう岸: n. むこうぎし. opposite shore, far side of the river/lake
+    渡られ: v. わたられる. わたる. honorific form. to cross over, to go across
+    足もとに: exp. あしもとに. at (one's) feet, by (one's) feet
+    ひれ伏して: v. ひれふす. gerund form. to prostrate oneself, to bow down
+    しきりに: adv. しきりに. earnestly, repeatedly, insistently
+    幼い: adj. おさない. young, little, childish
+    死にそう: exp. しにそう. about to die, on the verge of death
+    おいでになって: v. おいでになる. honorific form. to come, to go, to be
+    手を置いてやってください: exp. てをおいてやってください. please lay (your) hand (on (her)) (honorific
+      request)
+    出かけて行かれた: v. でかけていかれた. でかける + いく. past tense honorific form. went out (with someone)
+  grammar: null
+  Friday_review: null
