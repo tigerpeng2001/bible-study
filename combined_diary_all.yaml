@@ -2161,6 +2161,7 @@
     piara: n. herd, flock (of animals)
     cerdos: n. pigs, hogs
     manada: n. herd, flock (of animals)
+    paciendo: v. pacer. gerund form. grazing, feeding
     junto: adv. together, next to
     monte: n. mountain, hill
     rogaron: v. rogar. past tense. they begged, they pleaded
@@ -2178,11 +2179,12 @@
   target_language: Spanish
   verses:
     '5:14':
-    - 'Los que cuidaban los cerdos huyeron y lo contaron en la ciudad y por los campos.
-      Y la gente vino a ver qué era lo que había sucedido. '
+    - Los que cuidaban los cerdos huyeron y lo contaron en la ciudad y por los campos.
+    - 'Y la gente vino a ver qué era lo que había sucedido. '
     '5:15':
-    - 'Vinieron a Jesús, y vieron al que había estado endemoniado, sentado, vestido
-      y en su cabal juicio, el mismo que había tenido la legión; y tuvieron miedo. '
+    - 'Vinieron a Jesús, y vieron al que había estado endemoniado, '
+    - sentado, vestido y en su cabal juicio, el mismo que había tenido la legión;
+    - 'y tuvieron miedo. '
     '5:16':
     - 'Los que lo habían visto les describieron cómo le había sucedido esto al endemoniado,
       y lo de los cerdos. '
@@ -2196,9 +2198,14 @@
     vinieron: v. venir. past tense. they came
     vieron: v. ver. past tense. they saw
     endemoniado: adj. possessed (by a demon)
+    saliendo: v. salir. gerund form. going out, coming out
+    sentado: adj. seated, sitting
+    vestido: adj. dressed, clothed
     cabal: adj. sound, in one's right mind
     juicio: n. judgment, mind
     tuvieron: v. tener. preterite ellos/ellas/ustedes. they had
+    visto: v. ver. past participle. seen
+    describieron: v. describir. past tense. they described
   grammar: null
   Friday_review: null
 - date: '2025-12-31'
@@ -2210,7 +2217,8 @@
     '5:18':
     - イエスが舟に乗られると、悪霊に取りつかれていた人が、一緒に行きたいと願った。
     '5:19':
-    - イエスはそれを許さないで、こう言われた。「自分の家に帰りなさい。そして身内の人に、主があなたを憐れみ、あなたにしてくださったことをことごとく知らせなさい。」
+    - イエスはそれを許さないで、こう言われた。「自分の家に帰りなさい。
+    - そして身内の人に、主があなたを憐れみ、あなたにしてくださったことをことごとく知らせなさい。」
     '5:20':
     - その人は立ち去り、イエスが自分にしてくださったことをことごとくデカポリス地方に言い広め始めた。人々は皆驚いた。
   vocabulary:
@@ -2218,7 +2226,7 @@
     身内: n. みうち. relatives, family members
     憐れみ: v. あわれむ. to have mercy on, to pity someone. 連用形, continuative form, or someone
       call it Masu-form / Stem;
-    ことごとく: adv. ことごとく. entirely, completely
+    ことごとく: adv. ことごとく. entirely, completely. 事毎(ことごと)
     立ち去り: v. たちさる. gerund form. to leave, to depart
     言い広め始めた: v. いいひろめはじめた. いう + ひろめる + はじめる. past tense. began to spread (the word)
     驚いた: v. おどろく. past tense. was surprised, was amazed
@@ -2280,7 +2288,8 @@
     '5:22':
     - 会堂長の一人でヤイロという名の人が来て、イエスを見ると足もとにひれ伏して、
     '5:23':
-    - しきりに願った。「わたしの幼い娘が死にそうです。どうか、おいでになって手を置いてやってください。そうすれば、娘は助かり、生きるでしょう。」
+    - しきりに願った。「わたしの幼い娘が死にそうです。どうか、おいでになって手を置いてやってください。
+    - そうすれば、娘は助かり、生きるでしょう。」
     '5:24':
     - そこで、イエスはヤイロと一緒に出かけて行かれた。
   vocabulary:
