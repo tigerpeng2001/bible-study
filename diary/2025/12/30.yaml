@@ -5,9 +5,12 @@ version: "Nueva Biblia de las Américas (NBLA)"
 target_language: "Spanish"
 verses:
   "5:14":
-    - "Los que cuidaban los cerdos huyeron y lo contaron en la ciudad y por los campos. Y la gente vino a ver qué era lo que había sucedido. "
+    - "Los que cuidaban los cerdos huyeron y lo contaron en la ciudad y por los campos."
+    - "Y la gente vino a ver qué era lo que había sucedido. "
   "5:15":
-    - "Vinieron a Jesús, y vieron al que había estado endemoniado, sentado, vestido y en su cabal juicio, el mismo que había tenido la legión; y tuvieron miedo. "
+    - "Vinieron a Jesús, y vieron al que había estado endemoniado, "
+    - "sentado, vestido y en su cabal juicio, el mismo que había tenido la legión;"
+    - "y tuvieron miedo. "
   "5:16":
     - "Los que lo habían visto les describieron cómo le había sucedido esto al endemoniado, y lo de los cerdos. "
   "5:17":
@@ -20,8 +23,13 @@ vocabulary:
   vinieron: "v. venir. past tense. they came"
   vieron: "v. ver. past tense. they saw"
   endemoniado: "adj. possessed (by a demon)"
+  saliendo: "v. salir. gerund form. going out, coming out"
+  sentado: "adj. seated, sitting"
+  vestido: "adj. dressed, clothed"
   cabal: "adj. sound, in one's right mind"
   juicio: "n. judgment, mind"
   tuvieron: "v. tener. preterite ellos/ellas/ustedes. they had"
+  visto: "v. ver. past participle. seen"
+  describieron: "v. describir. past tense. they described"
 grammar:
 Friday_review:
