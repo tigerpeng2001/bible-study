@@ -1,0 +1,35 @@
+date: "2026-01-05"
+weekday: "Monday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "5:25":
+    - "Y una mujer que había tenido flujo de sangre por doce años,"
+  "5:26":
+    - "y había sufrido mucho a manos de muchos médicos, "
+    - "y había gastado todo lo que tenía sin provecho alguno,"
+    - "sino que al contrario, había empeorado; "
+  "5:27":
+    - "cuando oyó hablar de Jesús, se llegó a Él por detrás entre la multitud y tocó su manto."
+  "5:28":
+    - "Porque decía: Si tan solo toco sus ropas, sanaré."
+vocabulary:
+  flujo: "n. flow, discharge (of blood)"
+  sufrido: "v. sufrir. past tense. suffered, endured"
+  gastado: "v. gastar. past tense. spent (money, resources)"
+  provecho: "n. benefit, profit, advantage"
+  alguno: "adj. some, any"
+  sino que: "conj. but rather, but instead"
+  contrario: "n. opposite, contrary"
+  empeorado: "v. empeorar. past tense. worsened"
+  oyó: "v. oír. past tense. heard"
+  se llegó: "v. llegar(se). past tense reflexive form. approached, came near"
+  entre: "prep. among, between"
+  tocó: "v. tocar. past tense. touched"
+  manto: "n. cloak, mantle, outer garment"
+  decía: "v. decir. imperfect tense. was saying, used to say"
+  tan solo: "adv. just, only"
+  sanaré: "v. sanar. future tense. I will heal, I will be healed"
+grammar:
+Friday_review:
