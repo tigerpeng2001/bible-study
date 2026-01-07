@@ -2343,3 +2343,59 @@
     sanaré: v. sanar. future tense. I will heal, I will be healed
   grammar: null
   Friday_review: null
+- date: '2026-01-06'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '5:29':
+    - Al instante la fuente de su sangre se secó, y sintió en su cuerpo que estaba
+      curada de su aflicción.
+    '5:30':
+    - 'Y enseguida Jesús, dándose cuenta de que había salido poder de Él, volviéndose
+      entre la gente, dijo: ¿Quién ha tocado mi ropa? '
+    '5:31':
+    - 'Y sus discípulos le dijeron: Ves que la multitud te oprime, y dices: «¿Quién
+      me ha tocado?». '
+    '5:32':
+    - Pero Él miraba a su alrededor para ver a la mujer que le había tocado.
+    '5:33':
+    - 'Entonces la mujer, temerosa y temblando, dándose cuenta de lo que le había
+      sucedido, vino y se postró delante de Él y le dijo toda la verdad. '
+    '5:34':
+    - 'Y Jesús le dijo: Hija, tu fe te ha sanado; vete en paz y queda sana de tu aflicción.'
+  vocabulary:
+    sintió: v. sentir. past tense. he/she felt
+    curada: adj. cured, healed (feminine)
+    aflicción: n. affliction, suffering (physical or emotional)
+    enseguida: adv. immediately, right away
+    dándose cuenta: v. darse cuenta. gerund reflexive form. realizing, becoming aware
+    salido: v. salir. past participle. gone out, exited
+    poder: n. power, ability
+    volviéndose: v. volverse. gerund reflexive form. turning around
+    tocado: v. tocar. past participle. touched
+    dijeron: v. decir. past tense. they said
+    ves: v. ver. present tense. you see
+    oprime: v. oprimir. present tense. he/she/it oppresses, is pressing
+    miraba: v. mirar. imperfect tense. he/she was looking, used to look
+    alrededor: adv. around, surrounding
+    Entonces: adv. then, so
+    temerosa: adj. fearful, afraid (feminine)
+    temblando: v. temblar. gerund form. trembling, shaking
+    sucedido: v. suceder. past participle. happened, occurred
+    postró: v. postrarse. past tense. she/he prostrated herself/himself
+    delante: prep. in front of
+    toda la verdad: phrase. the whole truth
+    Hija: n. daughter (term of endearment)
+    fe: n. faith, belief
+    sanado: adj. healed, cured (masculine)
+    vete: v. irse. imperative form. go away, leave
+    queda: v. quedar. imperative form. stay, remain
+  grammar:
+    darse cuenta:
+      description: Reflexive verb meaning 'to realize' or 'to become aware'. Used
+        to indicate the subject is both performing and receiving the action.
+      example: dándose cuenta de lo que le había sucedido (realizing what had happened
+        to her)
+  Friday_review: null
