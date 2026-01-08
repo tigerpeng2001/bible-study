@@ -1164,3 +1164,34 @@
     出かけて行かれた: v. でかけていかれた. でかける + いく. past tense honorific form. went out (with someone)
   grammar: null
   Friday_review: null
+- date: '2026-01-07'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '5:35':
+    - イエスがまだ話しておられるときに、会堂長の家から人々が来て言った。
+    - 「お嬢さんは亡くなりました。もう、先生を煩わすには及ばないでしょう。」
+    '5:36':
+    - イエスはその話をそばで聞いて、「恐れることはない。ただ信じなさい」と会堂長に言われた。
+    '5:37':
+    - そして、ペトロ、ヤコブ、またヤコブの兄弟ヨハネのほかは、だれもついて来ることをお許しにならなかった。
+  vocabulary:
+    亡くなりました: v. なくなる. past tense. to pass away, to die (polite form)
+    煩わす: v. わずらわす. to trouble, to bother someone (usually in a negative sense)
+    には及ばない: v. およばない. negative form. to be unnecessary, to not need to do something
+      (usually following 〜には)
+    そばで: adv. nearby, beside
+    ただ: adv. only, just, simply
+    信じなさい: v. しんじる. imperative form. believe
+    また: conj. also, too
+    ほか: n. other, else
+    ついて来る: v. ついてくる. to follow, to come along with
+    お許しにならなかった: v. ゆるす. past negative honorific form. did not permit
+  grammar:
+    には及ばない:
+      description: A grammatical structure used to indicate that something is unnecessary
+        or not needed. It often follows a noun or verb phrase with the particle には.
+      example: 先生を煩わすには及ばないでしょう (there is no need to trouble the teacher)
+  Friday_review: null
