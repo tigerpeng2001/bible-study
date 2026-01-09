@@ -4,26 +4,21 @@ book: "マルコの福音書"
 version: "新共同訳 (日本聖書協会 1987, 1988)"
 target_language: "Japanese"
 verses:
-  "5:21":
-    - "イエスが舟に乗って再び向こう岸に渡られると、大勢の群衆がそばに集まって来た。イエスは湖のほとりにおられた。"
-  "5:22":
-    - "会堂長の一人でヤイロという名の人が来て、イエスを見ると足もとにひれ伏して、"
-  "5:23":
-    - "しきりに願った。「わたしの幼い娘が死にそうです。どうか、おいでになって手を置いてやってください。"
-    - "そうすれば、娘は助かり、生きるでしょう。」"
-  "5:24":
-    - "そこで、イエスはヤイロと一緒に出かけて行かれた。"
+  "5:38":
+    - "一行は会堂長の家に着いた。イエスは人々が大声で泣きわめいて騒いでいるのを見て"
+  "5:38":
+    - "一家の中に入り、人々に言われた。「なぜ、泣き騒ぐのか。子供は死んだのではない。眠っているのだ。」"
+  "5:39":
+    - "人々はイエスをあざ笑った。しかし、イエスは皆を外に出し、子供の両親と三人の弟子だけを連れて、子供のいる所へ入って行かれた。"
 vocabulary:
-  再び: "adv. ふたたび. again, once more"
-  向こう岸: "n. むこうぎし. opposite shore, far side of the river/lake"
-  渡られ: "v. わたられる. わたる. honorific form. to cross over, to go across"
-  足もとに: "exp. あしもとに. at (one's) feet, by (one's) feet"
-  ひれ伏して: "v. ひれふす. gerund form. to prostrate oneself, to bow down"
-  しきりに: "adv. しきりに. earnestly, repeatedly, insistently"
-  幼い: "adj. おさない. young, little, childish"
-  死にそう: "exp. しにそう. about to die, on the verge of death"
-  おいでになって: "v. おいでになる. honorific form. to come, to go, to be"
-  手を置いてやってください: "exp. てをおいてやってください. please lay (your) hand (on (her)) (honorific request)"
-  出かけて行かれた: "v. でかけていかれた. でかける + いく. past tense honorific form. went out (with someone)" 
+  着いた: "adv. ついた. arrived"
+  泣きめいて: "v. なきわめく. to cry loudly, to wail"
+  騒いでる: "v. さわぐ. to make a fuss, to make noise. te-form used as a gerund here (modifying the preceding verb)"
+  入り: "v. はいる. to enter (did) (gerund form)"
+  なぜ: "adv.  何故. why"
+  眠っている: "v. ねむる. to sleep (progressive form here, indicating state of sleep)"
+  あざ笑った: "v. あざわらう. past tense. to mock, to ridicule"
+  そとに出し: "v. そとにだす. to send out, to take out (gerund form here, indicating the action of taking people out)"
+  連れて: "v. つれる. to take along, to bring (gerund form here, indicating the action of bringing people along)"
 grammar:
 Friday_review:
