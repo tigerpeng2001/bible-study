@@ -1234,3 +1234,111 @@
       example: dándose cuenta de lo que le había sucedido (realizing what had happened
         to her)
   Friday_review: null
+- date: '2026-01-12'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '5:40':
+    - Y se burlaban de Él. Pero echando fuera a todos, Jesús tomó* consigo al padre
+      y a la madre de la niña, y a los que estaban con Él, y entró* donde estaba la
+      niña.
+    '5:41':
+    - 'Tomando a la niña por la mano, le dijo*: «Talita cum», que traducido significa:
+      «Niña, a ti te digo, ¡levántate!».'
+    '5:27':
+    - 'Al instante la niña se levantó y comenzó a caminar, pues tenía doce años. Y
+      al momento todos se quedaron completamente atónitos. '
+    '5:28':
+    - Entonces les dio órdenes estrictas de que nadie se enterara de esto; y dijo
+      que le dieran de comer a la niña.
+  vocabulary:
+    burlaban: v. burlar(se). imperfect tense reflexive form. they were mocking, making
+      fun of (someone)
+    echando fuera: v. echar fuera. gerund form. throwing out, sending out
+    consigo: adv. with him/her/them (used to indicate accompaniment)
+    entró: v. entrar. past tense. he/she entered
+    tomando: v. tomar. gerund form. taking
+    traducido: adj. translated (past participle)
+    significa: v. significar. present tense. it means
+    levantate: v. levantarse. imperative form. get up, rise
+    comenzó: v. comenzar. past tense. he/she began, started
+    caminar: v. caminar. to walk
+    tenía: v. tener. imperfect tense. he/she had, used to have
+    quedaron: v. quedar. past tense. they remained, stayed
+    completamente: adv. completely, totally
+    atónitos: adj. astonished, amazed (plural masculine)
+    entonces: adv. then, so
+    dio: v. dar. past tense. he/she gave
+    órdenes: n. orders, commands
+    estrictas: adj. strict, stringent (plural feminine)
+    nadie: pron. nobody, no one
+    enterara: v. enterarse. past subjunctive reflexive form. found out, became aware
+    dieran: v. dar. past subjunctive form. they gave
+    comer: v. comer. to eat
+  grammar:
+    se burlaban:
+      description: Reflexive verb meaning 'to mock' or 'to make fun of'. Used to indicate
+        that the subject is performing the action on others.
+      example: Y se burlaban de Él (And they were mocking Him)
+      essentially reflexive: ' This verb is essentially reflexive, meaning it is always
+        used with a reflexive pronoun to indicate the action is directed at others.'
+      burlar:
+        description: The non-reflexive form means 'to deceive' or 'to trick'.
+        example: Él burló a sus enemigos (He deceived his enemies)
+    tomó consigo:
+      description: A phrase structure meaning 'took along with him/her/them'. It indicates
+        that the subject took someone or something along with them.
+      example: Jesús tomó consigo al padre y a la madre de la niña (Jesus took along
+        with Him the father and mother of the girl)
+    a ti te digo:
+      description: A phrase structure used for emphasis in commands or statements,
+        literally translating to 'to you I say'. It highlights the direct address
+        to the person being spoken to.
+      example: Talita cum, a ti te digo, ¡levántate! (Little girl, I say to you, get
+        up!)
+    comenzó a caminar:
+      description: A verb phrase structure meaning 'began to walk'. It combines the
+        verb 'comenzar' (to begin) with an infinitive verb to indicate the start of
+        an action.
+      example: La niña comenzó a caminar (The girl began to walk)
+    se quedaron:
+      description: Aspectual pronominal verb (quedarse). Unlike a pure reflexive,
+        it denotes a sudden change of state or a lasting emotional reaction.
+      usage_note: Distinguishes between 'remaining' in a location (quedar) and 'becoming'
+        or 'being struck' by a condition (quedarse).
+      example: Y al instante se quedaron* completamente atónitos.
+  Friday_review:
+    Symbolic_Link_Analysis: null
+    the_number_twelve:
+      description: The primary numerical anchor connecting both miracles.
+      details:
+      - The woman had suffered for twelve years (v. 25).
+      - The girl was twelve years old (v. 42), meaning she was born the same year
+        the woman’s suffering began.
+      significance: Represents the 'completeness' of Israel (12 tribes) and suggests
+        that Jesus’ power restores both the old/suffering and the young/dying.
+    faith_vs_fear:
+      description: The shared emotional and spiritual journey of the characters.
+      details:
+      - Jesus tells the woman, 'Tu fe te ha sanado' (v. 34).
+      - Jesus immediately tells Jairus, 'No temas, cree solamente' (v. 36) using the
+        woman's miracle as a live example of faith.
+    daughter_imagery:
+      description: The relational terms used by Jesus.
+      details:
+      - Jesus calls the anonymous woman 'Hija' (v. 34), the only time He uses this
+        term for a woman in the Gospels.
+      - This happens while he is on his way to save Jairus' literal 'hija' (v. 23,
+        35).
+      significance: Shows that both characters, regardless of social status, are brought
+        into the family of God through Jesus.
+    cleanliness_rituals:
+      description: Jesus breaking Levitical boundaries in both stories.
+      details:
+      - The woman was 'unclean' due to blood; the girl was 'unclean' due to death.
+      - In both cases, physical contact occurred—the woman touched His cloak, and
+        Jesus took the girl by the hand.
+      significance: Instead of Jesus becoming 'unclean,' His purity flows outward
+        to heal and resurrect.
