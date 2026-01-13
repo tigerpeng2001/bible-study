@@ -2564,3 +2564,53 @@
         Jesus took the girl by the hand.
       significance: Instead of Jesus becoming 'unclean,' His purity flows outward
         to heal and resurrect.
+- date: '2026-01-13'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '6:1':
+    - 'Jesús se marchó de allí y llegó* a Su pueblo, y Sus discípulos lo siguieron*. '
+    '6:2':
+    - Cuando llegó el día de reposo, comenzó a enseñar en la sinagoga;
+    - 'y muchos que escuchaban se asombraban, diciendo: '
+    - '«¿Dónde obtuvo Este tales cosas, y cuál es esta sabiduría que le ha sido dada,
+      y estos milagros que hace con Sus manos? '
+    '6:3':
+    - ¿No es Este el carpintero, el hijo de María, y hermano de Jacobo, José, Judas
+      y Simón?
+    - '¿No están Sus hermanas aquí con nosotros?». Y se escandalizaban a causa de
+      Él. '
+    '6:4':
+    - 'Y Jesús les dijo: «No hay profeta sin honra sino en su propia tierra, y entre
+      sus parientes y en su casa».'
+  vocabulary:
+    se marchó: v. marcharse. past tense reflexive form. he/she left, went away
+    siguieron: v. seguir. past tense. they followed
+    día de reposo: phrase. Sabbath day
+    se asombraban: v. asombrarse. imperfect tense reflexive form. they were amazed,
+      astonished
+    obtuvo: v. obtener. past tense. he/she obtained, got
+    ha sido dada: phrase. has been given (feminine)
+    Este tales cosas: phrase. such things (masculine)
+    sabiduría: n. wisdom
+    sido: v. ser. past participle. been
+    dada: adj. given (feminine)
+    milagros: n. miracles
+    carpintero: n. carpenter
+    escandalizaban: v. escandalizar. imperfect tense. they were scandalized, used
+      to be scandalized
+    causa de: phrase. because of, on account of
+    profeta: n. prophet
+    honra: n. honor, respect
+    sino: conj. but rather
+    propia tierra: phrase. own land, native place
+    parientes: n. relatives
+  grammar:
+    no hay ... sino:
+      description: A correlative conjunction structure used to express contrast, meaning
+        'there is no ... but rather ...'.
+      example: No hay profeta sin honra sino en su propia tierra (There is no prophet
+        without honor but rather in his own land)
+  Friday_review: null
