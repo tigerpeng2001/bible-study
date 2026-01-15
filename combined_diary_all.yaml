@@ -2614,3 +2614,30 @@
       example: No hay profeta sin honra sino en su propia tierra (There is no prophet
         without honor but rather in his own land)
   Friday_review: null
+- date: '2026-01-14'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '6:5':
+    - そこでは、ごくわずかの病人に手を置いていやされただけで、そのほかは何も奇跡を行うことがおできにならなかった。
+    '6:6':
+    - そして、人々の不信仰に驚かれた。
+  vocabulary:
+    そこでは: adv. there, in that place
+    ごくわずか: adv. very few, very little
+    病人: n. sick person, patient
+    置いて: v. おく. て-form. to place, to put
+    いやされただけ: phrase. only healed
+    そのほか: phrase. besides that, other than that
+    奇跡: n. きせき. miracle
+    行う: v. おこなう. to perform, to carry out
+    おできにならなかった: phrase. honorific past negative form of できる. was not able to do
+    不信仰: n. ふしんこう. unbelief, lack of faith
+    驚かれた: v. おどろく. honorific past tense. was surprised, was amazed
+  grammar:
+    だけ:
+      description: A particle used to indicate 'only' or 'just' in a sentence.
+      example: いやされただけで (only healed)
+  Friday_review: null
