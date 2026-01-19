@@ -2624,6 +2624,7 @@
     - そこでは、ごくわずかの病人に手を置いていやされただけで、そのほかは何も奇跡を行うことがおできにならなかった。
     '6:6':
     - そして、人々の不信仰に驚かれた。
+    - それから、イエスは付近の村を巡り歩いてお教えになった。
   vocabulary:
     そこでは: adv. there, in that place
     ごくわずか: adv. very few, very little
@@ -2636,6 +2637,10 @@
     おできにならなかった: phrase. honorific past negative form of できる. was not able to do
     不信仰: n. ふしんこう. unbelief, lack of faith
     驚かれた: v. おどろく. honorific past tense. was surprised, was amazed
+    付近: n. ふきん. vicinity, nearby area
+    村: n. むら. village
+    巡り歩いて: v. めぐりあるく. to go around, to walk around (gerund form here, indicating the
+      action of going around villages teaching people)
   grammar:
     だけ:
       description: A particle used to indicate 'only' or 'just' in a sentence.
@@ -2648,22 +2653,19 @@
   target_language: Japanese
   verses:
     '6.7':
-    - それから、イエスは付近の村を巡り歩いてお教えになった。
-    '6.8':
     - そして、十二人を呼び寄せ、二人ずつ組にして遣わすことにされた。その際、汚れた霊に対する権能を授け、
-    '6.9':
+    '6.8':
     - 旅には杖一本のほか何も持たず、パンも、袋も、また帯の中に金も持たず、
-    '6.10':
+    '6.9':
     - ただ履物は履くように、そして「下着は二枚着てはならない」と命じられた。
   vocabulary:
-    付近: n. ふきん. vicinity, nearby area
-    村: n. むら. village
-    巡り歩いて: v. めぐりあるく. to go around, to walk around (gerund form here, indicating the
-      action of going around villages teaching people)
     呼び寄せ: v. よびよせる. to call over, to summon (gerund form here, indicating the action
       of calling the twelve disciples)
     ずつ: adv. ずつ. each, apiece
     組: n. くみ. group, pair (here, referring to the pairs of disciples)
+    二人ずつ: phrase. in pairs of two
+    二人ずつ組にして: phrase. forming pairs of two
+    遣わす: v. つかわす. to send (here, referring to sending the disciples on a mission)
     際: n. さい. occasion, time, when (used here to indicate 'on that occasion')
     汚れた: v. きたない. dirty, unclean
     対する: v. たいする. to be directed at, to be against (here, referring to authority over
@@ -2679,7 +2681,7 @@
     帯: n. おび. belt, sash
     ただ: adv. ただ. only, just
     履物: n. はきもの. footwear, shoes
-    履くように: phrase. in order to wear (imperative form here, indicating the instruction
+    履くように: phrase. はくようにin order to wear (imperative form here, indicating the instruction
       to wear footwear)
     下着: n. したぎ. underwear, undergarments
     きてはならない: phrase. must not wear
