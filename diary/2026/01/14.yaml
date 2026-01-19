@@ -8,6 +8,7 @@ verses:
     - "そこでは、ごくわずかの病人に手を置いていやされただけで、そのほかは何も奇跡を行うことがおできにならなかった。"
   "6:6":
     - "そして、人々の不信仰に驚かれた。"
+    - "それから、イエスは付近の村を巡り歩いてお教えになった。"
 vocabulary:
   そこでは: "adv. there, in that place"
   ごくわずか: "adv. very few, very little"
@@ -19,7 +20,10 @@ vocabulary:
   行う: "v. おこなう. to perform, to carry out"
   おできにならなかった: "phrase. honorific past negative form of できる. was not able to do"
   不信仰: "n. ふしんこう. unbelief, lack of faith"
-  驚かれた: "v. おどろく. honorific past tense. was surprised, was amazed" 
+  驚かれた: "v. おどろく. honorific past tense. was surprised, was amazed"
+  付近: "n. ふきん. vicinity, nearby area"
+  村: "n. むら. village"
+  巡り歩いて: "v. めぐりあるく. to go around, to walk around (gerund form here, indicating the action of going around villages teaching people)"
 grammar:
   だけ: 
     description: "A particle used to indicate 'only' or 'just' in a sentence."
