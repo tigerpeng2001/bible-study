@@ -2703,3 +2703,59 @@
         often translated as 'in order to' or 'so that'.
       example: ただ履物は履くように (in order to wear footwear)
   Friday_review: null
+- date: '2026-01-19'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '6:10':
+    - 'Y añadió: «Dondequiera que entren en una casa, quédense en ella hasta que salgan
+      de la población.'
+    '6:11':
+    - En cualquier lugar que no los reciban ni los escuchen, al salir de allí, sacúdanse
+      el polvo de la planta de los pies en testimonio contra ellos».
+    '6:12':
+    - Saliendo los doce, predicaban que todos se arrepintieran.
+    '6:13':
+    - También echaban fuera muchos demonios, y ungían con aceite a muchos enfermos
+      y los sanaban.
+  vocabulary:
+    quédense: v. quedar(se). imperfect tense reflexive form. they remained, stayed
+    salgan: v. salir. present subjunctive form. they leave
+    población: n. población. town, village
+    en cualquier lugar: phrase. anywhere, wherever
+    al salir de allí: phrase. upon leaving there
+    sacúdanse: v. sacudir(se). imperative reflexive form. shake off (yourselves)
+    polvo: n. polvo. dust
+    planta de los pies: phrase. sole of the feet
+    contra: prep. contra. against
+    predicaban: v. predicar. imperfect tense. they were preaching
+    Saliendo: gerund. saliendo. leaving
+    arrepintieran: v. arrepentirse. past subjunctive reflexive form. they repented
+    echaban fuera: phrase. echar fuera. imperfect tense. they were casting out
+    ungían: v. ungir. imperfect tense. they were anointing
+    aceite: n. aceite. oil
+    sanaban: v. sanar. imperfect tense. they were healing
+  grammar:
+    quédense:
+      description: Reflexive verb meaning 'to remain' or 'to stay'. Used to indicate
+        that the subject stays in a place.
+      example: quédense en ella (stay in it)
+    al salir de allí:
+      description: A phrase structure meaning 'upon leaving there'. It indicates the
+        action that occurs when the subject leaves a location.
+      example: al salir de allí, sacúdanse el polvo de la planta de los pies (upon
+        leaving there, shake off the dust from your feet)
+    echaban fuera:
+      description: A verb phrase structure meaning 'were casting out'. It combines
+        the verb 'echar' (to throw out) with 'fuera' (out) to indicate the action
+        of expelling something.
+      example: echaban fuera muchos demonios (they were casting out many demons)
+    ungían con aceite:
+      description: A verb phrase structure meaning 'were anointing with oil'. It combines
+        the verb 'ungir' (to anoint) with 'con aceite' (with oil) to indicate the
+        action of anointing someone using oil.
+      example: ungían con aceite a muchos enfermos (they were anointing many sick
+        people with oil)
+  Friday_review: null
