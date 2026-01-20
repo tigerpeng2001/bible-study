@@ -1448,3 +1448,44 @@
       example: ungían con aceite a muchos enfermos (they were anointing many sick
         people with oil)
   Friday_review: null
+- date: '2026-01-20'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '6:14':
+    - El rey Herodes se enteró de esto, pues el nombre de Jesús se había hecho célebre,
+    - 'y la gente decía: «Juan el Bautista ha resucitado de entre los muertos, por
+      eso es que estos poderes milagrosos actúan en él». '
+    '6:15':
+    - 'Pero otros decían: «Es Elías». Y decían otros: «Es un profeta, como uno de
+      los profetas antiguos».'
+    '6:16':
+    - 'Al oír esto, Herodes decía: «Juan, a quien yo decapité, ha resucitado». 1'
+    '6:17':
+    - Porque Herodes mismo había enviado a prender a Juan y lo había encadenado en
+      la cárcel por causa de Herodías,
+    - mujer de su hermano Felipe, pues Herodes se había casado con ella.
+    '6:18':
+    - 'Y Juan le decía a Herodes: «No te es lícito tener la mujer de tu hermano».'
+  vocabulary:
+    enteró: v. enterarse. past tense. he found out
+    hecho célebre: phrase. hacerse célebre. past participle. become famous
+    decía: v. decir. imperfect tense. people were saying
+    ha resucitado: v. resucitar. present perfect tense. has risen
+    entre los muertos: phrase. among the dead
+    por eso es que: phrase. that's why
+    poderes milagrosos: phrase. miraculous powers
+    actúan: v. actuar. present tense. they act
+    antiguos»: adj. antiguos. ancient, old
+    decapité: v. decapitar. past tense. I beheaded
+    Porque: conjunction. because
+    prender: v. prender. infinitive form. to arrest, to seize
+    encadenado: v. encadenar. past participle. chained
+    cárcel: n. cárcel. jail, prison
+    por causa de: phrase. because of
+    se había casado: v. casarse. past perfect tense. had married
+    lícito: adj. lícito. lawful, permitted
+  grammar: null
+  Friday_review: null
