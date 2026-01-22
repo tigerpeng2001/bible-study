@@ -1,0 +1,29 @@
+date: "2026-01-21"
+weekday: "Wednesday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "6:19":
+    - "そこで、ヘロディアはヨハネを恨み、彼を殺そうと思っていたが、できないでいた。"
+  "6:20":
+    - "なぜなら、ヘロデが、ヨハネは正しい聖なる人であることを知って、彼を恐れ、保護し、また、その教えを聞いて非常に当惑しながらも、なお喜んで耳を傾けていたからである。"
+vocabulary:
+  殺そう: "v. ころす. to kill (volitional form)"
+  思っていた: "v. おもう. past progressive tense. was thinking"
+  なぜなら: "conjunction. because"
+  聖なる: "adj. せいなる. holy, sacred"
+  知って: "v. しる. te-form. knowing"
+  恐れ: "v. おそれる. stem form. to fear"
+  保護し: "v. ほごする. stem form. to protect"
+  教え: "n. おしえ. teaching"
+  非常に: "adv. ひじょうに. very, extremely"
+  当惑し: "v. とうわくする. stem form. to be confused, to be perplexed"
+  ながらも: "conjunction. although, even though"
+  なお: "adv. なお. still, yet"
+  喜んで: "adv. よろこんで. gladly, with pleasure"
+  耳を傾けていた: "phrase. みみをかたむける. past progressive tense. was listening attentively"
+grammar:
+  聖なる: "The adjective 聖なる (holy, sacred) is a pre-nonna adjective, which means it directly modifies nouns without needing the particle な. For example, 聖なる人 (holy person)."
+Friday_review:
+ 
