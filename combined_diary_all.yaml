@@ -2830,3 +2830,51 @@
       directly modifies nouns without needing the particle な. For example, 聖なる人 (holy
       person).
   Friday_review: null
+- date: '2026-01-22'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '6.21':
+    - ところが、良い機会が訪れた。ヘロデが、自分の誕生日の祝いに高官や将校、ガリラヤの有力者などを招いて宴会を催すと、
+    '6.22':
+    - ヘロディアの娘が入って来て踊りをおどり、ヘロデとその客を喜ばせた。そこで、王は少女に、「欲しいものがあれば何でも言いなさい。お前にやろう」と言い、
+    '6.23':
+    - 更に、「お前が願うなら、この国の半分でもやろう」と固く誓ったのである。
+    '6.24':
+    - 少女が座を外して、母親に、「何を願いましょうか」と言うと、母親は、「洗礼者ヨハネの首を」と言った。
+    '6.25':
+    - 早速、少女は大急ぎで王のところに行き、「今すぐに洗礼者ヨハネの首を盆に載せて、いただきとうございます」と願った。
+  vocabulary:
+    祝いに: n. いわいに. celebration, congratulation
+    高官: n. こうかん. high-ranking official
+    将校: n. しょうこう. officer (military)
+    有力者: n. ゆうりょくしゃ. influential person
+    招いて: v. まねく. te-form. inviting
+    宴会: n. えんかい. banquet, feast
+    催す: v. もよおす. to hold (an event), to host
+    踊りをおどり: phrase. おどりをおどり. おどる. stem form. to dance (here, referring to performing
+      a dance)
+    喜ばせた: v. よろこばせる. past tense. to please, to make happy
+    少女: n. しょうじょ. young girl
+    欲しいもの: phrase. ほしいもの. thing(s) wanted
+    言いなさい: v. いう. imperative form. please say
+    お前: pron. おまえ. you (informal)
+    やろう: v. やる. volitional form. I will give (to you)
+    願うなら: v. ねがう. conditional form. if (you) wish
+    誓った: v. ちかう. past tense. to vow, to swear
+    座を外して: phrase. ざをはずす. te-form. to leave one's seat
+    願いましょうか: v. ねがう. volitional form. what shall (I) wish for?
+    洗礼者: n. せんれいしゃ. baptizer
+    首: n. くび. head
+    早速: adv. さっそく. immediately, at once
+    大急ぎで: adv. おおいそぎで. in a great hurry
+    盆に載せて: phrase. ぼんにのせる. te-form. to place on a tray
+    いただきとうございます: phrase. いただく. polite form expressing desire. I would like to receive
+  grammar:
+    喜ばせた: The verb 喜ばせる is a causative form of 喜ぶ (to be pleased). It means 'to make
+      (someone) pleased' or 'to please (someone)'. In this context, it indicates that
+      the dance performed by Herodias's daughter caused Herod and his guests to feel
+      pleased.
+  Friday_review: null
