@@ -1,0 +1,38 @@
+date: "2026-01-26"
+weekday: "Monday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "6:26":
+    - "Aunque el rey se puso muy triste, sin embargo a causa de sus juramentos y de los que se sentaban con él a la mesa, no quiso contradecirla. "
+  "6:27":
+    - "Al instante el rey envió a un verdugo y le ordenó que trajera la cabeza de Juan. Y él fue y lo decapitó en la cárcel,"
+  "6:28":
+    - "y trajo su cabeza en una bandeja, y se la dio a la muchacha, y la muchacha se la dio a su madre."
+  "6:29":
+    - "Cuando los discípulos de Juan oyeron esto, fueron y se llevaron el cuerpo y le dieron sepultura."
+vocabulary:
+  Aunque: "conj. although, even though"
+  puso: "v. poner. past tense. he/she/it put on (on), became  (sad, happy, etc.)"
+  sin embargo: "adv. however, nevertheless"
+  causa: "n. causa. cause, reason"
+  juramentos: "n. juramento. oaths, vows"
+  sentaban: "v. sentar. imperfect tense. they were sitting"
+  mesa: "n. mesa. table"
+  quiso: "v. querer. past tense. he/she/it wanted"
+  contradecirla: "v. contradecir. infinitive + pronoun. to contradict her"
+  verdugo: "n. verdugo. executioner"
+  ordenó: "v. ordenar. past tense. he/she/it ordered"
+  trajera: "v. traer. imperfect subjunctive. that he/she/it bring"
+  cabeza: "n. cabeza. head"
+  decapitó: "v. decapitar. past tense. he/she/it decapitated"
+  cárcel: "n. cárcel. jail, prison"
+  bandeja: "n. bandeja. tray, platter"
+  dio: "v. dar. past tense. he/she/it gave"
+  llevó: "v. llevar. past tense. he/she/it took"
+  dieron: "v. dar. past tense. they gave"
+  sepultura: "n. sepultura. burial, grave"
+grammar:
+Friday_review:
+ 
