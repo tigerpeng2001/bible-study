@@ -1530,3 +1530,45 @@
     sepultura: n. sepultura. burial, grave
   grammar: null
   Friday_review: null
+- date: '2026-01-27'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '6:30':
+    - 'Los apóstoles se reunieron* con Jesús, y le informaron sobre todo lo que habían
+      hecho y enseñado. '
+    '6:31':
+    - 'Y Él les dijo*: «Vengan, apártense de los demás a un lugar solitario y descansen
+      un poco».'
+    - Porque había muchos que iban y venían, y ellos no tenían tiempo ni siquiera
+      para comer.
+    '6:32':
+    - Y se fueron en la barca a un lugar solitario, apartado.
+    '6:33':
+    - Pero la gente los vio salir, y muchos los reconocieron y juntos corrieron allá
+      a pie de todas las ciudades, y llegaron antes que ellos.
+  vocabulary:
+    se reunieron: v. reunirse. past tense reflexive form. they gathered, met
+    sobre: prep. about, concerning (something)
+    «Vengan»: phrase. come (imperative plural)
+    apártense: v. apartarse. imperative plural reflexive form. separate yourselves,
+      go away
+    los demás: phrase. the others
+    iban y venían: phrase. ir y venir. imperfect tense. were coming and going
+    venían: v. venir. imperfect tense. they were coming
+    tenían: v. tener. imperfect tense. they had
+    ni siquiera: adv. not even
+    se fueron: v. irse. past tense reflexive form. they went away
+    apartado: adj. apartado. secluded, remote
+    los vio: v. ver. past tense. he/she/it saw them
+    reconocieron: v. reconocer. past tense. they recognized
+    juntos: adv. together
+    corrieron: v. correr. past tense. they ran
+    allá: adv. there
+    ciudades: n. ciudades. cities, towns
+    llegaron: v. llegar. past tense. they arrived
+    antes que: phrase. before (someone)
+  grammar: null
+  Friday_review: null
