@@ -1,0 +1,31 @@
+date: "2026-01-28"
+weekday: "Wednesday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "6:34":
+    - "イエスは舟から上がり、大勢の群衆を見て、飼い主のいない羊のような有様を深く憐れみ、いろいろと教え始められた。"
+  "6:35":
+    - "そのうち、時もだいぶたったので、弟子たちがイエスのそばに来て言った。「ここは人里離れた所で、時間もだいぶたちました。"
+  "6:36":
+    - "人々を解散させてください。そうすれば、自分で周りの里や村へ、何か食べる物を買いに行くでしょう。」"
+vocabulary:
+  あがり: "n. 上がり. getting up, going up"
+  飼い主: "n. かいぬし. owner, shepherd"
+  羊: "n. ひつじ. sheep"
+  有様: "n. ありさま. state, condition (of affairs)"
+  そのうち: "adv. そのうち. eventually, before long (also means 'in the meantime' depending on context)"
+  だいぶ: "adv. だいぶ. considerably, quite a lot"
+  弟子: "n. でし. disciple, follower"
+  そば: "n. そば. beside, near"
+  人里離れた所: "phrase. ひとざとばなれたところ. remote place, secluded area"
+  時間もだいぶたちました: "phrase. じかんもだいぶたちました. quite a lot of time has passed"
+  かいさんさせてください: "phrase. 解散させてください. please dismiss (them)"
+  周り: "n. まわり. surroundings, around"
+  里: "n. さと. village, hometown" 
+  村: "n. むら. village"
+  買いに行く: "phrase. かいにいく. go to buy"
+grammar:
+Friday_review:
+ 
