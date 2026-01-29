@@ -1,0 +1,53 @@
+date: "2026-01-29"
+weekday: "Thursday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "6.37":
+    - "これに対してイエスは、「あなたがたが彼らに食べ物を与えなさい」とお答えになった。"
+    - "弟子たちは、「わたしたちが二百デナリオンものパンを買って来て、みんなに食べさせるのですか」と言った。 "
+  "6.38":
+    - "イエスは言われた。「パンは幾つあるのか。見て来なさい。」弟子たちは確かめて来て、言った。「五つあります。それに魚が二匹です。」"
+  "6.39":
+    - "そこで、イエスは弟子たちに、皆を組に分けて、青草の上に座らせるようにお命じになった。"
+  "6:40":
+    - "人々は、百人、五十人ずつまとまって腰を下ろした。"
+  "6.41":
+    - "イエスは五つのパンと二匹の魚を取り、天を仰いで賛美の祈りを唱え、パンを裂いて、弟子たちに渡しては配らせ、二匹の魚も皆に分配された。"
+  "6.42":
+    - "すべての人が食べて満腹した。"
+  "6.43":
+    - "そして、パンの屑と魚の残りを集めると、十二の籠にいっぱいになった。"
+  "6.44":
+    - "パンを食べた人は男が五千人であった。"
+vocabulary:
+  答え: "v. こたえ. answer, reply"
+  デナリオン: "n. デナリオン. denarius (Roman silver coin, roughly a day's wage for a laborer)"
+  食べさせる: "v. たべさせる. to feed (someone), to make (someone) eat"
+  幾つ: "adv. いくつ. how many, how much"
+  確かめて来て: "phrase. たしかめてきて. go and check, verify"
+  二匹: "n. にひき. two (small animals, fish, etc.)"
+  組: "n. くみ. group, team"
+  青草: "n. あおくさ. green grass"
+  座らせる: "v. すわらせる. to make (someone) sit" 
+  お命じになった: "grammar. honorific form of 命じた (ordered). Used to show respect when referring to the actions of others, especially in religious or formal contexts."
+  ずつ: "suffix. ずつ. each, at a time (used to indicate distribution or allocation)"
+  まとまって: "phrase. まとまって. gathered together, grouped"
+  腰を下ろした: "phrase. こしをおろした. sat down, took a seat"
+  天を仰いで: "phrase. てんをあおいで. looking up to heaven, raising one's eyes to the sky"
+  賛美の祈り: "phrase. さんびのいのり. prayer of praise, hymn of praise"
+  唱え: "v. となえ. to recite, to chant"
+  裂いて: "v. さいて. tearing, ripping"
+  分配された: "v. ぶんぱいされた. were distributed, were allocated"
+  満腹した: "phrase. まんぷくした. became full, were satisfied (after eating)"
+  屑: "n. くず. crumbs, scraps"
+  残り: "n. のこり. remainder, leftovers"
+  集めると: "phrase. あつめると. when (they) collected/gathered"
+  籠: "n. かご. basket"
+  いっぱいになった: "phrase. いっぱいになった. became full, was filled up"
+grammar:
+  お答えになった:
+    - "grammar. honorific form of 答えた (answered). Used to show respect when referring to the actions of others, especially in religious or formal contexts."
+    - "structure: [stem of verb] + になる + past tense"
+Friday_review:
