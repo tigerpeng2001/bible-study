@@ -1620,3 +1620,37 @@
     - etymology: From Spanish 'a' (to, at) + 'el' (the) + 'anochecer' (to get dark,
         nightfall).
   Friday_review: null
+- date: '2026-02-03'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '6:49':
+    - Pero cuando ellos lo vieron andando sobre el mar, pensaron que era un fantasma
+      y se pusieron a gritar;
+    '6:50':
+    - 'porque todos lo vieron y se turbaron. Pero enseguida Él habló con ellos y les
+      dijo*: «¡Tengan ánimo; soy Yo, no teman!».'
+    '6:51':
+    - Subió con ellos a la barca, y el viento se calmó; y ellos estaban asombrados
+      en gran manera,
+    '6:52':
+    - porque no habían entendido lo de los panes, sino que su mente estaba embotada.
+  vocabulary:
+    fantasma: n. ghost, phantom
+    pusieron: v. poner. past tense. they put, placed, set  (also used in idioms like
+      'se pusieron a gritar' - they began to shout)
+    gritar: v. to shout, to scream
+    se pusieron a gritar: phrase. they began to shout
+    turbaron: v. turbar. past tense. they were disturbed, troubled
+    subió: v. subir. past tense. he/she/it got on, went up
+    se calmó: phrase. it calmed down
+    asombrados: adj. amazed, astonished
+    en gran manera: phrase. greatly, to a great extent
+    habían entendido: phrase. they had understood
+    mente: n. mind
+    embotada: adj. dull, sluggish (often used to describe a mind that is not sharp
+      or clear)
+  grammar: null
+  Friday_review: null
