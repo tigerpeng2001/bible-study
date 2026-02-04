@@ -3130,3 +3130,43 @@
       or clear)
   grammar: null
   Friday_review: null
+- date: '2026-02-04'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '6:53':
+    - こうして、一行は湖を渡り、ゲネサレトという土地に着いて舟をつないだ。
+    '6:54':
+    - 一行が舟から上がると、すぐに人々はイエスと知って、
+    '6:55':
+    - その地方をくまなく走り回り、どこでもイエスがおられると聞けば、そこへ病人を床に乗せて運び始めた。
+    '6:56':
+    - 村でも町でも里でも、イエスが入って行かれると、病人を広場に置き、せめてその服のすそにでも触れさせてほしいと願った。触れた者は皆いやされた。
+  vocabulary:
+    こうして: adv. こうして. thus, in this way
+    一行: n. いっこう. party, group of people
+    渡り: n. わたり. crossing (e.g., of a river or sea)
+    着いて: v. つく. te-form. to arrive at, to reach
+    舟をつないだ: phrase. to moor a boat
+    つないだ: v. つなぐ. past tense. to connect, to tie
+    上がる: v. あがる. to get out (of a vehicle), to go up
+    地方: n. ちほう. region, area
+    くまなく: adv. thoroughly, completely
+    走り回り: v. はしりまわる. te-form. to run around
+    床に乗せて: phrase. とこにのせて. to place (someone) on a bed
+    運び始めた: phrase. はこびはじめた. to begin to carry
+    村: n. むら. village
+    町: n. まち. town, city
+    里: n. さと. village, hometown
+    広場: n. ひろば. plaza, square
+    置き: v. おく. stem form. to place, to put
+    せめて: adv. at least
+    服のすそ: phrase. ふくのすそ. hem of clothing
+    触れさせてほしいと願った: phrase. to wish to be allowed to touch
+    願った: v. ねがう. past tense. to wish, to hope, to request
+    触れさせて: phrase. ふれさせて. to let (someone) touch
+    いやされた: v. いやす. past tense. to heal, to cure
+  grammar: null
+  Friday_review: null
