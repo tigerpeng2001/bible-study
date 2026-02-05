@@ -1,0 +1,44 @@
+date: "2026-02-05"
+weekday: "Thursday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "7.1":
+    - "ファリサイ派の人々と数人の律法学者たちが、エルサレムから来て、イエスのもとに集まった。"
+  "7.2":
+    - "そして、イエスの弟子たちの中に汚れた手、つまり洗わない手で食事をする者がいるのを見た。"
+  "7.3":
+    - "――ファリサイ派の人々をはじめユダヤ人は皆、昔の人の言い伝えを固く守って、念入りに手を洗ってからでないと食事をせず、"
+  "7.4":
+    - "また、市場から帰ったときには、身を清めてからでないと食事をしない。そのほか、杯、鉢、銅の器や寝台を洗うことなど、昔から受け継いで固く守っていることがたくさんある。――"
+vocabulary:
+  派: "n. は. sect, faction, group"
+  律法: "n. りっぽう. law, legalism (in a religious context)"
+  学者: "n. がくしゃ. scholar"
+  もとに集まった: "phrase. もとにあつまった. gathered at (someone's) place"
+  集まった: "v. あつまる. past tense. to gather, to assemble"
+  汚れた手: "phrase. よごれたて. dirty hands (used metaphorically to refer to unclean hands in a religious context)"
+  つまり: "conjunction. that is to say, in other words"
+  洗わない手: "phrase. あらわないて. unwashed hands"
+  をはじめ: "phrase. をはじめ. starting with, including"
+  昔の人の言い伝え: "phrase. むかしのひとのいいつたえ. traditions of the elders"
+  固く守って: "phrase. かたくまもって. to strictly observe, to firmly keep"
+  念入りに: "adv. ねんいりに. carefully, thoroughly"
+  また: "conjunction. また. also, in addition"
+  市場から帰ったとき: "phrase. いちばからかえったとき. when returning from the market"
+  身を清めて: "phrase. みをきよめて. to cleanse oneself"
+  そのほか: "adv. そのほか. besides, in addition"
+  杯: "n. さかずき. cup, goblet"
+  鉢: "n. はち. bowl"
+  銅の器: "phrase. どうのうつわ. copper utensils"
+  寝台: "n. しんだい. bed, couch"
+  受け継いで: "v. うけついで. te-form. to inherit, to receive and pass on"
+  たくさんある: "phrase. たくさんある. there are many (things)"
+grammar:
+  "~てからでないと...ない/せず": 
+    - grammar: "unless [action] is done first, they do not... "
+    - explanation: "This structure is used to express that a certain action must be completed before another action can take place."
+    - example: "手を洗ってからでないと食事をしない (They do not eat unless they wash their hands first)"
+    - etymology: "From the verb in te-form + 'からでないと' + negative verb form." 
+Friday_review:
