@@ -1705,3 +1705,43 @@
       or clear)
   grammar: null
   Friday_review: null
+- date: '2026-02-10'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '7:9':
+    - 'También les decía: «Astutamente ustedes violan el mandamiento de Dios para
+      guardar su tradición.'
+    '7:10':
+    - 'Porque Moisés dijo: “Honra a tu padre y a tu madre”;'
+    - 'y: “El que hable mal de su padre o de su madre, que muera”.'
+    '7:11':
+    - 'Pero ustedes dicen: “Si un hombre dice al padre o a la madre:'
+    - ‘Cualquier cosa mía con que pudieras beneficiarte es corbán (es decir, ofrenda
+      a Dios)’”,
+    '7:12':
+    - 'ya no le dejan hacer nada en favor de su padre o de su madre; '
+    '7:13':
+    - invalidando así la palabra de Dios por la tradición de ustedes, la cual han
+      transmitido, y hacen muchas cosas semejantes a estas».
+  vocabulary:
+    astutamente: adv. cleverly, cunningly
+    cualquier cosa: phrase. cualquier cosa. anything, whatever
+    mía: adj. mío. mine
+    con que: phrase. con que. with which
+    pudieras:
+    - v. poder. past subjunctive. you could
+    - v. poder. present subjunctive. you can
+    beneficiarte: v. beneficiar. infinitive. to benefit you
+    corbán: n. corbán. a term used in Jewish law referring to something dedicated
+      to God, often an offering or a gift
+    ya no le dejan: phrase. ya no dejar. present tense. they no longer allow him
+    dejar: v. dejar. infinitive. to allow, to let
+    hacer nada: phrase. hacer nada. to do anything
+    invalidando: v. invalidar. present participle. invalidating
+    transmitido: v. transmitir. past participle. transmitted
+    semejantes: adj. semejante. similar, such
+  grammar: null
+  Friday_review: null
