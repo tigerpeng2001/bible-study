@@ -1,0 +1,44 @@
+date: "2026-02-02"
+weekday: "Monday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "7:5":
+    - "Así que los fariseos y los escribas le preguntaron*:"
+    - "«¿Por qué Tus discípulos no andan conforme a la tradición de los ancianos, sino que comen con manos inmundas?»."
+  "7:6":
+    - "Jesús les respondió: «Bien profetizó Isaías de ustedes, hipócritas, como está escrito:"
+    - "Este pueblo con los labios me honra,"
+    - "Pero su corazón está muy lejos de Mí."
+  "7:7":
+    - '-”Mas en vano me rinden culto,'
+    - 'Enseñando como doctrinas preceptos de hombres”.'
+  "7:8":
+    - "Dejando el mandamiento de Dios, ustedes se aferran a la tradición de los hombres»."
+vcabulary:
+  así:  "adv. thus, so"
+  andan: "v. andar. present tense. they walk, they go about doing something habitually or in a certain way (used here to indicate that the disciples do not follow a certain tradition)"
+  sino: "conjunction. sino. but rather, instead"
+  inmundas: "adj. unclean, impure (used here to describe hands that are not washed according to religious tradition)"
+  profetizó: "v. profetizar. past tense. he prophesied"
+  hipócritas: "n. hipócrita. hypocrites"
+  pueblo: "n. pueblo. people, nation"
+  labios: "n. labio. lips"
+  lejos: "adv. lejos. far, distant"
+  vano: "adj. vano. vain, futile"
+  rinden culto: "phrase. rendir culto. to worship, to pay homage"
+  enseñando: "v. enseñar. present participle. teaching"
+  doctrinas: "n. doctrina. doctrine, teaching"
+  preceptos: "n. precepto. precept, commandment"
+  dejando: "v. dejar. present participle. leaving, abandoning"
+  mandamiento: "n. mandamiento. commandment"
+  aferran: "v. aferrar. present tense. they cling to, they hold fast to"
+grammar:
+  "sino": 
+    - grammar: "but rather, instead"
+    - explanation: "This conjunction is used to introduce a contrast or an alternative to what was previously stated."
+    - example: "no andan conforme a la tradición de los ancianos, sino que comen con manos inmundas (they do not walk according to the tradition of the elders, but rather they eat with unclean hands)"
+    - etymology: "From Latin 'sino', meaning 'but trather' or 'instead'."
+Friday_review:
+ 
