@@ -1,0 +1,32 @@
+date: "2026-02-05"
+weekday: "Thursday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "7.16":
+    - ""
+  "7.17":
+    - "イエスが群衆と別れて家に入られると、弟子たちはこのたとえについて尋ねた。。"
+  "7.18":
+    - "イエスは言われた。「あなたがたも、そんなに物分かりが悪いのか。すべて外から人の体に入るものは、人を汚すことができないことが分からないのか。"
+  "7.19":
+    - "それは人の心の中に入るのではなく、腹の中に入り、そして外に出される。こうして、すべての食べ物は清められる。」"
+vocabulary:
+  分かれて: "v. わかれて. to separate, to part  (from a group)"
+  尋ねて: "v. たずねて. te-form of 尋ねる (to ask, to inquire about something specific to someone)"
+  そんなに: "adv. そんなに. so much, that much"
+  物分かり: "n. ものわかり. understanding, comprehension"
+  外から: "phrase. そとから. from outside"
+  人の体: "phrase. ひとのからだ. human body"
+  入る: "v. はいる. to enter, to go into"
+  汚す: "v. よごす. to make dirty, to defile"
+  分からない: "phrase. わからない. do not understand"
+  心の中: "phrase. こころのなか. inside the heart/mind"
+  腹の中: "phrase. はらのなか. inside the stomach"
+  外に出される: "phrase. そとにだされる. to be expelled outside"
+  食べ物: "n. たべもの. food"
+  清められる: "v. きよめられる. to be purified, to be cleansed"
+grammar:
+  そんなに物分かりが悪いのか: "phrase. そんなにものわかりがわるいのか. Are you really that slow to understand?"
+Friday_review:
