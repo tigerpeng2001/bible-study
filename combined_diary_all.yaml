@@ -3054,54 +3054,6 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '6:45':
-    - Enseguida Jesús hizo que Sus discípulos subieran a la barca y fueran delante
-      de Él al otro lado, a Betsaida,
-    - ' mientras Él despedía a la multitud.'
-    '6:46':
-    - Después de despedirse de ellos, se fue al monte a orar.
-    '6:47':
-    - 'Al anochecer, la barca estaba en medio del mar, y Él estaba solo en tierra. '
-    '6:48':
-    - Y al verlos remar fatigados, porque el viento les era contrario,
-    - como a la cuarta vigilia de la noche, fue* hacia ellos andando sobre el mar,
-      y quería pasarlos de largo.
-  vocabulary:
-    Enseguida: conj. immediately, right away
-    hizo que: phrase. made (someone do something)
-    subieran: v. subir. imperfect subjunctive. that they go up, get on (a vehicle)
-    barca: n. boat
-    fueran: v. ir. imperfect subjunctive. that they go
-    delante de: phrase. in front of, ahead of
-    lado: n. side
-    despedía: v. despedir. imperfect. was dismissing, sending away
-    orar: v. orar. infinitive. to pray
-    anochecer: n. dusk, nightfall
-    verlos: phrase. to see them
-    remar: v. remar. infinitive. to row
-    fatigados: adj. tired, fatigued
-    viento: n. wind
-    era: v. ser. imperfect. was
-    contrario: adj. contrary, opposing
-    cuarta vigilia de la noche: phrase. fourth watch of the night (between 3 AM and
-      6 AM)
-    hacia: prep. toward
-    andando: v. andar. gerund. walking
-    pasarlos de largo: phrase. to pass them by
-  grammar:
-    Al anochecer:
-    - grammar. prepositional phrase indicating time when something happens. 'At dusk'
-      or 'at nightfall.'
-    - 'structure: Al + [infinitive verb]'
-    - etymology: From Spanish 'a' (to, at) + 'el' (the) + 'anochecer' (to get dark,
-        nightfall).
-  Friday_review: null
-- date: '2026-02-02'
-  weekday: Monday
-  book: Marcos
-  version: Nueva Biblia de las Américas (NBLA)
-  target_language: Spanish
-  verses:
     '7:5':
     - 'Así que los fariseos y los escribas le preguntaron*:'
     - «¿Por qué Tus discípulos no andan conforme a la tradición de los ancianos, sino
@@ -3146,6 +3098,54 @@
         manos inmundas (they do not walk according to the tradition of the elders,
         but rather they eat with unclean hands)
     - etymology: From Latin 'sino', meaning 'but trather' or 'instead'.
+  Friday_review: null
+- date: '2026-02-02'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '6:45':
+    - Enseguida Jesús hizo que Sus discípulos subieran a la barca y fueran delante
+      de Él al otro lado, a Betsaida,
+    - ' mientras Él despedía a la multitud.'
+    '6:46':
+    - Después de despedirse de ellos, se fue al monte a orar.
+    '6:47':
+    - 'Al anochecer, la barca estaba en medio del mar, y Él estaba solo en tierra. '
+    '6:48':
+    - Y al verlos remar fatigados, porque el viento les era contrario,
+    - como a la cuarta vigilia de la noche, fue* hacia ellos andando sobre el mar,
+      y quería pasarlos de largo.
+  vocabulary:
+    Enseguida: conj. immediately, right away
+    hizo que: phrase. made (someone do something)
+    subieran: v. subir. imperfect subjunctive. that they go up, get on (a vehicle)
+    barca: n. boat
+    fueran: v. ir. imperfect subjunctive. that they go
+    delante de: phrase. in front of, ahead of
+    lado: n. side
+    despedía: v. despedir. imperfect. was dismissing, sending away
+    orar: v. orar. infinitive. to pray
+    anochecer: n. dusk, nightfall
+    verlos: phrase. to see them
+    remar: v. remar. infinitive. to row
+    fatigados: adj. tired, fatigued
+    viento: n. wind
+    era: v. ser. imperfect. was
+    contrario: adj. contrary, opposing
+    cuarta vigilia de la noche: phrase. fourth watch of the night (between 3 AM and
+      6 AM)
+    hacia: prep. toward
+    andando: v. andar. gerund. walking
+    pasarlos de largo: phrase. to pass them by
+  grammar:
+    Al anochecer:
+    - grammar. prepositional phrase indicating time when something happens. 'At dusk'
+      or 'at nightfall.'
+    - 'structure: Al + [infinitive verb]'
+    - etymology: From Spanish 'a' (to, at) + 'el' (the) + 'anochecer' (to get dark,
+        nightfall).
   Friday_review: null
 - date: '2026-02-03'
   weekday: Tuesday
@@ -3248,6 +3248,38 @@
     触れさせて: phrase. ふれさせて. to let (someone) touch
     いやされた: v. いやす. past tense. to heal, to cure
   grammar: null
+  Friday_review: null
+- date: '2026-02-05'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '7.16':
+    - ''
+    '7.17':
+    - イエスが群衆と別れて家に入られると、弟子たちはこのたとえについて尋ねた。。
+    '7.18':
+    - イエスは言われた。「あなたがたも、そんなに物分かりが悪いのか。すべて外から人の体に入るものは、人を汚すことができないことが分からないのか。
+    '7.19':
+    - それは人の心の中に入るのではなく、腹の中に入り、そして外に出される。こうして、すべての食べ物は清められる。」
+  vocabulary:
+    分かれて: v. わかれて. to separate, to part  (from a group)
+    尋ねて: v. たずねて. te-form of 尋ねる (to ask, to inquire about something specific to someone)
+    そんなに: adv. そんなに. so much, that much
+    物分かり: n. ものわかり. understanding, comprehension
+    外から: phrase. そとから. from outside
+    人の体: phrase. ひとのからだ. human body
+    入る: v. はいる. to enter, to go into
+    汚す: v. よごす. to make dirty, to defile
+    分からない: phrase. わからない. do not understand
+    心の中: phrase. こころのなか. inside the heart/mind
+    腹の中: phrase. はらのなか. inside the stomach
+    外に出される: phrase. そとにだされる. to be expelled outside
+    食べ物: n. たべもの. food
+    清められる: v. きよめられる. to be purified, to be cleansed
+  grammar:
+    そんなに物分かりが悪いのか: phrase. そんなにものわかりがわるいのか. Are you really that slow to understand?
   Friday_review: null
 - date: '2026-02-05'
   weekday: Thursday
