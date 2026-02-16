@@ -3367,3 +3367,48 @@
     semejantes: adj. semejante. similar, such
   grammar: null
   Friday_review: null
+- date: '2026-02-16'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '7:20':
+    - 'También decía: «Lo que sale del hombre, eso es lo que contamina al hombre.'
+    '7:21':
+    - Porque de adentro, del corazón de los hombres, salen los malos pensamientos,
+      fornicaciones, robos, homicidios, adulterios,
+    '7:22':
+    - 'avaricias, maldades, engaños, sensualidad, envidia, calumnia, orgullo e insensatez. '
+    '7:23':
+    - Todas estas maldades de adentro salen, y contaminan al hombre».
+  vcabulary:
+    adentro: adv. inside, within (used here to indicate that the source of contamination
+      is from within a person, specifically from the heart)
+    pensamientos: n. pensamiento. thoughts (used here to indicate the evil thoughts
+      that come from the heart)
+    fornicaciones: n. fornicación. fornications (used here to indicate sexual immorality
+      that comes from the heart)
+    robos: n. robo. thefts (used here to indicate stealing that comes from the heart)
+    homicidios: n. homicidio. murders (used here to indicate killing that comes from
+      the heart)
+    adulterios: n. adulterio. adulteries (used here to indicate unfaithfulness that
+      comes from the heart)
+    avaricias: n. avaricia. greed (used here to indicate excessive desire for wealth
+      that comes from the heart)
+    maldades: n. maldad. evils (used here to indicate general wickedness that comes
+      from the heart)
+    engaños: n. engaño. deceptions (used here to indicate deceitful behavior that
+      comes from the heart)
+    sensualidad: n. sensualidad. sensuality (used here to indicate lustful behavior
+      that comes from the heart)
+    envidia: n. envidia. envy (used here to indicate jealousy that comes from the
+      heart)
+    calumnia: n. calumnia. slander (used here to indicate false accusations that come
+      from the heart)
+    orgullo: n. orgullo. pride (used here to indicate arrogance that comes from the
+      heart)
+    insensatez: n. insensatez. foolishness (used here to indicate lack of wisdom that
+      comes from the heart)
+  grammar: null
+  Friday_review: null
