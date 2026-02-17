@@ -1,0 +1,29 @@
+date: "2026-02-17"
+weekday: "Tuesday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "7:24":
+    - "Levantándose de allí, Jesús se fue a la región de Tiro, y entrando en una casa, no quería que nadie lo supiera, pero no pudo pasar inadvertido; "
+  "7:25":
+    - "sino que enseguida, al oír hablar de Él, una mujer cuya hijita tenía un espíritu inmundo, fue y se postró a Sus pies."
+  "7:26":
+    - "La mujer era gentil, sirofenicia de nacimiento; y le rogaba que echara al demonio fuera de su hija."
+vocabulary:
+  levantándose: "v. levantarse. present participle. getting up"
+  allí: "adv. there"
+  se fue: "v. ir. past tense. went"
+  entrando: "v. entrar. present participle. entering"
+  supiera: "v. saber. past tense. knew"
+  pasar: "v. pasar. infinitive. to pass"
+  inadvertido: "adj. unnoticed"
+  enseguida: "adv. immediately"
+  cuya: "pron. whose"
+  hijita: "n. little daughter"
+  gentil: "adj. Gentile"
+  nacimiento: "n. birth"
+  rogaba: "v. rogar. past tense. begged"
+  echara: "v. echar. past subjunctive. to cast out"
+grammar:
+Friday_review:
