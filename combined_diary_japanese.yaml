@@ -1480,34 +1480,6 @@
   version: 新共同訳 (日本聖書協会 1987, 1988)
   target_language: Japanese
   verses:
-    '7:14':
-    - それから、イエスは再び群衆を呼び寄せて言われた。「皆、わたしの言うことを聞いて悟りなさい。
-    '7:15':
-    - 外から人の体に入るもので人を汚すことができるものは何もなく、人の中から出て来るものが、人を汚すのである。」
-  vocabulary:
-    再び: adv. ふたたび. again, once more
-    群衆: n. ぐんしゅう. crowd, multitude
-    呼び寄せて: v. よびよせる. te-form. to call over, to summon
-    言われた: v. いう. past tense. to say
-    聞いて: v. きく. te-form. to listen, to hear
-    悟りなさい: v. さとる. imperative form. to understand, to comprehend
-    外から: phrase. そとから. from outside
-    人の体: phrase. ひとのからだ. human body
-    入る: v. はいる. to enter
-    汚す: v. よごす. to defile, to make unclean
-    できる: v. できる. potential form. can, be able to
-    何もなく: phrase. なにもなく. nothing, not anything
-    人の中から: phrase. ひとのなかから. from inside a person
-    出て来る: v. でてくる. to come out
-    人を汚す: phrase. ひとをよごす. to defile a person, to make a person unclean
-  grammar: null
-  Friday_review: null
-- date: '2026-02-04'
-  weekday: Wednesday
-  book: マルコの福音書
-  version: 新共同訳 (日本聖書協会 1987, 1988)
-  target_language: Japanese
-  verses:
     '6:53':
     - こうして、一行は湖を渡り、ゲネサレトという土地に着いて舟をつないだ。
     '6:54':
@@ -1619,4 +1591,86 @@
         completed before another action can take place.
     - example: 手を洗ってからでないと食事をしない (They do not eat unless they wash their hands first)
     - etymology: From the verb in te-form + 'からでないと' + negative verb form.
+  Friday_review: null
+- date: '2026-02-11'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '7:14':
+    - それから、イエスは再び群衆を呼び寄せて言われた。「皆、わたしの言うことを聞いて悟りなさい。
+    '7:15':
+    - 外から人の体に入るもので人を汚すことができるものは何もなく、人の中から出て来るものが、人を汚すのである。」
+  vocabulary:
+    再び: adv. ふたたび. again, once more
+    群衆: n. ぐんしゅう. crowd, multitude
+    呼び寄せて: v. よびよせる. te-form. to call over, to summon
+    言われた: v. いう. past tense. to say
+    聞いて: v. きく. te-form. to listen, to hear
+    悟りなさい: v. さとる. imperative form. to understand, to comprehend
+    外から: phrase. そとから. from outside
+    人の体: phrase. ひとのからだ. human body
+    入る: v. はいる. to enter
+    汚す: v. よごす. to defile, to make unclean
+    できる: v. できる. potential form. can, be able to
+    何もなく: phrase. なにもなく. nothing, not anything
+    人の中から: phrase. ひとのなかから. from inside a person
+    出て来る: v. でてくる. to come out
+    人を汚す: phrase. ひとをよごす. to defile a person, to make a person unclean
+  grammar: null
+  Friday_review: null
+- date: '2026-02-18'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '7:27':
+    - イエスは言われた。「まず、子供たちに十分食べさせなければならない。子供たちのパンを取って、小犬にやってはいけない。」
+    '7:28':
+    - ところが、女は答えて言った。「主よ、しかし、食卓の下の小犬も、子供のパン屑はいただきます。」 "
+    '7:29':
+    - そこで、イエスは言われた。「それほど言うなら、よろしい。家に帰りなさい。悪霊はあなたの娘からもう出てしまった。」
+    '7:30':
+    - 女が家に帰ってみると、その子は床の上に寝ており、悪霊は出てしまっていた。
+  vocabulary:
+    十分: adv. じゅうぶん. enough, sufficiently
+    ところが: conj. ところが. however, but (used to introduce a contrast or unexpected result)
+    答えて言った: v. こたえていった. past tense. to answer, to reply and say something after answering
+      (usually in response to a question or statement)
+    食卓: n. しょくたく. dining table
+    小犬: n. こいぬ. little dog, puppy
+    下の: phrase. したの. under, below
+    屑: n. くず. crumbs, scraps
+    それほど: adv. それほど. to that extent, so much
+    いうなら: phrase. いうなら. if you say so, if you insist
+    よろしい: adj. よろしい. all right, good, fine (polite form)
+    家に帰りなさい: phrase. いえにかえりなさい. go home (imperative form)
+    悪霊: n. あくりょう. evil spirit, demon
+    床の上: phrase. ゆかのうえ. on the bed/floor
+    寝ており: v. ねており. past continuous form. was sleeping
+    出てしまっていた: v. でてしまう. past perfect form. had come out (indicating completion of
+      the action)
+  grammar:
+  - phrase: 食べさせなければならない
+    meaning: Must feed / Must let eat
+    grammatical_type: Causative-Obligative
+    components:
+    - base_verb: 食べる (たべる - to eat)
+    - causative_form: 食べさせる (たべさせる - to feed/let eat)
+    - negative_conditional: なければ (なければ - if not)
+    - conclusion: ならない (ならない - it will not do/it is not acceptable)
+    logic: 'Double negative: ''If [I] do not let [them] eat, it is not acceptable.'''
+    nuance: Indicates a necessary sequence or a divine priority.
+  - phrase: やってはいけない
+    meaning: Must not give / Must not do
+    grammatical_type: Prohibitive
+    components:
+    - base_verb: やる (to give [to an inferior/animal] or to do)
+    - te_form: やって (connecting form)
+    - topic_marker: は (regarding this action)
+    - conclusion: いけない (no good / wrong / forbidden)
+    logic: Regarding the act of giving [to the dogs], it is not allowed.
+    nuance: A firm, authoritative rule or boundary.
   Friday_review: null
