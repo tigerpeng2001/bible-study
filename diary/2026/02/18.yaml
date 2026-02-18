@@ -1,0 +1,52 @@
+date: "2026-02-18"
+weekday: "Wednesday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "7:27":
+    - "イエスは言われた。「まず、子供たちに十分食べさせなければならない。子供たちのパンを取って、小犬にやってはいけない。」"
+  "7:28":
+    - ところが、女は答えて言った。「主よ、しかし、食卓の下の小犬も、子供のパン屑はいただきます。」 "
+  "7:29":
+    - "そこで、イエスは言われた。「それほど言うなら、よろしい。家に帰りなさい。悪霊はあなたの娘からもう出てしまった。」"
+  "7:30":
+    - "女が家に帰ってみると、その子は床の上に寝ており、悪霊は出てしまっていた。"
+vocabulary:
+  十分: "adv. じゅうぶん. enough, sufficiently"
+  ところが: "conj. ところが. however, but (used to introduce a contrast or unexpected result)"
+  答えて言った: "v. こたえていった. past tense. to answer, to reply and say something after answering (usually in response to a question or statement)"
+  食卓: "n. しょくたく. dining table"
+  小犬: "n. こいぬ. little dog, puppy"
+  下の: "phrase. したの. under, below"
+  屑: "n. くず. crumbs, scraps"
+  それほど: "adv. それほど. to that extent, so much"
+  いうなら: "phrase. いうなら. if you say so, if you insist"
+  よろしい: "adj. よろしい. all right, good, fine (polite form)"
+  家に帰りなさい: "phrase. いえにかえりなさい. go home (imperative form)"
+  悪霊: "n. あくりょう. evil spirit, demon"
+  床の上: "phrase. ゆかのうえ. on the bed/floor"
+  寝ており: "v. ねており. past continuous form. was sleeping"
+  出てしまっていた: "v. でてしまう. past perfect form. had come out (indicating completion of the action)"
+grammar:
+- phrase: "食べさせなければならない"
+  meaning: "Must feed / Must let eat"
+  grammatical_type: "Causative-Obligative"
+  components:
+    - base_verb: "食べる (たべる - to eat)"
+    - causative_form: "食べさせる (たべさせる - to feed/let eat)"
+    - negative_conditional: "なければ (なければ - if not)"
+    - conclusion: "ならない (ならない - it will not do/it is not acceptable)"
+  logic: "Double negative: 'If [I] do not let [them] eat, it is not acceptable.'"
+  nuance: "Indicates a necessary sequence or a divine priority."
+- phrase: "やってはいけない"
+  meaning: "Must not give / Must not do"
+  grammatical_type: "Prohibitive"
+  components:
+    - base_verb: "やる (to give [to an inferior/animal] or to do)"
+    - te_form: "やって (connecting form)"
+    - topic_marker: "は (regarding this action)"
+    - conclusion: "いけない (no good / wrong / forbidden)"
+  logic: "Regarding the act of giving [to the dogs], it is not allowed."
+  nuance: "A firm, authoritative rule or boundary."
+Friday_review:
