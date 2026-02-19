@@ -3498,3 +3498,74 @@
     logic: Regarding the act of giving [to the dogs], it is not allowed.
     nuance: A firm, authoritative rule or boundary.
   Friday_review: null
+- date: '2026-02-19'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '7.31':
+    - それからまた、イエスはティルスの地方を去り、シドンを経てデカポリス地方を通り抜け、ガリラヤ湖へやって来られた。
+    '7.32':
+    - 人々は耳が聞こえず舌の回らない人を連れて来て、その上に手を置いてくださるようにと願った。
+    '7.33':
+    - そこで、イエスはこの人だけを群衆の中から連れ出し、指をその両耳に差し入れ、それから唾をつけてその舌に触れられた。
+    '7.34':
+    - そして、天を仰いで深く息をつき、その人に向かって、「エッファタ」と言われた。これは、「開け」という意味である。
+  vocabulary:
+    地方: n. ちほう. region, area  (geographical)
+    去り: v. さり. te-form of 去る (to leave, to depart from a place or situation - often
+      used in a narrative context to indicate movement from one location to another)
+    経て: v. へて. te-form of 経る (to pass through, to go through)  - often used to indicate
+      passing through a place or going through a process)
+    通り抜け: v. とおりぬけ. to pass through, to go through (a place or area)
+    やって来られた: v. やってこられた. past tense of やって来る (to come, to arrive) - often used to
+      indicate the arrival of someone or something at a location)
+    耳が聞こえず: phrase. みみがきこえず. unable to hear, deaf
+    舌の回らない: phrase. したのまわらない. unable to speak clearly, tongue-tied
+    連れて来て: v. つれてきて. te-form of 連れて来る (to bring someone along, to bring someone to
+      a place)
+    上に手を置いてくださるようにと願った: phrase. うえにてをおいてくださるようにとねがった. asked for someone to place their
+      hand on [the person] (polite form)
+    群衆の中から連れ出し: phrase. ぐんしゅうのなかからつれだし. to take out from the crowd
+    指を差し入れ: phrase. ゆびをさしいれ. to insert a finger, to put a finger in
+    両耳: phrase. りょうみみ. both ears
+    唾をつけて: phrase. つばをつけて. to spit on, to moisten with saliva
+    舌に触れられた: phrase. したにふれられた. was touched on the tongue
+    天を仰いで: phrase. てんをあおいで. looking up to the sky, looking up to heaven
+    深く息をつき: phrase. ふかくいきをつき. to take a deep breath
+    エッファタ: interjection. エッファタ. Ephpheta (Aramaic for 'Be opened')
+    開け: n. あけ. open (command form)
+  grammar:
+    耳が聞こえず:
+      transliteration: みみがきこえず
+      type: Conjunctive Clause (Ren'yokei)
+      components:
+      - token: が
+        part_of_speech: particle
+        function: subject marker
+      - token: 聞こえ
+        part_of_speech: verb stem
+        base_form: 聞こえる (きこえる)
+        meaning: to be audible
+      - token: ず
+        part_of_speech: negative suffix
+        grammar_note: Classical/formal negative (similar to ない); functions as a connective
+          'te-form' here.
+    舌の回らない:
+      transliteration: したのまわらない
+      type: Relative Clause (Rentaikei)
+      components:
+      - token: の
+        part_of_speech: particle
+        function: subject marker (nominative-no)
+        grammar_note: Replaces 'ga' in relative clauses modifying a noun.
+      - token: 回ら
+        part_of_speech: verb stem (mizenkei)
+        base_form: 回る (まわる)
+        meaning: to turn/rotate
+      - token: ない
+        part_of_speech: auxiliary verb
+        function: negation
+        grammar_note: Modifies the following noun (人 - person).
+  Friday_review: null
