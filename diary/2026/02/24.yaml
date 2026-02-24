@@ -1,0 +1,24 @@
+date: "2026-02-24"
+weekday: "Tuesday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "8:1":
+    - "En aquellos días, cuando había de nuevo una gran multitud que no tenía qué comer, Jesús llamó a Sus discípulos y les dijo*:"
+  "8:2":
+    - "«Tengo compasión de la multitud porque ya hace tres días que están junto a Mí y no tienen qué comer;"
+  "8:3":
+    - "y si los despido sin comer a sus casas, desfallecerán en el camino, pues algunos de ellos han venido de lejos»."
+vocabulary:
+  aquellos: "pron. those (used here to refer to the specific days being described in the narrative)"
+  de nuevo: "adv. again (used here to indicate that there was once again a large crowd present, suggesting that this may have been a recurring situation)"
+  despido: "v. despedir. preterite. dismiss (used here to indicate the action of sending the crowd away, which Jesus is considering but ultimately decides against)"
+  desfallecerán: "v. desfallecer. future. will faint (used here to indicate the potential consequence of sending the crowd away without food, emphasizing the urgency of the situation)"
+  camino: "n. camino. way (used here to indicate the physical path that the crowd would have to take to get home, which is relevant to the concern about them fainting)"
+  pues: "conj. pues. because (used here to indicate the reason why Jesus is concerned about sending the crowd away without food, providing a justification for his compassion)"
+  algunos: "adj. algunos. some (used here to indicate that not all of the people in the crowd have come from far away, but rather that this applies to a portion of them)"
+  han venido: "phrase. han venido. have come (used here to indicate the completed action of some of the people in the crowd coming from far away, emphasizing the diversity of the crowd and the challenges they face in getting home)"
+  lejos: "adj. lejos. far (used here to indicate the distance that some of the people in the crowd have traveled to be with Jesus, highlighting their dedication and the potential difficulty of getting home)"
+grammar:
+Friday_review:
