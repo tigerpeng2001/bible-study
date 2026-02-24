@@ -3569,3 +3569,82 @@
         function: negation
         grammar_note: Modifies the following noun (人 - person).
   Friday_review: null
+- date: '2026-02-23'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '7:35':
+    - Al instante se abrieron sus oídos, y desapareció el impedimento de su lengua,
+      y hablaba con claridad.
+    '7:36':
+    - Jesús les ordenó que a nadie se lo dijeran; pero mientras más se lo ordenaba,
+      tanto más ellos lo proclamaban.
+    '7:37':
+    - 'Y estaban asombrados en gran manera, y decían: «Todo lo ha hecho bien; aun
+      a los sordos hace oír y a los mudos hablar».'
+  vcabulary:
+    abrieron:
+    - v. abrir. opened (used here to indicate the miraculous opening of the ears  in
+      the context of healing a deaf person)
+    - past tense  form  used to describe a completed action in the past - often used
+      in narrative contexts to describe events that have already happened
+    - in this case, the miraculous healing of the deaf person's ears
+    - the verb 'abrir' is used here to indicate the physical opening of the ears as
+      a result of Jesus' healing power
+    - the past tense form 'abrieron' is used to indicate that this action has already
+      been completed in the past  - often used in storytelling to describe events
+      that have already occurred
+    oídos: n. oído. ears (used here to indicate the physical ears that were miraculously
+      opened by Jesus)
+    desapareció: v. desaparecer. disappeared (used here to indicate the removal of
+      the impediment from the tongue of the person who was healed)
+    impedimento: n. impedimento. impediment (used here to indicate the obstacle or
+      hindrance that was removed from the tongue of the person who was healed)
+    lengua: n. lengua. tongue (used here to indicate the physical tongue that was
+      healed and made able to speak clearly)
+    hablaba: v. hablar. spoke (used here to indicate the action of speaking clearly
+      that was made possible by Jesus' healing power)
+    claridad: n. claridad. clarity (used here to indicate the clear and understandable
+      speech that resulted from Jesus' healing of the tongue)
+    ordenó: v. ordenar. preterite. ordered (used here to indicate Jesus' command to
+      keep the healing a secret)
+    nadie: n. nadie. nobody (used here to indicate that Jesus commanded that no one
+      should tell others about the healing)
+    dijeran: v. decir. tell (used here to indicate the action of telling others about
+      the healing, which Jesus commanded against)
+    mientras: adv. mientras. while (used here to indicate the simultaneous occurrence
+      of Jesus' command and the people's proclamation of the healing)
+    ordenaba: v. ordenar. imperfect. ordered (used here to indicate the repeated command
+      of Jesus to keep the healing a secret)
+    proclamaban: v. proclamar. imperfect. proclaimed (used here to indicate the action
+      of proclaiming or spreading the news about the healing, which Jesus commanded
+      against but the people did anyway)
+    asombrados: adj. asombrado. amazed (used here to indicate the reaction of the
+      people who witnessed the healing and were amazed by the miraculous event)
+    gran: adj. gran. great (used here to indicate the degree of amazement that the
+      people felt in response to the healing)
+    manera: n. manera. way (used here to indicate the manner or way in which the people
+      were amazed by the healing)
+    decían: v. decir. said (used here to indicate the action of saying or expressing
+      amazement about the healing)
+    ha hecho: phrase. ha hecho. has done (used here to indicate the completed action
+      of Jesus' healing power in the context of the people expressing their amazement)
+    bien: adj. bien. well (used here to indicate that Jesus has done everything well,
+      including the miraculous healing of the deaf and mute person)
+    aun: adv. aun. even (used here to indicate that Jesus' healing power extends even
+      to those who are deaf and mute, emphasizing the extent of his miraculous abilities)
+    sordos: n. sordo. deaf (used here to indicate the people who were healed by Jesus'
+      miraculous power, specifically those who were deaf)
+    hace oír: phrase. hace oír. makes hear (used here to indicate Jesus' ability to
+      enable the deaf to hear through his healing power)
+    mudos: n. mudo. mute (used here to indicate the people who were healed by Jesus'
+      miraculous power, specifically those who were mute)
+    hablar: v. hablar. speak (used here to indicate Jesus' ability to enable the mute
+      to speak through his healing power)
+    con claridad: phrase. con claridad. with clarity (used here to indicate the clear
+      and understandable speech that resulted from Jesus' healing of the mute person's
+      tongue)
+  grammar: null
+  Friday_review: null
