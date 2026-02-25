@@ -1,0 +1,36 @@
+date: "2026-02-25"
+weekday: "Wednesday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "8:4":
+    - "弟子たちは答えた。「こんな人里離れた所で、いったいどこからパンを手に入れて、これだけの人に十分食べさせることができるでしょうか。」"
+  "8:5":
+    - "イエスが「パンは幾つあるか」とお尋ねになると、弟子たちは、「七つあります」と言った。"
+  "8:6":
+    - "そこで、イエスは地面に座るように群衆に命じ、七つのパンを取り、感謝の祈りを唱えてこれを裂き、人々に配るようにと弟子たちにお渡しになった。弟子たちは群衆に配った。"
+vocabulary:
+  答えた: "v. こたえた. answered (used here to indicate the response of the disciples to Jesus' question about how to feed the crowd, showing their concern and lack of resources)"
+  こんな: "adj. こんな. such (used here to emphasize the difficult and barren nature of the wilderness where the crowd is gathered, highlighting the challenge of finding food)"
+  人里離れた: "adj. ひとざとばなれた. desolate, remote (used here to describe the location where the crowd is gathered, emphasizing the lack of resources and the difficulty of feeding them)"
+  所: "n. ところ. place (used here to refer to the specific location where the crowd is gathered, which is relevant to the disciples' concern about how to feed them)"
+  いったい: "adv. いったい. in the world (used here to express the disciples' confusion and disbelief at the idea of feeding such a large crowd in such a remote location, emphasizing the seeming impossibility of the situation)"
+  どこから: "adv. どこから. from where (used here to indicate the disciples' question about the source of the food, highlighting their concern about the logistics of feeding the crowd)"
+  手に入れて: "v. てにいれて. obtain (used here to indicate the action of acquiring or obtaining something, in this case the food needed to feed the crowd, emphasizing the disciples' concern about the practicality of the situation)"
+  これだけの人: "phrase. これだけのひと. this many people (used here to indicate the large number of people in the crowd, emphasizing the scale of the challenge of feeding them)"
+  十分: "adj. じゅうぶん. enough (used here to indicate the quantity of food needed to satisfy the crowd, emphasizing the disciples' concern about the adequacy of their resources)"
+  食べさせる: "v. たべさせる. to feed (used here to indicate the action of providing food to the crowd, which is the central concern of the disciples in this passage, highlighting their desire to care for the people but also their sense of inadequacy in doing so)"
+  幾つ: "adv. いくつ. how many (used here to indicate Jesus' question about the quantity of bread available, which is a key detail in the narrative and sets the stage for the miracle that follows)"
+  お尋ねになる: "v. おたずねになる. to ask (used here to indicate the respectful form of Jesus' action in asking the disciples about the number of loaves, showing his leadership and engagement with the situation)"
+  七つ: "num. ななつ. seven (used here to indicate the quantity of loaves that the disciples report to Jesus, which is a key detail in the narrative and sets the stage for the miracle that follows)"
+  地面: "n. じめん. ground (used here to indicate the physical location where Jesus instructs the crowd to sit, which is relevant to the logistics of feeding them and the miracle that follows)"
+  群衆: "n. ぐんしゅう. crowd (used here to refer to the large group of people gathered around Jesus, which is central to the narrative and the miracle of feeding them)"
+  命じ: "v. めいじ. to command (used here to indicate Jesus' authoritative instruction to the crowd to sit down, which is relevant to the organization of the feeding and the miracle that follows)"
+  感謝の祈り: "n. かんしゃのいのり. prayer of thanksgiving (used here to indicate the act of giving thanks before breaking the bread, which is a significant detail in the narrative and reflects the religious context of the miracle)"
+  唱えて: "v. となえて. to recite (used here to indicate the action of reciting the prayer of thanksgiving, which is a significant detail in the narrative and reflects the religious context of the miracle)"
+  裂き: "v. さき. to break (used here to indicate the action of breaking the bread, which is a key part of the miracle and symbolizes the sharing of resources and the provision of sustenance to the crowd)"
+  配る: "v. くばる. to distribute (used here to indicate the action of giving out the bread to the crowd, which is the culmination of the miracle and reflects the care and provision of Jesus for the people)"
+  お渡しになった: "v. おわたしになった. to give (used here to indicate the respectful form of Jesus' action in giving the bread to the disciples to distribute, showing his leadership and care for the people)"
+grammar:
+Friday_review:
