@@ -1745,77 +1745,6 @@
         function: negation
         grammar_note: Modifies the following noun (人 - person).
   Friday_review: null
-- date: '2026-02-19'
-  weekday: Thursday
-  book: マルコの福音書
-  version: 新共同訳 (日本聖書協会 1987, 1988)
-  target_language: Japanese
-  verses:
-    '7.31':
-    - それからまた、イエスはティルスの地方を去り、シドンを経てデカポリス地方を通り抜け、ガリラヤ湖へやって来られた。
-    '7.32':
-    - 人々は耳が聞こえず舌の回らない人を連れて来て、その上に手を置いてくださるようにと願った。
-    '7.33':
-    - そこで、イエスはこの人だけを群衆の中から連れ出し、指をその両耳に差し入れ、それから唾をつけてその舌に触れられた。
-    '7.34':
-    - そして、天を仰いで深く息をつき、その人に向かって、「エッファタ」と言われた。これは、「開け」という意味である。
-  vocabulary:
-    地方: n. ちほう. region, area  (geographical)
-    去り: v. さり. te-form of 去る (to leave, to depart from a place or situation - often
-      used in a narrative context to indicate movement from one location to another)
-    経て: v. へて. te-form of 経る (to pass through, to go through)  - often used to indicate
-      passing through a place or going through a process)
-    通り抜け: v. とおりぬけ. to pass through, to go through (a place or area)
-    やって来られた: v. やってこられた. past tense of やって来る (to come, to arrive) - often used to
-      indicate the arrival of someone or something at a location)
-    耳が聞こえず: phrase. みみがきこえず. unable to hear, deaf
-    舌の回らない: phrase. したのまわらない. unable to speak clearly, tongue-tied
-    連れて来て: v. つれてきて. te-form of 連れて来る (to bring someone along, to bring someone to
-      a place)
-    上に手を置いてくださるようにと願った: phrase. うえにてをおいてくださるようにとねがった. asked for someone to place their
-      hand on [the person] (polite form)
-    群衆の中から連れ出し: phrase. ぐんしゅうのなかからつれだし. to take out from the crowd
-    指を差し入れ: phrase. ゆびをさしいれ. to insert a finger, to put a finger in
-    両耳: phrase. りょうみみ. both ears
-    唾をつけて: phrase. つばをつけて. to spit on, to moisten with saliva
-    舌に触れられた: phrase. したにふれられた. was touched on the tongue
-    天を仰いで: phrase. てんをあおいで. looking up to the sky, looking up to heaven
-    深く息をつき: phrase. ふかくいきをつき. to take a deep breath
-    エッファタ: interjection. エッファタ. Ephpheta (Aramaic for 'Be opened')
-    開け: n. あけ. open (command form)
-  grammar:
-    耳が聞こえず:
-      transliteration: みみがきこえず
-      type: Conjunctive Clause (Ren'yokei)
-      components:
-      - token: が
-        part_of_speech: particle
-        function: subject marker
-      - token: 聞こえ
-        part_of_speech: verb stem
-        base_form: 聞こえる (きこえる)
-        meaning: to be audible
-      - token: ず
-        part_of_speech: negative suffix
-        grammar_note: Classical/formal negative (similar to ない); functions as a connective
-          'te-form' here.
-    舌の回らない:
-      transliteration: したのまわらない
-      type: Relative Clause (Rentaikei)
-      components:
-      - token: の
-        part_of_speech: particle
-        function: subject marker (nominative-no)
-        grammar_note: Replaces 'ga' in relative clauses modifying a noun.
-      - token: 回ら
-        part_of_speech: verb stem (mizenkei)
-        base_form: 回る (まわる)
-        meaning: to turn/rotate
-      - token: ない
-        part_of_speech: auxiliary verb
-        function: negation
-        grammar_note: Modifies the following noun (人 - person).
-  Friday_review: null
 - date: '2026-02-25'
   weekday: Wednesday
   book: マルコの福音書
@@ -1889,5 +1818,55 @@
     お渡しになった: v. おわたしになった. to give (used here to indicate the respectful form of Jesus'
       action in giving the bread to the disciples to distribute, showing his leadership
       and care for the people)
+  grammar: null
+  Friday_review: null
+- date: '2026-02-26'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '8.7':
+    - また、小さい魚が少しあったので、賛美の祈りを唱えて、それも配るようにと言われた。
+    '8.8':
+    - 人々は食べて満腹したが、残ったパンの屑を集めると、七籠になった。
+    '8.9':
+    - およそ四千人の人がいた。イエスは彼らを解散させられた。
+    '8.10':
+    - それからすぐに、弟子たちと共に舟に乗って、ダルマヌタの地方に行かれた。
+  vocabulary:
+    賛美: n. さんび. praise (used here to indicate the act of giving thanks or expressing
+      gratitude, which is a significant detail in the narrative and reflects the religious
+      context of the miracle)
+    満腹: adj. まんぷく. full (used here to indicate the state of being satisfied after
+      eating, which is a key outcome of the miracle and reflects the provision of
+      Jesus for the people)
+    残った: v. のこった. remaining (used here to indicate the food that was left over after
+      the people had eaten, which is a significant detail in the narrative and reflects
+      the abundance of the miracle)
+    屑: n. くず. crumbs (used here to indicate the small pieces of bread that were left
+      over after the people had eaten, which is a significant detail in the narrative
+      and reflects the abundance of the miracle)
+    集める: v. あつめる. to gather (used here to indicate the action of collecting the remaining
+      crumbs, which is a significant detail in the narrative and reflects the care
+      and attention to detail in the aftermath of the miracle)
+    籠: n. かご. basket (used here to indicate the container used to gather the remaining
+      crumbs, which is a significant detail in the narrative and reflects the abundance
+      of the miracle)
+    およそ: adv. およそ. approximately (used here to indicate the estimated number of people
+      in the crowd, which is a significant detail in the narrative and reflects the
+      scale of the miracle)
+    解散: v. かいさん. to dismiss (used here to indicate the action of Jesus sending the
+      people away after they had eaten, which is a significant detail in the narrative
+      and reflects the conclusion of the miracle)
+    すぐに: adv. すぐに. immediately (used here to indicate the promptness of Jesus' action
+      in leaving the area after the miracle, which is a significant detail in the
+      narrative and reflects his ongoing mission)
+    舟: n. ふね. boat (used here to indicate the mode of transportation that Jesus and
+      his disciples used to leave the area after the miracle, which is a significant
+      detail in the narrative and reflects the geographical context of the story)
+    地方: n. ちほう. region (used here to indicate the area that Jesus and his disciples
+      traveled to after leaving the area of the miracle, which is a significant detail
+      in the narrative and reflects the ongoing journey of Jesus and his disciples)
   grammar: null
   Friday_review: null
