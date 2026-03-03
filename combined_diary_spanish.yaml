@@ -2010,3 +2010,23 @@
       in the narrative
   grammar: null
   Friday_review: null
+- date: '2026-03-03'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '8:14':
+    - Los discípulos se habían olvidado de tomar panes, y no tenían consigo en la
+      barca sino solo un pan.
+    '8:15':
+    - 'Jesús les encargaba diciendo: «¡Tengan cuidado! Cuídense de la levadura de
+      los fariseos y de la levadura de Herodes».'
+    '8:16':
+    - Y ellos discutían entre sí que no tenían panes.
+  vocabulary:
+    consigo: pron. with them
+    encargaba: v. encargar. imperfect. He was instructing
+    levadura: n. levadura. yeast
+  grammar: null
+  Friday_review: null
