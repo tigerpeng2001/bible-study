@@ -1870,3 +1870,34 @@
       in the narrative and reflects the ongoing journey of Jesus and his disciples)
   grammar: null
   Friday_review: null
+- date: '2026-03-04'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '8:17':
+    - イエスはそれに気づいて言われた。「なぜ、パンを持っていないことで議論するのか。まだ、分からないのか。悟らないのか。心がかたくなになっているのか。
+    '8:18':
+    - 目があっても見えないのか。耳があっても聞こえないのか。覚えていないのか。
+    '8:19':
+    - わたしが五千人に五つのパンを裂いたとき、集めたパンの屑でいっぱいになった籠は、幾つあったか。」弟子たちは、「十二です」と言った。
+    '8:20':
+    - 「七つのパンを四千人に裂いたときには、集めたパンの屑でいっぱいになった籠は、幾つあったか。」「七つです」と言うと、
+    '8:21':
+    - イエスは、「まだ悟らないのか」と言われた。
+  vocabulary:
+    気づいて: v. 気づく. きづく. to notice
+    議論する: v. 議論する. ぎろんする. to argue
+    悟らない: v. 悟る. さとる. to understand, to realize
+    かたくな: adj. 頑な. かたくな. stubborn, hard-hearted
+    あっても: conj. even if there is
+    覚えていない: v. 覚える. おぼえる. to remember
+    裂いた: v. 裂く. さいた. to break, to tear
+    集めた: v. 集める. あつめる. to gather
+    屑: n. 屑. くず. crumbs
+    いっぱい: adj. 一杯. いっぱい. full
+    籠: n. 籠. かご. basket
+  grammar:
+    のか: sentence-ending particle. indicates a question or doubt
+  Friday_review: null
