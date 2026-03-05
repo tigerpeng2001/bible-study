@@ -1,0 +1,38 @@
+date: "2026-03-05"
+weekday: "Thursday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "8.22":
+    - "一行はベトサイダに着いた。人々が一人の盲人をイエスのところに連れて来て、触れていただきたいと願った。"
+  "8.23":
+    - "イエスは盲人の手を取って、村の外に連れ出し、その目に唾をつけ、両手をその人の上に置いて、「何か見えるか」とお尋ねになった。"
+  "8.24":
+    - "すると、盲人は見えるようになって、言った。「人が見えます。木のようですが、歩いているのが分かります。」"
+  "8.25":
+    - "そこで、イエスがもう一度両手をその目に当てられると、よく見えてきていやされ、何でもはっきり見えるようになった。"
+  "8.26":
+    - "イエスは、「この村に入ってはいけない」と言って、その人を家に帰された。"
+vocabulary:
+  一行: "n. 一行. いちぎょう. group, party"
+  ベトサイダ: "n. ベトサイダ. Bethsaida (a town mentioned in the Gospels)"
+  盲人: "n. 盲人. もうじん. blind person"
+  連れて来て: "v. 連れて来る. つれてきて. to bring (someone)"
+  願った: "v. 願う. ねがった. to wish, to request"
+  手を取って: "phrase. 手を取る. てをとって. to take by the hand"
+  村の外: "phrase. 村の外. むらのそと. outside the village"
+  唾をつけ: "v. 唾をつける. つばをつけ. to spit on"
+  両手を置いて: "phrase. 両手を置く. りょうてをおいて. to place both hands"
+  お尋ねになった: "v. お尋ねになる. おたずねになった. to ask (honorific form)"
+  すると: "conj. すると. then, as a result"
+  見えるようになって: "phrase. 見えるようになる. みえるようになる. to become able to see"
+  人が見えます: "phrase. 人が見える. ひとがみえます. I can see people"
+  木のようですが: "phrase. 木のようですが. きのようですが. It looks like a tree, but"
+  歩いているのが分かります: "phrase. 歩いているのが分かります. あるいているのがわかります. I can see that it is walking"
+  あてられる: "v. あてる. あてられる. to apply, to place (used here in the passive form to indicate that Jesus is applying His hands to the person's eyes)"
+  いやされ: "v. いやす. いやされ. to heal (used here in the passive form to indicate that the person is being healed)"
+  はっきり見えるようになった: "phrase. はっきり見えるようになる. はっきりみえるようになった. to become able to see clearly"
+grammar:
+  当てられると: "と. when (used here to indicate that the action of Jesus applying His hands to the person's eyes leads to the result of the person being able to see clearly)"
+Friday_review:
