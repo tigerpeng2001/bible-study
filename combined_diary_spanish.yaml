@@ -2030,3 +2030,29 @@
     levadura: n. levadura. yeast
   grammar: null
   Friday_review: null
+- date: '2026-03-09'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '8:27':
+    - Jesús salió con Sus discípulos a las aldeas de Cesarea de Filipo;
+    - 'y en el camino preguntó a Sus discípulos: «¿Quién dicen los hombres que soy
+      Yo?».'
+    '8:28':
+    - 'Le respondieron: «Unos, Juan el Bautista; y otros, Elías; pero otros, uno de
+      los profetas». '
+    '8:29':
+    - 'Él les preguntó de nuevo: «Pero ustedes, ¿quién dicen que soy Yo?».'
+    - ' «Tú eres el Cristo», le respondió* Pedro.'
+    '8:30':
+    - Y Jesús les advirtió severamente que no hablaran de Él a nadie.
+  vocabulary:
+    aldeas: n. aldeas. villages
+    camino: n. camino. path or way
+    preguntó: v. preguntar. to ask
+    de nuevo: adv. de nuevo. again
+    advirtió: v. advertir. to warn
+  grammar: null
+  Friday_review: null
