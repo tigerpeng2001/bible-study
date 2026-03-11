@@ -4047,3 +4047,46 @@
       but the things of men
   grammar: null
   Friday_review: null
+- date: '2026-03-11'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '8:34':
+    - それから、群衆を弟子たちと共に呼び寄せて言われた。「わたしの後に従いたい者は、自分を捨て、自分の十字架を背負って、わたしに従いなさい。
+    '8:35':
+    - 自分の命を救いたいと思う者は、それを失うが、わたしのため、また福音のために命を失う者は、それを救うのである。
+    '8:36':
+    - 人は、たとえ全世界を手に入れても、自分の命を失ったら、何の得があろうか。
+    '8:37':
+    - 自分の命を買い戻すのに、どんな代価を支払えようか。
+    '8:38':
+    - 神に背いたこの罪深い時代に、わたしとわたしの言葉を恥じる者は、人の子もまた、父の栄光に輝いて聖なる天使たちと共に来るときに、その者を恥じる。」
+  vocabulary:
+    ともに: adv. together, with
+    呼び寄せて: v. 呼び寄せる. よびよせる. to call together, to summon
+    捨て: v. 捨てる. すて. to abandon, to give up
+    背負って: v. 背負う. せおって. to carry on one's back
+    従いなさい: v. 従う. したがいなさい. to follow (imperative form)
+    救いたいと思う者: phrase. 救いたいと思う者. すくいたいとおもうもの. those who want to save their life
+    失う: v. 失う. うしなう. to lose
+    福音のために: phrase. 福音のために. ふくいんのために. for the sake of the gospel
+    たとえ: conj. たとえ. even if
+    全世界を手に入れても: phrase. 全世界を手に入れても. ぜんせかいをてにいれても. even if one gains the whole world
+    自分の命を失ったら: phrase. 自分の命を失う. じぶんのいのちをうしなう. to lose one's life
+    何の得があろうか: phrase. 何の得があろうか. なんのとくがあろうか. what profit is there in it?
+    買い戻す: v. 買い戻す. かいもどす. to buy back, to redeem
+    代価: n. 代価. だいか. price, cost
+    支払えようか: phrase. 支払えようか. しはらえようか. can one pay?
+    神に背いた: phrase. 神に背く. かみにそむいた. to rebel against God
+    この罪深い時代: phrase. この罪深い時代. このつみぶかいじだい. this sinful generation
+    言葉: n. 言葉. ことば. word(s)
+    恥じる者: phrase. 恥じる者. はじるもの. those who are ashamed
+    人の子: phrase. 人の子. ひとのこ. Son of Man
+    父の栄光: phrase. 父の栄光. ちちのえいこう. the glory of the Father
+    輝いて: v. 輝く. かがやいて. to shine, to be radiant
+    聖なる天使たち: phrase. 聖なる天使たち. せいなるてんしたち. holy angels
+    来るとき: phrase. 来るとき. くるとき. when (someone) comes
+  grammar: null
+  Friday_review: null
