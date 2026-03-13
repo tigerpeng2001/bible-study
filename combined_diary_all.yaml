@@ -4090,3 +4090,49 @@
     来るとき: phrase. 来るとき. くるとき. when (someone) comes
   grammar: null
   Friday_review: null
+- date: '2026-03-12'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '9.1':
+    - また、イエスは言われた。「はっきり言っておく。ここに一緒にいる人々の中には、神の国が力にあふれて現れるのを見るまでは、決して死なない者がいる。」
+    '9.2':
+    - 六日の後、イエスは、ただペトロ、ヤコブ、ヨハネだけを連れて、高い山に登られた。イエスの姿が彼らの目の前で変わり、
+    '9.3':
+    - 服は真っ白に輝き、この世のどんなさらし職人の腕も及ばぬほど白くなった。
+    '9.4':
+    - エリヤがモーセと共に現れて、イエスと語り合っていた。
+  vocabulary:
+    はっきり: adv. はっきり. clearly, distinctly
+    言っておく: v. 言っておく. いっておく. to say in advance, to make clear  in advance
+    あふれて: v. あふれる/溢れてる. あふれて. to overflow, to be filled with
+    現れる: v. 現れる. あらわれる. to appear, to be revealed
+    六日の後: phrase. 六日の後. ろくにちののち. after six days
+    ただ: adv. ただ. only, just
+    連れて: v. 連れる. つれて. to take along, to bring
+    高い山: phrase. 高い山. たかいやま. high mountain
+    登られた: v. 登る. のぼられた. to climb (honorific form)
+    姿: n. 姿. すがた. figure, appearance
+    目の前: phrase. 目の前. めのまえ. in front of one's eyes
+    変わり: v. 変わる. かわり. to change
+    服: n. 服. ふく. clothes
+    真っ白: adj. 真っ白. まっしろ. pure white
+    輝き: v. 輝く. かがやき. to shine, to be radiant
+    どんな: adj. どんな. what kind of, any
+    さらし職人の腕: phrase. さらし職人の腕. さらししょくにんのうで. the skill of a bleacher (used here to describe
+      the extreme whiteness of Jesus' clothes)
+    及ばぬほど: phrase. 及ばぬほど. およばぬほど. to the extent that it cannot be compared, so much
+      that it cannot be matched
+    共に: adv. 共に. ともに. together, with
+    現れて: v. 現れる. あらわれて. to appear, to be revealed
+    語り合っていた: v. 語り合う. かたりあっていた. to talk together, to converse (past continuous form)
+  grammar:
+    神の国が力にあふれて現れるのを見るまでは: phrase. 神の国が力にあふれて現れるのを見るまでは. かみのくにがちからにあふれてあらわれるのをみるまでは.
+      until they see the kingdom of God come with power
+    力にあふれて現れる: phrase. 力にあふれて現れる. ちからにあふれてあらわれる. to come with power
+    に: particle. に. indicates the target of an action or the point in time when something
+      happens
+    までは: particle. までは. until (indicates the limit of time or extent)
+  Friday_review: null
