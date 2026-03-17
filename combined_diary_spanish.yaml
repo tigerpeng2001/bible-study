@@ -2103,3 +2103,37 @@
       but the things of men
   grammar: null
   Friday_review: null
+- date: '2026-03-16'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '9:5':
+    - 'Entonces Pedro dijo* a Jesús: «Rabí, bueno es que estemos aquí; hagamos tres
+      enramadas, una para Ti, otra para Moisés y otra para Elías».'
+    '9:6':
+    - Porque él no sabía qué decir, pues estaban aterrados.
+    '9:7':
+    - 'Entonces se formó una nube que los cubrió, y una voz salió de la nube: «Este
+      es Mi Hijo amado; oigan a Él». '
+    '9:8':
+    - Y enseguida miraron en derredor, pero ya no vieron a nadie con ellos, sino a
+      Jesús solo.
+  vocabulary:
+    hagomos: v. hacer. hagamos. let's do it  (1st person plural imperative form)
+    enramadas: n. enramada. booth or shelter made of branches
+    aterrados: adj. aterrado. aterrados. terrified (plural form)
+    se formó: v. formarse. se formó. it formed (reflexive verb in past tense)
+    nube: n. nube. nube. cloud
+    cubrió: v. cubrir. cubrió. covered (past tense)
+    oigan: v. oír. oigan. listen (3rd person plural imperative form)
+    enseguida: adv. enseguida. enseguida. immediately
+    miraron: v. mirar. miraron. they looked (past tense)
+    derredor: adv. derredor. derredor. around
+    ya no vieron: phrase. ya no vieron. they no longer saw
+  grammar:
+    ya no vieron a nadie con ellos: phrase. ya no vieron a nadie con ellos. they no
+      longer saw anyone with them
+    ya: adv. ya. already, anymore
+  Friday_review: null
