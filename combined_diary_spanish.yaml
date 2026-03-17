@@ -2137,3 +2137,29 @@
       longer saw anyone with them
     ya: adv. ya. already, anymore
   Friday_review: null
+- date: '2026-03-17'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '9:9':
+    - Cuando bajaban del monte, Jesús les ordenó que no contaran a nadie lo que habían
+      visto,
+    - hasta que el Hijo del Hombre resucitara de entre los muertos.
+    '9:10':
+    - 'Y se guardaron para sí lo que fue dicho, discutiendo entre sí qué significaría
+      eso de resucitar de entre los muertos. '
+    '9:11':
+    - 'Le preguntaron a Jesús: «¿Por qué dicen los escribas que Elías debe venir primero?».'
+  vocabulary:
+    contaran: v. contar. contaran. to tell (past subjunctive)
+    guardaron: v. guardar. guardaron. they kept (past tense)
+    para sí: phrase. para sí. for themselves
+    fue dicho: phrase. fue dicho. was said
+    sí qué significaría: phrase. sí qué significaría. what it would mean
+    resucitar de entre los muertos: phrase. resucitar de entre los muertos. to rise
+      from the dead
+    escribas: n. escribas. scribes
+  grammar: null
+  Friday_review: null
