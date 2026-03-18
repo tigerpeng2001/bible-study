@@ -4196,3 +4196,34 @@
     escribas: n. escribas. scribes
   grammar: null
   Friday_review: null
+- date: '2026-03-18'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '9:12':
+    - イエスは言われた。「確かに、まずエリヤが来て、すべてを元どおりにする。それなら、人の子は苦しみを重ね、辱めを受けると聖書に書いてあるのはなぜか。
+    '9:13':
+    - しかし、言っておく。エリヤは来たが、彼について聖書に書いてあるように、人々は好きなようにあしらったのである。」
+  vocabulary:
+    確かに: adv. たしかに. certainly, indeed
+    まず: adv. まず. first
+    来て: v. くる. 来る. きて. 来て. to come (te-form)
+    すべてを元どおりにする: phrase. すべてを元どおりにする. to restore everything
+    すべて: n. すべて. everything
+    元どおり: n. 元どおり. original state
+    それなら: conj. それなら. if that's the case
+    苦しみ: n. 苦しみ. suffering
+    重ね: v. かさねる. 重ねる. かさね. 重ね. to pile up, to repeat
+    辱め: n. はずかしめ. disgrace, humiliation
+    受ける: v. うける. 受ける. to receive
+    聖書: n. せいしょ. Bible
+    書いてある: phrase. かいてある. 書いてある. it is written
+    なぜか: adv. なぜか. for some reason
+    言っておく: phrase. いっておく. to say in advance, to warn
+    彼について: phrase. かれについて. about him
+    好きなように: phrase. すきなように. as they pleased
+    あしらった: v. あしらう. あしらう. あしらった. treated (past tense)
+  grammar: null
+  Friday_review: null
