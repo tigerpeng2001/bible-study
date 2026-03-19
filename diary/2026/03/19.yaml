@@ -1,0 +1,25 @@
+date: "2026-03-19"
+weekday: "Thursday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "9.14":
+    - "一同がほかの弟子たちのところに来てみると、彼らは大勢の群衆に取り囲まれて、律法学者たちと議論していた。"
+  "9.15":
+    - "群衆は皆、イエスを見つけて非常に驚き、駆け寄って来て挨拶した。"
+  "9.16":
+    - "イエスが、「何を議論しているのか」とお尋ねになると、"
+vocabulary:
+  一同: "n. 一同. いちどう. all present, everyone"
+  ほか: "adj. ほか. other"
+  取り囲まれて: "v. とりかこむ. 取り囲む. とりかこまれて. surrounded (te-form)"
+  律法学者: "n. りっぽうがくしゃ. りっぽうがくしゃ. lawyer, expert in the law"
+  議論: "n. ぎろん. discussion, argument"
+  非常に: "adv. ひじょうに. very, extremely"
+  驚き: "n. おどろき. surprise"
+  駆け寄って来て: "v. かけよる. 駆け寄る. かけよってきて. ran up to (te-form)"
+  挨拶: "n. あいさつ. greeting"
+  お尋ねになる: "phrase. おたずねになる. to ask (honorific)"
+grammar:
+Friday_review:
