@@ -4286,3 +4286,30 @@
     traigan: v. traer. traigan. bring (imperative)
   grammar: null
   Friday_review: null
+- date: '2026-03-24'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '9:20':
+    - Y lo llevaron ante Él.
+    - Cuando el espíritu vio a Jesús, al instante sacudió con violencia al muchacho,
+    - y este, cayendo a tierra, se revolcaba echando espumarajos.
+    '9:21':
+    - 'Jesús preguntó al padre: «¿Cuánto tiempo hace que le sucede esto?». «Desde
+      su niñez», respondió.'
+    '9:22':
+    - «Muchas veces ese espíritu lo ha echado en el fuego y también en el agua para
+      destruirlo.
+    - Pero si Tú puedes hacer algo, ten misericordia de nosotros y ayúdanos».
+  vocabulary:
+    sacudió: v. sacudir. sacudió. shook (past tense)
+    cayendo: v. caer. cayendo. falling (present participle)
+    revolcaba: v. revolcar. revolcaba. was rolling around (past tense)
+    echando: v. echar. echando. spitting (present participle)
+    espumarajos: n. espumarajos. foam
+    echado: v. echar. echado. has thrown (past participle)
+    fuego: n. fuego. fire
+  grammar: null
+  Friday_review: null
