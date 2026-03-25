@@ -2087,3 +2087,31 @@
     お尋ねになる: phrase. おたずねになる. to ask (honorific)
   grammar: null
   Friday_review: null
+- date: '2026-03-25'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '9:23':
+    - イエスは言われた。「『できれば』と言うか。信じる者には何でもできる。」
+    '9:24':
+    - その子の父親はすぐに叫んだ。「信じます。信仰のないわたしをお助けください。」
+    '9:25':
+    - イエスは、群衆が走り寄って来るのを見ると、汚れた霊をお叱りになった。
+    - ものも言わせず、耳も聞こえさせない霊、わたしの命令だ。この子から出て行け。二度とこの子の中に入るな。」
+  vocabulary:
+    叫んだ: v. さけぶ. 叫ぶ. さけんだ. 叫んだ. to shout, to cry out (past tense)
+    走り寄って来る: phrase. はしりよってくる. 走り寄って来る. to run up to, to rush up to
+    汚れた: adj. よごれた. 汚れた. dirty, unclean (past participle)
+    霊: n. れい. 霊. spirit, ghost
+    お叱り: n. おしかり. お叱り. scolding (honorific)
+    お叱りになった: v. おしかる. お叱りになる. お叱りになった. to scold (honorific past tense)
+    ものも言わせず: phrase. ものもいわせず. ものも言わせず. without letting it say anything
+    耳も聞こえさせない: phrase. みみもきこえさせない. 耳も聞こえさせない. without letting it hear anything
+    出て行け: phrase. でていけ. 出て行け. Get out!
+    二度と: phrase. にどと. 二度と. never again
+  grammar:
+    信仰のないわたし: の. is subject marker in a subordinate clause. 信仰のないわたし. I who have no
+      faith
+  Friday_review: null
