@@ -4341,3 +4341,38 @@
     信仰のないわたし: の. is subject marker in a subordinate clause. 信仰のないわたし. I who have no
       faith
   Friday_review: null
+- date: '2026-03-26'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '9.26':
+    - すると、霊は叫び声をあげ、ひどく引きつけさせて出て行った。その子は死んだようになったので、多くの者が、「死んでしまった」と言った。
+    '9.27':
+    - しかし、イエスが手を取って起こされると、立ち上がった。
+    '9.28':
+    - イエスが家の中に入られると、弟子たちはひそかに、「なぜ、わたしたちはあの霊を追い出せなかったのでしょうか」と尋ねた。
+    '9.29':
+    - イエスは、「この種のものは、祈りによらなければ決して追い出すことはできないのだ」と言われた。
+  vocabulary:
+    すると: conj. すると. すると. then, thereupon
+    ひどく: adv. ひどく. terribly, severely
+    引きつけさせて: v. ひきつける. 引きつける. ひきつけさせて. to cause to have a seizure (te-form)
+    死んだようになった: phrase. しんだようになった. 死んだようになった. became like dead
+    多くの者: phrase. おおくのもの. 多くの者. many people
+    死んでしまった: phrase. しんでしまった. 死んでしまった. died (with a nuance of regret or finality)
+    手を取って: phrase. てをとって. 手を取って. taking by the hand
+    起こされる: v. おこす. 起こす. おこされる. to wake up, to raise (passive form)
+    立ち上がった: v. たちあがる. 立ち上がる. たちあがった. stood up (past tense)
+    家の中: phrase. いえのなか. 家の中. inside the house
+    ひそかに: adv. ひそかに. ひそかに. secretly
+    なぜ: adv. なぜ. なぜ. why
+    追い出せなかった: v. おいだす. 追い出す. おいだせなかった. could not drive out
+    尋ねた: v. たずねる. 尋ねる. たずねた. asked (past tense)
+    この種のもの: phrase. このしゅのもの. この種のもの. this kind of thing
+    祈りによらなければ: phrase. いのりによらなければ. 祈りによらなければ. if not by prayer
+    決して: adv. けっして. 決して. never
+    追い出すことはできない: phrase. おいだすことはできない. 追い出すことはできない. cannot drive out
+  grammar: null
+  Friday_review: null
