@@ -1,0 +1,31 @@
+date: "2026-03-23"
+weekday: "Monday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "9:17":
+    - "Y uno de la multitud le respondió: «Maestro, te he traído a mi hijo que tiene un espíritu mudo,"
+  "9:18":
+    - "y siempre que se apodera de él, lo derriba, y echa espumarajos, cruje los dientes y se va consumiendo."
+    - "Dije a Tus discípulos que expulsaran al espíritu, pero no pudieron»."
+  "9:19":
+    - "Jesús les dijo*: «¡Oh generación incrédula! ¿Hasta cuándo estaré con ustedes? ¿Hasta cuándo los tendré que soportar? ¡Traigan al muchacho!». "
+vocabulary:
+  traído: "v. traer. traído. brought (past participle)"
+  mudo: "adj. mudo. mudo. mute"
+  apodera: "v. apoderarse. apodera. takes possession (present tense)"
+  derriba: "v. derribar. derriba. knocks him down (present tense)"
+  echa: "v. echar. echa. spits (present tense)"
+  espumarajos: "n. espumarajos. foam"
+  cruje: "v. crujir. cruje. grinds (present tense)"
+  dientes: "n. dientes. teeth"
+  consumiendo: "v. consumir. consumiendo. wasting away (present participle)"
+  dije: "v. decir. dije. I said (past tense)"
+  expulsaran: "v. expulsar. expulsaran. they expelled (past subjunctive)"
+  pudieron: "v. poder. pudieron. they could (past tense)"
+  tendré: "v. tener. tendré. I will have (future tense)"
+  soportar: "v. soportar. soportar. to endure"
+  traigan: "v. traer. traigan. bring (imperative)"
+grammar:
+Friday_review:
