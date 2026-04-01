@@ -2248,3 +2248,36 @@
     preguntar: v. preguntar. preguntar. to ask
   grammar: null
   Friday_review: null
+- date: '2026-03-31'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '9:33':
+    - 'Llegaron a Capernaúm; y estando ya en la casa, Jesús les preguntaba: «¿Qué
+      discutían por el camino?».'
+    '9:34':
+    - Pero ellos guardaron silencio, porque en el camino habían discutido entre sí
+      quién de ellos era el mayor.
+    '9:35':
+    - 'Jesús se sentó, llamó a los doce discípulos y les dijo*: «Si alguien desea
+      ser el primero, será el último de todos y el servidor de todos». '
+    '9:36':
+    - 'Tomando a un niño, lo puso en medio de ellos; y tomándolo en los brazos les
+      dijo: '
+    '9:37':
+    - «El que reciba a un niño como este en Mi nombre, me recibe a Mí; y el que me
+      recibe a Mí, no me recibe a Mí, sino a Aquel que me envió».
+  vocabulary:
+    discutían: v. discutir. discutían. were discussing (past tense)
+    guardaron silencio: phrase. guardar silencio. guardaron silencio. kept silent
+    discutido entre sí: phrase. discutir entre sí. discutido entre sí. discussed among
+      themselves
+    se sentó: phrase. sentarse. se sentó. sat down
+    desea: v. desear. desea. desires
+    último de todos: phrase. último de todos. último de todos. last of all
+    Aquel que me envió: phrase. Aquel que me envió. Aquel que me envió. He who sent
+      me
+  grammar: null
+  Friday_review: null
