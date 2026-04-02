@@ -4433,3 +4433,43 @@
       me
   grammar: null
   Friday_review: null
+- date: '2026-04-01'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '9:38':
+    - ヨハネがイエスに言った。「先生、お名前を使って悪霊を追い出している者を見ましたが、わたしたちに従わないので、やめさせようとしました。」
+    '9:39':
+    - イエスは言われた。「やめさせてはならない。わたしの名を使って奇跡を行い、そのすぐ後で、わたしの悪口は言えまい。
+    '9:40':
+    - わたしたちに逆らわない者は、わたしたちの味方なのである。
+    '9:41':
+    - はっきり言っておく。キリストの弟子だという理由で、あなたがたに一杯の水を飲ませてくれる者は、必ずその報いを受ける。」
+  vocabulary:
+    使って: v. つかう. 使う. つかっ. 使って. to use (te-form)
+    悪霊を追い出す: phrase. あくりょうをおいだす. 悪霊を追い出す. to cast out demons
+    従わない: phrase. したがわない. 従わない. do not follow
+    やめさせよう: phrase. やめさせる causative. やめさせよう volitional. to try to stop
+    しました: v. する. しました. did (polite past)
+    やめさせてはならない: phrase. やめさせてはならない. やめさせてはならない. must not stop
+    奇跡を行う: phrase. きせきをおこなう. 奇跡を行う. to perform miracles
+    すぐ後で: phrase. すぐあとで. すぐ後で. immediately afterward
+    悪口は言えまい: phrase. わるくちはいえまい. 悪口は言えまい. cannot speak ill of
+    逆らわない: phrase. さからわない. 逆らわない. do not oppose
+    味方: n. みかた. 味方. ally
+    はっきり言っておく: phrase. はっきりいっておく. はっきり言っておく. let me make this clear
+    はっきり: adv. はっきり. はっきり. clearly
+    おく: v. おく. おく. to put (something) away, to do something in advance (te-form)
+    弟子: n. でし. 弟子. disciple
+    だという理由で: phrase. だというりゆうで. だという理由で. for the reason that
+    飲ませてくれる: v. のませてくれる. 飲ませてくれる. to give (someone) something to drink (te-form)
+    飲ませて: v. のませる. 飲ませる. to make (someone) drink (te-form)
+    くれる: v. くれる. くれる. to give (to me or us)
+    必ずその報いを受ける: phrase. かならずそのむくいをうける. 必ずその報いを受ける. will certainly receive a reward
+    かならず: adv. かならず. 必ず. certainly
+    報い: n. むくい. 報い. reward
+    受ける: v. うける. 受ける. to receive
+  grammar: null
+  Friday_review: null
