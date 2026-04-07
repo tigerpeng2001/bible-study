@@ -4510,3 +4510,36 @@
     えぐり出しなさい: v. えぐりだしなさい. gouge out, dig out
   grammar: null
   Friday_review: null
+- date: '2026-04-06'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '9:46':
+    - donde EL GUSANO DE ELLOS NO MUERE, Y EL FUEGO NO SE APAGA.
+    '9:47':
+    - Y si tu ojo te es ocasión de pecar, sácatelo; te es mejor entrar al reino de
+      Dios con un solo ojo, que teniendo dos ojos ser echado al infierno
+    '9:48':
+    - donde EL GUSANO DE ELLOS NO MUERE, Y EL FUEGO NO SE APAGA.
+    '9:49':
+    - Porque todos serán salados con fuego.
+    '9:50':
+    - La sal es buena; pero si la sal se vuelve insípida, ¿con qué la sazonarán? Tengan
+      sal en ustedes y estén en paz los unos con los otros».
+  vocabulary:
+    donde: adv. donde. donde. where
+    GUSANO: n. gusano. gusano. worm
+    FUEGO: n. fuego. fuego. fire
+    APAGA: v. apagar. apagar. to extinguish
+    ocasión: n. ocasión. ocasión. reason
+    sácatelo: v. sacar. sácatelo. take out
+    echoad: v. echar. echoad. throw out
+    infierno: n. infierno. infierno. hell
+    salados: adj. salado. salados. salted
+    vuelve: v. volver. vuelve. return
+    insípida: adj. insípido. insípida. tasteless
+    sazonarán: v. sazonar. sazonarán. season
+  grammar: null
+  Friday_review: null
