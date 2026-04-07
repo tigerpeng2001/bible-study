@@ -2314,3 +2314,33 @@
     sazonarán: v. sazonar. sazonarán. season
   grammar: null
   Friday_review: null
+- date: '2026-04-07'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '10:1':
+    - Levantándose de allí, Jesús se fue* a la región de Judea y al otro lado del
+      Jordán;
+    - y se reunieron* de nuevo las multitudes junto a Él, y una vez más, como acostumbraba,
+      les enseñaba.
+    '10:2':
+    - 'Se acercaron algunos fariseos, y para poner a prueba a Jesús, le preguntaban
+      si era lícito a un hombre divorciarse de su mujer. '
+    '10:3':
+    - «¿Qué les mandó Moisés?», les dijo Jesús.
+    '10:4':
+    - 'Ellos respondieron: «Moisés permitió al hombre escribir CARTA DE DIVORCIO Y
+      REPUDIARLA».'
+  vocabulary:
+    lado: n. lado. lado. side
+    reunieron: v. reunirse. se reunieron. gathered together
+    acostumbraba: v. acostumbrar. acostumbraba. used to
+    acercaron: v. acercar. se acercaron. approached
+    poner: v. poner. poner. to put
+    prueba: v. poner a prueba. prueba. to test
+    lícito: adj. lícito. lícito. lawful
+    repudiarla: v. repudiar. repudiarla. to divorce
+  grammar: null
+  Friday_review: null
