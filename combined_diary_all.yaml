@@ -4573,3 +4573,37 @@
     repudiarla: v. repudiar. repudiarla. to divorce
   grammar: null
   Friday_review: null
+- date: '2026-04-08'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '10:5':
+    - イエスは言われた。「あなたたちの心が頑固なので、このような掟をモーセは書いたのだ。
+    '10:6':
+    - しかし、天地創造の初めから、神は人を男と女とにお造りになった。
+    '10:7':
+    - それゆえ、人は父母を離れてその妻と結ばれ、
+    '10:8':
+    - 二人は一体となる。だから二人はもはや別々ではなく、一体である。
+    '10:9':
+    - 従って、神が結び合わせてくださったものを、人は離してはならない。」
+  vocabulary:
+    頑固: adj. がんこ. 頑固. stubborn
+    このような: phrase. このような. このような. such
+    掟: n. おきて. 掟. commandment
+    天地創造: n. てんちそうぞう. 天地創造. creation of heaven and earth
+    男: n. おとこ. 男. man
+    女: n. おんな. 女. woman
+    お造りになった: v. おつくりになった. お造りになった. created (honorific)
+    それゆえ: phrase. それゆえ. それゆえ. therefore
+    父母: n. ふぼ. 父母. parents
+    離れて: v. はなれて. 離れて. to leave, to separate (te-form)
+    結ばれ: v. むすばれ. 結ばれ. to be united, to be joined (passive form)
+    はもはや: adv. はもはや. はもはや. no longer
+    別々: adv. べつべつ. 別々. separately
+    従って: phrase. したがって. 従って. therefore
+    結び合わせて: v. むすびあわせて. 結び合わせて. to be joined together (te-form)
+  grammar: null
+  Friday_review: null
