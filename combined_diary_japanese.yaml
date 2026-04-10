@@ -2261,3 +2261,28 @@
     結び合わせて: v. むすびあわせて. 結び合わせて. to be joined together (te-form)
   grammar: null
   Friday_review: null
+- date: '2026-04-09'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '10:10':
+    - 家に戻ってから、弟子たちがまたこのことについて尋ねた。
+    '10:11':
+    - イエスは言われた。「妻を離縁して他の女を妻にする者は、妻に対して姦通の罪を犯すことになる。
+    '10:12':
+    - 夫を離縁して他の男を夫にする者も、姦通の罪を犯すことになる。」
+  vocabulary:
+    戻って: v. もどって. to return (te-form)
+    尋ねた: v. たずねる. 尋ねる. たずねた. asked (past tense)
+    妻: n. つま. 妻. wife
+    離縁: n. りえん. 離縁. divorce
+    他の女: phrase. たのおんな. 他の女. another woman
+    妻にする: phrase. つまにする. 妻にする. to take as a wife
+    姦通の罪: phrase. かんつうのつみ. 姦通の罪. the sin of adultery
+    夫: n. おっと. 夫. husband
+    他の男: phrase. たのおとこ. 他の男. another man
+    夫にする: phrase. おっとにする. 夫にする. to take as a husband
+  grammar: null
+  Friday_review: null
