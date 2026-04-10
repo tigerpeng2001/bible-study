@@ -357,10 +357,10 @@
   version: Reina Valera 1995 (RVR95)
   target_language: Spanish
   verses:
-    '2.1':
+    '2:1':
     - '''Después de algunos días, Jesús entró otra vez en Capernaúm. Cuando se supo
       que estaba en casa, '
-    '2.2':
+    '2:2':
     - 'inmediatamente se juntaron muchos, de manera que ya no cabían ni aun a la puerta;
       y les predicaba la palabra. '
   vocabulary:
@@ -438,9 +438,9 @@
   version: Reina Valera 1995 (RVR95)
   target_language: Spanish
   verses:
-    '2.13':
+    '2:13':
     - 'Después volvió a la orilla del mar; y toda la gente venía a él, y les enseñaba. '
-    '2.14':
+    '2:14':
     - 'Al pasar, vio a Leví hijo de Alfeo sentado al banco de los tributos públicos,
       y le dijo:'
     - —Sígueme.
@@ -501,11 +501,11 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '2.21':
+    '2:21':
     - Nadie pone un remiendo de tela nueva en un vestido viejo,
     - porque entonces el remiendo al encogerse tira de él, lo nuevo de lo viejo,
     - y se produce una rotura peor.
-    '2.22':
+    '2:22':
     - Y nadie echa vino nuevo en odres viejos,
     - porque entonces el vino romperá el odre,
     - y se pierden el vino y también los odres;
@@ -573,11 +573,11 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '3.4':
+    '3:4':
     - 'Entonces Jesús dijo* a los otros:'
     - «¿Es lícito en el día de reposo hacer bien o hacer mal, salvar una vida o matar?».
     - Pero ellos guardaban silencio.
-    '3.5':
+    '3:5':
     - Y mirando con enojo a los que lo rodeaban,
     - y entristecido por la dureza de sus corazones,
     - 'le dijo* al hombre: «Extiende tu mano».'
@@ -651,10 +651,10 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '3.13':
+    '3:13':
     - Después Jesús subió* al monte, llamó* a los que Él quiso, y ellos vinieron a
       Él.
-    '3.14':
+    '3:14':
     - 'Designó a doce, para que estuvieran con Él y para enviarlos a predicar, '
     '3:15':
     - y para que tuvieran autoridad de expulsar demonios.
@@ -707,7 +707,7 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '3.28':
+    '3:28':
     - En verdad les digo que todos los pecados serán perdonados a los hijos de los
       hombres, y las blasfemias con que blasfemen,
     '3:29':
@@ -770,7 +770,7 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '4.10':
+    '4:10':
     - Cuando Jesús se quedó solo, Sus seguidores junto con los doce le preguntaban
       sobre las parábolas.
     '4:11':
@@ -866,7 +866,7 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '4.24':
+    '4:24':
     - 'Además les decía: «Cuídense de lo que oigan. Con la medida con que ustedes
       midan, se les medirá, y aun más se les dará.'
     '4:25':
@@ -933,7 +933,7 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '4.35':
+    '4:35':
     - 'Ese mismo día, caída ya la tarde, Jesús les dijo*: «Pasemos al otro lado».'
     '4:36':
     - Despidiendo a la multitud, lo llevaron con ellos en la barca, como estaba; y
@@ -1029,7 +1029,7 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '4.39':
+    '4:39':
     - 'Jesús se levantó, reprendió al viento y dijo al mar: «¡Cálmate, sosiégate!».
       Y el viento cesó, y sobrevino una gran calma.'
     '4:40':
