@@ -4,7 +4,7 @@ book: "Marcos"
 version: "Nueva Biblia de las Américas (NBLA)"
 target_language: "Spanish"
 verses:
-  "4.39":
+  "4:39":
     - "Jesús se levantó, reprendió al viento y dijo al mar: «¡Cálmate, sosiégate!». Y el viento cesó, y sobrevino una gran calma."
   "4:40":
     - "Entonces les dijo: «¿Por qué están atemorizados? ¿Cómo no tienen fe?»."

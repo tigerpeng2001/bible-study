@@ -4,11 +4,11 @@ book: "Marcos"
 version: "Nueva Biblia de las Américas (NBLA)"
 target_language: "Spanish"
 verses:
-  "3.4": 
+  "3:4": 
     - "Entonces Jesús dijo* a los otros:"
     - "«¿Es lícito en el día de reposo hacer bien o hacer mal, salvar una vida o matar?»."
     - "Pero ellos guardaban silencio."
-  "3.5":
+  "3:5":
     - "Y mirando con enojo a los que lo rodeaban,"
     - "y entristecido por la dureza de sus corazones,"
     - "le dijo* al hombre: «Extiende tu mano»."

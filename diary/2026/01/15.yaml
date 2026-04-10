@@ -4,11 +4,11 @@ book: "マルコの福音書"
 version: "新共同訳 (日本聖書協会 1987, 1988)"
 target_language: "Japanese"
 verses:
-  "6.7":
+  "6:7":
     - "そして、十二人を呼び寄せ、二人ずつ組にして遣わすことにされた。その際、汚れた霊に対する権能を授け、"
-  "6.8":
+  "6:8":
     - "旅には杖一本のほか何も持たず、パンも、袋も、また帯の中に金も持たず、"
-  "6.9":
+  "6:9":
     - "ただ履物は履くように、そして「下着は二枚着てはならない」と命じられた。"
 vocabulary:
   呼び寄せ: "v. よびよせる. to call over, to summon (gerund form here, indicating the action of calling the twelve disciples)"

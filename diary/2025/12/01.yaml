@@ -4,7 +4,7 @@ book: "Marcos"
 version: "Nueva Biblia de las Américas (NBLA)"
 target_language: "Spanish"
 verses:
-  "3.28":
+  "3:28":
     - "En verdad les digo que todos los pecados serán perdonados a los hijos de los hombres, y las blasfemias con que blasfemen,"
   "3:29":
     - "y pero cualquiera que blasfeme contra el Espíritu Santo no tiene jamás perdón, sino que es culpable de pecado eterno». "

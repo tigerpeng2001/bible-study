@@ -4,7 +4,7 @@ book: "Marcos"
 version: "Nueva Biblia de las Américas (NBLA)"
 target_language: "Spanish"
 verses:
-  "4.24":
+  "4:24":
     - "Además les decía: «Cuídense de lo que oigan. Con la medida con que ustedes midan, se les medirá, y aun más se les dará."
   "4:25":
     - "Porque al que tiene, se le dará más, pero al que no tiene, aun lo que tiene se le quitará»."

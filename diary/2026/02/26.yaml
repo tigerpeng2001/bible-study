@@ -4,13 +4,13 @@ book: "マルコの福音書"
 version: "新共同訳 (日本聖書協会 1987, 1988)"
 target_language: "Japanese"
 verses:
-  "8.7":
+  "8:7":
     - "また、小さい魚が少しあったので、賛美の祈りを唱えて、それも配るようにと言われた。"
-  "8.8":
+  "8:8":
     - "人々は食べて満腹したが、残ったパンの屑を集めると、七籠になった。"
-  "8.9":
+  "8:9":
     - "およそ四千人の人がいた。イエスは彼らを解散させられた。"
-  "8.10":
+  "8:10":
     -  "それからすぐに、弟子たちと共に舟に乗って、ダルマヌタの地方に行かれた。"
 vocabulary:
   賛美: "n. さんび. praise (used here to indicate the act of giving thanks or expressing gratitude, which is a significant detail in the narrative and reflects the religious context of the miracle)"

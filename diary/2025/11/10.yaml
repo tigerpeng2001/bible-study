@@ -4,11 +4,11 @@ book: "Marcos"
 version: "Nueva Biblia de las Américas (NBLA)"
 target_language: "Spanish"
 verses:
-  "2.21": 
+  "2:21": 
     - "Nadie pone un remiendo de tela nueva en un vestido viejo,"
     - "porque entonces el remiendo al encogerse tira de él, lo nuevo de lo viejo,"
     - "y se produce una rotura peor."
-  "2.22": 
+  "2:22": 
     - "Y nadie echa vino nuevo en odres viejos,"
     - "porque entonces el vino romperá el odre,"
     - "y se pierden el vino y también los odres;"
