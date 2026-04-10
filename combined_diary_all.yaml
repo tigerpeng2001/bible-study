@@ -669,10 +669,10 @@
   version: Reina Valera 1995 (RVR95)
   target_language: Spanish
   verses:
-    '2.1':
+    '2:1':
     - '''Después de algunos días, Jesús entró otra vez en Capernaúm. Cuando se supo
       que estaba en casa, '
-    '2.2':
+    '2:2':
     - 'inmediatamente se juntaron muchos, de manera que ya no cabían ni aun a la puerta;
       y les predicaba la palabra. '
   vocabulary:
@@ -829,9 +829,9 @@
   version: Reina Valera 1995 (RVR95)
   target_language: Spanish
   verses:
-    '2.13':
+    '2:13':
     - 'Después volvió a la orilla del mar; y toda la gente venía a él, y les enseñaba. '
-    '2.14':
+    '2:14':
     - 'Al pasar, vio a Leví hijo de Alfeo sentado al banco de los tributos públicos,
       y le dijo:'
     - —Sígueme.
@@ -982,11 +982,11 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '2.21':
+    '2:21':
     - Nadie pone un remiendo de tela nueva en un vestido viejo,
     - porque entonces el remiendo al encogerse tira de él, lo nuevo de lo viejo,
     - y se produce una rotura peor.
-    '2.22':
+    '2:22':
     - Y nadie echa vino nuevo en odres viejos,
     - porque entonces el vino romperá el odre,
     - y se pierden el vino y también los odres;
@@ -1108,11 +1108,11 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '3.4':
+    '3:4':
     - 'Entonces Jesús dijo* a los otros:'
     - «¿Es lícito en el día de reposo hacer bien o hacer mal, salvar una vida o matar?».
     - Pero ellos guardaban silencio.
-    '3.5':
+    '3:5':
     - Y mirando con enojo a los que lo rodeaban,
     - y entristecido por la dureza de sus corazones,
     - 'le dijo* al hombre: «Extiende tu mano».'
@@ -1229,10 +1229,10 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '3.13':
+    '3:13':
     - Después Jesús subió* al monte, llamó* a los que Él quiso, y ellos vinieron a
       Él.
-    '3.14':
+    '3:14':
     - 'Designó a doce, para que estuvieran con Él y para enviarlos a predicar, '
     '3:15':
     - y para que tuvieran autoridad de expulsar demonios.
@@ -1378,7 +1378,7 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '3.28':
+    '3:28':
     - En verdad les digo que todos los pecados serán perdonados a los hijos de los
       hombres, y las blasfemias con que blasfemen,
     '3:29':
@@ -1519,7 +1519,7 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '4.10':
+    '4:10':
     - Cuando Jesús se quedó solo, Sus seguidores junto con los doce le preguntaban
       sobre las parábolas.
     '4:11':
@@ -1696,7 +1696,7 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '4.24':
+    '4:24':
     - 'Además les decía: «Cuídense de lo que oigan. Con la medida con que ustedes
       midan, se les medirá, y aun más se les dará.'
     '4:25':
@@ -1833,7 +1833,7 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '4.35':
+    '4:35':
     - 'Ese mismo día, caída ya la tarde, Jesús les dijo*: «Pasemos al otro lado».'
     '4:36':
     - Despidiendo a la multitud, lo llevaron con ellos en la barca, como estaba; y
@@ -1929,7 +1929,7 @@
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
-    '4.39':
+    '4:39':
     - 'Jesús se levantó, reprendió al viento y dijo al mar: «¡Cálmate, sosiégate!».
       Y el viento cesó, y sobrevino una gran calma.'
     '4:40':
@@ -2652,11 +2652,11 @@
   version: 新共同訳 (日本聖書協会 1987, 1988)
   target_language: Japanese
   verses:
-    '6.7':
+    '6:7':
     - そして、十二人を呼び寄せ、二人ずつ組にして遣わすことにされた。その際、汚れた霊に対する権能を授け、
-    '6.8':
+    '6:8':
     - 旅には杖一本のほか何も持たず、パンも、袋も、また帯の中に金も持たず、
-    '6.9':
+    '6:9':
     - ただ履物は履くように、そして「下着は二枚着てはならない」と命じられた。
   vocabulary:
     呼び寄せ: v. よびよせる. to call over, to summon (gerund form here, indicating the action
@@ -2836,15 +2836,15 @@
   version: 新共同訳 (日本聖書協会 1987, 1988)
   target_language: Japanese
   verses:
-    '6.21':
+    '6:21':
     - ところが、良い機会が訪れた。ヘロデが、自分の誕生日の祝いに高官や将校、ガリラヤの有力者などを招いて宴会を催すと、
-    '6.22':
+    '6:22':
     - ヘロディアの娘が入って来て踊りをおどり、ヘロデとその客を喜ばせた。そこで、王は少女に、「欲しいものがあれば何でも言いなさい。お前にやろう」と言い、
-    '6.23':
+    '6:23':
     - 更に、「お前が願うなら、この国の半分でもやろう」と固く誓ったのである。
-    '6.24':
+    '6:24':
     - 少女が座を外して、母親に、「何を願いましょうか」と言うと、母親は、「洗礼者ヨハネの首を」と言った。
-    '6.25':
+    '6:25':
     - 早速、少女は大急ぎで王のところに行き、「今すぐに洗礼者ヨハネの首を盆に載せて、いただきとうございます」と願った。
   vocabulary:
     祝いに: n. いわいに. celebration, congratulation
@@ -2998,22 +2998,22 @@
   version: 新共同訳 (日本聖書協会 1987, 1988)
   target_language: Japanese
   verses:
-    '6.37':
+    '6:37':
     - これに対してイエスは、「あなたがたが彼らに食べ物を与えなさい」とお答えになった。
     - '弟子たちは、「わたしたちが二百デナリオンものパンを買って来て、みんなに食べさせるのですか」と言った。 '
-    '6.38':
+    '6:38':
     - イエスは言われた。「パンは幾つあるのか。見て来なさい。」弟子たちは確かめて来て、言った。「五つあります。それに魚が二匹です。」
-    '6.39':
+    '6:39':
     - そこで、イエスは弟子たちに、皆を組に分けて、青草の上に座らせるようにお命じになった。
     '6:40':
     - 人々は、百人、五十人ずつまとまって腰を下ろした。
-    '6.41':
+    '6:41':
     - イエスは五つのパンと二匹の魚を取り、天を仰いで賛美の祈りを唱え、パンを裂いて、弟子たちに渡しては配らせ、二匹の魚も皆に分配された。
-    '6.42':
+    '6:42':
     - すべての人が食べて満腹した。
-    '6.43':
+    '6:43':
     - そして、パンの屑と魚の残りを集めると、十二の籠にいっぱいになった。
-    '6.44':
+    '6:44':
     - パンを食べた人は男が五千人であった。
   vocabulary:
     答え: v. こたえ. answer, reply
@@ -3176,13 +3176,13 @@
   version: 新共同訳 (日本聖書協会 1987, 1988)
   target_language: Japanese
   verses:
-    '7.1':
+    '7:1':
     - ファリサイ派の人々と数人の律法学者たちが、エルサレムから来て、イエスのもとに集まった。
-    '7.2':
+    '7:2':
     - そして、イエスの弟子たちの中に汚れた手、つまり洗わない手で食事をする者がいるのを見た。
-    '7.3':
+    '7:3':
     - ――ファリサイ派の人々をはじめユダヤ人は皆、昔の人の言い伝えを固く守って、念入りに手を洗ってからでないと食事をせず、
-    '7.4':
+    '7:4':
     - また、市場から帰ったときには、身を清めてからでないと食事をしない。そのほか、杯、鉢、銅の器や寝台を洗うことなど、昔から受け継いで固く守っていることがたくさんある。――
   vocabulary:
     派: n. は. sect, faction, group
@@ -3341,13 +3341,13 @@
   version: 新共同訳 (日本聖書協会 1987, 1988)
   target_language: Japanese
   verses:
-    '7.16':
+    '7:16':
     - ''
-    '7.17':
+    '7:17':
     - イエスが群衆と別れて家に入られると、弟子たちはこのたとえについて尋ねた。
-    '7.18':
+    '7:18':
     - イエスは言われた。「あなたがたも、そんなに物分かりが悪いのか。すべて外から人の体に入るものは、人を汚すことができないことが分からないのか。
-    '7.19':
+    '7:19':
     - それは人の心の中に入るのではなく、腹の中に入り、そして外に出される。こうして、すべての食べ物は清められる。」
   vocabulary:
     分かれて: v. わかれて. to separate, to part  (from a group)
@@ -3504,13 +3504,13 @@
   version: 新共同訳 (日本聖書協会 1987, 1988)
   target_language: Japanese
   verses:
-    '7.31':
+    '7:31':
     - それからまた、イエスはティルスの地方を去り、シドンを経てデカポリス地方を通り抜け、ガリラヤ湖へやって来られた。
-    '7.32':
+    '7:32':
     - 人々は耳が聞こえず舌の回らない人を連れて来て、その上に手を置いてくださるようにと願った。
-    '7.33':
+    '7:33':
     - そこで、イエスはこの人だけを群衆の中から連れ出し、指をその両耳に差し入れ、それから唾をつけてその舌に触れられた。
-    '7.34':
+    '7:34':
     - そして、天を仰いで深く息をつき、その人に向かって、「エッファタ」と言われた。これは、「開け」という意味である。
   vocabulary:
     地方: n. ちほう. region, area  (geographical)
@@ -3771,13 +3771,13 @@
   version: 新共同訳 (日本聖書協会 1987, 1988)
   target_language: Japanese
   verses:
-    '8.7':
+    '8:7':
     - また、小さい魚が少しあったので、賛美の祈りを唱えて、それも配るようにと言われた。
-    '8.8':
+    '8:8':
     - 人々は食べて満腹したが、残ったパンの屑を集めると、七籠になった。
-    '8.9':
+    '8:9':
     - およそ四千人の人がいた。イエスは彼らを解散させられた。
-    '8.10':
+    '8:10':
     - それからすぐに、弟子たちと共に舟に乗って、ダルマヌタの地方に行かれた。
   vocabulary:
     賛美: n. さんび. praise (used here to indicate the act of giving thanks or expressing
@@ -3939,15 +3939,15 @@
   version: 新共同訳 (日本聖書協会 1987, 1988)
   target_language: Japanese
   verses:
-    '8.22':
+    '8:22':
     - 一行はベトサイダに着いた。人々が一人の盲人をイエスのところに連れて来て、触れていただきたいと願った。
-    '8.23':
+    '8:23':
     - イエスは盲人の手を取って、村の外に連れ出し、その目に唾をつけ、両手をその人の上に置いて、「何か見えるか」とお尋ねになった。
-    '8.24':
+    '8:24':
     - すると、盲人は見えるようになって、言った。「人が見えます。木のようですが、歩いているのが分かります。」
-    '8.25':
+    '8:25':
     - そこで、イエスがもう一度両手をその目に当てられると、よく見えてきていやされ、何でもはっきり見えるようになった。
-    '8.26':
+    '8:26':
     - イエスは、「この村に入ってはいけない」と言って、その人を家に帰された。
   vocabulary:
     一行: n. 一行. いちぎょう. group, party
@@ -4096,13 +4096,13 @@
   version: 新共同訳 (日本聖書協会 1987, 1988)
   target_language: Japanese
   verses:
-    '9.1':
+    '9:1':
     - また、イエスは言われた。「はっきり言っておく。ここに一緒にいる人々の中には、神の国が力にあふれて現れるのを見るまでは、決して死なない者がいる。」
-    '9.2':
+    '9:2':
     - 六日の後、イエスは、ただペトロ、ヤコブ、ヨハネだけを連れて、高い山に登られた。イエスの姿が彼らの目の前で変わり、
-    '9.3':
+    '9:3':
     - 服は真っ白に輝き、この世のどんなさらし職人の腕も及ばぬほど白くなった。
-    '9.4':
+    '9:4':
     - エリヤがモーセと共に現れて、イエスと語り合っていた。
   vocabulary:
     はっきり: adv. はっきり. clearly, distinctly
@@ -4233,11 +4233,11 @@
   version: 新共同訳 (日本聖書協会 1987, 1988)
   target_language: Japanese
   verses:
-    '9.14':
+    '9:14':
     - 一同がほかの弟子たちのところに来てみると、彼らは大勢の群衆に取り囲まれて、律法学者たちと議論していた。
-    '9.15':
+    '9:15':
     - 群衆は皆、イエスを見つけて非常に驚き、駆け寄って来て挨拶した。
-    '9.16':
+    '9:16':
     - イエスが、「何を議論しているのか」とお尋ねになると、
   vocabulary:
     一同: n. 一同. いちどう. all present, everyone
@@ -4347,13 +4347,13 @@
   version: 新共同訳 (日本聖書協会 1987, 1988)
   target_language: Japanese
   verses:
-    '9.26':
+    '9:26':
     - すると、霊は叫び声をあげ、ひどく引きつけさせて出て行った。その子は死んだようになったので、多くの者が、「死んでしまった」と言った。
-    '9.27':
+    '9:27':
     - しかし、イエスが手を取って起こされると、立ち上がった。
-    '9.28':
+    '9:28':
     - イエスが家の中に入られると、弟子たちはひそかに、「なぜ、わたしたちはあの霊を追い出せなかったのでしょうか」と尋ねた。
-    '9.29':
+    '9:29':
     - イエスは、「この種のものは、祈りによらなければ決して追い出すことはできないのだ」と言われた。
   vocabulary:
     すると: conj. すると. すると. then, thereupon
@@ -4479,13 +4479,13 @@
   version: 新共同訳 (日本聖書協会 1987, 1988)
   target_language: Japanese
   verses:
-    '9.42':
+    '9:42':
     - 「わたしを信じるこれらの小さな者の一人をつまずかせる者は、大きな石臼を首に懸けられて、海に投げ込まれてしまう方がはるかによい。
-    '9.43':
+    '9:43':
     - 'もし片方の手があなたをつまずかせるなら、切り捨ててしまいなさい。両手がそろったまま地獄の消えない火の中に落ちるよりは、片手になっても命にあずかる方がよい。 '
-    '9.44':
+    '9:44':
     - ''
-    '9.45':
+    '9:45':
     - もし片方の足があなたをつまずかせるなら、切り捨ててしまいなさい。両足がそろったままで地獄に投げ込まれるよりは、片足になっても命にあずかる方がよい。
   vocabulary:
     これら: pn. 此ら, これ等. these
