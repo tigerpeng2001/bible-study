@@ -2374,3 +2374,35 @@
     poniendo: v. poner. poniendo. putting (gerund form)
   grammar: null
   Friday_review: null
+- date: '2026-04-14'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '10:17':
+    - 'Cuando Jesús salía para irse, vino un hombre corriendo, y arrodillándose delante
+      de Él, le preguntó:'
+    - ' «Maestro bueno, ¿qué haré para heredar la vida eterna?».'
+    '10:18':
+    - 'Jesús le respondió: «¿Por qué me llamas bueno? Nadie es bueno, sino solo uno,
+      Dios.'
+    '10:19':
+    - 'Tú sabes los mandamientos: ''No mates, no cometas adulterio, no hurtes, no
+      des falso testimonio, no defraudes, honra a tu padre y a tu madre''»'
+  vocabulary:
+    irse: v. irse. irse. to leave
+    corriendo: v. correr. corriendo. running (gerund form)
+    arrodillándose: v. arrodillarse. arrodillándose. kneeling down (gerund form)
+    haré: v. hacer. haré. I will do (future tense)
+    heredar: v. heredar. heredar. to inherit
+    mandamientos: n. mandamiento. mandamientos. commandments
+    mates: v. matar. mates. you kill (present tense)
+    cometas: v. cometer. cometas. you commit (present tense)
+    adulterio: n. adulterio. adulterio. adultery
+    hurtes: v. hurtar. hurtes. you steal (present tense)
+    des: v. dar. des. you give (present tense)
+    git testimonio: n. testimonio. testimonio. testimony
+    defraudes: v. defraudar. defraudes. you defraud (present tense)
+  grammar: null
+  Friday_review: null
