@@ -4694,3 +4694,44 @@
     defraudes: v. defraudar. defraudes. you defraud (present tense)
   grammar: null
   Friday_review: null
+- date: '2026-04-15'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '10:20':
+    - すると彼は、「先生、そういうことはみな、子供の時から守ってきました」と言った。
+    '10:21':
+    - イエスは彼を見つめ、慈しんで言われた。
+    - 「あなたに欠けているものが一つある。行って持っている物を売り払い、貧しい人々に施しなさい。
+    - そうすれば、天に富を積むことになる。それから、わたしに従いなさい。」
+    '10:22':
+    - その人はこの言葉に気を落とし、悲しみながら立ち去った。たくさんの財産を持っていたからである。
+  vocabulary:
+    すると: adv. すると. すると. then, thereupon
+    そういうこと: phrase. そういうこと. そういうこと. such things
+    守ってきました: v. まもってきました. 守ってきました. have kept (past tense)
+    見つめ: v. みつめる. 見つめ. to look at, to gaze at (stem form)
+    慈しんで: v. いつくしむ. 慈しんで. to cherish, to be compassionate (te-form)
+    欠けている: v. かける. 欠けている. to be lacking (present continuous form)
+    行って: v. 行く. 行って. to go (te-form)
+    持っている: 'v. もつ. 持っている. to have (present continuous form). Note: this verb can also
+      mean ''to hold'' or ''to carry'', but in this context it means ''to have''.'
+    売り払い: v. うりはらう. 売り払い. to sell off (stem form)
+    貧しい人々: phrase. 貧しい人々. 貧しい人々. poor people
+    施しなさい: v. ほどこす. 施しなさい. to give alms (imperative form)
+    富を積む: phrase. たみをつむ. 富を積む. to store up wealth
+    従いなさい: v. したがう. 従いなさい. to follow (imperative form)
+    気を落とし: v. きをおとす. 気を落とし. to be discouraged (stem form)
+    悲しみ: v. かなしみ. 悲しみ. sadness (noun form)
+    ながら: conj. ながら. ながら. while, although
+    立ち去った: v. たちさった. 立ち去った. to leave (past tense)
+    財産: n. ざいさん. 財産. wealth, possessions
+  grammar:
+    まもってきました: v. まもる. まもってきました. have kept (past tense). きました is the past tense form
+      of くる, which is used here to indicate that the action of keeping has been ongoing
+      since childhood.
+    悲しみながら立ち去った: phrase. 悲しみながら立ち去った. left while being sad. This phrase uses the conjunction
+      'ながら' to indicate that the action of leaving was done while feeling sad.
+  Friday_review: null
