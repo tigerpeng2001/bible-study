@@ -4735,3 +4735,26 @@
     悲しみながら立ち去った: phrase. 悲しみながら立ち去った. left while being sad. This phrase uses the conjunction
       'ながら' to indicate that the action of leaving was done while feeling sad.
   Friday_review: null
+- date: '2026-04-16'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '10:23':
+    - イエスは弟子たちを見回して言われた。「財産のある者が神の国に入るのは、なんと難しいことか。」
+    '10:24':
+    - 弟子たちはこの言葉を聞いて驚いた。イエスは更に言葉を続けられた。「子たちよ、神の国に入るのは、なんと難しいことか。
+    '10:25':
+    - 金持ちが神の国に入るよりも、らくだが針の穴を通る方がまだ易しい。」
+  vocabulary:
+    見回して: v. みまわして. to look around. te-form
+    なんと: adv. なんと. 何と. how (exclamatory).
+    更に: adv. さらに. furthermore; moreover
+    続けられた: v. つづける. 続けられた. to continue (past tense, passive form)
+    金持ち: n. かねもち. 金持ち. rich person
+    らくだ: n. らくだ. 羅駝. camel
+    針の穴: n. はりのあな. 針の穴. eye of a needle
+    通る: v. とおる. 通る. to pass through
+  grammar: null
+  Friday_review: null
