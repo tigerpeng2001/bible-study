@@ -1,0 +1,26 @@
+date: "2026-04-20"
+weekday: "Monday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "10:26":
+    - "Ellos se asombraron aún más, diciendo entre sí: «¿Y quién podrá salvarse?»."
+  "10:27":
+    - "Mirándolos Jesús, dijo*: «Para los hombres es imposible, pero no para Dios, porque todas las cosas son posibles para Dios»."
+  "10:28":
+    - "Entonces Pedro comenzó a decir a Jesús: «Nosotros lo hemos dejado todo y te hemos seguido»."
+vocabulary:
+  asombraron: "v. asombrar. asombraron. they were amazed (past tense)"
+  aún: "adv. aún. aún. still, yet"
+  entre sí: "adv. entre sí. entre sí. among themselves"
+  mirándolos: "v. mirar. mirándolos. looking at them (gerund form)"
+  entonces: "adv. entonces. entonces. then"
+  comenzó: "v. comenzar. comenzó. he began (past tense)"
+  decir: "v. decir. decir. to say"
+  hemos dejado: "v. dejar. hemos dejado. we have left (present perfect tense)"
+  hemos: "v. haber. hemos. we have (present tense)"
+  dejado: "v. dejar. dejado. left (past participle)"
+  seguido: "v. seguir. seguido. followed (past participle)"
+grammar:
+Friday_review:
