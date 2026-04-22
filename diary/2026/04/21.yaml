@@ -1,0 +1,26 @@
+date: "2026-04-21"
+weekday: "Tuesday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "10:29":
+    - "Jesús respondió: «En verdad les digo, que no hay nadie que haya dejado casa, o hermanos, o hermanas, o madre, o padre, o hijos o tierras por causa de Mí y por causa del evangelio, "
+  "10:30":
+    - "que no reciba cien veces más ahora en este tiempo: casas, y hermanos, y hermanas, y madres, e hijos, y tierras junto con persecuciones; y en el siglo venidero, la vida eterna."
+  "10:31":
+    - "Pero muchos primeros serán últimos, y los últimos, primeros»."
+vocabulary:
+  digo: "v. decir. digo. I say (present tense)"
+  haya: "v. haber. haya. there is/are (subjunctive mood)"
+  dejado: "v. dejar. dejado. left (past participle)"
+  tierras: "n. tierra. tierras. lands (plural)"
+  junto con: "adv. junto con. junto con. along with"
+  persecuciones: "n. persecución. persecuciones. persecutions (plural)"
+  siglo: "n. siglo. siglo. century"
+  venidero: "adj. venidero. venidero. coming (adjective)"
+  vida eterna: "n. vida eterna. vida eterna. eternal life" 
+  primeros: "n. primero. primeros. first (plural)"
+  últimos: "n. último. últimos. last (plural)"
+grammar:
+Friday_review:
