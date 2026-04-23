@@ -4816,3 +4816,43 @@
     últimos: n. último. últimos. last (plural)
   grammar: null
   Friday_review: null
+- date: '2026-04-22'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '10:32':
+    - 一行がエルサレムへ上って行く途中、イエスは先頭に立って進んで行かれた。それを見て、弟子たちは驚き、従う者たちは恐れた。
+    - イエスは再び十二人を呼び寄せて、自分の身に起ころうとしていることを話し始められた。
+    '10:33':
+    - 「今、わたしたちはエルサレムへ上って行く。人の子は祭司長たちや律法学者たちに引き渡される。彼らは死刑を宣告して異邦人に引き渡す。
+    '10:34':
+    - 異邦人は人の子を侮辱し、唾をかけ、鞭打ったうえで殺す。そして、人の子は三日の後に復活する。」
+  vocabulary:
+    一行: n. いっこう. 一行. group of people, party
+    上って行く: v. のぼる. 上って行く. to go up (te-form)
+    途中: n. とちゅう. 途中. on the way, in the middle of
+    先頭: n. せんとう. 先頭. front, lead
+    立って: v. たつ. 立って. to stand (te-form)
+    進んで行かれた: v. すすむ. 進んで行かれた. to go forward (past tense, passive form)
+    再び: adv. ふたたび. 再び. again
+    呼び寄せて: v. よびよせる. 呼び寄せて. to call over (te-form)
+    祭司長: n. さいしちょう. 祭司長. chief priest
+    律法学者: n. りっぽうがくしゃ. 律法学者. scribe, legal expert
+    引き渡される: v. ひきわたされる. 引き渡される. to be handed over (passive form)
+    '死刑:': n. しけい. 死刑. death penalty
+    宣告: n. せんこく. 宣告. declaration, sentence
+    異邦人: n. いほうじん. 異邦人. Gentile, foreigner
+    侮辱: n. ぶじょく. 侮辱. insult
+    唾をかけ: v. つばをかける. 唾をかけ. to spit on (stem form)
+    鞭打った: v. むちうつ. 鞭打った. to whip (past tense)
+    こ殺す: v. ころす. 殺す. to kill
+    後: n. ご. 後. after
+    復活: n. ふっかつ. 復活. resurrection
+  grammar:
+    身に起ころうとしている:
+    - phrase. みにおころうとしている. about to happen to (the person).
+    - This phrase uses the verb '起こる' in the te-form followed by 'とする' to indicate
+      that something is about to happen to the person.
+  Friday_review: null
