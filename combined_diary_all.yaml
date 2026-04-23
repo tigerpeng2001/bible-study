@@ -4856,3 +4856,44 @@
     - This phrase uses the verb '起こる' in the te-form followed by 'とする' to indicate
       that something is about to happen to the person.
   Friday_review: null
+- date: '2026-04-23'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '10:35':
+    - ゼベダイの子ヤコブとヨハネが進み出て、イエスに言った。「先生、お願いすることをかなえていただきたいのですが。」
+    '10:36':
+    - イエスが、「何をしてほしいのか」と言われると、
+    '10:37':
+    - '二人は言った。「栄光をお受けになるとき、わたしどもの一人をあなたの右に、もう一人を左に座らせてください。」 '
+    '10:38':
+    - イエスは言われた。「あなたがたは、自分が何を願っているか、分かっていない。このわたしが飲む杯を飲み、このわたしが受ける洗礼を受けることができるか。」
+    '10:39':
+    - 彼らが、「できます」と言うと、イエスは言われた。「確かに、あなたがたはわたしが飲む杯を飲み、わたしが受ける洗礼を受けることになる。
+    '10:40': -"しかし、わたしの右や左にだれが座るかは、わたしの決めることではない。それは、定められた人々に許されるのだ。」"
+  vocabulary:
+    かなえて: v. かなえる. かなえて. to grant (te-form)
+    いただきたい: v. いただく. いただきたい. to receive (desire form)
+    のですが: phrase. のですが. のですが. but (polite)
+    してほしい: phrase. してほしい. してほしい. want (someone) to do (something)
+    のか: phrase. のか. のか. what (question particle)
+    お受けになる: v. おうけになる. お受けになる. to receive (honorific form)
+    わたしども: n. わたしども. 私ども. we (humble form)
+    右: n. みぎ. 右. right
+    左: n. ひだり. 左. left
+    座らせて: v. すわらせる. 座らせて. to seat (te-form)
+    杯: n. さかずき. 杯. cup
+    洗礼: n. バプテスマ. 洗礼. baptism
+    受ける: v. うける. 受ける. to receive
+    確かに: adv. たしかに. 確かに. certainly
+    決める: v. きめる. 決める. to decide
+    定められた: adj. さだめられた. 定められた. appointed (adjective)
+    許される: v. ゆるされる. 許される. to be granted (passive form)
+  grammar:
+    お受けになるとき:
+    - phrase. おうけになるとき. お受けになるとき. when (someone) receives (something).
+    - This phrase uses the verb '受ける' in the honorific form 'お受けになる' followed by 'とき'
+      to indicate the time when someone receives something.
+  Friday_review: null
