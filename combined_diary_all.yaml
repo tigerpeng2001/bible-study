@@ -4897,3 +4897,51 @@
     - This phrase uses the verb '受ける' in the honorific form 'お受けになる' followed by 'とき'
       to indicate the time when someone receives something.
   Friday_review: null
+- date: '2026-04-27'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '10:41':
+    - Al oír esto, los diez comenzaron a indignarse contra Jacobo y Juan.
+    '10:42':
+    - 'Llamándolos junto a Él, Jesús les dijo*:'
+    - «Ustedes saben que los que son reconocidos como gobernantes de los gentiles
+      se enseñorean de ellos,
+    - 'y que sus grandes ejercen autoridad sobre ellos. '
+    '10:43':
+    - Pero entre ustedes no es así, sino que cualquiera de ustedes que desee llegar
+      a ser grande será su servidor,
+    '10:44':
+    - y cualquiera de ustedes que desee ser el primero será siervo de todos.
+    '10:45':
+    - Porque ni aun el Hijo del Hombre vino para ser servido, sino para servir, y
+      para dar Su vida en rescate por muchos».
+  vocabulary:
+    indignarse: v. indignar. indignarse. to become indignant
+    reconocidos: adj. reconocidos. reconocidos. recognized (adjective)
+    gobernantes: n. gobernantes. gobernantes. rulers
+    enseñorean: v. enseñorear. enseñorean. to lord over
+    ejercen: v. ejercer. ejercen. to exercise (authority)
+    cualquiera: adj. cualquiera. cualquiera. any (adjective)
+    desee: v. desear. desee. to desire
+    rescate: n. rescate. rescate. ransom
+  grammar:
+    llegar a ser grande:
+    - phrase. llegar a ser grande. llegar a ser grande. to become great.
+    - This phrase uses the verb 'llegar a ser' followed by the adjective 'grande'
+      to indicate the process of becoming great.
+    será su servidor:
+    - phrase. será su servidor. será su servidor. will be his servant.
+    - This phrase uses the future tense of the verb 'ser' followed by 'su servidor'
+      to indicate that someone will be a servant in the future.
+    ser servito:
+    - phrase. ser servito. ser servito. to be served.
+    - This phrase uses the passive form of the verb 'ser' followed by 'servido' to
+      indicate that someone is being served.
+    servir:
+    - v. servir. servir. to serve.
+    - This verb is used in the context of serving others, indicating an action of
+      providing help or assistance.
+  Friday_review: null
