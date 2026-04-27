@@ -2512,3 +2512,53 @@
     - This verb is used in the context of serving others, indicating an action of
       providing help or assistance.
   Friday_review: null
+- date: '2026-04-28'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '10:46':
+    - Entonces llegaron* a Jericó. Y cuando Él salía de Jericó con Sus discípulos
+      y una gran multitud,
+    - 'un mendigo ciego llamado Bartimeo, el hijo de Timeo, estaba sentado junto al
+      camino. '
+    '10:47':
+    - 'Cuando oyó que era Jesús el Nazareno, comenzó a gritar y a decir: «¡Jesús,
+      Hijo de David, ten misericordia de mí!».'
+    '10:48':
+    - 'Y muchos lo reprendían para que se callara, pero él gritaba mucho más: «¡Hijo
+      de David, ten misericordia de mí!». '
+    '10:49':
+    - 'Jesús se detuvo y dijo: «Llámenlo». Y llamaron* al ciego, diciéndole: «¡Anímate!
+      Levántate, que te llama».'
+    '10:50':
+    - Arrojando su manto, se levantó de un salto y fue a Jesús.
+    '10:51':
+    - 'Y dirigiéndose a él, Jesús le preguntó: «¿Qué deseas que haga por ti?». Y el
+      ciego le respondió: «Raboní, que recobre la vista».'
+    '10:52':
+    - «Vete, tu fe te ha sanado», le dijo Jesús. Al instante el ciego recobró la vista,
+      y lo seguía por el camino.
+  vocabulary:
+    mendigo: n. mendigo. mendigo. beggar
+    ciego: adj. ciego. ciego. blind
+    sentado: adj. sentado. sentado. sitting
+    junto al camino: phrase. junto al camino. junto al camino. by the roadside
+    oyó: v. oír. oyó. heard
+    gritar: v. gritar. gritar. to shout
+    misericordia: n. misericordia. misericordia. mercy
+    se callara: v. callar. se callara. to be silent (subjunctive mood)
+    se detuvo: v. detener. se detuvo. stopped
+    llamenlo: v. llamar. llamenlo. to call him (imperative mood)
+    anímate: v. animar. anímate. cheer up (imperative mood)
+    levántate: v. levantar. levántate. get up (imperative mood)
+    arrojando: v. arrojar. arrojando. throwing
+    manto: n. manto. manto. cloak
+    salto: n. salto. salto. jump
+    dirigiéndose: v. dirigir. dirigiéndose. addressing
+    haga: v. hacer. haga. to do (subjunctive mood)
+    recobre: v. recobrar. recobre. to regain (subjunctive mood)
+    vete: v. ir. vete. go (imperative mood)
+  grammar: null
+  Friday_review: null
