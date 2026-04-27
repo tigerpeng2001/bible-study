@@ -16,7 +16,9 @@ verses:
   "10:50":
     - "Arrojando su manto, se levantó de un salto y fue a Jesús."
   "10:51":
-    - "Y dirigiéndose a él, Jesús le preguntó: «¿Qué deseas que haga por ti?». Y el ciego le respondió: «Raboní, que recobre la vista». "
+    - "Y dirigiéndose a él, Jesús le preguntó: «¿Qué deseas que haga por ti?». Y el ciego le respondió: «Raboní, que recobre la vista»."
+  "10:52":
+    - "«Vete, tu fe te ha sanado», le dijo Jesús. Al instante el ciego recobró la vista, y lo seguía por el camino."
 vocabulary:
   mendigo: "n. mendigo. mendigo. beggar"
   ciego: "adj. ciego. ciego. blind"
@@ -36,5 +38,6 @@ vocabulary:
   dirigiéndose: "v. dirigir. dirigiéndose. addressing"
   haga: "v. hacer. haga. to do (subjunctive mood)"
   recobre: "v. recobrar. recobre. to regain (subjunctive mood)"
+  vete: "v. ir. vete. go (imperative mood)"
 grammar:
 Friday_review:
