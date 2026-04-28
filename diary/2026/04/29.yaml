@@ -1,0 +1,39 @@
+date: "2026-04-29"
+weekday: "Wednesday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "11:1":
+    - "一行がエルサレムに近づいて、オリーブ山のふもとにあるベトファゲとベタニアにさしかかったとき、イエスは二人の弟子を使いに出そうとして、"
+  "11:2":
+    - "言われた。「向こうの村へ行きなさい。村に入るとすぐ、まだだれも乗ったことのない子ろばのつないであるのが見つかる。それをほどいて、連れて来なさい。"
+  "11:3":
+    - "もし、だれかが、『なぜ、そんなことをするのか』と言ったら、『主がお入り用なのです。すぐここにお返しになります』と言いなさい。」 "
+vocabulary:
+  一行: "n. いっこう. 一行. group of people, party"
+  近づいて: "v. ちかづく. 近づいて. to approach (te-form)"
+  オリーブ山: "n. オリーブやま. オリーブ山. Mount of Olives"
+  ふもと: "n. ふもと. 麓. foot of a mountain"
+  さしかかった: "v. さしかかる. さしかかった. to approach, to come near (past tense)"
+  使いに出そうとして: "v. つかいにだす. 使いに出そうとして. to send out (te-form)"
+  言われた: "v. いう. 言われた. said (passive form)"
+  向こうの村: "phrase. むこうのむら. 向こうの村. the village over there"
+  入るとすぐ: "phrase. はいるとすぐ. 入るとすぐ. as soon as you enter"
+  まだだれも乗ったことのない: "phrase. まだだれものったことのない. まだだれも乗ったことのない. that no one has ever ridden"
+  子ろば: "n. ころば. 子ろば. colt"
+  つないである: "v. つなぐ. つないである. to be tied up (passive form)"
+  ほどいて: "v. ほどく. ほどいて. to untie (te-form)"
+  連れて来なさい: "v. つれてくる. 連れて来なさい. to bring (imperative mood)"
+  だれか: "n. だれか. 誰か. someone"
+  なぜ: "adv. なぜ. なぜ. why"
+  お入り用: "phrase. おいりよう. お入り用. needed, required"
+  すぐここにお返しになります: "phrase. すぐここにおかえしになります. すぐここにお返しになります. will return here soon"
+grammar:
+  橄欖山:
+    - "n. かんらんざん. 橄欖山. Mount of Olives."
+    - "This is the Japanese name for the Mount of Olives, a significant location in the Bible where Jesus often went to pray and where he ascended to heaven."
+  オリーブ山:
+    - "n. オリーブやま. オリーブ山. Mount of Olives."
+    - "This is the Japanese name for the Mount of Olives, a significant location in the Bible where Jesus often went to pray and where he ascended to heaven."
+Friday_review:
