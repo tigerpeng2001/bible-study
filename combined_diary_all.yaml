@@ -5036,3 +5036,26 @@
     - This is the Japanese name for the Mount of Olives, a significant location in
       the Bible where Jesus often went to pray and where he ascended to heaven.
   Friday_review: null
+- date: '2026-04-30'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '11:4':
+    - 二人は、出かけて行くと、表通りの戸口に子ろばのつないであるのを見つけたので、それをほどいた。
+    '11:5':
+    - すると、そこに居合わせたある人々が、「その子ろばをほどいてどうするのか」と言った。
+    '11:6':
+    - 二人が、イエスの言われたとおり話すと、許してくれた。
+  vocabulary:
+    表通り: n. ひょうどおり. 表通り. main street
+    戸口: n. とぐち. 戸口. doorway
+    子ろば: n. ころば. 子ろば. young donkey
+    つないである: phrase. つないである. つないである. to be tied (te-form)
+    ほどいた: phrase. 解く/ほどく. ほどいた. to untie (past tense)
+    居合おせた: v. いあわせる. 居合わせた. to be present (past tense)
+    ほどいてどうするのか: phrase. ほどいてどうするのか. ほどいてどうするのか. what are you doing untying it?
+    許してくれた: phrase. 許す. 許してくれた. allowed (past tense)
+  grammar: null
+  Friday_review: null
