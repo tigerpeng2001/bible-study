@@ -1,0 +1,34 @@
+date: "2026-05-04"
+weekday: "Monday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "11:7":
+    - "Entonces trajeron* el pollino a Jesús y echaron encima sus mantos, y Él se sentó sobre él."
+  "11:8":
+    - "Muchos tendieron sus mantos en el camino, y otros tendieron ramas que habían cortado de los campos."
+  "11:9":
+    - “Los que iban delante y los que lo seguían, gritaban:”
+    - “«¡Hosanna! Bendito el que viene en el nombre del Señor;"
+  “11:10":
+    - "Bendito el reino de nuestro padre David que viene; ¡Hosanna en las alturas!».”
+vocabulary:
+  entonces: "adv. entonces. entonces. then"
+  trajeron: "v. traer. trajeron. brought (past tense)"
+  pollino: "n. pollino. pollino. young donkey"
+  echaron: "v. echar. echaron. threw (past tense)"
+  mantos: "n. manto. mantos. cloaks"
+  tendieron: "v. tender. tendieron. laid (past tense)"
+  ramas: "n. rama. ramas. branches"
+  cortado: "v. cortar. cortado. cut (past participle)"
+  campos: "n. campo. campos. fields"
+  iban: "v. ir. iban. were going (past tense)"
+  delante: "adv. delante. delante. ahead"
+  seguían: "v. seguir. seguían. were following (past tense)"
+  gritaban: "v. gritar. gritaban. were shouting (past tense)"
+  bendito: "adj. bendito. bendito. blessed"
+  viene: "v. venir. viene. comes (present tense)"
+  alturas: "n. altura. alturas. heights"
+grammar:
+Friday_review:
