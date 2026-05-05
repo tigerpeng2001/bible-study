@@ -1,0 +1,33 @@
+date: "2026-05-05"
+weekday: "Tuesday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "11:12":
+    - "Al día siguiente, cuando salieron de Betania, Jesús tuvo hambre. "
+  "11:13":
+    - "Y viendo de lejos una higuera con hojas, fue a ver si quizá pudiera hallar algo en ella;"
+    - "cuando llegó a ella, no encontró más que hojas, porque no era tiempo de higos. "
+  "11:14":
+    - "Jesús, hablando a la higuera, le dijo: «Nunca jamás coma nadie fruto de ti». Y Sus discípulos le estaban escuchando."
+vocabulary:
+  siguiente: "adj. siguiente. siguiente. next"
+  salieron: "v. salir. salieron. went out (past tense)"
+  tuvo: "v. tener. tuvo. had (past tense)"
+  viendo: "v. ver. viendo. seeing (gerund)"
+  lejos: "adv. lejos. lejos. from afar"
+  higuera: "n. higuera. higuera. fig tree"
+  hojas: "n. hoja. hojas. leaves"
+  quizá: "adv. quizá. quizá. perhaps"
+  pudiera: "v. poder. pudiera. could (subjunctive mood)"
+  hallar: "v. hallar. hallar. to find"
+  llegó: "v. llegar. llegó. arrived (past tense)"
+  ebcontró: "v. encontrar. encontró. found (past tense)"
+  nunca: "adv. nunca. nunca. never"
+  jamás: "adv. jamás. jamás. never"
+  coma: "v. comer. coma. eat (subjunctive mood)"
+  nadie: "pron. nadie. nadie. nobody"
+  fruto: "n. fruto. fruto. fruit"
+grammar:
+Friday_review:
