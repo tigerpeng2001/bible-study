@@ -5105,3 +5105,86 @@
     hora: n. hora. hora. hour
   grammar: null
   Friday_review: null
+- date: '2026-05-05'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '11:12':
+    - 'Al día siguiente, cuando salieron de Betania, Jesús tuvo hambre. '
+    '11:13':
+    - Y viendo de lejos una higuera con hojas, fue a ver si quizá pudiera hallar algo
+      en ella;
+    - 'cuando llegó a ella, no encontró más que hojas, porque no era tiempo de higos. '
+    '11:14':
+    - 'Jesús, hablando a la higuera, le dijo: «Nunca jamás coma nadie fruto de ti».
+      Y Sus discípulos le estaban escuchando.'
+  vocabulary:
+    siguiente: adj. siguiente. siguiente. next
+    salieron: v. salir. salieron. went out (past tense)
+    tuvo: v. tener. tuvo. had (past tense)
+    viendo: v. ver. viendo. seeing (gerund)
+    lejos: adv. lejos. lejos. from afar
+    higuera: n. higuera. higuera. fig tree
+    hojas: n. hoja. hojas. leaves
+    quizá: adv. quizá. quizá. perhaps
+    pudiera: v. poder. pudiera. could (subjunctive mood)
+    hallar: v. hallar. hallar. to find
+    llegó: v. llegar. llegó. arrived (past tense)
+    ebcontró: v. encontrar. encontró. found (past tense)
+    nunca: adv. nunca. nunca. never
+    jamás: adv. jamás. jamás. never
+    coma: v. comer. coma. eat (subjunctive mood)
+    nadie: pron. nadie. nadie. nobody
+    fruto: n. fruto. fruto. fruit
+  grammar: null
+  Friday_review: null
+- date: '2026-05-06'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '11:15':
+    - それから、一行はエルサレムに来た。イエスは神殿の境内に入り、そこで売り買いしていた人々を追い出し始め、両替人の台や鳩を売る者の腰掛けをひっくり返された。
+    '11:16':
+    - また、境内を通って物を運ぶこともお許しにならなかった。
+    '11:17':
+    - そして、人々に教えて言われた。「こう書いてあるではないか。
+    - 『わたしの家は、すべての国の人の
+    - 祈りの家と呼ばれるべきである。』
+    - ところが、あなたたちは
+    - それを強盗の巣にしてしまった。」
+  vocabulary:
+    一行: n. いっこう. 一行. group of people, party
+    神殿: n. しんでん. 神殿. temple
+    境内: n. けいだい. 境内. temple grounds
+    売り買い: n. うりかい. 売り買い. buying and selling, trade
+    追い出し: v. おいだし. 追い出し. to drive out, to expel
+    両替人: n. りょうがえにん. 両替人. money changer
+    台: n. だい. 台. table, stand
+    鳩: n. はと. 鳩. dove
+    腰掛け: n. こしかけ. 腰掛け. bench, seat
+    ひっくり返された: v. ひっくりかえす. ひっくり返された. to overturn, to flip over (past tense)
+    通って: v. とおる. 通って. to pass through (te-form)
+    運ぶ: v. はこぶ. 運ぶ. to carry
+    許し: v. ゆるす. 許し. to allow, to permit
+    すべての国の人: phrase. すべての国の人. すべての国の人. all nations' people
+    呼ばれるべき: phrase. 呼ばれるべき. 呼ばれるべき. should be called
+    強盗の巣: phrase. ごうとうのす. 強盗の巣. den of robbers
+  grammar:
+    追い出し始め:
+    - This phrase uses the structure 'Verb1始める' to indicate the beginning of an action.
+      In this case, '追い出し始める' means 'to start driving out.'
+    境内を通って物を運ぶこともお許しにならなかった:
+    - This sentence uses the structure 'NounをVerb1こともVerb2' to express that not only
+      was Verb1 not allowed, but also Verb2 was not allowed.
+    こう書いてあるではないか:
+    - This phrase is used to introduce a quotation or a reference to something that
+      is written. It can be translated as 'Isn't it written like this?' or 'Doesn't
+      it say like this?'
+    ところが:
+    - This conjunction is used to indicate a contrast or an unexpected turn of events.
+      It can be translated as 'However,' or 'On the other hand,'
+  Friday_review: null
