@@ -2543,3 +2543,27 @@
     - This conjunction is used to indicate a contrast or an unexpected turn of events.
       It can be translated as 'However,' or 'On the other hand,'
   Friday_review: null
+- date: '2026-05-07'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '11:18':
+    - 祭司長たちや律法学者たちはこれを聞いて、イエスをどのようにして殺そうかと謀った。群衆が皆その教えに打たれていたので、彼らはイエスを恐れたからである。
+    '11:19':
+    - 夕方になると、イエスは弟子たちと都の外に出て行かれた。
+  vocabulary:
+    祭司長: n. さいしちょう. 祭司長. chief priest
+    律法学者: n. りっぽうがくしゃ. 律法学者. expert in the law
+    どのようにして: adv. どのようにして. how to
+    殺そう: v. ころそう. 殺す. to kill
+    謀った: v. はかる. 謀る. to plot
+    群衆: n. ぐんしゅう. 群衆. crowd
+    打たれていた: v. うたれる. 打たれる. to be struck
+    恐れた: v. おそれる. 恐れる. to fear
+    夕方: n. ゆうがた. 夕方. evening
+    都の外: n. みやこのそと. 都の外. outside the city
+    出て行かれた: v. でていかれる. 出て行かれる. to go out
+  grammar: null
+  Friday_review: null
