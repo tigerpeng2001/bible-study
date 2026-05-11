@@ -5212,3 +5212,50 @@
     出て行かれた: v. でていかれる. 出て行かれる. to go out
   grammar: null
   Friday_review: null
+- date: '2026-05-11'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '11:20':
+    - Por la mañana, cuando pasaban, vieron la higuera seca desde las raíces.
+    '11:21':
+    - 'Entonces Pedro, acordándose, dijo* a Jesús: «Rabí, mira, la higuera que maldijiste
+      se ha secado».'
+    '11:22':
+    - 'Y Jesús respondió*: «Tengan fe en Dios.'
+    '11:23':
+    - 'En verdad les digo que cualquiera que diga a este monte:'
+    - '“Quítate y arrójate al mar”, y no dude en su corazón, sino crea que lo que
+      dice va a suceder, le será concedido. '
+    '11:24':
+    - Por eso les digo que todas las cosas por las que oren y pidan, crean que ya
+      las han recibido, y les serán concedidas.
+    '11:25':
+    - Y cuando estén orando, perdonen si tienen algo contra alguien, para que también
+      su Padre que está en los cielos les perdone a ustedes sus transgresiones.
+    '11:26':
+    - Pero si ustedes no perdonan, tampoco su Padre que está en los cielos perdonará
+      sus transgresiones».
+  vocabulary:
+    'pasaban:': v. pasar. pasaban. were passing (past tense)
+    seca: adj. seco. seca. dry
+    desde: prep. desde. desde. from
+    raices: n. raíz. raíces. roots
+    acordándose: v. acordarse. acordándose. remembering
+    maldijiste: v. maldecir. maldijiste. you cursed (past tense)
+    digo: v. decir. digo. I say
+    diga: v. decir. diga. say (subjunctive)
+    quitate: v. quitar. quítate. get up (imperative)
+    arrojate: v. arrojar. arrójate. throw yourself (imperative)
+    dude: v. dudar. dude. doubt (subjunctive)
+    suceder: v. suceder. suceder. to happen
+    concedido: adj. concedido. concedido. granted
+    oren: v. orar. oren. pray (imperative)
+    pidan: v. pedir. pidan. ask (imperative)
+    transgresiones: n. transgresión. transgresiones. transgressions
+  grammar:
+    que: conjunction. que. that
+    lo que: pronoun. lo que. what
+  Friday_review: null
