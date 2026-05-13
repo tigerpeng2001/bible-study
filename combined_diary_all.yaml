@@ -5259,3 +5259,30 @@
     que: conjunction. que. that
     lo que: pronoun. lo que. what
   Friday_review: null
+- date: '2026-05-12'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '11:27':
+    - 'Llegaron* de nuevo a Jerusalén; y cuando Jesús andaba por el templo, se acercaron*
+      a Él los principales sacerdotes, los escribas y los ancianos, '
+    '11:28':
+    - 'y le preguntaron: «¿Con qué autoridad haces estas cosas, o quién te dio la
+      autoridad para hacer esto?».'
+    '11:29':
+    - 'Jesús les respondió: «Yo también les haré una pregunta; respóndanla, y entonces
+      les diré con qué autoridad hago estas cosas. '
+    '11:30':
+    - El bautismo de Juan, ¿era del cielo o de los hombres? Respondan»
+  vocabulary:
+    de nuevo: adv. de nuevo. de nuevo. again
+    andaba: v. andar. andaba. was walking (past tense)
+    acercaron: v. acercar. acercaron. approached (past tense)
+    autoridad: s. autoridad. autoridad. authority
+    hago: v. hacer. hago. I do (present tense)
+    bautismo: s. bautismo. bautismo. baptism
+    era: v. ser. era. was (past tense)
+  grammar: null
+  Friday_review: null
