@@ -5286,3 +5286,25 @@
     era: v. ser. era. was (past tense)
   grammar: null
   Friday_review: null
+- date: '2026-05-13'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '11:31':
+    - 彼らは論じ合った。「『天からのものだ』と言えば、『では、なぜヨハネを信じなかったのか』と言うだろう。
+    '11:32':
+    - しかし、『人からのものだ』と言えば...。」彼らは群衆が怖かった。皆が、ヨハネは本当に預言者だと思っていたからである。
+    '11:33':
+    - そこで、彼らはイエスに、「分からない」と答えた。すると、イエスは言われた。「それなら、何の権威でこのようなことをするのか、わたしも言うまい。」
+  vocabulary:
+    論じ合った: v. ろんじあった. 論じ合った. to discuss, to argue (past tense)
+    なぜ: adv. なぜ. なぜ. why
+    怖かった: adj. こわかった. 怖かった. scared, afraid (past tense)
+    預言者: n. よげんしゃ. 預言者. prophet
+    答えだ: v. こたえだ. 答えだ. to answer (past tense)
+    権威: n. けんい. 権威. authority
+    まい: v. まい. まい. will not (negative volitional form)
+  grammar: null
+  Friday_review: null
