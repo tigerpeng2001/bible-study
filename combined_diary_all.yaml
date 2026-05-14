@@ -5308,3 +5308,64 @@
     まい: v. まい. まい. will not (negative volitional form)
   grammar: null
   Friday_review: null
+- date: '2026-05-14'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '12:1':
+    - イエスは、たとえで彼らに話し始められた。「ある人がぶどう園を作り、垣を巡らし、搾り場を掘り、見張りのやぐらを立て、これを農夫たちに貸して旅に出た。
+    '12:2':
+    - '収穫の時になったので、ぶどう園の収穫を受け取るために、僕を農夫たちのところへ送った。 '
+    '12:3':
+    - だが、農夫たちは、この僕を捕まえて袋だたきにし、何も持たせないで帰した。
+    '12:4':
+    - 'そこでまた、他の僕を送ったが、農夫たちはその頭を殴り、侮辱した。 '
+    '12:5':
+    - 更に、もう一人を送ったが、今度は殺した。そのほかに多くの僕を送ったが、ある者は殴られ、ある者は殺された。
+    '12:6':
+    - まだ一人、愛する息子がいた。『わたしの息子なら敬ってくれるだろう』と言って、最後に息子を送った。
+  vocabulary:
+    たとえ: n. たとえ. たとえ. parable
+    垣: n. かき. 垣. fence
+    巡らし: v. めぐらす. 巡らす. to surround
+    搾り場: n. しぼりば. 搾り場. press
+    掘り: v. ほる. 掘る. to dig
+    見張り: n. みはり. 見張り. watchman
+    やぐら: n. やぐら. やぐら. tower
+    立て: v. たてる. 立てる. to build, to erect
+    農夫: n. のうふ. 農夫. farmer
+    貸す: v. かす. 貸す. to lend
+    旅に出た: v. たびにでた. 旅に出た. went on a trip
+    収穫: n. しゅうかく. 収穫. harvest
+    受け取る: v. うけとる. 受け取る. to receive
+    ために: conj. ために. ために. for the sake of
+    僕: n. しもべ. 僕. servant
+    送った: v. おくった. 送った. sent (past tense)
+    捕まえる: v. つかまえる. 捕まえる. to catch
+    袋だたき: n. ふくだたき. 袋だたき. beating
+    持たせない: v. もたせない. 持たせない. not give (to carry)
+    帰す: v. かえす. 帰す. to send back
+    頭を殴る: v. あたまをなぐる. 頭を殴る. to hit on the head
+    侮辱: n. ぶじょく. 侮辱. insult
+    更に: adv. さらに. 更に. furthermore
+    殺した: v. ころした. 殺した. killed (past tense)
+    そのほかに: adv. そのほかに. そのほかに. in addition
+    愛する: adj. あいする. 愛する. beloved
+    息子: n. むすこ. 息子. son
+    なら: conj. なら. なら. if
+    最後: n. さいご. 最後. last
+  grammar:
+    話し始められた:
+    - base: 話しはじめ
+    - suffix: ~られる
+    - meaning: to start talking (honorific form)
+    わたしの息子なら敬ってくれるだろう:
+    - base: わたしの息子なら敬う
+    - suffix: くれるだろう
+      くれる: aux. くれる. くれる. to give (to the speaker or someone close to the speaker).
+        Shows the action benefits the speaker
+      だろう: aux. だろう. だろう. probably, I guess
+    - meaning: If it is my son, they will respect him (expectation)
+  Friday_review: null
