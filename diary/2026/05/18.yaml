@@ -1,0 +1,31 @@
+date: "2026-05-18"
+weekday: "Monday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "12:7":
+    - "Pero aquellos labradores se dijeron entre sí: “Este es el heredero; ¡vengan, matémoslo, y la heredad será nuestra!”."
+  "12:8":
+    - "Echándole mano, lo mataron y lo arrojaron fuera de la viña."
+  "12:9":
+    - " »¿Qué hará, entonces, el dueño  de la viña? Vendrá y destruirá a los labradores, y dará la viña a otros. "
+vocabulary:
+  aquellos: "pron. aquellos. aquellos. those"
+  labradores: "n. labrador. labradores. farmers"
+  heredero: "n. heredero. heredero. heir"
+  vengan: "v. venir. vengan. come (imperative)"
+  matémoslo: "v. matar. matémoslo. let's kill him (imperative with object pronoun)"
+  heredad: "n. heredad. heredad. inheritance"
+  nuestra: "adj. nuestro. nuestra. our"
+  echándole mano: "v. echar mano. echándole mano. seizing (gerund with object pronoun)"
+  arrojaron: "v. arrojar. arrojaron. they threw (past tense)"
+  fuera: "adv. fuera. fuera. outside"
+  viña: "n. viña. viña. vineyard"
+  qué hará: "v. hacer. qué hará. what will he do"
+  dueño: "n. dueño. dueño. owner"
+  vendrá: "v. venir. vendrá. will come (future tense)"
+  destruirá: "v. destruir. destruirá. will destroy (future tense)"
+  dará: "v. dar. dará. will give (future tense)"
+grammar:
+Friday_review:
