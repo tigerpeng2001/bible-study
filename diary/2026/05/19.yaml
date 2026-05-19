@@ -1,0 +1,37 @@
+date: "2026-05-19"
+weekday: "Tuesday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "12:10":
+    - "¿Ni aun esta Escritura han leído:"
+    - "“La piedra que desecharon los constructores,"
+    - "Esa, en piedra angular se ha convertido;"
+  "12:11":
+    - " Esto fue hecho de parte del Señor,"
+    - "Y es maravilloso a nuestros ojos”?»."
+  "12:12":
+    - "Y procuraban prender a Jesús, pero temían a la multitud,"
+    - "porque comprendieron que contra ellos había dicho la parábola."
+    - "Y lo dejaron y se fueron."
+vocabulary:
+  Ni aun: "adv. ni aun. ni aun. not even"
+  Escritura: "s. escritura. escritura. scripture"
+  piedra: "n. piedra. piedra. stone"
+  desecharon: "v. desechar. desecharon. they rejected (past tense)"
+  constructores: "n. constructor. constructores. builders"
+  piedra angular: "n. piedra angular. piedra angular. cornerstone"
+  convertido: "v. convertir. convertido. has become (past participle)"
+  hecho: "v. hacer. hecho. done (past participle)"
+  parte: "n. parte. parte. part"
+  Señor: "n. Señor. Señor. Lord"
+  maravilloso: "adj. maravilloso. maravilloso. wonderful"
+  procuraban: "v. procurar. procuraban. they were trying (past tense)"
+  prender: "v. prender. prender. to arrest"
+  temían: "v. temer. temían. they were afraid (past tense)"
+  comprendieron: "v. comprender. comprendieron. they understood (past tense)"
+  dejaron: "v. dejar. dejaron. they left (past tense)"
+  se fueron: "v. irse. se fueron. they left (past tense reflexive)"
+grammar:
+Friday_review:
