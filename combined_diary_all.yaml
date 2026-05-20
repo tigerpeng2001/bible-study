@@ -5439,3 +5439,49 @@
     se fueron: v. irse. se fueron. they left (past tense reflexive)
   grammar: null
   Friday_review: null
+- date: '2026-05-20'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '12:13':
+    - さて、人々は、イエスの言葉じりをとらえて陥れようとして、ファリサイ派やヘロデ派の人を数人イエスのところに遣わした。
+    '12:14':
+    - 彼らは来て、イエスに言った。「先生、わたしたちは、あなたが真実な方で、だれをもはばからない方であることを知っています。
+    - 人々を分け隔てせず、真理に基づいて神の道を教えておられるからです。
+    - ところで、皇帝に税金を納めるのは、律法に適っているでしょうか、適っていないでしょうか。納めるべきでしょうか、納めてはならないのでしょうか。」
+    '12:15':
+    - イエスは、彼らの下心を見抜いて言われた。「なぜ、わたしを試そうとするのか。デナリオン銀貨を持って来て見せなさい。」
+    '12:16':
+    - 彼らがそれを持って来ると、イエスは、「これは、だれの肖像と銘か」と言われた。彼らが、「皇帝のものです」と言うと、
+    '12:17':
+    - イエスは言われた。「皇帝のものは皇帝に、神のものは神に返しなさい。」彼らは、イエスの答えに驚き入った。
+  vocabulary:
+    さて: adv. さて. さて. now, well then
+    言葉じり: n. ことばじり. 言葉じり. wording, phrasing
+    とらえて: v. とらえる. 捉えて. to catch, to seize (past tense)
+    陥れよう: v. おとしいれよう. 陥れよう. to try to trap
+    として: conj. として. として. as, in the role of
+    遣わした: v. つかわす. 遣わした. sent (past tense)
+    真実な方: adj. しんじつな. 真実な方. truthful person
+    はばからない: adj. はばからない. はばからない. not afraid, not hesitant
+    分け隔てせず: v. わけへだてせず. 分け隔てせず. without discrimination
+    真理に基づいて: v. しんりにもとづいて. 真理に基づいて. based on truth
+    神の道: n. かみのみち. 神の道. God's way
+    皇帝: n. こうてい. 皇帝. emperor
+    税金: n. ぜいきん. 税金. tax
+    納める: v. おさめる. 納める. to pay (taxes)
+    適っている: adj. かなっている. 適っている. appropriate, in accordance with
+    適っていない: adj. かなっていない. 適っていない. not appropriate, not in accordance with
+    でしょうか: aux. でしょうか. でしょうか. is it? (polite question)
+    納めるべき: v. おさめるべき. 納めるべき. should pay
+    納めてはならない: v. おさめてはならない. 納めてはならない. should not pay
+    下心: n. したごころ. 下心. ulterior motive
+    見抜いて: v. みぬく. 見抜いて. to see through, to discern (gerund)
+    試そう: v. ためそう. 試そう. to try, to test
+    デナリオン銀貨: n. デナリオンぎんか. デナリオン銀貨. denarius coin
+    肖像: n. しょうぞう. 肖像. image, portrait
+    銘: n. めい. 銘. inscription
+  grammar: null
+  Friday_review: null
