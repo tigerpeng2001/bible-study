@@ -2696,3 +2696,51 @@
     銘: n. めい. 銘. inscription
   grammar: null
   Friday_review: null
+- date: '2026-05-21'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '12:18':
+    - 復活はないと言っているサドカイ派の人々が、イエスのところへ来て尋ねた。
+    '12:19':
+    - 「先生、モーセはわたしたちのために書いています。
+    - 『ある人の兄が死に、妻を後に残して子がない場合、その弟は兄嫁と結婚して、兄の跡継ぎをもうけねばならない』と。
+    '12:20':
+    - ところで、七人の兄弟がいました。長男が妻を迎えましたが、跡継ぎを残さないで死にました。
+    '12:21':
+    - 次男がその女を妻にしましたが、跡継ぎを残さないで死に、三男も同様でした。
+    '12:22':
+    - こうして、七人とも跡継ぎを残しませんでした。最後にその女も死にました。
+    '12:23':
+    - 復活の時、彼らが復活すると、その女はだれの妻になるのでしょうか。七人ともその女を妻にしたのです。」
+  vocabulary:
+    復活: n. ふっかつ. 復活. resurrection
+    尋ねた: v. たずねた. 尋ねた. asked (past tense)
+    巡らし: v. めぐらす. 巡らす. to surround
+    死に: v. しぬ. 死ぬ. to die
+    妻: n. つま. 妻. wife
+    後に残して: v. あとにのこす. 後に残して. leaving behind (gerund)
+    場合: n. ばあい. 場合. case, situation
+    兄嫁: n. あによめ. 兄嫁. brother's wife
+    跡継ぎ: n. あとつぎ. 跡継ぎ/後継ぎ. heir, successor
+    もうけねばならない: v. もうける. もうけねばならない. must have (obligation form)
+    七人: num. しちにん. 七人. seven people
+    長男: n. ちょうなん. 長男. eldest son
+    迎えました: v. むかえました. 迎えました. married (past tense)
+    次男: n. じなん. 次男. second son
+    女: n. おんな. 女. woman
+    三男: n. さんなん. 三男. third son
+    同様: adj. どうよう. 同様. same, similar
+    最後: adv. さいご. 最後. finally
+  grammar:
+    もうけねばならない:
+    - 'obligation form: must have'
+    - 儲ける (もうける) is the verb for 'to have' or 'to bear' in the context of offspring.
+      The obligation form 'もうけねばならない' indicates that it is necessary to have offspring
+      in this situation.
+    - ねば. short form of なければ, if not/unless
+    - ならない. auxiliary verb indicating obligation or necessity, meaning 'must' or 'have
+      to'
+  Friday_review: null
