@@ -1,0 +1,30 @@
+date: "2026-05-25"
+weekday: "Monday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "12:24":
+    - "Jesús les dijo: «¿No es esta la razón por la que están ustedes equivocados:" 
+    - "que no entienden las Escrituras ni el poder de Dios?"
+  "12:25":
+    - "Porque cuando resuciten de entre los muertos, ni se casarán ni serán dados en matrimonio,"
+    - "sino que serán como los ángeles en los cielos. "
+  "12:26":
+    - "Y en cuanto a que los muertos resucitan,"
+    - "¿no habéis leído en el libro de Moisés, en el pasaje sobre la zarza ardiendo, cómo Dios le habló, diciendo:"
+    - "«Yo soy el Dios de Abraham, y el Dios de Isaac, y el Dios de Jacob»? "
+  "12:27":
+    - "Él no es Dios de muertos, sino de vivos; vosotros estáis muy equivocados."
+vocabulary:
+  equivocados: "adj. equivocado. equivocados. mistaken"
+  entienden: "v. entender. entienden. understand (present tense)"
+  resuciten: "v. resucitar. resuciten. resurrect (present subjunctive)"
+  casarán: "v. casar. casarán. marry (future tense)"
+  dados en matrimonio: "v. dar en matrimonio. dados en matrimonio. given in marriage (past participle)"
+  habéis leído: "v. haber leído. habéis leído. have read (present perfect tense)"
+  zarza ardiendo: "n. zarza ardiendo. zarza ardiendo. burning bush"
+  habló: "v. hablar. habló. spoke (past tense)"
+  diciendo: "v. decir. diciendo. saying (present participle)"
+grammar:
+Friday_review:
