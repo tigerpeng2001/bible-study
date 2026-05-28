@@ -5533,3 +5533,86 @@
     - ならない. auxiliary verb indicating obligation or necessity, meaning 'must' or 'have
       to'
   Friday_review: null
+- date: '2026-05-25'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '12:24':
+    - 'Jesús les dijo: «¿No es esta la razón por la que están ustedes equivocados:'
+    - que no entienden las Escrituras ni el poder de Dios?
+    '12:25':
+    - Porque cuando resuciten de entre los muertos, ni se casarán ni serán dados en
+      matrimonio,
+    - 'sino que serán como los ángeles en los cielos. '
+    '12:26':
+    - Y en cuanto a que los muertos resucitan,
+    - '¿no habéis leído en el libro de Moisés, en el pasaje sobre la zarza ardiendo,
+      cómo Dios le habló, diciendo:'
+    - '«Yo soy el Dios de Abraham, y el Dios de Isaac, y el Dios de Jacob»? '
+    '12:27':
+    - Él no es Dios de muertos, sino de vivos; vosotros estáis muy equivocados.
+  vocabulary:
+    equivocados: adj. equivocado. equivocados. mistaken
+    entienden: v. entender. entienden. understand (present tense)
+    resuciten: v. resucitar. resuciten. resurrect (present subjunctive)
+    casarán: v. casar. casarán. marry (future tense)
+    dados en matrimonio: v. dar en matrimonio. dados en matrimonio. given in marriage
+      (past participle)
+    habéis leído: v. haber leído. habéis leído. have read (present perfect tense)
+    zarza ardiendo: n. zarza ardiendo. zarza ardiendo. burning bush
+    habló: v. hablar. habló. spoke (past tense)
+    diciendo: v. decir. diciendo. saying (present participle)
+  grammar: null
+  Friday_review: null
+- date: '2026-05-26'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '12:28':
+    - Cuando uno de los escribas se acercó, los oyó discutir, y reconociendo que les
+      había contestado bien,
+    - 'le preguntó: ¿Cuál mandamiento es el más importante de todos? '
+    '12:29':
+    - 'Jesús respondió: El más importante es: «Escucha, Israel; el Señor nuestro Dios,
+      el Señor uno es;'
+    '12:30':
+    - y amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda
+      tu mente, y con toda tu fuerza».
+    '12:31':
+    - 'El segundo es este: «Amarás a tu prójimo como a ti mismo». No hay otro mandamiento
+      mayor que estos.'
+    '12:32':
+    - 'Y el escriba le dijo: Muy bien, Maestro; con verdad has dicho que Él es uno,
+      y no hay otro además de Él;'
+    '12:33':
+    - y que amarle con todo el corazón y con todo el entendimiento y con todas las
+      fuerzas,“ - ”y amar al prójimo como a uno mismo, es más que todos los holocaustos
+      y los sacrificios.
+    '12:34':
+    - 'Viendo Jesús que él había respondido sabiamente, le dijo: No estás lejos del
+      reino de Dios.'
+    - Y después de eso, nadie se aventuraba a hacerle más preguntas.
+  vocabulary:
+    se acercó: v. acercarse. se acercó. he/she approached (past tense)
+    oyó: v. oír. oyó. he/she heard (past tense)
+    mayor: adj. mayor. mayor. greater
+    holocaustos: n. holocausto.  holocaustos. holocausts. a burnt offering or a sacrifice
+      that is completely consumed by fire
+    viendo: v. ver. viendo. seeing (present participle)
+    respondido sabiamente: v. responder sabiamente. respondido sabiamente. responded
+      wisely (past participle)
+    lejos: adj. lejos. lejos. far
+    aventuraba: v. aventurarse. se aventuraba. he/she ventured (past tense)
+  grammar:
+    los oyó discutir:
+    - 'los: definite article. los. the (plural masculine) - proclitcal pronoun,  the
+      pronoun must go imidiately before the conjugated verb'
+    - 'oyó: verb. oír. oyó. he/she heard (past tense)'
+    - 'discutir: verb. discutir. discutir. to discuss'
+    - 'Note: the pronoun only goes and attachees to an infinitive verb or a gerund
+      verb. As ''amarle'' in verse 12:33'
+  Friday_review: null
