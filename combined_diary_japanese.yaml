@@ -2744,3 +2744,33 @@
     - ならない. auxiliary verb indicating obligation or necessity, meaning 'must' or 'have
       to'
   Friday_review: null
+- date: '2026-05-27'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '12:35':
+    - イエスは神殿の境内で教えていたとき、こう言われた。「どうして律法学者たちは、『メシアはダビデの子だ』と言うのか。
+    '12:36':
+    - ダビデ自身が聖霊を受けて言っている。
+    - 『主は、わたしの主にお告げになった。
+    - 「わたしの右の座に着きなさい。わたしがあなたの敵を
+    - あなたの足もとに屈服させるときまで」と。』
+    '12:37':
+    - このようにダビデ自身がメシアを主と呼んでいるのに、どうしてメシアがダビデの子なのか。」大勢の群衆は、イエスの教えに喜んで耳を傾けた。
+  vocabulary:
+    神殿: n. しんでん. 神殿. temple
+    境内: n. けいだい. 境内. precincts, grounds of a temple
+    律法学者: n. りっぽうがくしゃ. 律法学者. expert in the law, a scholar of the Jewish law
+    聖霊: n. せいれい. 聖霊. Holy Spirit
+    お告げ: n. おつげ. お告げ. revelation, divine message
+    右の座: n. みぎのざ. 右の座. right hand seat
+    着きなさい: v. つく. 着きなさい. please sit (imperative form)
+    敵: n. てき. 敵. enemy
+    足もと: n. あしもと. 足もと. at one's feet
+    屈服させる: v. くっぷくさせる. 屈服させる. to subdue, to make someone submit
+    大勢の群衆: n. おおぜいのぐんしゅう. 大勢の群衆. large crowd
+    喜んで耳を傾けた: v. よろこんでみみをかたむけた. 喜んで耳を傾けた. listened with joy (past tense)
+  grammar: null
+  Friday_review: null
