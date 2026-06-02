@@ -1,0 +1,41 @@
+date: "2026-06-01"
+weekday: "Monday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "12:41":
+    - "Jesús se sentó frente al arca del tesoro, y observaba cómo la multitud echaba dinero en el arca del tesoro;"
+    - "y muchos ricos echaban grandes cantidades. "
+  "12:42":
+    - "Llegó una viuda pobre y echó dos pequeñas monedas de cobre, o sea, un cuadrante"
+  "12:43":
+    - "Y llamando Jesús a Sus discípulos, les dijo:"
+    - "«En verdad les digo, que esta viuda pobre echó más que todos los contribuyentes al tesoro; "
+  "12:44":
+    - "porque todos ellos echaron de lo que les sobra, pero ella, de su pobreza, echó todo lo que poseía, todo lo que tenía para vivir»."
+vocabulary:
+  se sentó: "v. sentarse. se sentó. sat down (past tense)"
+  frente: "n. frente. frente. front"
+  arca: "n. arca. arca. ark"
+  tesoro: "n. tesoro. tesoro. treasure"
+  observaba: "v. observar. observaba. was observing (past tense)"
+  echaba: "v. echar. echaba. was throwing (past tense)"
+  ricos: "n. ricos. ricos. rich people"
+  echaban: "v. echar. echaban. were throwing (past tense)"
+  cantidad: "n. cantidad. cantidad. amount"
+  viuda: "n. viuda. viuda. widow"
+  pobre: "adj. pobre. pobre. poor"
+  echó: "v. echar. echó. threw (past tense)"
+  pequeña: "adj. pequeño. pequeña. small"
+  moneda: "n. moneda. moneda. coin"
+  cobre: "n. cobre. cobre. copper"
+  cuadrante: "n. cuadrante. cuadrante. farthing (a small coin)"
+  contribuyentes: "n. contribuyentes. contribuyentes. contributors"
+  echabaron: "v. echar. echabaron. threw (past tense)"
+  sobra: "n. sobra. sobra. surplus, excess"
+  pobreza: "n. pobreza. pobreza. poverty"
+  poseía: "v. poseer. poseía. possessed (past tense)"
+  tenía para vivir: "phrase. tenía para vivir. had to live on."
+grammar:
+Friday_review:
