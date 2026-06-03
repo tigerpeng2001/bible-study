@@ -1,0 +1,19 @@
+date: "2026-06-02"
+weekday: "Tuesday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "13:1":
+    - "Cuando Jesús salía del templo, uno de Sus discípulos le dijo*: «Maestro, ¡mira qué piedras y qué edificios!»."
+  "13:1":
+    - "Y Jesús le dijo: «¿Ves estos grandes edificios? No quedará piedra sobre piedra que no sea derribada»."
+vocabulary:
+  piedra: "n. piedra. piedra. stone"
+  edificio: "n. edificio. edificio. building"
+  ves: "v. ver. ves. you see (present tense)"
+  quedará: "v. quedar. quedará. will remain (future tense)"
+  piedra sobre piedra: "phrase. piedra sobre piedra. stone upon stone."
+  sea derribada: "phrase. sea derribada. is knocked down."
+grammar:
+Friday_review:
