@@ -5844,3 +5844,58 @@
     - も: aux. も. も. also, too. This is used to indicate that something is in addition
         to what has already been mentioned.
   Friday_review: null
+- date: '2026-06-04'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '13:9':
+    - あなたがたは自分のことに気をつけていなさい。あなたがたは地方法院に引き渡され、会堂で打ちたたかれる。また、わたしのために総督や王の前に立たされて、証しをすることになる。
+    '13:10':
+    - 'しかし、まず、福音があらゆる民に宣べ伝えられねばならない。 '
+    '13:11':
+    - 引き渡され、連れて行かれるとき、何を言おうかと取り越し苦労をしてはならない。そのときには、教えられることを話せばよい。実は、話すのはあなたがたではなく、聖霊なのだ。
+    '13:12':
+    - 兄弟は兄弟を、父は子を死に追いやり、子は親に反抗して殺すだろう。
+    '13:13':
+    - また、わたしの名のために、あなたがたはすべての人に憎まれる。しかし、最後まで耐え忍ぶ者は救われる。」
+  vocabulary:
+    地方法院: n. ちほうほういん. 地方法院. local court
+    引き渡され: v. ひきわたされる. 引き渡され. to be handed over (passive form)
+    会堂: n. かいどう. 会堂. synagogue
+    打ちたたかれる: v. うちたたかれる. 打ちたたかれる. to be beaten (passive form)
+    総督: n. そうとく. 総督. governor
+    王: n. おう. 王. king
+    前に立たされて: v. まえにたたされる. 前に立たされて. to be put on trial (passive form)
+    証しをする: phrase. しょうしをする. 証しをする. to testify
+    福音: n. ふくいん. 福音. gospel
+    あらゆる民: phrase. あらゆるたみ. あらゆる民. all nations
+    宣べ伝えられねばならない: phrase. のべつたえられねばならない. 宣べ伝えられねばならない. must be proclaimed
+    連れて行かれる: v. つれていかれる. 連れて行かれる. to be taken away (passive form)
+    言おうと: v. いおうとする. 言おうと. to try to say
+    取り越し苦労: n. とりこしぐろう. 取り越し苦労. unnecessary worry
+    教えられること: phrase. おしえられること. 教えられること. what will be taught
+    話せばよい: phrase. はなせばよい. 話せばよい. just speak
+    実は: phrase. じつは. 実は. in fact
+    聖霊: n. せいれい. 聖霊. Holy Spirit
+    兄弟: n. きょうだい. 兄弟. brother
+    父: n. ちち. 父. father
+    子: n. こ. 子. child
+    死に追いやる: v. しにおいやる. 死に追いやる. to put to death
+    親: n. おや. 親. parent
+    反抗する: v. はんこうする. 反抗する. to rebel against
+    憎まれる: v. にくまれる. 憎まれる. to be hated
+    最後まで耐え忍ぶ: phrase. さいごまでたえしのぶ. 最後まで耐え忍ぶ. to endure to the end
+    救われる: v. すくわれる. 救われる. to be saved (passive form)
+  grammar:
+    ことになる: The phrase 'ことになる' is used to indicate that something will happen as a
+      result of circumstances or decisions. It often implies that the outcome is somewhat
+      inevitable or has been decided by external factors. In this context, it is used
+      to describe the future events that will happen to the disciples as a result
+      of their association with Jesus.
+    ねばならない: The phrase 'ねばならない' is a formal way to express obligation or necessity.
+      It is often used in written language and formal speech. In this context, it
+      is used to indicate that the gospel must be proclaimed to all nations, emphasizing
+      the importance and inevitability of this task.
+  Friday_review: null
