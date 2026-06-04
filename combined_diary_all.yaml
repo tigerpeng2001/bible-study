@@ -5746,6 +5746,9 @@
   target_language: Spanish
   verses:
     '13:1':
+    - 'Cuando Jesús salía del templo, uno de Sus discípulos le dijo*: «Maestro, ¡mira
+      qué piedras y qué edificios!».'
+    '13:2':
     - 'Y Jesús le dijo: «¿Ves estos grandes edificios? No quedará piedra sobre piedra
       que no sea derribada».'
   vocabulary:
@@ -5756,4 +5759,88 @@
     piedra sobre piedra: phrase. piedra sobre piedra. stone upon stone.
     sea derribada: phrase. sea derribada. is knocked down.
   grammar: null
+  Friday_review: null
+- date: '2026-06-03'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '13:4':
+    - 「おっしゃってください。そのことはいつ起こるのですか。また、そのことがすべて実現するときには、どんな徴があるのですか。」
+    '13:5':
+    - イエスは話し始められた。「人に惑わされないように気をつけなさい。
+    '13:6':
+    - わたしの名を名乗る者が大勢現れ、『わたしがそれだ』と言って、多くの人を惑わすだろう。
+    '13:7':
+    - 戦争の騒ぎや戦争のうわさを聞いても、慌ててはいけない。そういうことは起こるに決まっているが、まだ世の終わりではない。
+    '13:8':
+    - 民は民に、国は国に敵対して立ち上がり、方々に地震があり、飢饉が起こる。これらは産みの苦しみの始まりである。
+  vocabulary:
+    神殿: n. しんでん. 神殿. temple
+    方を向いて: phrase. ほうをむいて. 方を向いて. facing towards
+    座っておられる: v. すわる. 座っておられる. is sitting (polite form)
+    ひそかに: adv. ひそかに. ひそかに. secretly
+    尋ねた: v. たずねる. 尋ねた. asked (past tense)
+    おっしゃってください: phrase. おっしゃってください. おっしゃってください. Please tell us.
+    実現: n. じつげん. 実現. fulfillment
+    徴: n. しるし. 徴. sign, omen
+    話し始められた: v. はなす. 話し始められた. began to speak (polite form)
+    惑わされる: v. まどわされる. 惑わされる. to be deceived
+    名: n. な. 名. name
+    名乗る: v. なのる. 名乗る. to claim to be
+    大勢: n. おおぜい. 大勢. many people
+    現れる: v. あらわれる. 現れる. to appear
+    だろう: aux. だろう. だろう. probably, will likely
+    戦争: n. せんそう. 戦争. war
+    騒ぎ: n. さわぎ. 騒ぎ. commotion, uproar
+    うわさ: n. うわさ. うわさ. rumor
+    慌てて: adv. あわてて. 慌てて. in a hurry, panicking
+    いけない: phrase. いけない. いけない. must not, should not
+    そういうこと: phrase. そういうこと. そういうこと. such things
+    起こる: v. おこる. 起こる. to happen
+    起こるに決まっている: phrase. おこるにきまっている. 起こるに決まっている. is bound to happen
+    世の終わり: phrase. よの おわり. 世の終わり. end of the world
+    民: n. たみ. 民. people, nation
+    敵対する: v. てきたいする. 敵対する. to oppose
+    立ち上がる: v. たちあがる. 立ち上がる. to rise up
+    方々: n. ほうぼう. 方々. everywhere
+    地震: n. じしん. 地震. earthquake
+    飢饉: n. ききん. 飢饉. famine
+    産みの苦しみ: phrase. うみのくるしみ. 産みの苦しみ. labor pains
+    始まり: n. はじまり. 始まり. beginning
+  grammar:
+    のです: The phrase 'のです' is used to explain or provide reasoning for something. It
+      often adds an explanatory tone to a statement, indicating that the speaker is
+      providing information that is expected to be understood by the listener.
+    のですか: The phrase 'のですか' is a question form of 'のです', used to ask for an explanation
+      or reason behind something. It is often used when seeking clarification or understanding
+      about a situation.
+    どんな徴があるか vs どんな徴があるのか: Both phrases are used to ask about the signs or omens that
+      will occur. 'どんな徴があるか' is a more straightforward question, while 'どんな徴があるのか'
+      adds an explanatory tone, indicating that the speaker is seeking a deeper understanding
+      of the signs.
+    人に惑わされないように気をつけなさい:
+    - meaning: Be careful not to be deceived by people.
+    - 惑わす: v. まどわす. 惑わす. to deceive
+    - 惑わされる: v. まどわされる. 惑わされる. to be deceived
+    - 窓わされない: phrase. 窓わされない. 窓わされない. not to be deceived
+    - ように: phrase. ように. ように. in order to, so that
+    - 気をつけなさい:
+      - meaning: Be careful
+      - 気をつける: v. きをつける. 気をつける. to be careful
+      - なさい: phrase. なさい. なさい. (polite command form)
+    だろう and others:
+    - だろう: aux. だろう. だろう. probably, will likely
+    - でしょう: aux. でしょう. でしょう. probably, will likely. This is a more polite form than
+        'だろう'.
+    - かもしれない: aux. かもしれない. かもしれない. might, could be. This is used to express possibility
+        and is less certain than 'だろう' or 'でしょう'.
+    - かもしりません: aux. かもしれません. かもしれません. might, could be. This is a more polite form
+        of 'かもしれない'.
+    - かも: aux. かも. かも. might, could be. This is a more casual form of 'かもしれない'.
+    - か: aux. か. か. (question particle) This is used to indicate a question, often
+        in informal speech.
+    - も: aux. も. も. also, too. This is used to indicate that something is in addition
+        to what has already been mentioned.
   Friday_review: null
