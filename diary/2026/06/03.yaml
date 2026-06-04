@@ -57,7 +57,8 @@ grammar:
     - meaning: "Be careful not to be deceived by people."
     - 惑わす: "v. まどわす. 惑わす. to deceive"
     - 惑わされる: "v. まどわされる. 惑わされる. to be deceived"
-    - 窓わされない: "phrase. 窓わされない. 窓わされない. not to be deceived"
+    - 惑わされる: "v. まどわされる. 惑わされる. to be deceived"
+    - 惑わされない: "phrase. まどわされない. 惑わされない. not to be deceived"
     - ように: "phrase. ように. ように. in order to, so that"
     - 気をつけなさい: 
       - meaning: "Be careful"
