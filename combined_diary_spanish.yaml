@@ -2935,3 +2935,52 @@
     sea derribada: phrase. sea derribada. is knocked down.
   grammar: null
   Friday_review: null
+- date: '2026-06-08'
+  weekday: Monday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '13:14':
+    - ' »Ustedes son la luz del mundo. Una ciudad situada sobre un monte no se puede
+      ocultar;'
+    '13:15':
+    - ni se enciende una lámpara y se pone debajo de una vasija, sino sobre el candelero,
+      y alumbra a todos los que están en la casa.
+    '13:16':
+    - 'Así brille la luz de ustedes delante de los hombres, para que vean sus buenas
+      acciones y glorifiquen a su Padre que está en los cielos. '
+  vocabulary:
+    situada: adj. situada. situada. situated
+    ocultar: v. ocultar. ocultar. to hide
+    se enciende: v. encender. se enciende. is lit
+    lámpara: n. lámpara. lámpara. lamp
+    se pone: v. poner. se pone. is put
+    debajo de: phrase. debajo de. debajo de. under
+    vasija: n. vasija. vasija. vessel
+    candelero: n. candelero. candelero. candlestick
+    alumbra: v. alumbrar. alumbra. illuminates
+    brille: v. brillar. brille. let shine (subjunctive form)
+    delante de: phrase. delante de. delante de. before
+    vean: v. ver. vean. see (subjunctive form)
+    buenas acciones: phrase. buenas acciones. buenas acciones. good deeds
+    glorifiquen: v. glorificar. glorifiquen. glorify (subjunctive form)
+  grammar:
+    se puede ocultar: The phrase 'se puede ocultar' is a passive construction that
+      means 'can be hidden'. It is used to indicate that something is not able to
+      be hidden or concealed. In this context, it emphasizes that a city situated
+      on a hill cannot be hidden from view.
+    ni se enciende...sino: The structure 'ni...sino' is used to contrast two actions
+      or states. In this case, it contrasts the action of lighting a lamp and putting
+      it under a vessel with the action of putting it on a candlestick. It emphasizes
+      that the lamp should not be hidden but should be placed in a position where
+      it can illuminate.
+    los que están en la casa: The phrase 'los que están en la casa' refers to the
+      people who are inside the house. It emphasizes that the lamp should illuminate
+      everyone within the household, symbolizing the idea that the disciples' good
+      deeds should be visible to all.
+    para que vean...glorifiquen: The structure 'para que...glorifiquen' is used to
+      express purpose. It indicates that the reason for letting the light shine before
+      others is so that they may see the good deeds and glorify the Father in heaven.
+      It emphasizes the intended outcome of the disciples' actions.
+  Friday_review: null
