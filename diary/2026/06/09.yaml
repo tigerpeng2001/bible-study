@@ -1,0 +1,35 @@
+date: "2026-06-09"
+weekday: "Tuesday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "13:14":
+    - "»Pero cuando vean la abominación de la desolación puesta donde no debe estar (el que lea, que entienda),"
+    - "entonces los que estén en Judea huyan a los montes; "
+  "13:15":
+    - "y el que esté en la azotea, no baje ni entre a sacar nada de su casa;"
+  "13:16":
+    - "y el que esté en el campo, no vuelva a tomar su capa."
+  "13:17":
+    - "Pero, ¡ay de las que estén encinta y de las que estén criando en aquellos días!"
+vocabulary:
+  abominación: "n. abominación. abominación. abomination"
+  desolación: "n. desolación. desolación. desolation"
+  puesta: "v. poner. puesta. put (past participle form used as an adjective)"
+  debe: "v. deber. debe. should (present tense) / must (present tense) / ought to (present tense)"
+  lea: "v. leer. lea. read (subjunctive form)"
+  entienda: "v. entender. entienda. understand (subjunctive form)"
+  huyan: "v. huir. huyan. flee (subjunctive form)"
+  azotea: "n. azotea. azotea. rooftop"
+  baje: "v. bajar. baje. go down (subjunctive form)"
+  sacar: "v. sacar. sacar. take out"
+  vuelva: "v. volver. vuelva. return (subjunctive form)"
+  tomar: "v. tomar. tomar. take"
+  capa: "n. capa. capa. cloak"
+  ay: "interjection. ay. ay. woe"
+  encinta: "adj. encinta. encinta. pregnant"
+  criando: "v. criar. criando. nursing (present participle form used as an adjective)"
+  aquellos días: "phrase. aquellos días. aquellos días. those days"
+grammar:
+Friday_review:
