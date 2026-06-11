@@ -2962,3 +2962,51 @@
       is used to indicate that the gospel must be proclaimed to all nations, emphasizing
       the importance and inevitability of this task.
   Friday_review: null
+- date: '2026-06-10'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '13:18':
+    - このことが冬に起こらないように、祈りなさい。
+    '13:19':
+    - それらの日には、神が天地を造られた創造の初めから今までなく、今後も決してないほどの苦難が来るからである。
+    '13:20':
+    - 主がその期間を縮めてくださらなければ、だれ一人救われない。しかし、主は御自分のものとして選んだ人たちのために、その期間を縮めてくださったのである。。
+    '13:21':
+    - 'そのとき、『見よ、ここにメシアがいる』『見よ、あそこだ』と言う者がいても、信じてはならない。 '
+    '13:22':
+    - 偽メシアや偽預言者が現れて、しるしや不思議な業を行い、できれば、選ばれた人たちを惑わそうとするからである。
+    '13:23':
+    - だから、あなたがたは気をつけていなさい。一切の事を前もって言っておく。」
+  vocabulary:
+    冬: n. ふゆ. 冬. winter
+    起こらないように: phrase. おこらないように. 起こらないように. so that it does not happen
+    祈りなさい: v. いのる. 祈りなさい. pray (command form)
+    なく: v. ない. なく. not exist, not have
+    今後も: adv. こんごも. 今後も. from now on, in the future
+    決してない: phrase. けっしてない. 決してない. never
+    苦難: n. くなん. 苦難. suffering
+    来る: v. くる. 来る. come
+    期間: n. きかん. 期間. period of time
+    縮めてくださらなければ: phrase. ちぢめてくださらなければ. 縮めてくださらなければ. if (the Lord) does not shorten
+    救われない: phrase. すくわれない. 救われない. will not be saved
+    御自分のものとして選んだ人たち: phrase. ごじぶんのものとしてえらんだひとたち. 御自分のものとして選んだ人たち. those whom He has
+      chosen as His own
+    そのとき: phrase. そのとき. そのとき. at that time
+    メシア: n. メシア. メシア. Messiah
+    あそこ: adv. あそこ. あそこ. over there
+    偽メシア: n. にせメシア. 偽メシア. false Messiah
+    偽預言者: n. にせよげんしゃ. 偽預言者. false prophet
+    現れる: v. あらわれる. 現れる. appear
+    しるし: n. しるし. しるし. sign
+    不思議な業: n. ふしぎなわざ. 不思議な業. wonder, miraculous work
+    行い: v. おこなう. 行う. perform
+    できれば: adv. できれば. できれば. if possible
+    選ばれた人たち: phrase. えらばれたひとたち. 選ばれた人たち. the chosen ones
+    惑わそうとする: phrase. まどわそうとする. 惑わそうとする. try to deceive
+    一切の事: phrase. いっさいのこと. 一切の事. everything
+    前もって言っておく: phrase. まえもっていっておく. 前もって言っておく. tell you beforehand
+  grammar: null
+  Friday_review: null
