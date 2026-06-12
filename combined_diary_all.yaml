@@ -6033,3 +6033,125 @@
     前もって言っておく: phrase. まえもっていっておく. 前もって言っておく. tell you beforehand
   grammar: null
   Friday_review: null
+- date: '2026-06-11'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '13:24':
+    - 「それらの日には、このような苦難の後、
+    - 太陽は暗くなり、
+    - 月は光を放たず、
+    '13:25':
+    - 星は空から落ち、
+    - 天体は揺り動かされる。
+    '13:26':
+    - そのとき、人の子が大いなる力と栄光を帯びて雲に乗って来るのを、人々は見る。
+    '13:27':
+    - そのとき、人の子は天使たちを遣わし、地の果てから天の果てまで、彼によって選ばれた人たちを四方から呼び集める。」
+  vocabulary:
+    苦難: n. くなん. 苦難. suffering
+    後: n. のち. 後. after
+    太陽: n. たいよう. 太陽. sun
+    暗くなり: v. くらくなり. 暗くなり. to become dark. This is a compound of '暗く' (dark) and 'なり'
+      (to become). The verb 'なる' (to become) is conjugated in the continuative form
+      'なり' to indicate a change of state.
+    光: n. ひかり. 光. light
+    放たず: v. はなたず. 放たず. not to emit light. This is a negative form of the verb '放つ'
+      (to release or emit).
+    落ち: v. おち. 落ち. to fall. This is the continuative form of the verb '落ちる' (to fall).
+    天体: n. てんたい. 天体. celestial body
+    揺り動かされる: v. ゆりうごかされる. 揺り動かされる. to be shaken. This is the passive form of the verb
+      '揺り動かす' (to shake).
+    栄光: n. えいこう. 栄光. glory
+    帯びて: v. おびて. 帯びて. to be clothed with. This is the continuative form of the verb
+      '帯びる' (to be clothed with or to carry).
+    天使: n. てんし. 天使. angel
+    遣わし: v. つかわし. 遣わし. to send. This is the continuative form of the verb '遣わす' (to
+      send).
+    地の果て: phrase. ちのはて. 地の果て. ends of the earth
+    天の果て: phrase. てんのはて. 天の果て. ends of heaven
+    選ばれた人たち: phrase. えらばれたひとたち. 選ばれた人たち. the chosen ones
+    四方: n. しほう. 四方. four directions
+    呼び集める: v. よびあつめる. 呼び集める. to gather together. This is a compound of '呼ぶ' (to call)
+      and '集める' (to gather).
+    集める: v. あつめる. 集める. to gather. This is the continuative form of the verb '集まる'
+      (to gather).
+  grammar: null
+  Friday_review: null
+  sound_evolution of '日':
+  - modern_reading: にち (nichi)
+    origin_type: Onyomi
+    reconstructed_historical_sound: '*nyit (Ancient Chinese)'
+    historical_linguistic_proof: Traced via Cantonese (jat) and modern sokuon (e.g.,
+      nikki).
+  - modern_reading: じつ (jitsu)
+    origin_type: Onyomi
+    reconstructed_historical_sound: '*nyit (Alternate Chinese era)'
+    historical_linguistic_proof: Variation of the '-t' suffix adaptation (nitu ->
+      jitsu).
+  - modern_reading: ひ (hi)
+    origin_type: Kunyomi
+    reconstructed_historical_sound: '*pi (Proto-Japanese)'
+    historical_linguistic_proof: Traced through historical text analysis showing the
+      P -> F -> H shift.
+  - modern_reading: び (bi)
+    origin_type: Kunyomi
+    reconstructed_historical_sound: '*bi (Voiced variant of *pi)'
+    historical_linguistic_proof: Visible today via rendaku sound changes in compound
+      words.
+  sound_evolution_go:
+  - modern_reading: ゴ (go) [Go-on]
+    origin_type: Onyomi
+    reconstructed_historical_sound: '*huoX / *γoʊ (Ancient Chinese voiced consonant)'
+    historical_linguistic_proof: Preserved in Buddhist terms and archaic compounds
+      (e.g., 後世 gese, 前後 zengo), reflecting the voiced qualities of early Chinese
+      imports.
+  - modern_reading: コウ (kou) [Kan-on]
+    origin_type: Onyomi
+    reconstructed_historical_sound: Shifting phonetics of the Chinese Tang Dynasty
+      standard language
+    historical_linguistic_proof: Became the standard reading from the Heian period
+      onward. Predominantly used in modern or systematic vocabulary (e.g., 後半 kouhan,
+      後輩 kouhai).
+  - modern_reading: うしろ (ushiro)
+    origin_type: Kunyomi
+    reconstructed_historical_sound: usi + ro (Proto-Japonic / Old Japanese)
+    historical_linguistic_proof: Derived from 'usi' (meaning hidden or invisible,
+      related to modern 'ushinau'—to lose) + 'ro' (a suffix indicating direction or
+      location), evolving from an ancient spatial concept of what is hidden from view.
+  - modern_reading: のち (nochi)
+    origin_type: Kunyomi
+    reconstructed_historical_sound: noti (Old Japanese)
+    historical_linguistic_proof: Attested in 8th-century texts like the Man'yoshu.
+      Cognate with a family of ancient roots (like 'oso'—late, or 'noro'—slow) carrying
+      the core nuance of lagging behind or following sequentially.
+  sound_evolution_getsu:
+  - modern_reading: ゲツ (getsu) [Kan-on]
+    origin_type: Onyomi
+    reconstructed_historical_sound: '*ngʉat (Ancient Chinese)'
+    historical_linguistic_proof: 'Ancient Chinese words for ''moon'' ended in a hard
+      "-t" consonant (preserved in modern Cantonese as ''jyut6''). Because Old Japanese
+      did not allow standalone consonant endings, speakers added an "-u" vowel to
+      adapt it.  This turned "*ngʉat" into "gatu", which eventually shifted to "getsu"
+      over centuries of vowel modification.
+
+      '
+  - modern_reading: ガツ (gatsu) [Go-on]
+    origin_type: Onyomi
+    reconstructed_historical_sound: An earlier variation of the *ngʉat phonetic lineage
+    historical_linguistic_proof: 'Imported during an older linguistic era than ''getsu''.
+      The "-t" suffix collapsed directly into  the vowel "-u" to create "gatu" (ガツ).
+      You can still see this hard ancient "-t" structure  when it collapses into a
+      double consonant (sokuon) in compound words, such as 一ヶ月 (ikka-getsu / ikka-pi).
+
+      '
+  - modern_reading: つき (tsuki)
+    origin_type: Kunyomi
+    reconstructed_historical_sound: '*tukiy (Proto-Japonic / Old Japanese)'
+    historical_linguistic_proof: Attested in 8th-century texts like the Kojiki and
+      Man'yoshu. Historical phonologists trace this back  to an ancient root "*tuku",
+      which was used to refer to both the moon and the tracking of passing time/months.  The
+      modern "tsuki" sound stabilized during the Middle Japanese period as the ancient
+      "t-" sound before "u"  naturally affricated into "ts-".
