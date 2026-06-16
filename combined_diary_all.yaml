@@ -6155,3 +6155,41 @@
       which was used to refer to both the moon and the tracking of passing time/months.  The
       modern "tsuki" sound stabilized during the Middle Japanese period as the ancient
       "t-" sound before "u"  naturally affricated into "ts-".
+- date: '2026-06-15'
+  weekday: Monday
+  book: Mateo
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '13:28':
+    - '»De la higuera aprendan la parábola: cuando su rama ya se pone tierna y echa
+      las hojas, saben que el verano está cerca.'
+    '13:29':
+    - Así también ustedes, cuando vean que suceden estas cosas, sepan que Él está
+      cerca, a las puertas.
+    '13:30':
+    - En verdad les digo que no pasará esta generación hasta que todo esto suceda.
+    '13:31':
+    - El cielo y la tierra pasarán, pero Mis palabras no pasarán.
+    '13:32':
+    - Pero de aquel día o de aquella hora nadie sabe, ni siquiera los ángeles en el
+      cielo, ni el Hijo, sino solo el Padre.
+  vocabulary:
+    higuera: n. higuera. higuera. fig tree
+    rama: n. rama. rama. branch
+    ya: adv. ya. ya. already
+    se pone: v. poner. se pone. is put (3rd person singular present)
+    tierna: adj. tierna. tierna. tender
+    echa: v. echar. echa. puts forth or produces (3rd person singular present)
+    hojas: n. hojas. hojas. leaves
+    verano: n. verano. verano. summer
+    suceden: v. suceder. suceden. happen or occur (3rd person plural present)
+    sepan: v. saber. sepan. know (subjunctive form)
+    pasará: v. pasar. pasará. will pass  (future tense)
+    suceda: v. suceder. suceda. happens (subjunctive form)
+    pasarán: v. pasar. pasarán. will pass (future tense)
+    de aquel día: phrase. de aquel día. de aquel día. of that day
+    de aquella hora: phrase. de aquella hora. de aquella hora. of that hour
+    siquiera: adv. siquiera. siquiera. even
+  grammar: null
+  Friday_review: null
