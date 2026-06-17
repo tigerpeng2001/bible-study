@@ -6193,3 +6193,46 @@
     siquiera: adv. siquiera. siquiera. even
   grammar: null
   Friday_review: null
+- date: '2026-06-16'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '13:33':
+    - »Estén alerta, velen; porque no saben cuándo es el tiempo señalado.
+    '13:34':
+    - Es como un hombre que se fue de viaje, y al salir de su casa dejó a sus siervos
+      encargados,
+    - 'asignándole a cada uno su tarea, y ordenó al portero que estuviera alerta. '
+    '13:35':
+    - Por tanto, velen, porque no saben cuándo viene el señor de la casa, si al atardecer,
+      o a la medianoche, o al canto del gallo, o al amanecer;
+    '13:36':
+    - no sea que venga de repente y los halle dormidos.
+    '13:37':
+    - 'Y lo que a ustedes digo, a todos digo: ¡Velen!».'
+  vocabulary:
+    velen: v. velar. velen. be alert (subjunctive form)
+    señalado: adj. señalado. señalado. appointed / designated
+    viaje: n. viaje. viaje. journey / trip
+    dejó: v. dejar. dejó. left (past tense)
+    siervos: n. siervos. siervos. servants
+    encargados: v. encargar. encargando. entrusting (present participle form used
+      as an adjective)
+    asignándole: v. asignar. asignándole. assigning (present participle form used
+      as an adjective)
+    tarea: n. tarea. tarea. task
+    ordenó: v. ordenar. ordenó. ordered (past tense)
+    portero: n. portero. portero. doorkeeper / gatekeeper
+    estuviera: v. estar. estuviera. be (subjunctive form)
+    por tanto: phrase. por tanto. por tanto. therefore / consequently
+    atardecer: n. atardecer. atardecer. sunset
+    medianoche: n. medianoche. medianoche. midnight
+    canto: n. canto. canto. song / chant
+    canto del gallo: phrase. canto del gallo. canto del gallo. rooster's crow
+    amanecer: n. amanecer. amanecer. dawn
+    de repente: phrase. de repente. de repente. suddenly
+    halle dormidos: phrase. halle dormidos. halle dormidos. find asleep
+  grammar: null
+  Friday_review: null
