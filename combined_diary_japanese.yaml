@@ -3132,3 +3132,62 @@
       which was used to refer to both the moon and the tracking of passing time/months.  The
       modern "tsuki" sound stabilized during the Middle Japanese period as the ancient
       "t-" sound before "u"  naturally affricated into "ts-".
+- date: '2026-06-17'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '14:1':
+    - さて、過越祭と除酵祭の二日前になった。祭司長たちや律法学者たちは、なんとか計略を用いてイエスを捕らえて殺そうと考えていた。
+    '14:2':
+    - 彼らは、「民衆が騒ぎだすといけないから、祭りの間はやめておこう」と言っていた。
+  vocabulary:
+    さて: adv. さて. さて. well then, now
+    過越祭: n. すぎこしさい. 過越祭. Passover
+    除酵祭: n. じょこうさい. 除酵祭. Feast of Unleavened Bread
+    二日前: phrase. ふつかまえ. 二日前. two days before
+    祭司長: n. さいしちょう. 祭司長. chief priest
+    律法学者: n. りっぽうがくしゃ. 律法学者. scribe
+    なんとか: adv. なんとか. なんとか. somehow, in some way, one way or another, by some means,  anyhow,
+      by hook or by crook
+    計略: n. けいりゃく. 計略. plot, scheme
+    用いて: v. もちいる. 用いて. use (te-form)
+    捕らえて: v. とらえる. 捕らえて. capture (te-form)
+    殺そう: v. ころす. 殺そう. try to kill (volitional form)
+    考えていた: v. かんがえていた. 考えていた. was thinking
+    捕らえる: v. とらえる. 捕らえる. capture, seize
+    民衆: n. みんしゅう. 民衆. crowd, people
+    騒ぎだす: v. さわぎだす. 騒ぎだす. start to make a commotion
+    いけない: phrase. いけない. いけない. must not, should not
+    祭りの間: phrase. まつりのあいだ. 祭りの間. during the festival
+    やめておこう: phrase. やめておこう. やめておこう. let's not do it, let's wait
+  grammar:
+    やめておこう:
+      base_verb:
+        kanji: 止める / 辞める
+        hiragana: やめる
+        meaning: To stop / to abandon / to cease
+      conjugation:
+        form: te-form
+        japanese: やめて
+        hiragana: やめて
+        nuance: Abandoning and...
+      auxiliary_addition:
+        verb: 置く
+        hiragana: おく
+        meaning: To put / to place
+        auxiliary_function: To leave a state as it is / to do something in advance
+      combined_form:
+        japanese: やめておく
+        hiragana: やめておく
+        meaning: To deliberately choose not to do something (and leave it at that)
+      volitional_ending:
+        suffix: う
+        hiragana: う
+        nuance: Let's / I will
+      final_form:
+        japanese: やめておこう
+        hiragana: やめておこう
+        meaning: Let's deliberately not do it / I think I'll pass
+  Friday_review: null
