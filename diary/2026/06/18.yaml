@@ -1,0 +1,37 @@
+date: "2026-06-18"
+weekday: "Thursday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "14:3":
+    - "イエスがベタニアで重い皮膚病の人シモンの家にいて、食事の席に着いておられたとき、一人の女が、純粋で非常に高価なナルドの香油の入った石膏の壺を持って来て、それを壊し、香油をイエスの頭に注ぎかけた。"
+  "14:4":
+    - "そこにいた人の何人かが、憤慨して互いに言った。「なぜ、こんなに香油を無駄遣いしたのか。"
+  "14:5":
+    - "この香油は三百デナリオン以上に売って、貧しい人々に施すことができたのに。」そして、彼女を厳しくとがめた。"
+vocabulary:
+  重い: "n. おもい. 重い. heavy or serious"
+  皮膚病: "n. ひふびょう. 皮膚病. skin disease or leprosy"
+  席に着いて: "n. せきについ. 席に着いて. to be seated. This is a compound of '席' (seat) and 'に着いて' (to be at or to be seated)."
+  おられた: "v. おられた. おられた. to be (honorific). This is the past tense of 'おる', an honorific form of 'いる' (to be)."
+  純粋: "n. じゅんすい. 純粋. pure"
+  非常: "adv. ひじょう. 非常. very or extremely"
+  高価: "adj. こうか. 高価. expensive"
+  ナルド: "n. なるど. ナルド. nard (a type of aromatic oil)"
+  香油: "n. こうゆ. 香油. aromatic oil"
+  石膏の壺: "n. せっこうのつぼ. 石膏の壺. plaster jar"
+  もって来て: "v. もってきて. もって来て. to bring (something). This is the te-form of 'もってくる', which means 'to bring'."
+  壊し: "v. こわし. 壊し. to break. This is the te-form of 'こわす', which means 'to break'."
+  注ぎかけた: "v. そそぎかけた. 注ぎかけた. to pour over. This is the past tense of '注ぎかける', which means 'to pour over'."
+  憤慨: "n. ふんがい. 憤慨. indignation or outrage"
+  互いに: "adv. たがいに. 互いに. mutually or each other"
+  無駄遣い: "n. むだづかい. 無駄遣い. wasteful spending"
+  以上: "adv. いじょう. 以上. more than or over"
+  売って: "v. うって. 売って. to sell. This is the te-form of 'うる', which means 'to sell'."
+  貧しい: "adj. まずしい. 貧しい. poor"
+  施す: "v. ほどこす. 施す. to give or to bestow. This is the te-form of 'ほどこす', which means 'to give' or 'to bestow'."
+  きびしく: "adv. きびしく. きびしく. severely or strictly"
+  とがめた: "v. とがめた. とがめた. to rebuke or to criticize. This is the past tense of 'とがめる', which means 'to rebuke' or 'to criticize'."
+grammar:
+Friday_review:
