@@ -3135,3 +3135,30 @@
     suya: adj. suyo. suya. hers (possessive form)
   grammar: null
   Friday_review: null
+- date: '2026-06-23'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '14:10':
+    - 'Entonces Judas Iscariote, que era uno de los doce discípulos, fue a los principales
+      sacerdotes para entregarles a Jesús. '
+    '14:11':
+    - Cuando ellos lo oyeron, se alegraron y prometieron darle dinero. Y él buscaba
+      cómo entregar a Jesús en un momento oportuno.
+  vocabulary:
+    entonces: adv. entonces. entonces. then / so / at that time
+    era: adj. era. era. was (past tense of ser)
+    sacerdotes: n. sacerdotes. sacerdotes. priests
+    entregarles: v. entregar. entregó. delivered (past tense) to them
+    oyeron: v. oír. oyeron. heard (past tense)
+    se alegraron: v. alegrarse. se alegraron. they rejoiced (past tense)
+    prometieron: v. prometer. prometieron. promised (past tense)
+    darle: v. dar. darle. to give (infinitive form) to him
+    buscaba: v. buscar. buscaba. was looking for (past tense)
+    cómo: adv. cómo. cómo. how
+    momento: n. momento. momento. moment
+    oportuno: adj. oportuno. oportuno. opportune / suitable
+  grammar: null
+  Friday_review: null
