@@ -3234,3 +3234,38 @@
       which means 'to rebuke' or 'to criticize'.
   grammar: null
   Friday_review: null
+- date: '2026-06-24'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '14:12':
+    - 除酵祭の第一日、すなわち過越の小羊を屠る日、弟子たちがイエスに、「過越の食事をなさるのに、どこへ行って用意いたしましょうか」と言った。
+    '14:13':
+    - そこで、イエスは次のように言って、二人の弟子を使いに出された。「都へ行きなさい。すると、水がめを運んでいる男に出会う。その人について行きなさい。
+    '14:14':
+    - 'その人が入って行く家の主人にはこう言いなさい。『先生が、「弟子たちと一緒に過越の食事をするわたしの部屋はどこか」と言っています。』 '
+  vocabulary:
+    除酵祭: n. じょこうさい. 除酵祭. Feast of Unleavened Bread
+    第一日: phrase. だいいちにち. 第一日. first day
+    すなわち: adv. 即ち. すなわち. that is, namely
+    過越の小羊: n. すぎこしのこひつじ. 過越の小羊. Passover lamb
+    屠る: v. ほふる. 屠る. to slaughter
+    なさる: v. なさる. なさる. to do (honorific)
+    のに: particle. のに. のに. for the purpose of
+    用意: n. ようい. 用意. preparation
+    いたしましょうか: phrase. いたしましょうか. いたしましょうか. shall we do (polite suggestion)
+    次のように: phrase. つぎのように. 次のように. as follows
+    使いに出された: phrase. つかいにだされた. 使いに出された. was sent as a messenger
+    都へ行きなさい: phrase. みやこへいきなさい. 都へ行きなさい. go to the city
+    水がめ: n. みずがめ. 水瓶. water jar
+    運んでいる: phrase. はこんでいる. 運んでいる. is carrying
+    男: n. おとこ. 男. man
+    出会う: v. であう. 出会う. to meet
+    ついて行きなさい: phrase. ついていきなさい. 付いて行きなさい. follow (imperative)
+    入って行く家: phrase. はいっていくいえ. 入って行く家. house to enter
+    主人: n. しゅじん. 主人. master / owner
+    には: particle. には. には. to (indicating direction or target)
+  grammar: null
+  Friday_review: null
