@@ -3277,3 +3277,40 @@
     準備: n. じゅんび. 準備. preparation
     しておきなさい: phrase. しておきなさい. しておきなさい. do in advance (imperative)
   Friday_review: null
+- date: '2026-06-25'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '14:16':
+    - 弟子たちは出かけて都に行ってみると、イエスが言われたとおりだったので、過越の食事を準備した。
+    '14:17':
+    - 夕方になると、イエスは十二人と一緒にそこへ行かれた。
+    '14:18':
+    - 一同が席に着いて食事をしているとき、イエスは言われた。「はっきり言っておくが、あなたがたのうちの一人で、わたしと一緒に食事をしている者が、わたしを裏切ろうとしている。」
+  vocabulary:
+    出かけて: v. でかけて. 出かけて. to go out. This is the te-form of '出かける', which means 'to
+      go out'.
+    都に行って: v. みやこにいって. 都に行って. to go to the city. This is the te-form of '都に行く', which
+      means 'to go to the city'.
+    みると: phrase. みると. 見ると. upon seeing or upon checking. This is a conditional form
+      of '見る', which means 'to see' or 'to check'.
+    言われたとおり: phrase. いわれたとおり. 言われたとおり. as he said. This is a phrase indicating that
+      something happened according to what was said.
+    夕方になると: phrase. ゆうがたになると. 夕方になると. when evening comes. This is a phrase indicating
+      the time of day.
+    一同: n. いちどう. 一同. all present, everyone. This is a noun referring to a group of
+      people present together.
+    席に着いて: phrase. せきについて. 席に着いて. taking a seat. This is a phrase indicating that
+      someone has taken their seat.
+    裏切ろうとしている: phrase. うらぎろうとしている. 裏切ろうとしている. is intending to betray. This is a phrase
+      indicating that someone has the intention to betray.
+  grammar:
+    言われたとおり: This phrase is a combination of the verb 言う (to say) in its passive form
+      言われる (to be said) and the adverb とおり (as, according to). It indicates that something
+      happened according to what was said or instructed.
+    裏切ろうとしている: This phrase is a combination of the verb 裏切る (to betray) in its volitional
+      form 裏切ろう (intend to betray) and the auxiliary verb とする (to try or intend).
+      It indicates that someone has the intention to betray.
+  Friday_review: null
