@@ -6371,39 +6371,6 @@
     suya: adj. suyo. suya. hers (possessive form)
   grammar: null
   Friday_review: null
-- date: '2026-06-22'
-  weekday: Monday
-  book: Mateo
-  version: Nueva Biblia de las Américas (NBLA)
-  target_language: Spanish
-  verses:
-    '14:6':
-    - 'Pero Jesús dijo: «Déjenla; ¿por qué la molestan? Buena obra ha hecho para Mí. '
-    '14:7':
-    - Porque a los pobres siempre los tendrán con ustedes; y cuando quieran les podrán
-      hacer bien; pero a Mí no siempre me tendrán.
-    '14:8':
-    - Ella ha hecho lo que ha podido; se ha anticipado a ungir Mi cuerpo para la sepultura.
-    '14:9':
-    - Y en verdad les digo, que dondequiera que el evangelio se predique en el mundo
-      entero, también se hablará de lo que esta ha hecho, para memoria suya».
-  vocabulary:
-    déjenla: v. dejar. déjenla. let her (imperative form) of 'dejar', which means
-      'to let' or 'to allow'.
-    molestan: v. molestar. molestan. bother or disturb (3rd person plural present)
-    tendrán: v. tener. tendrán. will have (future tense)
-    podrán: v. poder. podrán. will be able to (future tense)
-    ha podido: v. poder. ha podido. has been able to (present perfect tense)
-    ha anticipado: v. anticipar. ha anticipado. has anticipated (present perfect tense)
-    ungir: v. ungir. ungir. to anoint
-    sepultrua: n. sepultrua. sepultrua. burial
-    dondequiera: adv. dondequiera. dondequiera. wherever
-    evangelio: n. evangelio. evangelio. gospel
-    predique: v. predicar. predique. preaches (subjunctive form)
-    entero: adj. entero. entero. entire
-    suya: adj. suyo. suya. hers (possessive form)
-  grammar: null
-  Friday_review: null
 - date: '2026-06-23'
   weekday: Tuesday
   book: Marcos
@@ -6510,4 +6477,43 @@
     裏切ろうとしている: This phrase is a combination of the verb 裏切る (to betray) in its volitional
       form 裏切ろう (intend to betray) and the auxiliary verb とする (to try or intend).
       It indicates that someone has the intention to betray.
+  Friday_review: null
+- date: '2026-06-29'
+  weekday: Monday
+  book: Mateo
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '14:19':
+    - 'Ellos comenzaron a entristecerse y a decir uno por uno: «¿Acaso soy yo?».'
+    '14:20':
+    - «Es uno de los doce», les respondió, «el que moja el pan en el mismo plato que
+      Yo.
+    '14:21':
+    - Porque el Hijo del Hombre se va tal y como está escrito de Él; pero ¡ay de aquel
+      hombre por quien el Hijo del Hombre es entregado! Mejor le fuera a ese hombre
+      no haber nacido».
+  vocabulary:
+    entristecerse: v. entristecerse. entristecerse. to become sad (reflexive verb,
+      infinitive form)
+    acaso: adv. acaso. acaso. perhaps, maybe
+    moja: v. mojar. moja. to dip or to wet. (the third person singular form)
+    se va tal: v. ir. se va tal. goes as (third person singular form of 'irse tal').
+      This phrase indicates that someone is going as something or in a certain manner.
+    entregado: v. entregar. entregado. delivered, handed over (past participle form
+      of 'entregar')
+    mejor le fuera: phrase. mejor le fuera. mejor le fuera. it would be better for
+      him. This phrase is used to express that it would be better for someone in a
+      certain situation.
+    no haber nacido: phrase. no haber nacido. no haber nacido. not to have been born.
+      This phrase is used to express that it would have been better for someone not
+      to have been born.
+  grammar:
+    se va tal: This phrase is a combination of the reflexive verb 'irse' (to go away)
+      in its third person singular form 'se va' and the adverb 'tal' (as, in such
+      a way). It indicates that someone is going away in a certain manner or as something.
+    mejor le fuera: This phrase is a combination of the adverb 'mejor' (better) and
+      the verb 'ir' (to go) in its third person singular form 'fuera' (subjunctive
+      mood). It is used to express that it would be better for someone in a certain
+      situation, often implying that the current situation is undesirable.
   Friday_review: null
