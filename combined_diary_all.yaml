@@ -6371,6 +6371,39 @@
     suya: adj. suyo. suya. hers (possessive form)
   grammar: null
   Friday_review: null
+- date: '2026-06-22'
+  weekday: Monday
+  book: Mateo
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '14:6':
+    - 'Pero Jesús dijo: «Déjenla; ¿por qué la molestan? Buena obra ha hecho para Mí. '
+    '14:7':
+    - Porque a los pobres siempre los tendrán con ustedes; y cuando quieran les podrán
+      hacer bien; pero a Mí no siempre me tendrán.
+    '14:8':
+    - Ella ha hecho lo que ha podido; se ha anticipado a ungir Mi cuerpo para la sepultura.
+    '14:9':
+    - Y en verdad les digo, que dondequiera que el evangelio se predique en el mundo
+      entero, también se hablará de lo que esta ha hecho, para memoria suya».
+  vocabulary:
+    déjenla: v. dejar. déjenla. let her (imperative form) of 'dejar', which means
+      'to let' or 'to allow'.
+    molestan: v. molestar. molestan. bother or disturb (3rd person plural present)
+    tendrán: v. tener. tendrán. will have (future tense)
+    podrán: v. poder. podrán. will be able to (future tense)
+    ha podido: v. poder. ha podido. has been able to (present perfect tense)
+    ha anticipado: v. anticipar. ha anticipado. has anticipated (present perfect tense)
+    ungir: v. ungir. ungir. to anoint
+    sepultrua: n. sepultrua. sepultrua. burial
+    dondequiera: adv. dondequiera. dondequiera. wherever
+    evangelio: n. evangelio. evangelio. gospel
+    predique: v. predicar. predique. preaches (subjunctive form)
+    entero: adj. entero. entero. entire
+    suya: adj. suyo. suya. hers (possessive form)
+  grammar: null
+  Friday_review: null
 - date: '2026-06-23'
   weekday: Tuesday
   book: Marcos
