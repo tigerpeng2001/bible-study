@@ -1,0 +1,42 @@
+date: "2026-06-30"
+weekday: "Tuesday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "14:22":
+    - "Mientras comían, tomó pan, y habiéndolo bendecido lo partió, se lo dio a ellos, y dijo: «Tomen, esto es Mi cuerpo»."
+  "14:23":
+    - "Y tomando una copa, después de dar gracias, se la dio a ellos, y todos bebieron de ella."
+  "14:24":
+    - "Y les dijo: «Esto es Mi sangre del nuevo pacto, que es derramada por muchos."
+  "14:25":
+    - "En verdad les digo, que ya no beberé más del fruto de la vid hasta aquel día cuando lo beba nuevo en el reino de Dios»."
+vocabulary:
+  mientras: "adv. mientras. mientras. while / as long as"
+  comían: "v. comer. comían. they were eating (imperfect tense, third person plural form)"
+  habiéndolo: "adj. habiéndolo. habiéndolo. having (past participle of haber) + lo (direct object pronoun)"
+  bendecido: "adj. bendecido. bendecido. blessed (past participle of bendecir)"
+  partió: "v. partir. partió. broke (past tense)"
+  pacto: "n. pacto. pacto. covenant / pact"
+  derramada: "adj. derramada. derramada. shed / poured out (past participle of derramar)"
+grammar:
+  habiéndolo bendecido:
+    Verbal Structure: "Compound gerund of the verb bendecir (habiendo bendecido / having blessed). It denotes an action that occurred prior to the main action (partió)."
+    Pronoun Analysis: "The pronoun «lo» is enclitic (fused to the end of the gerund)"
+    Function: "Direct Object (DO). It replaces the masculine singular noun pan (bread)."
+    Syntactic Function: "Functions as a subordinate adverbial clause of time (anteriority). It is equivalent to saying: 'after He had blessed it'."
+  lo partió: 
+    Verbal Structure: "The verb partir (to break/divide) conjugated in the preterite perfect simple tense (indicative mood, third-person singular). The subject is elliptic/implied (Jesus)."
+    Pronoun Analysis: "The pronoun «lo» is proclitic (written as a separate word before the verb)."
+    Function: "Direct Object (DO). It still references the pan."  
+  se lo dio a ellos:
+    Stucture: "This section contains a double object structure (both direct and indirect) that is extremely common in Spanish"
+    Verb: "dio (the verb dar / to give in the preterite perfect simple, third-person singular)."
+    se: "Third-person personal pronoun functioning as the Indirect Object (IO). Originally, this would be le or les (to them). However, in Spanish, when a third-person indirect object immediately precedes the direct object pronouns lo, la, los, las, it changes to «se» for reasons of euphony (to avoid the harsh cacophony of 'les lo dio'). It refers to the disciples."
+    a ellos: "Prepositional phrase functioning as an explicit Indirect Object (IO). In Spanish grammar, duplicating the indirect object («se» + «a ellos») is perfectly standard and is used for emphasis, clarity, or stylistic formality."
+    Why duplicate them: 
+      Clarity: "The pronoun se can mean 'to him,' 'to her,' 'to you (formal),' or 'to them.' Adding «a ellos» removes any ambiguity so the reader knows instantly that the bread is being given to the disciples (plural) and not to a single person."
+      Emphasis and Style: "It adds a layer of formality and solemnity to the narrative, which fits the literary style of the NBLA (Nueva Biblia de las Américas) translation."
+  fruto de la vid: "This phrase refers to the grapes or wine produced from grapevines. In religious contexts, it often symbolizes the blood of Christ in Christian traditions."
+Friday_review:
