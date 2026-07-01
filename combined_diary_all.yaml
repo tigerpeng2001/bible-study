@@ -6588,3 +6588,113 @@
       In religious contexts, it often symbolizes the blood of Christ in Christian
       traditions.
   Friday_review: null
+- date: '2026-07-01'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '14:27':
+    - イエスは弟子たちに言われた。「あなたがたは皆わたしにつまずく。
+    - 『わたしは羊飼いを打つ。
+    - すると、羊は散ってしまう』
+    - と書いてあるからだ
+    '14:28':
+    - しかし、わたしは復活した後、あなたがたより先にガリラヤへ行く。」
+    '14:29':
+    - するとペトロが、「たとえ、みんながつまずいても、わたしはつまずきません」と言った。
+    '14:30':
+    - イエスは言われた。「はっきり言っておくが、あなたは、今日、今夜、鶏が二度鳴く前に、三度わたしのことを知らないと言うだろう。」
+    '14:31':
+    - ペトロは力を込めて言い張った。「たとえ、御一緒に死なねばならなくなっても、あなたのことを知らないなどとは決して申しません。」皆の者も同じように言った。
+  vocabulary:
+    つまずく: v. 躓く. つまずく. to stumble / to trip
+    羊飼い: n. 羊飼い. ひつじかい. shepherd
+    打つ: v. 打つ. うつ. to strike / to hit
+    散る: v. 散る. ちる. to scatter / to fall
+    復活: n. 復活. ふっかつ. resurrection
+    のち: adv. 後. のち. after / later
+    先に: adv. 先に. さきに. before / ahead
+    すると: conj. すると. すると. then, thereupon
+    たとえ: adv. たとえ. たとえ. even if / even though
+    はっきり: adv. はっきり. はっきり. clearly / plainly
+    おく: v. 置く. おく. to put / to place
+    鶏: n. 鶏. にわとり. chicken / rooster
+    二度: n. 二度. にど. twice / two times
+    鳴く: v. 鳴く. なく. to sing / to chirp (for birds)
+    三度: n. 三度. さんど. three times
+    力を込めて: phrase. 力を込めて. ちからをこめて. with all one's strength / forcefully
+    言い張った: v. 言い張る. いいはる. to insist / to assert
+  grammar:
+    散ってしまう:
+      Verbal Structure: The verb 散る (ちる) is in the te-form followed by しまう, indicating
+        a completed action with a sense of regret or inevitability.
+      Function: It describes the scattering or dispersal of the sheep, symbolizing
+        the followers' abandonment or loss of direction.
+    御一緒に死なねばならなくなっても、あなたのことを知らないなどとは決して申しません。:
+      structure:
+        clause_1:
+          text: 御一緒に死なねばならなくなっても
+          meaning: Even if [I] must die together [with you]
+          breakdown:
+          - token: 御一緒に
+            part_of_speech: adverb
+          - token: 死なねばならなくなっても
+            part_of_speech: verb phrase (conditional/concessive)
+            components:
+            - verb_stem: 死な (shina-)
+              root: 死ぬ (shinu - to die)
+              form: irrealis stem (mizenkei)
+            - conditional_negative: ねば (neba)
+              meaning: if [I] do not... (classical conditional negative)
+            - verb: ならなく (naranaku)
+              root: なる (naru - to become / to do)
+              form: adverbial form (ren'youkei) of ならない (naranai - it won't do)
+              note: '死なねばならない means ''must die'' (literally: ''it won''t do if I don''t
+                die'')'
+            - verb_evolution: なって (natte)
+              root: なる (naru - to become)
+              form: te-form (conjunctive)
+              note: なればならなくなる means 'to come to a point where one must...'
+            - particle: も (mo)
+              meaning: even if / also (concessive particle creating 'even if' contrast)
+        clause_2:
+          text: あなたのことを知らないなどとは決して申しません。
+          meaning: I will never say such a thing as 'I don't know you'.
+          breakdown:
+          - token: あなた
+            part_of_speech: pronoun
+            meaning: you
+          - token: の
+            part_of_speech: particle
+            meaning: genitive / possessive marker
+          - token: こと
+            part_of_speech: noun
+            meaning: thing / matter (used here as an object conceptualizer for a person)
+          - token: を
+            part_of_speech: particle
+            meaning: direct object marker
+          - token: 知らない
+            part_of_speech: verb
+            root: 知る (shiru - to know)
+            form: plain negative
+            meaning: do not know
+          - token: など
+            part_of_speech: particle
+            meaning: such as / things like (adds emphasis or a downplaying tone)
+          - token: と
+            romaji: to
+            part_of_speech: particle
+            meaning: quotative particle
+          - token: は
+            part_of_speech: particle
+            meaning: topic / contrast marker
+          - token: 決して
+            part_of_speech: adverb
+            meaning: never / by no means (pairs strictly with negative verbs)
+          - token: 申しません
+            part_of_speech: verb
+            root: 申す (mosu - to say [humble/kenjougo])
+            form: formal negative (-masen form)
+            meaning: '[I] will not say'
+  Friday_review: null
