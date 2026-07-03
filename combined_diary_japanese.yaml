@@ -3424,3 +3424,59 @@
             form: formal negative (-masen form)
             meaning: '[I] will not say'
   Friday_review: null
+- date: '2026-07-02'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '14:32':
+    - 一同がゲツセマネという所に来ると、イエスは弟子たちに、「わたしが祈っている間、ここに座っていなさい」と言われた。
+    '14:33':
+    - そして、ペトロ、ヤコブ、ヨハネを伴われたが、イエスはひどく恐れてもだえ始め、
+    '14:34':
+    - 彼らに言われた。「わたしは死ぬばかりに悲しい。ここを離れず、目を覚ましていなさい。」
+    '14:35':
+    - 少し進んで行って地面にひれ伏し、できることなら、この苦しみの時が自分から過ぎ去るようにと祈り、
+    '14:36':
+    - こう言われた。「アッバ、父よ、あなたは何でもおできになります。この杯をわたしから取りのけてください。しかし、わたしが願うことではなく、御心に適うことが行われますように。」
+  vocabulary:
+    一同: n. いちどう. 一同. all present, everyone. This is a noun referring to a group of
+      people present together.
+    伴われた: v. ともなわれた. 伴われた. accompanied. This is the past passive form of '伴う->伴われる->伴われた'.
+    ひどく: adv. ひどく. ひどく. severely / terribly. This is an adverb indicating a high degree
+      of intensity.
+    もだえ始め: v. もだえはじめ. もだえ始め. began to writhe. This is a verb phrase indicating the
+      beginning of a physical or emotional struggle.
+    しぬばかりに: phrase. しぬばかりに. 死ぬばかりに. to the point of death. This is a phrase indicating
+      an extreme state of sadness or distress.
+    悲しい: adj. かなしい. 悲しい. sad / sorrowful. This is an adjective describing a feeling
+      of sadness or grief.
+    離れず: adv. はなれず. 離れず. without leaving / without departing. This is an adverb indicating
+      the action of staying in one place.
+    目を覚まして: phrase. めをさまして. 目を覚まして. wake up / stay awake. This is a phrase indicating
+      the action of waking up or staying awake.
+    地面: n. じめん. 地面. ground / earth. This is a noun referring to the surface of the
+      earth.
+    ひれ伏し: v. ひれふし. ひれ伏し. to prostrate oneself / to bow down. This is a verb indicating
+      the action of bowing down or prostrating oneself, often in a gesture of deep
+      respect or submission.
+    苦しみ: n. くるしみ. 苦しみ. suffering / pain. This is a noun referring to physical or emotional
+      suffering.
+    過ぎ去る: v. すぎさる. 過ぎ去る. to pass away / to go by. This is a verb indicating the action
+      of passing or going away, often in the context of time or events.
+    祈り: n. いのり. 祈り. prayer. This is a noun referring to the act of praying or the
+      content of a prayer.
+    アッバ: n. あっば. アッバ. Abba (Aramaic for 'Father'). This is a term of endearment used
+      to address God, indicating a close and personal relationship.
+    杯: n. さかずき. 杯. cup / goblet. This is a noun referring to a drinking vessel, often
+      used metaphorically in religious texts to represent suffering or trials.
+    御心: n. みこころ. 御心. God's will / divine will. This is a noun referring to the will
+      or desire of God, often used in religious contexts.
+    適う: v. かなう. 適う. to be in accordance with / to be suitable. This is a verb indicating
+      that something aligns with or meets certain standards or expectations.
+    行われます: v. おこなわれます. 行われます. will be done / will be carried out. This is the passive
+      form of '行う->行われる->行われます', indicating that an action will be performed or carried
+      out.
+  grammar: null
+  Friday_review: null
