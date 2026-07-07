@@ -3301,3 +3301,41 @@
     débil: adj. débil. débil. weak (adjective form of 'débil')
   grammar: null
   Friday_review: null
+- date: '2026-07-07'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '14:39':
+    - Él se fue otra vez y oró, diciendo las mismas palabras.
+    '14:40':
+    - 'Y vino Jesús de nuevo y los halló durmiendo, porque sus ojos estaban muy cargados
+      de sueño; y no sabían qué responder. '
+    '14:41':
+    - 'Vino* por tercera vez, y les dijo*: «¿Todavía están durmiendo y descansando?
+      Basta ya; ha llegado la hora; miren, el Hijo del Hombre es entregado en manos
+      de los pecadores. '
+    '14:42':
+    - Levántense, vámonos; ya está cerca el que me entrega».
+  vocabulary:
+    se fue: v. irse. se fue. he/she/it went away (third person singular form of 'irse')
+    vino: v. venir. vino. to come (third person singular form of 'venir')
+    de nouevo: adv. de nuevo. de nuevo. again, once more (adverbial phrase)
+    halló: v. hallar. halló. to find (third person singular form of 'hallar')
+    durmiendo: v. dormir. durmiendo. sleeping (gerund form of 'dormir')
+    estaban: v. estar. estaban. they were (imperfect tense, third person plural form)
+    cargados: adj. cargado. cargados. heavy, burdened (past participle of cargar)
+    sueño: n. sueño. sueño. sleep (noun form of 'sueño')
+    sabían: v. saber. sabían. they knew (imperfect tense, third person plural form)
+    responder: v. responder. responder. to answer (infinitive form of 'responder')
+    basta: interj. basta. basta. enough, stop (interjection)
+    ya: adv. ya. ya. already, now (adverb)
+    entregado: adj. entregar. entregado. delivered, handed over (past participle of
+      'entregar')
+    pecadores: n. pecador. pecadores. sinners (plural form of 'pecador')
+    levántense: v. levantarse. levántense. get up, rise (imperative form of 'levantarse')
+    cerca: adj. cerca. cerca. near, close (adjective form of 'cerca')
+    entrega: n. entrega. entrega. delivery, betrayal (noun form of 'entrega')
+  grammar: null
+  Friday_review: null
