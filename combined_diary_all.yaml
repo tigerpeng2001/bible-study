@@ -6754,3 +6754,32 @@
       out.
   grammar: null
   Friday_review: null
+- date: '2026-07-06'
+  weekday: Monday
+  book: Mateo
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '14:37':
+    - 'Entonces Jesús vino* y los halló* durmiendo, y dijo* a Pedro: «Simón, ¿duermes?
+      ¿No pudiste velar ni por una hora? '
+    '14:38':
+    - Velen y oren para que no entren en tentación; el espíritu está dispuesto, pero
+      la carne es débil».
+  vocabulary:
+    vino: v. venir. vino. to come (third person singular form of 'venir')
+    halló: v. hallar. halló. to find (third person singular form of 'hallar')
+    durmiendo: v. dormir. durmiendo. sleeping (gerund form of 'dormir')
+    duermes: v. dormir. duermes. you sleep (second person singular form of 'dormir')
+    pudiste: v. poder. pudiste. you could (second person singular form of 'poder')
+    velar: v. velar. velar. to keep watch, to stay awake (infinitive form of 'velar')
+    velen: v. velar. velen. you all keep watch (third person plural form of 'velar')
+    oren: v. orar. oren. you all pray (third person plural form of 'orar')
+    entraren: v. entrar. entraren. they enter (third person plural form of 'entrar')
+    tentación: n. tentación. tentación. temptation (noun form of 'tentación')
+    espíritu: n. espíritu. espíritu. spirit (noun form of 'espíritu')
+    dispuesto: adj. dispuesto. dispuesto. willing, ready (adjective form of 'dispuesto')
+    carne: n. carne. carne. flesh (noun form of 'carne')
+    débil: adj. débil. débil. weak (adjective form of 'débil')
+  grammar: null
+  Friday_review: null
