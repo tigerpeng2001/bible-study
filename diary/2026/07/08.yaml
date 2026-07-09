@@ -1,0 +1,39 @@
+date: "2026-07-08"
+weekday: "Wednesday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "14:43":
+    - "さて、イエスがまだ話しておられると、十二人の一人であるユダが進み寄って来た。祭司長、律法学者、長老たちの遣わした群衆も、剣や棒を持って一緒に来た。 "
+  "14:44":
+    - "イエスを裏切ろうとしていたユダは、「わたしが接吻するのが、その人だ。捕まえて、逃がさないように連れて行け」と、前もって合図を決めていた"
+  "14:45":
+    - "ユダはやって来るとすぐに、イエスに近寄り、「先生」と言って接吻した。"
+  "14:46":
+    - "人々は、イエスに手をかけて捕らえた。"
+vocabulary:
+  さて: "adv. さて. さて. well then / now / then"
+  話しておられる: "v. 話しておられる. はなしておられる. speaking / talking (honorific form)"
+  一人である: "phrase. 一人である. ひとりである. to be one of a group / to be one person"
+  進み寄ってきた: "v. 進み寄る. すすみよってきた. to approach / to come near (past tense)"
+  祭司長: "n. 祭司長. さいしちょう. high priest / chief priest"
+  律法学者: "n. 律法学者. りっぽうがくしゃ. scribe / scholar of the law"
+  長老たち: "n. 長老たち. ちょうろうたち. elders"
+  遣わした: "v. 遣わす. つかわした. to send / to dispatch (past tense)"
+  群衆: "n. 群衆. ぐんしゅう. crowd / multitude"
+  剣: "n. 剣. けん. sword"
+  棒: "n. 棒. ぼう. stick / rod"
+  裏切る: "v. 裏切る. うらぎる. to betray"
+  接吻する: "v. 接吻する. せっぷんする. to kiss"
+  捕まえて: "v. 捕まえる. つかまえて. to capture / to seize (te-form)"
+  逃がさないように: "phrase. 逃がさないように. にがさないように. so as not to let escape / to prevent from escaping"
+  連れて行け: "v. 連れて行く. つれていけ. to take along / to lead away (imperative form)"
+  前もって: "adv. 前もって. まえもって. beforehand / in advance"
+  合図: "n. 合図. あいず. signal / sign"
+  きめていた: "v. 決める. きめていた. to decide / to determine (past continuous form)"
+  やって来る: "v. やって来る. やってくる. to come / to arrive"
+  とすぐに: "adv. とすぐに. とすぐに. immediately / right away"
+  近寄り: "v. 近寄る. ちかより. to approach / to come near"
+grammar:
+Friday_review:
