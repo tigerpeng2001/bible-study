@@ -1,0 +1,52 @@
+date: "2026-07-09"
+weekday: "Thursday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "14:47":
+    - "居合わせた人々のうちのある者が、剣を抜いて大祭司の手下に打ってかかり、片方の耳を切り落とした。"
+  "14:48":
+    - "そこで、イエスは彼らに言われた。「まるで強盗にでも向かうように、剣や棒を持って捕らえに来たのか。"
+  "14:49":
+    - "わたしは毎日、神殿の境内で一緒にいて教えていたのに、あなたたちはわたしを捕らえなかった。しかし、これは聖書の言葉が実現するためである。」"
+  "14:50":
+    - "弟子たちは皆、イエスを見捨てて逃げてしまった。"
+  "14:51":
+    - "一人の若者が、素肌に亜麻布をまとってイエスについて来ていた。人々が捕らえようとすると、"
+  "14:52":
+    - "亜麻布を捨てて裸で逃げてしまった。"
+vocabulary:
+  居合わせた: "adj. いあわせた. 居合わせた. present / being there."
+  剣: "n. つるぎ. 剣. sword. 訓読み. けん, 音読み"
+  抜いて: "v. 抜く. ぬいて. to draw / to pull out (te-form)."
+  手下: "n. てした. 手下. subordinate / henchman."
+  打ってかかり: "v. 打ってかかる. うってかかり. to attack / to strike at (te-form)."
+  片方: "n. かたほう. 片方. one side / one of a pair."
+  切り落とした: "v. 切り落とす. きりおとした. to cut off (past tense)."
+  まるで: "adv. まるで. まるで. as if / just like."
+  強盗: "n. ごうとう. 強盗. robber / thief."
+  向かう: "v. むかう. 向かう. to face / to go toward."
+  棒: "n. ぼう. 棒. stick / rod."
+  捕らえに: "v. 捕らえる. とらえに. to capture / to seize (masu-stem)."
+  神殿: "n. しんでん. 神殿. temple."
+  境内: "n. けいだい. 境内. precincts / grounds of a temple or shrine."
+  いて: "v. いる. いて. to be / to exist (te-form)."
+  のに: "particle. のに. のに. although / even though."
+  聖書: "n. せいしょ. 聖書. Bible."
+  言葉: "n. ことば. 言葉. word / language."
+  実現する: "v. 実現する. じつげんする. to realize / to come true."
+  見捨てて: "v. 見捨てる. みすてて. to abandon / to forsake (te-form)."
+  逃げて: "v. 逃げる. にげて. to run away / to escape (te-form)."
+  若者: "n. わかもの. 若者. young man / youth."
+  素肌: "n. すはだ. 素肌. bare skin / naked skin."
+  亜麻布: "n. あまぬの. 亜麻布. linen cloth / flax fabric."
+  まとって: "v. まとう. まとって. to wear / to wrap oneself in (te-form)."
+  ついて: "v. つく. ついて. to follow / to accompany (te-form)."
+  捨てて: "v. 捨てる. すてて. to throw away / to abandon (te-form)."
+  裸: "adj. はだか. 裸. naked / bare."
+grammar:
+  打ってかかる:
+    - 打つ: "v. 打つ. うつ. to hit / to strike (dictionary form)."
+    - かかる: "v. かかる. かかる. On its own, kakaru has many meanings, but when used as a directional or action-oriented verb, it means to move toward, launch into, or set upon someone. It implies initiation, aggression, and shifting your full focus onto a target."
+Friday_review:
