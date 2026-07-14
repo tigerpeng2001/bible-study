@@ -1,0 +1,28 @@
+date: "2026-07-14"
+weekday: "Tuesday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "14:55":
+    - "Y los principales sacerdotes y todo el Concilio procuraban obtener algún testimonio para dar muerte a Jesús, pero no lo hallaban."
+  "14:56":
+    - "Porque muchos daban falso testimonio contra Él, pero sus testimonios se contradecían."
+  "14:57":
+    - "Algunos, levantándose, daban falso testimonio contra Él, diciendo:"
+  "14:58":
+    - "«Nosotros le oímos decir: “Yo destruiré este templo hecho por manos, y en tres días edificaré otro no hecho por manos”»."
+  "14:59":
+    - "Y ni siquiera en esto coincidía el testimonio de ellos."
+vocabulary:
+  procuraban: "v. procurar. procuraban. they sought / they tried (imperfect tense, third person plural form of 'procurar')"
+  obtener: "v. obtener. obtenían. they sought to obtain / they tried to get (imperfect tense, third person plural form of 'obtener')"
+  hallaban: "v. hallar. hallaban. they found / they came across (imperfect tense, third person plural form of 'hallar')"
+  daban: "v. dar. daban. they gave (imperfect tense, third person plural form of 'dar')"
+  oímos: "v. oír. oímos. we heard (first person plural form of 'oír')"
+  hecho: "adj. hecho. hecho. made / done (past participle of 'hacer')"
+  edificaré: "v. edificar. edificaré. I will build (first person singular future tense of 'edificar')"
+  siquiera: "adv. siquiera. siquiera. even / at least."
+  coincidía: "v. coincidir. coincidía. it coincided / it matched (imperfect tense, third person singular form of 'coincidir')"
+grammar:
+Friday_review:
