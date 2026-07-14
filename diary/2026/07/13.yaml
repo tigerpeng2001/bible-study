@@ -1,0 +1,26 @@
+date: "2026-07-13"
+weekday: "Monday"
+book: "Mateo"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "14:53":
+    - "Llevaron a Jesús al sumo sacerdote, y se reunieron* todos los principales sacerdotes, los ancianos y los escribas."
+  "14:54":
+    - "Pedro lo siguió de lejos hasta dentro del patio del sumo sacerdote y se sentó con los guardias, calentándose al fuego."
+vocabulary:
+  llevaron: "v. llevar. llevaron. they took / they carried (third person plural form of 'llevar')"
+  sumo: "n. sumo. sumo. high / chief (adjective form of 'sumo', often used in 'sumo sacerdote' meaning 'high priest')"
+  sumo sacerdote: "n. sumo sacerdote. sumo sacerdote. high priest (noun form of 'sumo sacerdote')"
+  reunieron: "v. reunir. reunieron. they gathered / they assembled (third person plural form of 'reunir')"
+  ancianos: "n. anciano. ancianos. elders (plural form of 'anciano')"
+  siguió: "v. seguir. siguió. he followed (third person singular form of 'seguir')"
+  lejos: "adv. lejos. lejos. far / from a distance."
+  dentro: "adv. dentro. dentro. inside / within."
+  patio: "n. patio. patio. courtyard (noun form of 'patio')"
+  sentó: "v. sentar. sentó. he sat (third person singular form of 'sentar')"
+  guardias: "n. guardia. guardias. guards (plural form of 'guardia')"
+  calentándose: "v. calentar. calentándose. warming himself (gerund form of 'calentar')"
+  fuego: "n. fuego. fuego. fire (noun form of 'fuego')"
+grammar:
+Friday_review:
