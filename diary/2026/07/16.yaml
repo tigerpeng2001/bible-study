@@ -1,0 +1,39 @@
+date: "2026-07-16"
+weekday: "Thursday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "14:63":
+    - "大祭司は、衣を引き裂きながら言った。「これでもまだ証人が必要だろうか。"
+  "14:64":
+    - "諸君は冒瀆の言葉を聞いた。どう考えるか。」一同は、死刑にすべきだと決議した。"
+  "14:65":
+    - "それから、ある者はイエスに唾を吐きかけ、目隠しをしてこぶしで殴りつけ、「言い当ててみろ」と言い始めた。また、下役たちは、イエスを平手で打った。"
+vocabulary:
+  衣: "n. ころも. 衣. outer garment / robe."
+  引き裂き: "v. 引き裂く. ひきさき. to tear / to rip apart (masu-stem)."
+  ながら: "particle. ながら. ながら. while / during."
+  証人: "n. しょうにん. 証人. witness."
+  諸君: "n. しょくん. 諸君. you all / gentlemen."
+  冒瀆: "n. ぼうとく. 冒瀆. blasphemy."
+  死刑: "n. しけい. 死刑. death penalty."
+  すべき: "aux. すべき. すべき. should / ought to."
+  決議: "n. けつぎ. 決議. resolution / decision."
+  唾: "n. つば. 唾. spit / saliva."
+  吐きかけ: "v. 吐きかける. はきかけ. to spit on / to spit at (masu-stem)."
+  かけ: "particle. かけ. かけ. to / at (indicating direction of action)."
+  目隠し: "n. めかくし. 目隠し. blindfold / covering of the eyes."
+  して: "particle. して. して. indicating manner or means."
+  こぶし: "n. こぶし. こぶし. fist / knuckle."
+  殴りつけ: "v. 殴りつける. なぐりつけ. to strike / to hit (masu-stem)."
+  いい当ててみろ: "phrase. 言い当ててみろ. いいあててみろ. try to guess / try to say it right."
+  下役: "n. したやく. 下役. subordinate / assistant."
+  平手: "n. ひらて. 平手. open hand / palm."
+  打った: "v. 打つ. うった. to hit / to strike (past tense)."
+grammar:
+  pronunciation of 衣:
+    - い: Grammatically incorrect to use as a standalone noun.
+    - きぬ: Implies silk or undergarments, which doesn't fit a high priest's heavy, ceremonial outer robes.
+    - ころも: The correct, traditional term for loose outer robes or priestly attire, perfectly matching the action of dramatically clutching and tearing one's clothes.
+Friday_review:
