@@ -3407,3 +3407,60 @@
       third person singular form of 'coincidir')
   grammar: null
   Friday_review: null
+- date: '2026-07-20'
+  weekday: Monday
+  book: Mateo
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    14:66:
+    - Estando Pedro abajo en el patio, llegó* una de las sirvientas del sumo sacerdote,
+    14:67:
+    - 'y al ver a Pedro calentándose, lo miró y dijo*: «Tú también estabas con Jesús
+      el Nazareno».'
+    14:68:
+    - 'Pero él lo negó, diciendo: «Ni sé, ni entiendo de qué hablas». Entonces Pedro
+      salió al portal, y un gallo cantó.'
+    14:69:
+    - 'Cuando la sirvienta lo vio, de nuevo comenzó a decir a los que estaban allí:
+      «Este es uno de ellos».'
+    14:70:
+    - 'Pero Pedro lo negó otra vez. Poco después los que estaban allí volvieron a
+      decirle: «Seguro que tú eres uno de ellos, pues también eres galileo».'
+    14:71:
+    - 'Pero él comenzó a maldecir y a jurar: «¡Yo no conozco a este hombre de quien
+      hablan!». '
+    14:72:
+    - 'Al instante un gallo cantó por segunda vez. Entonces Pedro recordó lo que Jesús
+      le había dicho: «Antes que el gallo cante dos veces, me negarás tres veces».
+      Y se echó a llorar.'
+  vocabulary:
+    abajo: adv. abajo. abajo. down / below.
+    sirvientas: n. sirvienta. sirvientas. servant girls / female servants (plural
+      form of 'sirvienta')
+    sumo: n. sumo. sumo. high / chief (adjective form of 'sumo', often used in 'sumo
+      sacerdote' meaning 'high priest')
+    calentándose: v. calentar. calentándose. warming himself (gerund form of 'calentar')
+    miró: v. mirar. miró. she looked / she saw (third person singular form of 'mirar')
+    lo negó: v. negar. lo negó. he denied him (third person singular form of 'negar')
+    diciendo: v. decir. diciendo. saying (gerund form of 'decir')
+    sé: v. saber. sé. I know (first person singular form of 'saber')
+    entiendo: v. entender. entiendo. I understand (first person singular form of 'entender')
+    gallo: n. gallo. gallo. rooster (noun form of 'gallo')
+    cantó: v. cantar. cantó. he/she/it sang (third person singular form of 'cantar')
+    de nuevo: adv. de nuevo. de nuevo. again / once more.
+    comenzó: v. comenzar. comenzó. he/she/it began (third person singular form of
+      'comenzar')
+    volvieron: v. volver. volvieron. they returned (third person plural form of 'volver')
+    pues: conj. pues. pues. since / because.
+    maldecir: v. maldecir. maldecir. to curse / to swear (infinitive form of 'maldecir')
+    jurar: v. jurar. jurar. to swear / to vow (infinitive form of 'jurar')
+    conozco: v. conocer. conozco. I know / I am acquainted with (first person singular
+      form of 'conocer')
+    recordó: v. recordar. recordó. he/she/it remembered (third person singular form
+      of 'recordar')
+    echó: v. echar. echó. he/she/it threw / he/she/it began to (third person singular
+      form of 'echar')
+    llorar: v. llorar. llorar. to cry / to weep (infinitive form of 'llorar')
+  grammar: null
+  Friday_review: null
