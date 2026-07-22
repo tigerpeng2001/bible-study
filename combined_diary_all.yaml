@@ -7153,3 +7153,46 @@
       of 'asombrar')
   grammar: null
   Friday_review: null
+- date: '2026-07-22'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '15:6':
+    - ところで、祭りの度ごとに、ピラトは人々が願い出る囚人を一人釈放していた。
+    '15:7':
+    - さて、暴動のとき人殺しをして投獄されていた暴徒たちの中に、バラバという男がいた。
+    '15:8':
+    - 群衆が押しかけて来て、いつものようにしてほしいと要求し始めた。
+    '15:9':
+    - そこで、ピラトは、「あのユダヤ人の王を釈放してほしいのか」と言った。
+    '15:10':
+    - 祭司長たちがイエスを引き渡したのは、ねたみのためだと分かっていたからである。
+    '15:11':
+    - 祭司長たちは、バラバの方を釈放してもらうように群衆を扇動した。
+  vocabulary:
+    ところで: adv. ところで. ところで. then / thereupon / so
+    祭り: n. 祭り. まつり. festival / feast
+    度ごと: n. 度ごと. どごと. every time / each time
+    願い出る: v. 進み出る. すすみでる. to step forward / to advance (in order to make a request)
+    囚人: n. 囚人. しゅうじん. prisoner / convict
+    釈放: n. 釈放. しゃくほう. release / discharge
+    さて: adv. さて. さて. now / well / then
+    暴動: n. 暴動. ぼうどう. riot / rebellion
+    人殺し: n. 人殺し. ひとごろし. murderer / homicide
+    投獄されていた: v. 投獄される. とうごくされていた. was imprisoned / had been incarcerated (past tense
+      of '投獄される')
+    暴徒: n. 暴徒. ぼうと. mob / rioter
+    群衆: n. 群衆. ぐんしゅう. crowd / throng
+    押しかけて来て: v. 押しかける. おしかけてきて. to rush in / to crowd in (te-form of '押しかける')
+    要求し始めた: v. 要求する. ようきゅうしはじめた. to start demanding / to begin requesting (past tense
+      of '要求する')
+    釈放してほしい: v. 釈放する. しゃくほうしてほしい. to want someone to release / to wish for the release
+      of (te-form of '釈放する' with 'ほしい')
+    引き渡した: v. 引き渡す. ひきわたした. handed over / delivered (past tense of '引き渡す')
+    ねたみ: n. 妬み. ねたみ. envy / jealousy
+    ため: n. ため. ため. sake / purpose / reason
+    扇動した: v. 扇動する. せんどうした. incited / agitated (past tense of '扇動する')
+  grammar: null
+  Friday_review: null
