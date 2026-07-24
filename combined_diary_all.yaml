@@ -7196,3 +7196,31 @@
     扇動した: v. 扇動する. せんどうした. incited / agitated (past tense of '扇動する')
   grammar: null
   Friday_review: null
+- date: '2026-07-23'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '15:12':
+    - そこで、ピラトは改めて、「それでは、ユダヤ人の王とお前たちが言っているあの者は、どうしてほしいのか」と言った。
+    '15:13':
+    - 群衆はまた叫んだ。「十字架につけろ。」
+    '15:14':
+    - ピラトは言った。「いったいどんな悪事を働いたというのか。」群衆はますます激しく、「十字架につけろ」と叫び立てた。
+    '15:15':
+    - ピラトは群衆を満足させようと思って、バラバを釈放した。そして、イエスを鞭打ってから、十字架につけるために引き渡した。
+  vocabulary:
+    改めて: adv. あらためて. 改めて. again / once more.
+    いったい: adv. 一体. いったい. what on earth / really.
+    悪事: n. あくじ. 悪事. evil deed / wrongdoing.
+    働いた: v. はたらく. 働いた. worked (past tense).
+    ますます: adv. 益々. ますます. increasingly / more and more.
+    激しく: adv. はげしく. 激しく. intensely / violently.
+    叫び立てた: v. さけびたてる. 叫び立てた. shouted / yelled (past tense).
+    満足させよう: v. まんぞくさせる. 満足させよう. to satisfy / to please (volitional form).
+    釈放: v. しゃくほう. 釈放. release / set free.
+    鞭打って: v. むちうつ. 鞭打って. to whip / to flog (te-form).
+    引渡した: v. ひきわたす. 引渡した. handed over / delivered (past tense).
+  grammar: null
+  Friday_review: null
