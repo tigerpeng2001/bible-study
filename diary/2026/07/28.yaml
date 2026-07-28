@@ -1,0 +1,34 @@
+date: "2026-07-28"
+weekday: "Tuesday"
+book: "Marcos"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "15:22":
+    - "Lo llevaron* al lugar llamado Gólgota, que traducido significa Lugar de la Calavera."
+  "15:23":
+    - "Trataron de dar a Jesús vino mezclado con mirra, pero Él no lo tomó. "
+  "15:24":
+    - "Cuando lo crucificaron*, se repartieron* Sus vestidos, echando suertes sobre ellos para decidir lo que cada uno tomaría."
+  "15:25":
+    - "Era la hora tercera cuando lo crucificaron."
+  "15:26":
+    - "La inscripción de la acusación contra Él decía: «EL REY DE LOS JUDÍOS»."
+vocabulary:
+  traducido: "v. traducir. traducido. translated (past participle form of 'traducir')"
+  significa: "v. significar. significa. it means / it signifies (third person singular form of 'significar')"
+  calavera: "n. calavera. calavera. skull / skulls"
+  trataron: "v. tratar. trataron. they tried (third person plural form of 'tratar')"
+  mezclado: "adj. mezclado. mezclado. mixed / blended (past participle form of 'mezclar')"
+  mirra: "n. mirra. mirra. myrrh"
+  repartieron: "v. repartir. repartieron. they distributed / they shared out (third person plural form of 'repartir')"
+  echando: "v. echar. echando. throwing / casting (gerund form of 'echar')"
+  suertes: "n. suerte. suertes. lot / lots"
+  suerte: "n. suerte. suertes. luck / fortunes"
+  decidir: "v. decidir. decidir. to decide / to determine"
+  cada: "adj. cada. cada. each / every"
+  tomaría: "v. tomar. tomaría. he/she/it would take / would accept (third person singular form of 'tomar' in the conditional tense)"
+  era: "v. ser. era. he/she/it was (third person singular form of 'ser' in the imperfect tense)"
+  tercera: "adj. tercero. tercera. third (feminine form of 'tercero')"
+grammar:
+Friday_review:
