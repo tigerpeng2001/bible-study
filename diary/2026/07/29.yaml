@@ -1,0 +1,32 @@
+date: "2026-07-29"
+weekday: "Wednesday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "15:27":
+    - "また、イエスと一緒に二人の強盗を、一人は右にもう一人は左に、十字架につけた。"
+  "15:28":
+    - ""
+  "15:29":
+    - "そこを通りかかった人々は、頭を振りながらイエスをののしって言った。「おやおや、神殿を打ち倒し、三日で建てる者、"
+  "15:30":
+    - "十字架から降りて自分を救ってみろ。」"
+  "15:31":
+    - "同じように、祭司長たちも律法学者たちと一緒になって、代わる代わるイエスを侮辱して言った。「他人は救ったのに、自分は救えない。"
+  "15:32":
+    - "メシア、イスラエルの王、今すぐ十字架から降りるがいい。それを見たら、信じてやろう。」一緒に十字架につけられた者たちも、イエスをののしった。"
+vocabulary:
+  もう一人: "n. もうひとり. もうひとり. another person / one more person"
+  通りかかった: "v. 通りかかる. とおりかかった. happened to pass by / came across (past tense of '通りかかる')"
+  頭を振りながら: "exp. 頭を振る. あたまをふりながら. shaking one's head / while shaking one's head"
+  ののしって: "v. 罵って. ののしって. to insult / to revile (te-form of 'ののしる')"
+  おやおや: "int. おやおや. おやおや. oh my / oh dear / oh well"
+  打ち倒し: "v. 打ち倒す. うちたおし. overthrow / knock down (stem form 連用形 of '打ち倒す')"
+  三日: "n. 三日. みっか. three days"
+  代わる代わる: "v. 代わる代わる. かわるがわる. taking turns / alternately (adverbial form of '代わる')"
+  侮辱して: "v. 侮辱する. ぶじょく. insult / disrespect (stem form 連用形 of '侮辱する')"
+  イスラエル: "n. イスラエル. イスラエル. Israel"
+  今すぐ: "adv. 今すぐ. いますぐ. right away / immediately"
+grammar:
+Friday_review:
