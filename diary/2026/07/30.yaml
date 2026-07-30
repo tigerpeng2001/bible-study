@@ -1,0 +1,53 @@
+date: "2026-07-30"
+weekday: "Thursday"
+book: "マルコの福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "15:33":
+    - "昼の十二時になると、全地は暗くなり、それが三時まで続いた。"
+  "15:34":
+    - "三時にイエスは大声で叫ばれた。「エロイ、エロイ、レマ、サバクタニ。」これは、「わが神、わが神、なぜわたしをお見捨てになったのですか」という意味である。"
+  "15:35":
+    - "そばに居合わせた人々のうちには、これを聞いて、「そら、エリヤを呼んでいる」と言う者がいた。"
+  "15:36":
+    - "ある者が走り寄り、海綿に酸いぶどう酒を含ませて葦の棒に付け、「待て、エリヤが彼を降ろしに来るかどうか、見ていよう」と言いながら、イエスに飲ませようとした。"
+  "15:37":
+    - "しかし、イエスは大声を出して息を引き取られた。"
+  "15:38":
+    - "すると、神殿の幕が上から下まで真っ二つに裂けた。"
+  "15:39":
+    - "百人隊長がイエスの方を向いて、そばに立っていた。そして、イエスがこのように息を引き取られたのを見て、「本当に、この人は神の子だった」と言った。"
+vocabulary:
+  なると: "v. なる. なると. to become / when it becomes (conditional form of 'なる')"
+  全地: "n. ぜんち. 全地. the whole earth."
+  暗くなり: "v. くらくなる. 暗くなり. became dark."
+  それが: "conj. それが. それが. and that / and then."
+  つづいた: "v. つづく. つづいた. continued (past tense of 'つづく')"
+  叫ばれた: "v. 叫ぶ. さけばれた. shouted / cried out (passive form of '叫ぶ')"
+  我が神: "n. わがかみ. 我が神. my God"
+  なぜ: "adv. なぜ. なぜ. why / for what reason"
+  お見捨て: "v. お見捨てになる. おみすて. お見捨て. to abandon / to forsake (honorific form of '見捨てる')"
+  意味: "n. いみ. 意味. meaning / significance"
+  そばに居合わせた: "v. 居合わせる. そばにいあわせた. happened to be present / happened to be there (past tense of '居合わせる')"
+  走り寄り: "v. 走り寄る. はしりより. ran up / ran towards (stem form 連用形 of '走り寄る')"
+  海綿: "n. かいめん. 海綿. sponge"
+  酸いぶどう酒: "n. すいぶどうしゅ. 酸いぶどう酒. sour wine / vinegar"
+  含ませて: "v. 含ませる. ふくませて. soaked / let soak (te-form of '含ませる')"
+  葦の棒: "n. あしのぼう. 葦の棒. reed stick / reed rod"
+  付け: "v. 付ける. つけ. to put on / to attach (stem form 連用形 of '付ける')"
+  待て: "v. 待つ. まて. wait (imperative form of '待つ')"
+  降ろし: "v. 降ろす. おろし. to lower / to take down (stem form 連用形 of '降ろす')"
+  くるかどうか: "exp. くるかどうか. くるかどうか. whether or not (someone) will come"
+  言いながら: "v. 言う. いいながら. saying / while saying (te-form of '言う')"
+  飲ませようと: "v. 飲ませる. のませようと. tried to make (someone) drink / tried to give (someone) a drink (volitional form of '飲ませる')"
+  出して: "v. 出す. だして. to put out / to bring out (stem form 連用形 of '出す')"
+  息を引き取られた: "v. 息を引き取る. いきをひきとられた. passed away / breathed one's last (honorific form of '息を引き取る')"
+  神殿の幕: "n. しんでんのまく. 神殿の幕. temple curtain"
+  上から下まで: "exp. 上から下まで. うえからしたまで. from top to bottom / from the top to the bottom"
+  真っ二つに裂けた: "v. 真っ二つに裂ける. まっふたつにさけた. split in two / torn in half (past tense of '真っ二つに裂ける')"
+  百人隊長: "n. ひゃくにんたいちょう. 百人隊長. centurion / captain of a hundred"
+  向いて: "v. 向く. むいて. turned toward / facing (te-form of '向く')"
+  そばに立っていた: "v. 立つ. そばにたっていた. stood nearby / was standing nearby (past tense of '立つ')"
+grammar:
+Friday_review:
