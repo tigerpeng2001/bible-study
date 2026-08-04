@@ -3672,3 +3672,78 @@
       checking this.
     al: prep. al. al. to the / upon (used before an infinitive verb)
   Friday_review: null
+- date: '2026-08-16'
+  weekday: Tuesday
+  book: Marcos
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '16:1':
+    - 'Pasado el día de reposo, María Magdalena, María, la madre de Jacobo, y Salomé,
+      compraron especias aromáticas para ir a ungir el cuerpo de Jesús. '
+    '16:2':
+    - Muy de mañana, el primer día de la semana, llegaron* al sepulcro cuando el sol
+      ya había salido.
+    '16:3':
+    - 'Y se decían unas a otras: «¿Quién nos removerá la piedra de la entrada del
+      sepulcro?».'
+    '16:4':
+    - Cuando levantaron los ojos, vieron que la piedra, aunque era sumamente grande,
+      había sido removida.
+    '16:5':
+    - Entrando en el sepulcro, vieron* a un joven sentado al lado derecho, vestido
+      con ropaje blanco; y ellas se asustaron.
+    '16:6':
+    - 'Pero él les dijo*: «No se asusten; ustedes buscan a Jesús el Nazareno, el que
+      fue crucificado. Ha resucitado, no está aquí; miren el lugar donde lo pusieron.'
+    '16:7':
+    - 'Pero vayan, digan a Sus discípulos y a Pedro: “Él va delante de ustedes a Galilea;
+      allí lo verán, tal como les dijo”».'
+    '16:8':
+    - Y saliendo ellas, huyeron del sepulcro, porque un gran temblor y espanto se
+      había apoderado de ellas; y no dijeron nada a nadie porque tenían miedo.
+  vocabulary:
+    especias: n. especia. especias. spice / spices
+    aromáticas: adj. aromático. aromáticas. aromatic / fragrant (feminine plural form
+      of 'aromático')
+    ungir: v. ungir. ungir. to anoint / to smear with oil
+    muy de mañana: adv. muy de mañana. muy de mañana. very early in the morning
+    ya había salido: adj. ya haber salido. ya había salido. had already risen (third
+      person singular form of 'haber' in the past perfect tense)
+    aunque: conj. aunque. aunque. although / even though
+    sumamente: adv. sumamente. sumamente. extremely / exceedingly
+    lado: n. lado. lados. side / sides
+    ropaje: n. ropaje. ropajes. (literary, formal, descriptive) robe / clothing /
+      garments
+    ropa: n. ropa. ropas. (casual, everyday) clothing / clothes
+    se asustaron: v. asustar. se asustaron. they got scared / they were frightened
+      (third person plural form of reflexive verb 'asustarse' in the past tense)
+    fue crucificado: v. crucificar. fue crucificado. he/she/it was crucified (third
+      person singular form of 'crucificar' in the past passive)
+    delante: adv. delante. delante. ahead / in front
+    verán: v. ver. verán. they will see (third person plural form of 'ver' in the
+      future tense)
+    tal como: adv. tal como. tal como. just as / in the same way as
+    huyeron: v. huir. huyeron. they fled / they ran away (third person plural form
+      of 'huir' in the past tense)
+    temblor: n. temblor. temblores. tremor / earthquake / shaking / vibration
+    espanto: n. espanto. espantos. fright / terror
+    habían apoderado: v. apoderar. habían apoderado. they had seized / they had taken
+      hold of (third person plural form of 'apoderar' in the past perfect tense)
+  grammar:
+    no... nada a nadie:
+      structure: no + verb + nada + a + nadie
+      type: Double / Triple Negative (Negación múltiple)
+      meaning: said nothing to anyone / didn't tell anything to anybody
+      function: In Spanish, negative indefinites (nada, nadie) following a negated
+        verb require the use of multiple negatives. This structure expresses absolute
+        silence or total exclusion of information and recipients.
+      breakdown:
+        false: Negates the main verb
+        nada: Direct object pronoun — absolute zero content (nothing)
+        a nadie: Indirect object pronoun — absolute zero recipients (to no one)
+      example:
+        verse: Mark 16:8 (NBLA)
+        text: y no dijeron nada a nadie porque tenían miedo.
+        translation: and they said nothing to anyone because they were afraid.
+  Friday_review: null
