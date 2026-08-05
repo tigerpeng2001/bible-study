@@ -3809,3 +3809,38 @@
     そばに立っていた: v. 立つ. そばにたっていた. stood nearby / was standing nearby (past tense of '立つ')
   grammar: null
   Friday_review: null
+- date: '2026-08-05'
+  weekday: Wednesday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '16:9':
+    - 〔イエスは週の初めの日の朝早く、復活して、まずマグダラのマリアに御自身を現された。このマリアは、以前イエスに七つの悪霊を追い出していただいた婦人である。
+    '16:10':
+    - マリアは、イエスと一緒にいた人々が泣き悲しんでいるところへ行って、このことを知らせた。
+    '16:11':
+    - そこを通りかかった人々は、頭を振りながらイエスをののしって言った。「おやおや、神殿を打ち倒し、三日で建てる者、
+    '16:12':
+    - その後、彼らのうちの二人が田舎の方へ歩いて行く途中、イエスが別の姿で御自身を現された。
+    '16:13':
+    - この二人も行って残りの人たちに知らせたが、彼らは二人の言うことも信じなかった。
+  vocabulary:
+    朝早く: adv. 朝早く. 朝早く. very early in the morning / at the crack of dawn (adv. phrase)
+    復活して: v. 復活する. ふっかつして. resurrected / rose from the dead (te-form of '復活する')
+    まず: exp. まず. まず. first / initially
+    現された: v. 現す. あらわされた. appeared / was revealed (past passive form of '現す')
+    以前: adv. 以前. いぜん. previously / before / formerly
+    悪霊: n. 悪霊. あくりょう. evil spirit / demon
+    追い出して: v. 追い出す. おいだして. cast out / expel (te-form of '追い出す')
+    泣き悲しんでいる: v. 泣き悲しむ. なきかなしんでいる. crying and grieving (te-form of '泣き悲しむ')
+    しらせた: v. 知らせる. しらせた. informed / notified (past tense of '知らせる')
+    おられる: v. おられる. おられる. to be (honorific form of 'いる')
+    田舎: n. 田舎. いなか. countryside / rural area
+    歩いて行く: v. 歩く. あるいていく. walk / go on foot (te-form of '歩く' with '行く')
+    別の姿: n. 別の姿. べつのすがた. different form / another appearance
+    残り: n. �残り. のこり. remainder / rest / remaining part
+    信じなかった: v. 信じる. しんじなかった. did not believe / did not trust (past negative form of
+      '信じる')
+  grammar: null
+  Friday_review: null
