@@ -6157,7 +6157,7 @@
       "t-" sound before "u"  naturally affricated into "ts-".
 - date: '2026-06-15'
   weekday: Monday
-  book: Mateo
+  book: Marcos
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
@@ -6340,7 +6340,7 @@
   Friday_review: null
 - date: '2026-06-22'
   weekday: Monday
-  book: Mateo
+  book: Marcos
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
@@ -6480,7 +6480,7 @@
   Friday_review: null
 - date: '2026-06-29'
   weekday: Monday
-  book: Mateo
+  book: Marcos
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
@@ -6756,7 +6756,7 @@
   Friday_review: null
 - date: '2026-07-06'
   weekday: Monday
-  book: Mateo
+  book: Marcos
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
@@ -6918,7 +6918,7 @@
   Friday_review: null
 - date: '2026-07-13'
   weekday: Monday
-  book: Mateo
+  book: Marcos
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
@@ -7061,7 +7061,7 @@
   Friday_review: null
 - date: '2026-07-20'
   weekday: Monday
-  book: Mateo
+  book: Marcos
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
@@ -7226,7 +7226,7 @@
   Friday_review: null
 - date: '2026-07-27'
   weekday: Monday
-  book: Mateo
+  book: Marcos
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
@@ -7420,7 +7420,7 @@
   Friday_review: null
 - date: '2026-08-03'
   weekday: Monday
-  book: Mateo
+  book: Marcos
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
@@ -7517,6 +7517,177 @@
     信じなかった: v. 信じる. しんじなかった. did not believe / did not trust (past negative form of
       '信じる')
   grammar: null
+  Friday_review: null
+- date: '2026-08-06'
+  weekday: Thursday
+  book: マルコの福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '16:14':
+    - その後、十一人が食事をしているとき、イエスが現れ、その不信仰とかたくなな心をおとがめになった。復活されたイエスを見た人々の言うことを、信じなかったからである。
+    '16:15':
+    - それから、イエスは言われた。「全世界に行って、すべての造られたものに福音を宣べ伝えなさい。
+    '16:16':
+    - 信じて洗礼を受ける者は救われるが、信じない者は滅びの宣告を受ける。
+    '16:17':
+    - 信じる者には次のようなしるしが伴う。彼らはわたしの名によって悪霊を追い出し、新しい言葉を語る。
+    '16:18':
+    - 手で蛇をつかみ、また、毒を飲んでも決して害を受けず、病人に手を置けば治る。」
+    '16:19':
+    - 主イエスは、弟子たちに話した後、天に上げられ、神の右の座に着かれた。
+    '16:20':
+    - 一方、弟子たちは出かけて行って、至るところで宣教した。主は彼らと共に働き、彼らの語る言葉が真実であることを、それに伴うしるしによってはっきりとお示しになった。〕
+  vocabulary:
+    現れ: v. あらわれ. 現れ. 連用形 (れんようけい) form of the verb '現れる' (to appear / to manifest).
+    不信仰: n. ふしんこう. 不信仰. disbelief / lack of faith
+    かたくな: adj. かたくな. かたくな. stubborn / obstinate / unyielding
+    とがめ: v. とがめる. とがめ. to rebuke / to reproach (stem form 連用形 of 'とがめる')
+    復活された: v. ふっかつする. 復活された. resurrected / rose from the dead (passive/honorific form
+      of '復活する')
+    全世界: n. ぜんせかい. 全世界. the whole world / the entire world
+    すべての造られたもの: n. すべてのつくられたもの. すべての造られたもの. all created things / all that has been
+      made
+    福音: n. ふくいん. 福音. gospel / good news
+    宣べ伝えなさい: v. のべつたえる. 宣べ伝えなさい. proclaim / preach (imperative form of '宣べ伝える')
+    洗礼: n. せんれい. 洗礼. baptism / christening. [バプテスマ] Greek term (baptisma)
+    受ける者: n. うけるもの. 受ける者. one who receives / the recipient (of baptism)
+    救われる: v. すくわれる. 救われる. to be saved / to be rescued (passive form of '救う')
+    滅びの宣告: n. ほろびのせんこく. 滅びの宣告. pronouncement of destruction / declaration of doom
+    次のようなしるし: n. つげのようなしるし. 次のようなしるし. accompanying signs / evidences (literally 'signs
+      like a herald')
+    伴う: v. ともなう. 伴う. to accompany / to go along with
+    によって: conj. によって. によって. by / due to / according to
+    悪霊: n. あくりょう. 悪霊. evil spirit / demon
+    追い出し: v. おいだす. 追い出し. to cast out / to expel (stem form 連用形 of '追い出す')
+    新しい言葉: n. あたらしいことば. 新しい言葉. new words / new language
+    語る: v. かたる. 語る. to speak / to tell / to narrate
+    蛇: n. へび. 蛇. snake / serpent
+    つかみ: v. つかむ. つかみ. to grasp / to seize (stem form 連用形 of 'つかむ')
+    毒: n. どく. 毒. poison / toxin
+    飲んでも: v. のむ. 飲んでも. even if one drinks / even if one ingests (te-form of '飲む' with
+      'も')
+    決して: adv. けっして. 決して. never / by no means / under no circumstances
+    害を受けず: v. がいをうける. 害を受けず. to not be harmed / to not suffer damage (negative form
+      of '害を受ける')
+    病人: n. びょうにん. 病人. sick person / patient
+    手を置けば: v. てをおく. 手を置けば. if one lays hands / if one places hands (conditional form
+      of '手を置く')
+    治る: v. なおる. 治る. to heal / to recover / to be cured
+    あげられ: v. あげる. あげられ. to be raised / to be lifted up (passive form of 'あげる')
+    着かれた: v. つく. 着かれた. to sit / to be seated (past passive form of '着く')
+    一方: adv. いっぽう. 一方. on the other hand / meanwhile / in contrast
+    至るところ: adv. いたるところ. 至るところ. everywhere / all over / in every place
+    宣教: n. せんきょう. 宣教. missionary work / evangelism
+    語る言葉: n. かたることば. 語る言葉. spoken words / the words that are spoken
+    真実である: adj. しんじつである. 真実である. to be true / to be genuine (adjectival phrase)
+    はっきりと: adv. はっきりと. はっきりと. clearly / distinctly / plainly
+  grammar:
+    お咎めになった:
+      structure: お + verb stem + になる
+      type: Honorific / Polite Form (尊敬語)
+      meaning: to rebuke / to reproach (honorific form)
+      function: This structure is used to show respect or politeness when referring
+        to the actions of someone of higher status, such as Jesus in this context.
+        The verb stem is combined with the honorific prefix 'お' and the polite auxiliary
+        'になる' to convey reverence.
+      breakdown:
+        お: Honorific prefix indicating respect
+        とがめ: Verb stem of 'とがめる' (to rebuke / to reproach)
+        になった: Polite past form of 'になる' (to become / to do in a respectful manner)
+      example 1:
+        verse: Mark 16:14 (新共同訳)
+        text: イエスが現れ、その不信仰とかたくなな心をおとがめになった。
+        translation: Jesus appeared and rebuked their unbelief and stubbornness.
+      example 2:
+        verse: Mark 16:20 (新共同訳)
+        text: 主は彼らと共に働き、彼らの語る言葉が真実であることを、それに伴うしるしによってはっきりとお示しになった。
+        translation: The Lord worked with them and clearly showed that the words they
+          spoke were true by the accompanying signs.
+    つげのようなしるし:
+      structure: noun + のような + noun
+      type: Simile / Metaphorical Expression (比喩表現)
+      meaning: accompanying signs / evidences (literally 'signs like a herald')
+      function: This structure is used to create a simile or metaphor, comparing one
+        noun to another using 'のような' (like / similar to). In this context, it describes
+        the signs that accompany believers as being like those of a herald, indicating
+        their significance and authority.
+      breakdown:
+        noun1: The first noun being compared (e.g., 'つげ' - herald)
+        のような: Indicates similarity or likeness (like / similar to)
+        noun2: The second noun being described (e.g., 'しるし' - sign)
+      example:
+        verse: Mark 16:17 (新共同訳)
+        text: 信じる者には次のようなしるしが伴う。
+        translation: These signs will accompany those who believe.
+  Friday_review: null
+- date: '2026-08-10'
+  weekday: Monday
+  book: Jonás
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '1:1':
+    - 'La palabra del Señor vino a Jonás, hijo de Amitai:'
+    '1:2':
+    - '«Levántate, ve a Nínive, la gran ciudad, y proclama contra ella, porque su
+      maldad ha subido hasta Mí». '
+    '1:3':
+    - Jonás se levantó, pero para huir a Tarsis, lejos de la presencia del Señor.
+    - Y descendiendo a Jope, encontró un barco que iba a Tarsis, pagó el pasaje y
+      entró en él para ir con ellos a Tarsis, lejos de la presencia del Señor.
+    '1:4':
+    - 'Pero el Señor desató sobre el mar un fuerte viento, y hubo una tempestad tan
+      grande en el mar que el barco estuvo a punto de romperse. '
+    '1:5':
+    - Los marineros tuvieron miedo y cada uno clamaba a su dios;
+    - 'y arrojaron al mar la carga que estaba en el barco para aligerarlo. Pero Jonás
+      había bajado a la bodega del barco, se había acostado y dormía profundamente. '
+  vocabulary:
+    maldad: n. maldad. maldades. evil / wickedness
+    ha subido: v. subir. ha subido. it has gone up / it has ascended (third person
+      singular form of 'subir' in the present perfect)
+    hasta: prep. hasta. hasta. until / up to / as far as / even / to the point of
+    huir: v. huir. huir. to flee / to escape
+    lejos: adv. lejos. lejos. far / far away
+    descendiendo: v. descender. descendiendo. descending / going down (gerund form
+      of 'descender')
+    entró: v. entrar. entró. he/she/it entered (third person singular form of 'entrar')
+    barco: n. barco. barcos. boat / ship
+    iba: v. ir. iba. he/she/it was going (third person singular form of 'ir' in the
+      imperfect tense)
+    pagó: v. pagar. pagó. he/she/it paid (third person singular form of 'pagar')
+    pasaje: n. pasaje. pasajes. passage / fare
+    dpresencia: n. presencia. presencias. presence / attendance
+    desató: v. desatar. desató. he/she/it unleashed / untied (third person singular
+      form of 'desatar')
+    fuerte: adj. fuerte. fuertes. strong / powerful (masculine singular form of 'fuerte')
+    viento: n. viento. vientos. wind / winds
+    hubo: v. haber. hubo. there was / there were (third person singular form of 'haber'
+      in the preterite tense)
+    tempestad: n. tempestad. tempestades. storm / tempest
+    estuvo: v. estar. estuvo. he/she/it was (third person singular form of 'estar'
+      in the preterite tense)
+    romperse: v. romper . romperse. to break / to shatter (reflexive form of 'romper')
+    tuvieron: v. tener. tuvieron. they had / they experienced (third person plural
+      form of 'tener' in the preterite tense)
+    clamaba: v. clamar. clamaba. he/she/it was calling / was shouting (third person
+      singular form of 'clamar' in the imperfect tense)
+    arrojaron: v. arrojar. arrojaron. they threw / they cast (third person plural
+      form of 'arrojar' in the preterite tense)
+    aligerarlo: v. aligerar. aligerarlo. to lighten it / to make it lighter (infinitive
+      form of 'aligerar' with direct object pronoun 'lo')
+    había bajado: v. bajar. había bajado. he/she/it had gone down / had descended
+      (third person singular form of 'bajar' in the past perfect)
+    dodega: n. bodega. bodegas. hold / storage room (in a ship)
+    había acostado: v. acostar. había acostado. he/she/it had lain down / had gone
+      to bed (third person singular form of 'acostar' in the past perfect)
+    dormía: v. dormir. dormía. he/she/it was sleeping (third person singular form
+      of 'dormir' in the imperfect tense)
+    profundamente: adv. profundamente. profundamente. deeply / profoundly
+  grammar:
+    para ir con ellos: para + infinitivo. para ir con ellos. in order to go with them
+      / to go with them.
   Friday_review: null
 - date: '2026-08-16'
   weekday: Tuesday
