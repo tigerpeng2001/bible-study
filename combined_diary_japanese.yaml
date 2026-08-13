@@ -3947,3 +3947,43 @@
         text: 信じる者には次のようなしるしが伴う。
         translation: These signs will accompany those who believe.
   Friday_review: null
+- date: '2026-08-12'
+  weekday: Wednesday
+  book: ヨナ書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '1:10':
+    - 人々は非常に恐れ、ヨナに言った。
+    - 「なんという事をしたのだ。」
+    - 人々はヨナが、主の前から逃げて来たことを知った。彼が白状したからである。
+    '1:11':
+    - 彼らはヨナに言った。
+    - 「あなたをどうしたら、海が静まるのだろうか。」
+    - 海は荒れる一方だった。
+    '1:12':
+    - ヨナは彼らに言った。
+    - 「わたしの手足を捕らえて海にほうり込むがよい。そうすれば、海は穏やかになる。わたしのせいで、この大嵐があなたたちを見舞ったことは、わたしが知っている。」
+  vocabulary:
+    人々: n. 人々. ひとびと. people / crowd
+    非常: adv. 非常. ひじょう. very / extremely
+    恐れ: exp. 恐れる. おそれ. fear / be afraid
+    なんという: exp. なんという. what a / how ... / what kind of
+    事: n. 事. こと. thing / matter
+    逃げて来た: v. 逃げる. にげてきた. to escape / to run away. past tense
+    白状した: v. 白状する. はくじょうした. to confess / to admit. past tense
+    どうしたら: exp. どうしたら. what should I do / how should I do
+    したら: v. する. したら. to do / to make. conditional form
+    だろうか: exp. だろうか. I wonder / perhaps
+    荒れる: v. 荒れる. あれる. to be stormy / to be rough
+    一ぼだった: exp. 一方だった. いっぽうだった. on the other hand / meanwhile
+    手足: n. 手足. てあし. limbs / arms and legs
+    捉えて: v. 捉える. とらえて. to catch / to seize. te-form
+    ほうり込む: v. ほうり込む. ほうりこむ. to throw in / to toss in
+    がよい: exp. がよい. it is good / it is better
+    お穏やか: adj. 穏やか. おだやか. calm / gentle
+    せい: n. せい. せい. fault / responsibility
+    大嵐: n. 大嵐. おおあらし. big storm / tempest
+    見舞った: v. 見舞う. みまった. to visit / to strike (disaster). past tense
+  grammar: null
+  Friday_review: null
