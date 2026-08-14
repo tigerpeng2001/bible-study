@@ -7852,3 +7852,78 @@
     見舞った: v. 見舞う. みまった. to visit / to strike (disaster). past tense
   grammar: null
   Friday_review: null
+- date: '2026-08-13'
+  weekday: Thursday
+  book: ヨナ書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '1:13':
+    - 乗組員は船を漕いで陸に戻そうとしたが、できなかった。海がますます荒れて、襲いかかってきたからである。
+    '1:14':
+    - ついに、彼らは主に向かって叫んだ。
+    - ああ、主よ、この男の命のゆえに、滅ぼさないでください。無実の者を殺したといって責めないでください。主よ、すべてはあなたの御心のままなのですから。
+    '1:15':
+    - 彼らがヨナの手足を捕らえて海へほうり込むと、荒れ狂っていた海は静まった。
+    '1:16':
+    - 人々は大いに主を畏れ、いけにえをささげ、誓いを立てた。
+    '2:1':
+    - さて、主は巨大な魚に命じて、ヨナを呑み込ませられた。ヨナは三日三晩魚の腹の中にいた。
+  vocabulary:
+    乗組員: n. のりくみいん. 乗組員. crew member / ship's crew
+    船: n. ふね. 船. ship / boat
+    漕いで: v. こぐ. 漕いで. to row / to paddle (te-form of '漕ぐ')
+    陸: n. りく. 陸. land / shore
+    戻そうと: v. もどそうと. 戻そうと. to try to return / to attempt to bring back (volitional
+      form of '戻す')
+    ますます荒れて: adv. ますますあれて. ますます荒れて. increasingly stormy / getting worse (te-form of
+      '荒れる')
+    ますます: adv. ますます. 益々. increasingly / more and more
+    すべての造られたもの: n. すべてのつくられたもの. すべての造られたもの. all created things / all that has been
+      made
+    襲いかかってた: v. おそいかかる. 襲いかかってた. to attack / to assault (past tense of '襲いかかる')
+    ついに: adv. ついに. finally / at last
+    向かって: v. むかう. 向かって. to face / to head towards (te-form of '向かう')
+    叫んだ: v. さけぶ. 叫んだ. to shout / to cry out (past tense of '叫ぶ')
+    ゆえに: exp. ゆえに. 故に. because of / due to
+    滅ぼさないでください: v. ほろぼす. 滅ぼさないでください. please do not destroy / please do not ruin (negative
+      imperative form of '滅ぼす')
+    無実の者: n. むじつのもの. 無実の者. innocent person / blameless person
+    殺した: v. ころす. 殺した. to kill / to murder (past tense of '殺す')
+    責めないでください: v. せめる. 責めないでください. please do not blame / please do not reproach (negative
+      imperative form of '責める')
+    ままなのです: exp. ままなのです. ままなのです. as it is / in its current state
+    荒れ狂っていた: v. あれくるっている. 荒れ狂っていた. to rage / to be in a frenzy (past tense of '荒れ狂う')
+    いけにえ: n. いけにえ. 生贄. offering / sacrifice
+    ささげ: v. ささげる. 捧げ. to offer / to dedicate (te-form of 'ささげる')
+    誓い: n. ちかい. 誓い. vow / pledge
+    立てた: v. たてる. 立てた. to establish / to make (past tense of '立てる')
+    さて: exp. さて. さて. well then / now then
+    巨大な: adj. きょだいな. 巨大な. huge / gigantic
+    命じて: v. めいじる. 命じて. to order / to command (te-form of '命じる')
+    呑み込ませられた: v. のみこむ. 呑み込ませられた. was made to be swallowed / was swallowed (passive
+      causative past tense of '呑み込む')
+    三日三晩: n. みっかみばん. 三日三晩. three days and three nights
+    腹: n. はら. 腹. stomach / belly
+  grammar:
+    戻そうとしたが:
+      structure: verb stem + ようとする + が
+      type: Grammar
+      meaning: tried to / attempted to (but)
+      function: This structure is used to indicate that someone tried to do something
+        but was unable to complete the action. The verb stem is combined with 'ようとする'
+        to express the attempt, followed by 'が' to indicate the contrast or failure.
+      breakdown:
+        verb stem: The stem of the verb being attempted
+        ようとする: to try to / to attempt to
+        が: but / however
+      example:
+        verse: ヨナ書 1:13
+        text: 乗組員は船を漕いで陸に戻そうとしたが、できなかった。
+        translation: The crew tried to row the ship back to shore, but they could
+          not.
+      etymology:
+        戻:(Ancient Chinese root): Originally depicted a dog (犬) trying to push through
+          a door/opening (戸), giving it the inherent core meaning of resisting, turning
+          back, or pushing against an obstacle.
+  Friday_review: null
