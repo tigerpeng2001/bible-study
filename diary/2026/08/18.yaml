@@ -1,34 +1,25 @@
-date: "2026-08-11"
+date: "2026-08-18"
 weekday: "Tuesday"
 book: "Jonás"
 version: "Nueva Biblia de las Américas (NBLA)"
 target_language: "Spanish"
 verses:
-  "1:6":
-    - "El capitán se le acercó y le dijo: «¿Cómo es que estás durmiendo? ¡Levántate, invoca a tu Dios! Quizás tu Dios piense en nosotros y no pereceremos»."
-  "1:7":
-    - "Y cada uno dijo a su compañero: «Vengan, echemos suertes para saber por causa de quién nos ha venido esta calamidad». Y echaron suertes, y cayó la suerte sobre Jonás."
-  "1:8":
-    - "Entonces le dijeron: «Decláranos ahora por causa de quién nos ha venido esta calamidad."
-    - "¿Qué oficio tienes, y de dónde vienes? ¿Cuál es tu tierra, y de qué pueblo eres?»."
-  "1:9":
-    - "Él les respondió: «Soy hebreo, y temo al Señor Dios del cielo, que hizo el mar y la tierra»."
+  "3:1":
+    - "La palabra del Señor vino por segunda vez a Jonás: "
+  "3:2":
+    - "«Levántate, ve a Nínive, la gran ciudad, y proclama en ella el mensaje que Yo te diré»."
+  "3:3":
+    - "Y Jonás se levantó y fue a Nínive conforme a la palabra del Señor. Nínive era una ciudad muy grande, de un recorrido de tres días."
+  "3:4":
+    - "Entonces Jonás comenzó a recorrer la ciudad camino de un día, y proclamaba: «Dentro de cuarenta días Nínive será arrasada»."
 vocabulary:
-  se le acercó: "v. acercar. se le acercó. he/she/it approached him/her (third person singular form of the reflexive verb 'acercarse' in the past tense)"
-  quizás: "adv. quizás. quizás. perhaps / maybe"
-  piense: "v. pensar. piense. he/she/it thinks (third person singular form of 'pensar' in the present subjunctive tense)"
-  pereceremos: "v. perecer. pereceremos. we will perish (first person plural form of 'perecer' in the future tense)"
-  vengan: "v. venir. vengan. they come / they arrive (third person plural form of 'venir' in the present subjunctive tense)"
-  echemos: "v. echar. echemos. we cast / we throw (first person plural form of 'echar' in the present subjunctive tense)"
-  suertes: "n. suerte. suertes. lot / lots"
-  saber: "v. saber. saber. to know / to find out"
-  ha venido: "v. venir. ha venido. it has come / it has arrived (third person singular form of 'venir' in the present perfect tense)"
-  cayó: "v. caer. cayó. it fell / it dropped (third person singular form of 'caer' in the preterite tense)"
-  oficio: "n. oficio . oficios. occupation / trade / profession"
-  cuál: "adj. cuál. cuáles. which / what (interrogative form)"
-  tierra: "n. tierra. tierras. land / earth / country"
-  hebreo: "n. hebreo. hebreos. Hebrew / Jew"
-  temo: "v. temer. temo. I fear / I am afraid (first person singular form of 'temer' in the present tense)"
-  hizo: "v. hacer. hizo. he/she/it made / he/she/it did (third person singular form of 'hacer' in the preterite tense)"
+  conforme: "adv. conforme. conforme. according to / in accordance with"
+  recorrido: "n. recorrido. recorridos. route / journey"
+  comenzó: "v. comenzar. comenzó. he/she/it began / he/she/it started (third person singular form of 'comenzar' in the preterite tense)"
+  recorrer: "v. recorrer. recorrió. he/she/it traveled / he/she/it went through (third person singular form of 'recorrer' in the preterite tense)"
+  camino: "n. camino. caminos. path / way / road"
+  dentro: "adv. dentro. dentro. inside / within"
+  cuarenta: "adj. cuarenta. cuarenta. forty"
+  será arrasada: "v. arrasar. será arrasada. it will be destroyed / it will be razed (third person singular form of 'arrasar' in the future tense)"
 grammar:
 Friday_review:
