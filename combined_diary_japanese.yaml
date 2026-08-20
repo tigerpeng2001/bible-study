@@ -4062,3 +4062,40 @@
           a door/opening (戸), giving it the inherent core meaning of resisting, turning
           back, or pushing against an obstacle.
   Friday_review: null
+- date: '2026-08-19'
+  weekday: Wednesday
+  book: ヨナ書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '3:5':
+    - すると、ニネベの人々は神を信じ、断食を呼びかけ、身分の高い者も低い者も身に粗布をまとった。
+    '3:6':
+    - このことがニネベの王に伝えられると、王は王座から立ち上がって王衣を脱ぎ捨て、粗布をまとって灰の上に座し、
+    '3:7':
+    - 王と大臣たちの名によって布告を出し、ニネベに断食を命じた。
+  vocabulary:
+    断食: n. 断食. だんじき. fasting
+    呼びかけ: v. 呼びかける. よびかけ. to call / to appeal
+    身分: n. 身分. みぶん. social status / rank
+    高い: adj. 高い. たかい. high / tall
+    低い: adj. 低い. ひくい. low / short
+    身に: exp. 身に. みに. on oneself / wearing
+    粗布: n. 粗布. そふ. coarse cloth / sackcloth
+    まとった: v. まとう. まとった. to wear / to put on. past tense
+    このこと: exp. このこと. このこと. this matter / this thing
+    伝えられる: v. 伝える. つたえられる. to be conveyed / to be reported
+    王座: n. 王座. おうざ. throne
+    立ち上がって: v. 立ち上がる. たちあがって. to stand up. te-form
+    王衣: n. 王衣. おうい. royal robe / king's attire
+    脱ぎ捨て: v. 脱ぎ捨てる. ぬぎすて. to take off and throw away. stem form
+    灰: n. 灰. はい. ashes
+    上に: exp. 上に. うえに. on / above
+    座し: v. 座する. ざし. to sit. stem form
+    大臣: n. 大臣. だいじん. minister / high-ranking official
+    によって: exp. によって. によって. by / according to
+    布告: n. 布告. ふこく. proclamation / edict
+    だし: v. 出す. だし. to issue / to put out. stem form
+    命じ: v. 命じる. めいじ. to order / to command. stem form
+  grammar: null
+  Friday_review: null
