@@ -10,6 +10,7 @@ verses:
     - "このことがニネベの王に伝えられると、王は王座から立ち上がって王衣を脱ぎ捨て、粗布をまとって灰の上に座し、"
   "3:7":
     - "王と大臣たちの名によって布告を出し、ニネベに断食を命じた。"
+    - "「人も家畜も、牛、羊に至るまで、何一つ食物を口にしてはならない。食べることも、水を飲むことも禁ずる"
 vocabulary:
   断食: "n. 断食. だんじき. fasting"
   呼びかけ: "v. 呼びかける. よびかけ. to call / to appeal"
@@ -33,5 +34,13 @@ vocabulary:
   布告: "n. 布告. ふこく. proclamation / edict"
   だし: "v. 出す. だし. to issue / to put out. stem form"
   命じ: "v. 命じる. めいじ. to order / to command. stem form"
+  家畜: "n. 家畜. かちく. livestock / domestic animals"
+  牛: "n. 牛. うし. cow / ox"
+  羊: "n. 羊. ひつじ. sheep"
+  至るまで: "exp. いたるまで. いたるまで. up to / as far as"
+  何一つ: "exp. なにひとつ. 何一つ. not a single thing / nothing at all"
+  食物: "n. 食物. しょくもつ. food / nourishment"
+  口にして: "exp. くちにして. 口にして. to put in one's mouth / to eat"
+  禁ずる: "v. 禁ずる. きんずる. to prohibit / to forbid"
 grammar:
 Friday_review:
