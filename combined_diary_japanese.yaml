@@ -4108,3 +4108,42 @@
     禁ずる: v. 禁ずる. きんずる. to prohibit / to forbid
   grammar: null
   Friday_review: null
+- date: '2026-08-20'
+  weekday: Thursday
+  book: ヨナ書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '3:8':
+    - 人も家畜も粗布をまとい、ひたすら神に祈願せよ。おのおの悪の道を離れ、その手から不法を捨てよ。
+    '3:9':
+    - そうすれば神が思い直されて激しい怒りを静め、我々は滅びを免れるかもしれない。」
+    '3:10':
+    - 神は彼らの業、彼らが悪の道を離れたことを御覧になり、思い直され、宣告した災いをくだすのをやめられた。
+  vocabulary:
+    粗布: n. そふ. 粗布. coarse cloth / sackcloth
+    まとい: v. まとう. まとい. to wear / to put on (te-form of 'まとう')
+    ひたすら: adv. ひたすら. ひたすら. earnestly / devotedly / single-mindedly
+    祈願せよ: v. きがんせよ. 祈願せよ. pray earnestly / beseech (imperative form of '祈願する')
+    おのおの: pron. おのおの. おのおの. each / every / individually
+    あくのみち: n. あくのみち. 悪の道. evil path / wicked way
+    離れ: v. はなれ. 離れ. to leave / to separate from (stem form of '離れる')
+    その手から: exp. そのてから. その手から. from one's hand / out of one's hand
+    不法: n. ふほう. 不法. injustice / wrongdoing / illegality
+    捨てよ: v. すてよ. 捨てよ. to throw away / to discard (imperative form of '捨てる')
+    思い直されて: v. おもいなおされて. 思い直されて. having reconsidered / having changed one's mind (te-form
+      of '思い直す')
+    激しい怒り: n. はげしいいかり. 激しい怒り. intense anger / fierce wrath
+    静め: v. しずめ. 静め. to calm / to pacify (stem form of '静める')
+    我々: pron. われわれ. 我々. we / us / ourselves
+    滅び: n. ほろび. 滅び. destruction / ruin
+    免れる: v. まぬかれる. 免れる. to be spared / to escape (passive form of '免れる')
+    かもしれない: exp. かもしれない. かもしれない. might / may / perhaps
+    業: n. ぎょう. 業. deed / action / work / karma
+    御覧になり: v. ごらんになり. 御覧になり. to see / to look upon (honorific form of '見る')
+    宣告した: v. せんこくした. 宣告した. declared / pronounced (past form of '宣告する')
+    災い: n. わざわい. 災い. calamity / disaster / misfortune
+    くだす: v. くだす. 下す. to give / to inflict / to impose (stem form of '下す')
+    められた: v. められた. 免れた. was spared / was escaped (past passive form of '免れる')
+  grammar: null
+  Friday_review: null
