@@ -4009,3 +4009,56 @@
       (third person singular form of 'arrasar' in the future tense)
   grammar: null
   Friday_review: null
+- date: '2026-08-24'
+  weekday: Monday
+  book: Jonás
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '4:1':
+    - Pero esto desagradó a Jonás en gran manera, y se enojó.
+    '4:2':
+    - 'Y oró al Señor: «¡Ah Señor! ¿No era esto lo que yo decía cuando aún estaba
+      en mi tierra? Por eso me anticipé a huir a Tarsis.'
+    - Porque yo sabía que Tú eres un Dios clemente y compasivo, lento para la ira
+      y rico en misericordia, y que te arrepientes del mal anunciado.
+    '4:3':
+    - Y ahora, oh Señor, te ruego que me quites la vida, porque mejor me es la muerte
+      que la vida».
+    '4:4':
+    - 'Y el Señor dijo: «¿Tienes acaso razón para enojarte?».'
+    '4:5':
+    - Entonces salió Jonás de la ciudad y se sentó al oriente de la misma.
+    - Allí se hizo un cobertizo y se sentó bajo la sombra de él, hasta ver qué sucedería
+      en la ciudad.
+  vocabulary:
+    desagrado: n. desagrado. desagrados. displeasure / annoyance
+    manera: n. manera. maneras. manner / way
+    enojó: v. enojar. enojó. he/she/it got angry (third person singular form of 'enojar'
+      in the preterite tense)
+    oró: v. orar. oró. he/she/it prayed (third person singular form of 'orar' in the
+      preterite tense)
+    aún: adv. aún. aún. still / yet
+    anticipé: v. anticipar. anticipé. I anticipated / I foresaw (first person singular
+      form of 'anticipar' in the preterite tense)
+    clemente: adj. clemente. clementes. clement / merciful
+    lento: adj. lento. lentos. slow / sluggish
+    ira: n. ira. iras. anger / wrath
+    arrepientes: v. arrepentirse. se arrepiente. he/she/it repents (third person singular
+      form of 'arrepentirse' in the present tense)
+    anunciado: adj. anunciado. anunciados. announced
+    ruego: v. rogar. ruego. I beg / I plead (first person singular form of 'rogar'
+      in the present tense)
+    me quites: v. quitar. me quites. you take away from me (second person singular
+      form of 'quitar' in the present subjunctive tense)
+    acaso: adv. acaso. acaso. perhaps / maybe / by any chance
+    razón: n. razón. razones. reason / cause
+    enojarte: v. enojar. enojarte. to get angry (second person singular form of 'enojar'
+      in the present subjunctive tense)
+    oriente: n. oriente. orientes. east / the east
+    misma: adj. misma. mismas. same / the same
+    cobertizo: n. cobertizo. cobertizos. shed / shelter
+    sucedería: v. suceder. sucedería. it would happen / it would occur (third person
+      singular form of 'suceder' in the conditional tense)
+  grammar: null
+  Friday_review: null
