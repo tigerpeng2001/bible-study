@@ -1,0 +1,25 @@
+date: "2026-08-18"
+weekday: "Tuesday"
+book: "Jonás"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "3:1":
+    - "La palabra del Señor vino por segunda vez a Jonás: "
+  "3:2":
+    - "«Levántate, ve a Nínive, la gran ciudad, y proclama en ella el mensaje que Yo te diré»."
+  "3:3":
+    - "Y Jonás se levantó y fue a Nínive conforme a la palabra del Señor. Nínive era una ciudad muy grande, de un recorrido de tres días."
+  "3:4":
+    - "Entonces Jonás comenzó a recorrer la ciudad camino de un día, y proclamaba: «Dentro de cuarenta días Nínive será arrasada»."
+vocabulary:
+  conforme: "adv. conforme. conforme. according to / in accordance with"
+  recorrido: "n. recorrido. recorridos. route / journey"
+  comenzó: "v. comenzar. comenzó. he/she/it began / he/she/it started (third person singular form of 'comenzar' in the preterite tense)"
+  recorrer: "v. recorrer. recorrió. he/she/it traveled / he/she/it went through (third person singular form of 'recorrer' in the preterite tense)"
+  camino: "n. camino. caminos. path / way / road"
+  dentro: "adv. dentro. dentro. inside / within"
+  cuarenta: "adj. cuarenta. cuarenta. forty"
+  será arrasada: "v. arrasar. será arrasada. it will be destroyed / it will be razed (third person singular form of 'arrasar' in the future tense)"
+grammar:
+Friday_review:
