@@ -8328,3 +8328,38 @@
         text: And should not I pity Nineveh...?
         source: '[ESV](https://www.bible.com/bible/59/JON.4.ESV?parallel=103)'
   Friday_review: null
+- date: '2026-08-26'
+  weekday: Wednesday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '1:1':
+    - 初めに言があった。言は神と共にあった。言は神であった。
+    '1:2':
+    - この言は、初めに神と共にあった。
+    '1:3':
+    - 万物は言によって成った。成ったもので、言によらずに成ったものは何一つなかった。
+    '1:4':
+    - 言の内に命があった。命は人間を照らす光であった。
+    '1:5':
+    - 光は暗闇の中で輝いている。暗闇は光を理解しなかった。
+  vocabulary:
+    初めに: exp. 初めに. はじめに. in the beginning
+    言: n. 言. ことば. word / message
+    共に: exp. 共に. ともに. together / with
+    万物: n. 万物. ばんぶつ. all things / everything
+    よって: exp. よって. よって. therefore / hence
+    成った: v. 成る. なった. to become / to be formed. past tense
+    ようらず: exp. ようらず. ようらず. without / not by
+    何ひとつなかった: exp. なにひとつなかった. 何ひとつなかった. not a single thing / nothing at all
+    内: exp. 内. うち. inside / within
+    命: n. 命. いのち. life
+    人間: n. 人間. にんげん. human / mankind
+    照らす: v. 照らす. てらす. to illuminate / to shine on
+    光: n. 光. ひかり. light
+    暗闇: n. 暗闇. くらやみ. darkness
+    輝いている: v. 輝く. かがやいている. to shine / to be shining
+    理解しなかった: v. 理解する. りかいしなかった. to understand. past negative form
+  grammar: null
+  Friday_review: null
