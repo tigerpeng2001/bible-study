@@ -1,25 +1,84 @@
-date: "2026-08-18"
+date: "2026-08-25"
 weekday: "Tuesday"
 book: "Jonás"
 version: "Nueva Biblia de las Américas (NBLA)"
 target_language: "Spanish"
 verses:
-  "3:1":
-    - "La palabra del Señor vino por segunda vez a Jonás: "
-  "3:2":
-    - "«Levántate, ve a Nínive, la gran ciudad, y proclama en ella el mensaje que Yo te diré»."
-  "3:3":
-    - "Y Jonás se levantó y fue a Nínive conforme a la palabra del Señor. Nínive era una ciudad muy grande, de un recorrido de tres días."
-  "3:4":
-    - "Entonces Jonás comenzó a recorrer la ciudad camino de un día, y proclamaba: «Dentro de cuarenta días Nínive será arrasada»."
+  "4:6":
+    - "Y el Señor Dios dispuso que una planta creciera sobre Jonás para que hiciera sombra sobre su cabeza y lo librara de su incomodidad."
+    - "Y Jonás se alegró grandemente por la planta. "
+  "4:7":
+    - "Pero al rayar el alba del día siguiente Dios dispuso que un gusano atacara la planta, y esta se secó."
+  "4:8":
+    - "Y sucedió que al salir el sol, Dios dispuso un sofocante viento del este, y el sol hirió la cabeza de Jonás, así que él desfallecía,"
+    - "y con toda su alma deseaba morir, y decía: «Mejor me es la muerte que la vida»."
+  "4:9":
+    - "Entonces Dios le preguntó a Jonás: «¿Tienes acaso razón para enojarte por causa de la planta?»."
+    - "«Tengo mucha razón para enojarme hasta la muerte», le respondió."
+  "4:10":
+    - "Entonces el Señor le dijo: «Tú te apiadaste de la planta por la que no trabajaste ni hiciste crecer, que nació en una noche y en una noche pereció,"
+  "4:11":
+    - "¿y no he de apiadarme Yo de Nínive, la gran ciudad, en la que hay más de 120,000 personas que no saben distinguir entre su derecha y su izquierda,"
+    - "y también muchos animales?»."
 vocabulary:
-  conforme: "adv. conforme. conforme. according to / in accordance with"
-  recorrido: "n. recorrido. recorridos. route / journey"
-  comenzó: "v. comenzar. comenzó. he/she/it began / he/she/it started (third person singular form of 'comenzar' in the preterite tense)"
-  recorrer: "v. recorrer. recorrió. he/she/it traveled / he/she/it went through (third person singular form of 'recorrer' in the preterite tense)"
-  camino: "n. camino. caminos. path / way / road"
-  dentro: "adv. dentro. dentro. inside / within"
-  cuarenta: "adj. cuarenta. cuarenta. forty"
-  será arrasada: "v. arrasar. será arrasada. it will be destroyed / it will be razed (third person singular form of 'arrasar' in the future tense)"
+  dispuso: "v. disponer. dispuso. he/she/it arranged / he/she/it set (third person singular form of 'disponer' in the preterite tense)"
+  creciera: "v. crecer. creciera. he/she/it grew / he/she/it would grow (third person singular form of 'crecer' in the imperfect subjunctive tense)"
+  hiciera: "v. hacer. hiciera. he/she/it did / he/she/it would do (third person singular form of 'hacer' in the imperfect subjunctive tense)"
+  librara: "v. librar. librara. he/she/it freed / he/she/it would free (third person singular form of 'librar' in the imperfect subjunctive tense)"
+  se alegró: "v. alegrarse. se alegró. he/she/it rejoiced / he/she/it was glad (third person singular form of 'alegrarse' in the preterite tense)"
+  al rayar: "v. rayar. al rayar. at the break of / at the dawning of (used to indicate the beginning of the day)"
+  el alba: "n. alba. albas. dawn / daybreak"
+  un gusano: "n. gusano. gusanos. worm"
+  atacar: "v. atacar. atacó. he/she/it attacked / he/she/it would attack (third person singular form of 'atacar' in the preterite tense)"
+  se secó: "v. secarse. se secó. he/she/it dried up / he/she/it withered (third person singular form of 'secarse' in the preterite tense)"
+  sucedió: "v. suceder. sucedió. he/she/it happened / he/she/it occurred (third person singular form of 'suceder' in the preterite tense)"
+  sofocante: "adj. sofocante. sofocantes. suffocating / stifling / oppressive"
+  viento: "n. viento. vientos. wind"
+  hirió: "v. herir. hirió. he/she/it hurt / he/she/it wounded (third person singular form of 'herir' in the preterite tense)"
+  desfallecía: "v. desfallecer. desfallecía. he/she/it was fainting / he/she/it was weakening (third person singular form of 'desfallecer' in the imperfect tense)"
+  deseaba: "v. desear. deseaba. he/she/it desired / he/she/it wished (third person singular form of 'desear' in the imperfect tense)"
+  acaso: "adv. acaso. acaso. perhaps / maybe / by any chance"
+  te apiadaste: "v. apiadarse. te apiadaste. you took pity / you had compassion (second person singular form of 'apiadarse' in the preterite tense)"
+  trabajaste: "v. trabajar. trabajaste. you worked / you did work (second person singular form of 'trabajar' in the preterite tense)"
+  hiciste: "v. hacer. hiciste. you did / you made (second person singular form of 'hacer' in the preterite tense)"
+  nació: "v. nacer. nació. he/she/it was born / he/she/it came into being (third person singular form of 'nacer' in the preterite tense)"
+  pereció: "v. perecer. pereció. he/she/it perished / he/she/it died (third person singular form of 'perecer' in the preterite tense)"
+  he de apiadarme: "v. apiadarse. he de apiadarme. I must take pity / I must have compassion (first person singular form of 'apiadarse' in the present tense with the auxiliary 'he de')"
+  saben: "v. saber. saben. they know / they are aware (third person plural form of 'saber' in the present tense)"
+  distinguir: "v. distinguir. distinguir. to distinguish / to tell apart"
+  entre: "prep. entre. among / between"
 grammar:
+  original_phrase: "no he de apiadarme Yo de Nínive"
+  components:
+    - token: "no"
+      part_of_speech: "Adverb"
+      definition: "Negation operator ('not')"
+    - token: "he de"
+      part_of_speech: "Auxiliary Verb Phrase"
+      definition: "First-person singular present indicative of 'haber' + preposition 'de'"
+      grammatical_function: "Forms a verbal periphrasis (haber de + infinitive) expressing obligation, expectation, or rhetorical necessity ('am I not to / should I not')"
+    - token: "apiadarme"
+      part_of_speech: "Pronominal Infinitive Verb"
+      definition: "Verb 'apiadarse' (to take pity on / have compassion for) + first-person singular clitic pronoun 'me'"
+      syntactic_role: "Direct complement of the verbal periphrasis 'he de'"
+    - token: "Yo"
+      part_of_speech: "Personal Pronoun"
+      definition: "First-person singular subject pronoun ('I')"
+      stylistic_function: "Capitalized for divine reverence; placed post-verbally for emphatic focus"
+    - token: "de Nínive"
+      part_of_speech: "Prepositional Complement"
+      definition: "Preposition 'de' + proper noun 'Nínive'"
+      syntactic_role: "Required regime complement (complemento de régimen) for 'apiadarse'"
+  syntactic_structure:
+    formula: "Negation + [Auxiliary Verb + Infinitive-Pronoun] + Subject (Emphatic) + Prepositional Object"
+    word_order_variations:
+      standard: "¿Yo no he de apiadarme de Nínive?"
+      stylistic_inverted: "¿No he de apiadarme Yo de Nínive?"
+    inversion_effect: "Placing the subject pronoun 'Yo' after the verb phrase heightens rhetorical emphasis, contrasting divine mercy with Jonah's reluctance."
+  translations:
+    word_for_word_literal: "Not have I to pity-myself I of Nineveh?"
+    direct_grammatical: "Should I not have pity on Nineveh?"
+    standard_biblical:
+      text: "And should not I pity Nineveh...?"
+      source: "[ESV](https://www.bible.com/bible/59/JON.4.ESV?parallel=103)"
 Friday_review:
