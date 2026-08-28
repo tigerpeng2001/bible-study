@@ -4224,5 +4224,33 @@
     肉の欲: n. にくのよく. 肉の欲. fleshly desire
     人の欲: n. ひとのよく. 人の欲. human desire
     神によって生まれた: v. かみによってうまれた. 神によって生まれた. born of God
-  grammar: null
+  grammar:
+    target_expression: となる (to naru) vs になる (ni naru)
+    context: John 1:12 (神の子となる資格を与えた / right to become children of God)
+    になる:
+      particle: に
+      core_concept: Natural transition or end result of a change
+      nuance:
+      - Emphasizes the process of becoming or changing state
+      - Default, everyday conversational tone
+      typical_contexts:
+      - Natural phenomena (e.g., 春になる - to become spring)
+      - Age progression (e.g., 大人になる - to become an adult)
+      - General state changes (e.g., 静かになる - to become quiet)
+      translation_style: Standard / Everyday speech
+    となる:
+      particle: と
+      core_concept: Designation, formal role, or absolute status shift
+      nuance:
+      - Emphasizes entering a specific identity, official role, or legal status
+      - Formal, literary, or solemn register (Bungo influence)
+      typical_contexts:
+      - Divine or spiritual status (e.g., 神の子となる - to become children of God)
+      - Official appointments or positions (e.g., 代表となる - to become the representative)
+      - Final legal/formal decisions (e.g., 中止となる - to end up cancelled)
+      translation_style: Formal / Literary / Biblical prose
+    summary_comparison:
+      神の子になる: 'Informal/spoken tone: ''To turn into/become a child of God'''
+      神の子となる: 'Formal/literary tone: ''To attain the status/identity of a child of
+        God'''
   Friday_review: null
