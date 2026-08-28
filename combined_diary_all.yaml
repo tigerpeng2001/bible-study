@@ -8363,3 +8363,47 @@
     理解しなかった: v. 理解する. りかいしなかった. to understand. past negative form
   grammar: null
   Friday_review: null
+- date: '2026-08-27'
+  weekday: Thursday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '1:6':
+    - 神から遣わされた一人の人がいた。その名はヨハネである
+    '1:7':
+    - 彼は証しをするために来た。光について証しをするため、また、すべての人が彼によって信じるようになるためである。
+    '1:8':
+    - 彼は光ではなく、光について証しをするために来た。
+    '1:9':
+    - その光は、まことの光で、世に来てすべての人を照らすのである。
+    '1:10':
+    - 言は世にあった。世は言によって成ったが、世は言を認めなかった。
+    '1:11':
+    - 言は、自分の民のところへ来たが、民は受け入れなかった。
+    '1:12':
+    - しかし、言は、自分を受け入れた人、その名を信じる人々には神の子となる資格を与えた。
+    '1:13':
+    - この人々は、血によってではなく、肉の欲によってではなく、人の欲によってでもなく、神によって生まれたのである。
+  vocabulary:
+    遣わされた: v. つかわされた. 遣わされた. was sent / was dispatched (past form of '遣わす')
+    である: v. である. である. to be / to exist
+    証し: n. しょう. 証し. testimony / witness
+    光: n. ひかり. 光. light
+    すべて: pron. すべて. すべて. all / everything
+    まこと: n. 真. まこと. truth / reality
+    世: n. よ. 世. world / society
+    照らす: v. てらす. 照らす. to illuminate / to shine on
+    成った: v. 成る. なった. to become / to be formed. past tense
+    認めなかった: v. 認める. みとめなかった. to acknowledge / to recognize. past negative form
+    民: n. たみ. 民. people / nation
+    受け入れなかった: v. 受け入れる. うけいれなかった. to accept / to receive. past negative form
+    受け入れた: v. 受け入れる. うけいれた. to accept / to receive. past tense
+    資格: n. しかく. 資格. qualification / eligibility
+    神の子: n. かみのこ. 神の子. child of God
+    血: n. ち. 血. blood
+    肉の欲: n. にくのよく. 肉の欲. fleshly desire
+    人の欲: n. ひとのよく. 人の欲. human desire
+    神によって生まれた: v. かみによってうまれた. 神によって生まれた. born of God
+  grammar: null
+  Friday_review: null
