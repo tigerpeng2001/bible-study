@@ -4225,3 +4225,53 @@
       (third person singular form of 'dar' in the present perfect tense)
   grammar: null
   Friday_review: null
+- date: '2026-09-01'
+  weekday: Tuesday
+  book: ''
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '1:19':
+    - 'Este es el testimonio de Juan, cuando los judíos enviaron sacerdotes y levitas
+      de Jerusalén a preguntarle: «¿Quién eres tú?».'
+    '1:20':
+    - 'Y él confesó y no negó, pero confesó: «Yo no soy el Cristo».'
+    '1:21':
+    - '«¿Entonces, qué?», le preguntaron, «¿Eres Elías?». Y él dijo*: «No lo soy».
+      «¿Eres el Profeta?». «No», respondió Juan.'
+    '1:22':
+    - 'Entonces le preguntaron: «¿Quién eres? Ya que tenemos que dar respuesta a los
+      que nos enviaron. ¿Qué dices de ti mismo?». '
+    '1:23':
+    - 'Juan les respondió: «Yo soy la voz del que clama en el desierto: “Enderecen
+      el camino del Señor”, como dijo el profeta Isaías».'
+    '1:24':
+    - Los que habían sido enviados eran de los fariseos,
+    '1:25':
+    - 'y le preguntaron: «Entonces, ¿por qué bautizas, si tú no eres el Cristo, ni
+      Elías, ni el Profeta?».'
+    '1:26':
+    - 'Juan les respondió: «Yo bautizo en agua, pero entre ustedes está Uno a quien
+      ustedes no conocen.'
+    '1:27':
+    - Él es el que viene después de mí, a quien yo no soy digno de desatar la correa
+      de la sandalia».
+    '1:28':
+    - Estas cosas sucedieron en Betania, al otro lado del Jordán, donde Juan estaba
+      bautizando.
+  vocabulary:
+    judíos: n. judío. judíos. Jew / Jews
+    sacerdotes: n. sacerdote. sacerdotes. priest / priests
+    no negó: v. negar. no negó. he/she/it did not deny / he/she/it refused (third
+      person singular form of 'negar' in the preterite tense)
+    ya que: conjunction. ya que. literal 'already that'/'now that'. since / because
+    respuesta: n. respuesta. respuestas. answer / answers
+    enderecen: v. enderezar. enderecen. they straighten / they make straight
+    digno: adj. digno. digna. worthy / deserving
+    desatar: v. desatar. desata. to untie / to loosen
+    la correa: n. correa. correas. strap / straps
+    la sandalia: n. sandalia. sandalias. sandal / sandals
+    sucedieron: v. suceder. sucedieron. they happened / they took place
+    lado: n. lado. lados. side / sides
+  grammar: null
+  Friday_review: null
