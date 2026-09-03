@@ -4254,3 +4254,47 @@
       神の子となる: 'Formal/literary tone: ''To attain the status/identity of a child of
         God'''
   Friday_review: null
+- date: '2026-09-02'
+  weekday: Wednesday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '1:29':
+    - その翌日、ヨハネは、自分の方へイエスが来られるのを見て言った。「見よ、世の罪を取り除く神の小羊だ。
+    '1:30':
+    - 『わたしの後から一人の人が来られる。その方はわたしにまさる。わたしよりも先におられたからである』とわたしが言ったのは、この方のことである。
+    '1:31':
+    - わたしはこの方を知らなかった。しかし、この方がイスラエルに現れるために、わたしは、水で洗礼を授けに来た。」。
+    '1:32':
+    - そしてヨハネは証しした。「わたしは、“霊”が鳩のように天から降って、この方の上にとどまるのを見た。
+    '1:33':
+    - わたしはこの方を知らなかった。しかし、水で洗礼を授けるためにわたしをお遣わしになった方が、
+    - 『“霊”が降って、ある人にとどまるのを見たら、その人が、聖霊によって洗礼を授ける人である』とわたしに言われた。
+    '1:34':
+    - わたしはそれを見た。だから、この方こそ神の子であると証ししたのである。」
+  vocabulary:
+    翌日: exp. 翌日. よくじつ. the next day
+    来られる: v. 来る. こられる. to come (honorific)
+    世: exp. 世. よ. the world
+    罪: n. 罪. つみ. sin
+    取り除く: v. 取り除く. とりのぞく. to remove / to take away
+    子羊: n. 子羊. こひつじ. lamb
+    後: exp. 後. のち. after / later
+    一人の人: exp. 一人の人. ひとりのひと. one person
+    まさる: v. 勝る. まさる. to surpass / to excel
+    おられた: v. 居られた. おられた. to be (honorific), past tense
+    知らなかった: v. 知る. しらなかった. to know. past negative form
+    現われる: v. 現れる. あらわれる. to appear / to be revealed
+    ために: exp. ために. ために. for the purpose of / in order to
+    授けに来た: v. 授けに来る. さずけにきた. to come to give / to come to bestow. past tense
+    証しした: v. 証しする. あかしした. to testify / to bear witness. past tense
+    霊: n. 霊. れい. spirit / ghost
+    鳩: n. 鳩. はと. dove
+    天: n. 天. てん. heaven / sky
+    降って: v. 降る. くだって. to descend / to go down. te-form
+    聖霊: n. 精霊. せいれい. Holy Spirit
+    とどまる: v. とどまる. とどまる. to remain / to stay
+    言われた: v. 言う. いわれた. to be told / to be said. past tense
+  grammar: null
+  Friday_review: null
