@@ -1,0 +1,46 @@
+date: "2026-09-03"
+weekday: "Thursday"
+book: "ヨハネによる福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "1:35":
+    - "その翌日、また、ヨハネは二人の弟子と一緒にいた。"
+  "1:36":
+    - "そして、歩いておられるイエスを見つめて、「見よ、神の小羊だ」と言った。"
+  "1:37":
+    - "二人の弟子はそれを聞いて、イエスに従った。"
+  "1:38": 
+    - "イエスは振り返り、彼らが従って来るのを見て、「何を求めているのか」と言われた。"
+    - "彼らが、「ラビ――『先生』という意味――どこに泊まっておられるのですか」と言うと、"
+  "1:39":
+    - "イエスは、「来なさい。そうすれば分かる」と言われた。"
+    - "そこで、彼らはついて行って、どこにイエスが泊まっておられるかを見た。"
+    - "そしてその日は、イエスのもとに泊まった。午後四時ごろのことである。"
+  "1:40":
+    - "ヨハネの言葉を聞いて、イエスに従った二人のうちの一人は、シモン・ペトロの兄弟アンデレであった。"
+  "1:41":
+    - "彼は、まず自分の兄弟シモンに会って、「わたしたちはメシア――『油を注がれた者』という意味――に出会った」と言った。"
+  "1:42":
+    - "そして、シモンをイエスのところに連れて行った。イエスは彼を見つめて、"
+    - "あなたはヨハネの子シモンであるが、ケファ――『岩』という意味――と呼ぶことにする」と言われた。"
+vocabulary:
+  そして: "conj. そして. そして. and / then"
+  歩いて: "v. 歩く. ある. to walk / to go on foot. te-form"
+  おられる: "v. 居られる. おられる. to be (honorific form of いる)"
+  歩いておられる: "v. 歩いておられる. 歩いておられる. to be walking (honorific form of 歩いている)"
+  見つめて: "v. みつめる. 見つめて. to gaze at / to look intently. te-form"
+  従った: "v. したがう. 従った. to follow. past tense"
+  振り返り: "v. ふりかえる. 振り返り. to turn around / to look back. te-form"
+  求めている: "v. もとめる. 求めている. to be seeking / to be looking for. te-form"
+  のか: "grammar. のか. のか. question particle used to seek explanation or reason"
+  泊まっておられる: "v. とまっておられる. 泊まっておられる. to be staying overnight (honorific form of 泊まっている)"
+  来なさい: "v. くる. 来なさい. come (imperative form)"
+  ついて行って: "v. ついていく. ついて行って. to follow / to go along with. te-form"
+  まず: "adv. まず. まず. first / to begin with"
+  油: "n. あぶら. 油. oil"
+  注がれた: "v. そそがれる. 注がれた. to be poured. past tense"
+  出会った: "v. であう. 出会った. to have met / to have encountered. past tense"
+  ケファ: "n. けふぁ. ケファ. rock / stone (Aramaic name given to Simon)"
+grammar:
+Friday_review:
