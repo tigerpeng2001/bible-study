@@ -1,0 +1,41 @@
+date: "2026-09-07"
+weekday: "Monday"
+book: "Juan 1"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "1:43":
+    - "Al día siguiente Jesús se propuso salir para Galilea, y encontró* a Felipe, y le dijo*: «Sígueme»."
+  "1:44":
+    - "Felipe era de Betsaida, de la ciudad de Andrés y de Pedro."
+  "1:45":
+    - "Felipe encontró* a Natanael y le dijo*: «Hemos hallado a Aquel de quien escribió Moisés en la ley, y también los profetas, a Jesús de Nazaret, el hijo de José»."
+  "1:46":
+    - "Y Natanael le dijo: «¿Puede algo bueno salir de Nazaret?». «Ven, y ve», le dijo* Felipe."
+  "1:47":
+    - "Jesús vio venir a Natanael y dijo* de él: «Ahí tienen a un verdadero israelita en quien no hay engaño». "
+  "1:48":
+    - "Natanael le preguntó*: «¿Cómo es que me conoces?». Jesús le respondió: «Antes de que Felipe te llamara, cuando estabas debajo de la higuera, te vi»."
+  "1:49":
+    - "«Rabí, Tú eres el Hijo de Dios, Tú eres el Rey de Israel», respondió Natanael."
+  "1:50":
+    - "Jesús le contestó: «¿Porque te dije que te vi debajo de la higuera, crees? Cosas mayores que estas verás»."
+  "1:51":
+    - "También le dijo*: «En verdad les digo que verán el cielo abierto y a los ángeles de Dios subiendo y bajando sobre el Hijo del Hombre»."
+vocabulary:
+  se propuso: "v. proponerse. se propuso. he/she/it set out / he/she/it decided (third person singular form of 'proponerse' in the preterite tense)"
+  encontró a: "v. encontrar. encontró a. he/she/it found (third person singular form of 'encontrar' in the preterite tense)"
+  sígueme: "v. seguir. sígueme. follow me (imperative form of 'seguir')"
+  hemos hallado a: "v. hallar. hemos hallado a. we have found (first person plural form of 'hallar' in the present perfect tense)"
+  ahí tienen: "exp. ahí tienen. ahí tienen. there you have / behold"
+  engaño: "n. engaño. engaños. deceit / trickery"
+  debajo de: "prep. debajo de. debajo de. under / beneath"
+  la higuera: "n. higuera. higueras. fig tree"
+  contestó: "v. contestar. contestó. he/she/it answered (third person singular form of 'contestar' in the preterite tense)"
+  dije: "v. decir. dije. I said / I told (first person singular form of 'decir' in the preterite tense)"
+  digo: "v. decir. digo. I say / I tell (first person singular form of 'decir' in the present tense)"
+  verán: "v. ver. verán. they will see (third person plural form of 'ver' in the future tense)"
+  subiendo: "v. subir. subiendo. going up / ascending (gerund form of 'subir')"
+  bajando: "v. bajar. bajando. going down / descending (gerund form of 'bajar')"
+grammar:
+Friday_review:
