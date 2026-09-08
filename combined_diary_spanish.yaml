@@ -4181,7 +4181,7 @@
   Friday_review: null
 - date: '2026-08-31'
   weekday: Monday
-  book: Juan 1
+  book: Juan
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
@@ -4227,7 +4227,7 @@
   Friday_review: null
 - date: '2026-09-01'
   weekday: Tuesday
-  book: ''
+  book: Juan
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
