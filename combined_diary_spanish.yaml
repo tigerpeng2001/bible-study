@@ -4330,3 +4330,131 @@
     bajando: v. bajar. bajando. going down / descending (gerund form of 'bajar')
   grammar: null
   Friday_review: null
+- date: '2026-09-08'
+  weekday: Tuesday
+  book: Juan
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '2:1':
+    - Al tercer día se celebró una boda en Caná de Galilea, y estaba allí la madre
+      de Jesús;
+    '2:2':
+    - y también Jesús fue invitado a la boda, con Sus discípulos.
+    '2:3':
+    - 'Cuando se acabó el vino, la madre de Jesús le dijo*: «No tienen vino».'
+    '2:4':
+    - 'Y Jesús le dijo*: «Mujer, ¿qué nos interesa esto a ti y a Mí? Todavía no ha
+      llegado Mi hora».'
+    '2:5':
+    - 'Su madre dijo* a los que servían: «Hagan todo lo que Él les diga».'
+    '2:6':
+    - Y había allí seis tinajas de piedra, puestas para ser usadas en el rito de la
+      purificación de los judíos; en cada una cabían dos o tres cántaros.
+    '2:7':
+    - 'Jesús les dijo*: «Llenen de agua las tinajas». Y las llenaron hasta el borde.'
+    '2:8':
+    - 'Entonces les dijo*: «Saquen ahora un poco y llévenlo al mayordomo». Y se lo
+      llevaron.'
+    '2:9':
+    - El mayordomo probó el agua convertida en vino, sin saber de dónde era, pero
+      los que servían, que habían sacado el agua, lo sabían. Entonces el mayordomo
+      llamó* al novio,
+    '2:10':
+    - 'y le dijo*: «Todo hombre sirve primero el vino bueno, y cuando ya han tomado
+      bastante, entonces el inferior; pero tú has guardado hasta ahora el vino bueno».'
+    '2:11':
+    - Este principio de Sus señales hizo Jesús en Caná de Galilea, y manifestó Su
+      gloria, y Sus discípulos creyeron en Él.
+    '2:12':
+    - Después de esto Jesús bajó a Capernaúm con Su madre, Sus hermanos y Sus discípulos;
+      pero no se quedaron allí muchos días.
+  vocabulary:
+    tercer: adj. tercer. tercera. third
+    se celebró: v. celebrar. se celebró. it was celebrated / it took place
+    boda: n. boda. bodas. wedding / weddings
+    fue invitado: v. invitar. fue invitado. he was invited / he was asked (third person
+      singular form of 'invitar' in the preterite tense)
+    se acabó: v. acabar. se acabó. it ran out / it was finished
+    hagan: v. hacer. hagan. do / make (third person plural form of 'hacer' in the
+      present subjunctive)
+    tinajas: n. tinaja. tinajas. stone jar / stone jars
+    puestas: adj. puesto. puestas. placed / set (feminine plural form of 'puesto')
+    en cada: prep. en cada. in each
+    cabían: v. caber. cabían. fit / could fit (third person plural form of 'caber'
+      in the imperfect tense)
+    cántaros: n. cántaro. cántaros. jar / jars
+    saquen: v. sacar. saquen. take out / remove (third person plural form of 'sacar'
+      in the present subjunctive)
+    llévenlo: v. llevar. llévenlo. take it / carry it (third person plural form of
+      'llevar' in the present subjunctive with the pronoun 'lo')
+    mayordomo: n. mayordomo. mayordomos. steward / stewards
+    habían sacado: v. sacar. habían sacado. had taken out / had removed (third person
+      plural form of 'sacar' in the pluperfect tense)
+    han tomado: v. tomar. han tomado. have taken / have consumed (third person plural
+      form of 'tomar' in the present perfect tense)
+    bastante: adv. bastante. quite / enough
+    inferior: adj. inferior. inferior. lower / inferior
+    has guardado: v. guardar. has guardado. have kept / have stored (second person
+      singular form of 'guardar' in the present perfect tense)
+    señales: n. señal. señales. sign / signs
+    manifestó: v. manifestar. manifestó. manifested / expressed (third person singular
+      form of 'manifestar' in the preterite tense)
+    creyó: v. creer. creyó. believed / thought (third person singular form of 'creer'
+      in the preterite tense)
+    se queda: v. quedar. se queda. stays / remains (third person singular form of
+      'quedar' in the present tense)
+  grammar: null
+  se celebró:
+    grammar_term: pasiva_refleja
+    auxiliary_verb: none (uses reflexive pronoun 'se')
+    main_verb: celebrar (celebró - preterite, 3rd person singular)
+    meaning:
+      literal: celebrated itself
+      natural: was celebrated / was held / took place
+    purpose: expresses the passive voice without 'ser', focusing on the event happening
+      rather than who hosted it
+    comparison_to_fue_invitado: uses 'se + active verb' instead of 'ser + participle'
+      because the subject (una boda) is an impersonal event rather than a specific
+      person
+  fue invitado:
+    grammar_term: pasiva_analitica
+    auxiliary_verb: ser (fue - preterite, 3rd person singular)
+    main_verb: invitar (invitado - past participle)
+    meaning:
+      literal: was invited
+      natural: was invited
+    purpose: expresses the standard passive voice, showing that Jesus received the
+      action of being invited
+    comparison_to_se: uses 'ser + participle' rather than 'se' because the subject
+      (Jesús) is a specific person rather than an impersonal event
+  se acabó:
+    grammar_term: pasiva_refleja / se_intransitivador
+    auxiliary_verb: none (uses reflexive pronoun 'se')
+    main_verb: acabar (acabó - preterite, 3rd person singular)
+    meaning:
+      literal: finished itself
+      natural: ran out / was finished
+    purpose: expresses a spontaneous or passive event happening to an inanimate object
+      (el vino) without an active human agent
+    comparison_to_se_celebro: identical structure ('se + verb'), but while 'se celebró'
+      implies an intentional event being held, 'se acabó' expresses a situation or
+      state naturally coming to an end
+  nos interesa esto a ti y a Mí:
+    term: objeto_indirecto_duplicado (reduplicated indirect object)
+    components:
+      unstressed_pronoun: nos (bound pronoun required by the verb)
+      prepositional_phrase: a ti y a Mí (explicit emphasis/clarification phrase)
+    is_redundant:
+      grammatically: yes (syntactic redundancy)
+      pragmatically: no (serves distinct structural and stylistic functions)
+    functions:
+      1_grammatical_requirement: In Spanish, whenever an indirect object phrase using
+        'a + pronoun' comes before or after certain verbs, the weak pronoun ('nos')
+        is structurally obligatory to link the action.
+      2_emphatic_stress: '''nos'' carries no stress. ''a ti y a Mí'' adds strong personal
+        emphasis, highlighting the contrast between their responsibilities and the
+        hosts'' dilemma.'
+      3_clarification: '''nos'' means ''us'' (which could mean the whole group). ''a
+        ti y a Mí'' explicitly specifies the scope to strictly Mary and Jesus.'
+  Friday_review: null
