@@ -8804,3 +8804,44 @@
       3_clarification: '''nos'' means ''us'' (which could mean the whole group). ''a
         ti y a Mí'' explicitly specifies the scope to strictly Mary and Jesus.'
   Friday_review: null
+- date: '2026-09-09'
+  weekday: Wednesday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '2:13':
+    - ユダヤ人の過越祭が近づいたので、イエスはエルサレムへ上って行かれた。
+    '2:14':
+    - そして、神殿の境内で牛や羊や鳩を売っている者たちと、座って両替をしている者たちを御覧になった。
+    '2:15':
+    - イエスは縄で鞭を作り、羊や牛をすべて境内から追い出し、両替人の金をまき散らし、その台を倒し、
+    '2:16':
+    - 鳩を売る者たちに言われた。「このような物はここから運び出せ。わたしの父の家を商売の家としてはならない。」
+    '2:17':
+    - 弟子たちは、「あなたの家を思う熱意がわたしを食い尽くす」と書いてあるのを思い出した。
+  vocabulary:
+    過越祭: n. 過越祭. すぎこしさい. Passover
+    近づいた: v. 近づく. ちかづいた. to approach / to draw near. past tense
+    上っていかれた: v. 上る. のぼっていかれた. to go up / to ascend. past tense, honorific
+    神殿: n. 神殿. しんでん. temple
+    境内: n. 境内. けいだい. precincts of a temple or shrine
+    牛: n. 牛. うし. cow / ox
+    羊: n. 羊. ひつじ. sheep
+    両替: n. 両替. りょうがえ. money exchange
+    鳩: n. 鳩. はと. dove
+    売っている: v. 売っている. うっている. to be selling
+    座って: v. 座る. すわって. to sit. te-form
+    御覧になった: v. 御覧になる. ごらんになった. to see / to look (honorific). past tense
+    縄: n. 縄. なわ. rope
+    鞭: n. 鞭. むち. whip
+    追い出し: v. 追い出す. おいだし. to drive out / to expel. noun form
+    まき散らし: v. まき散らす. まきちらし. to scatter / to spread around. noun form
+    倒し: v. 倒す. たおし. to knock down / to overthrow. noun form
+    運び出せ: v. 運び出す. はこびだせ. to carry out / to remove. imperative form
+    商売: n. 商売. しょうばい. business / trade
+    思う熱意: n. 思う熱意. おもうねつい. zeal / fervor of thought
+    食い尽くす: v. 食い尽くす. くいつくす. to consume / to devour. dictionary form
+    思い出した: v. 思い出す. おもいだした. to remember / to recall. past tense
+  grammar: null
+  Friday_review: null
