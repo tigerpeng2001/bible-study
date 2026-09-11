@@ -4385,3 +4385,41 @@
     思い出した: v. 思い出す. おもいだした. to remember / to recall. past tense
   grammar: null
   Friday_review: null
+- date: '2026-09-10'
+  weekday: Thursday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '2:18':
+    - ユダヤ人たちはイエスに、「あなたは、こんなことをするからには、どんなしるしをわたしたちに見せるつもりか」と言った。
+    '2:19':
+    - イエスは答えて言われた。「この神殿を壊してみよ。三日で建て直してみせる。」
+    '2:20':
+    - それでユダヤ人たちは、「この神殿は建てるのに四十六年もかかったのに、あなたは三日で建て直すのか」と言った。
+    '2:21':
+    - イエスの言われる神殿とは、御自分の体のことだったのである。
+    '2:22':
+    - イエスが死者の中から復活されたとき、弟子たちは、イエスがこう言われたのを思い出し、聖書とイエスの語られた言葉とを信じた。
+  vocabulary:
+    からには: grammar. からには. からには. since / now that / as long as
+    しるし: n. しるし. しるし. sign / miracle
+    見せるつまり: v. みせる. 見せるつまり. to show / to display, in other words
+    見せる: v. みせる. 見せる. to show / to display
+    つまり: adv. つまり. つまり. in other words / that is to say
+    答えて: v. こたえる. 答えて. to answer / to respond. te-form
+    壊してみよ: v. こわしてみる. 壊してみよ. try to destroy / try to break. imperative form
+    建て直して: v. たてなおす. 建て直して. to rebuild / to reconstruct. te-form
+    みせよ: v. みせる. 見せよ. to show / to display. imperative form
+    のに: grammar. のに. のに. although / even though / despite
+    四十六年: n. よんじゅうろくねん. 四十六年. forty-six years
+    三日: n. みっか. 三日. three days
+    体: n. からだ. 体. body
+    だった: grammar. だった. だった. was / were (past tense of だ)
+    死者: n. ししゃ. 死者. the dead
+    復活: n. ふっかつ. 復活. resurrection
+    聖書: n. せいしょ. 聖書. the Bible
+    語られた: v. かたられる. 語られた. to be spoken / to be told. past tense
+    言葉: n. ことば. 言葉. words / language
+  grammar: null
+  Friday_review: null
