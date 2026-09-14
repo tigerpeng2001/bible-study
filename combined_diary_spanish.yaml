@@ -4458,3 +4458,33 @@
       3_clarification: '''nos'' means ''us'' (which could mean the whole group). ''a
         ti y a Mí'' explicitly specifies the scope to strictly Mary and Jesus.'
   Friday_review: null
+- date: '2026-09-14'
+  weekday: Monday
+  book: Juan 1
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '2:23':
+    - Cuando Jesús estaba en Jerusalén durante la fiesta de la Pascua, muchos creyeron
+      en Su nombre al ver las señales que hacía.
+    '2.24':
+    - Pero Jesús, en cambio, no se confiaba en ellos, porque los conocía a todos,
+    '21:25':
+    - y no tenía necesidad de que nadie le diera testimonio del hombre, porque Él
+      conocía lo que había en el interior del hombre.
+  vocabulary:
+    durante: prep. durante. durante. during
+    creyeron: v. creer. creyeron. they believed (third person plural form of 'creer'
+      in the preterite tense)
+    hacía: v. hacer. hacía. he/she/it was doing / he/she/it used to do (third person
+      singular form of 'hacer' in the imperfect tense)
+    en cambio: v. cambiar. en cambio. in contrast / on the other hand
+    se confiaba: exp. confiar. se confiaba. he/she/it trusted / relied on (third person
+      singular form of 'confiar' in the imperfect tense)
+    necesidad: n. necesidad. necesidades. need / necessity
+    diera: v. dar. diera. he/she/it gave (third person singular form of 'dar' in the
+      imperfect subjunctive tense)
+    conocía: v. conocer. conocía. he/she/it knew (third person singular form of 'conocer'
+      in the imperfect tense)
+  grammar: null
+  Friday_review: null
