@@ -8623,7 +8623,7 @@
   Friday_review: null
 - date: '2026-09-07'
   weekday: Monday
-  book: Juan 1
+  book: Juan
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
   verses:
@@ -8911,5 +8911,46 @@
       imperfect subjunctive tense)
     conocía: v. conocer. conocía. he/she/it knew (third person singular form of 'conocer'
       in the imperfect tense)
+  grammar: null
+  Friday_review: null
+- date: '2026-09-15'
+  weekday: Tuesday
+  book: Juan
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '3:1':
+    - Había un hombre de los fariseos, llamado Nicodemo, prominente entre los judíos.
+    '3:2':
+    - 'Este vino a Jesús de noche y le dijo: «Rabí, sabemos que has venido de Dios
+      como maestro, porque nadie puede hacer las señales que Tú haces si Dios no está
+      con él».'
+    '3:3':
+    - 'Jesús le contestó: «En verdad te digo que el que no nace de nuevo no puede
+      ver el reino de Dios».'
+    '3:4':
+    - 'Nicodemo le dijo*: «¿Cómo puede un hombre nacer siendo ya viejo? ¿Acaso puede
+      entrar por segunda vez en el vientre de su madre y nacer?».'
+  vocabulary:
+    había: v. haber. había. there was / there were (third person singular form of
+      'haber' in the imperfect tense)
+    llamado: v. llamar. llamado. called / named (past participle form of 'llamar')
+    prominente: adj. prominente. prominentes. prominent / notable (masculine singular
+      form of 'prominente')
+    este vino: v. venir. este vino. he came / he came to (third person singular form
+      of 'venir' in the preterite tense)
+    sabemos: v. saber. sabemos. we know (first person plural form of 'saber' in the
+      present tense)
+    has venido: v. venir. has venido. you have come / you have come to (second person
+      singular form of 'venir' in the present perfect tense)
+    señales: n. señal. señales. sign / signs
+    contestó: v. contestar. contestó. he/she/it answered (third person singular form
+      of 'contestar' in the preterite tense)
+    nuevo: adj. nuevo. nueva. new (masculine singular form of 'nuevo')
+    reino: n. reino. reinos. kingdom / kingdoms
+    siendo: v. ser. siendo. being (gerund form of 'ser')
+    viejo: adj. viejo. vieja. old (masculine singular form of 'viejo')
+    acaso: adv. acaso. acaso. perhaps / maybe (used to express doubt or possibility)
+    vientre: n. vientre. vientres. belly / womb
   grammar: null
   Friday_review: null
