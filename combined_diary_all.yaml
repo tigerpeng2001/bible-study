@@ -8845,38 +8845,6 @@
     思い出した: v. 思い出す. おもいだした. to remember / to recall. past tense
   grammar: null
   Friday_review: null
-- date: '2026-09-09'
-  weekday: Wednesday
-  book: ヨハネによる福音書
-  version: 新共同訳 (日本聖書協会 1987, 1988)
-  target_language: Japanese
-  verses:
-    '3:5':
-    - イエスはお答えになった。「はっきり言っておく。だれでも水と霊とによって生まれなければ、神の国に入ることはできない。
-    '3:6':
-    - 肉から生まれたものは肉である。霊から生まれたものは霊である。
-    '3:7':
-    - 『あなたがたは新たに生まれねばならない』とあなたに言ったことに、驚いてはならない。
-    '3:8':
-    - 風は思いのままに吹く。あなたはその音を聞いても、それがどこから来て、どこへ行くかを知らない。霊から生まれた者も皆そのとおりである。」
-    '3:9':
-    - するとニコデモは、「どうして、そんなことがありえましょうか」と言った。
-  vocabulary:
-    お答えになった: v. おこたえになる. to answer (honorific). past tense
-    はっきり言っておく: v. はっきりいっとおく. to state clearly / to make it clear. past tense
-    国: n. 国. くに. country / nation
-    肉: n. 肉. にく. flesh / meat
-    霊: n. 霊. れい. spirit / soul
-    新たに生まれる: v. 新たに生まれる. あらたにうまれる. to be born again. dictionary form
-    驚いてはならない: v. 驚いてはならない. おどろいてはならない. must not be surprised / should not be astonished.
-      dictionary form
-    思いのままに: adv. 思いのままに. おもいのままに. as one wishes / at will
-    吹く: v. 吹く. ふく. to blow. dictionary form
-    来る: v. 来る. くる. to come. dictionary form
-    行く: v. 行く. いく. to go. dictionary form
-    そのとおりである: exp. そのとおりである. it is just so / it is exactly as stated
-  grammar: null
-  Friday_review: null
 - date: '2026-09-10'
   weekday: Thursday
   book: ヨハネによる福音書
@@ -8984,5 +8952,37 @@
     viejo: adj. viejo. vieja. old (masculine singular form of 'viejo')
     acaso: adv. acaso. acaso. perhaps / maybe (used to express doubt or possibility)
     vientre: n. vientre. vientres. belly / womb
+  grammar: null
+  Friday_review: null
+- date: '2026-09-16'
+  weekday: Wednesday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '3:5':
+    - イエスはお答えになった。「はっきり言っておく。だれでも水と霊とによって生まれなければ、神の国に入ることはできない。
+    '3:6':
+    - 肉から生まれたものは肉である。霊から生まれたものは霊である。
+    '3:7':
+    - 『あなたがたは新たに生まれねばならない』とあなたに言ったことに、驚いてはならない。
+    '3:8':
+    - 風は思いのままに吹く。あなたはその音を聞いても、それがどこから来て、どこへ行くかを知らない。霊から生まれた者も皆そのとおりである。」
+    '3:9':
+    - するとニコデモは、「どうして、そんなことがありえましょうか」と言った。
+  vocabulary:
+    お答えになった: v. おこたえになる. to answer (honorific). past tense
+    はっきり言っておく: v. はっきりいっとおく. to state clearly / to make it clear. past tense
+    国: n. 国. くに. country / nation
+    肉: n. 肉. にく. flesh / meat
+    霊: n. 霊. れい. spirit / soul
+    新たに生まれる: v. 新たに生まれる. あらたにうまれる. to be born again. dictionary form
+    驚いてはならない: v. 驚いてはならない. おどろいてはならない. must not be surprised / should not be astonished.
+      dictionary form
+    思いのままに: adv. 思いのままに. おもいのままに. as one wishes / at will
+    吹く: v. 吹く. ふく. to blow. dictionary form
+    来る: v. 来る. くる. to come. dictionary form
+    行く: v. 行く. いく. to go. dictionary form
+    そのとおりである: exp. そのとおりである. it is just so / it is exactly as stated
   grammar: null
   Friday_review: null
