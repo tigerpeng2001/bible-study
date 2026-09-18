@@ -8986,3 +8986,107 @@
     そのとおりである: exp. そのとおりである. it is just so / it is exactly as stated
   grammar: null
   Friday_review: null
+- date: '2026-09-17'
+  weekday: Thursday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '3:10':
+    - イエスは答えて言われた。「あなたはイスラエルの教師でありながら、こんなことが分からないのか。
+    '3:11':
+    - はっきり言っておく。わたしたちは知っていることを語り、見たことを証ししているのに、あなたがたはわたしたちの証しを受け入れない。
+    '3:12':
+    - わたしが地上のことを話しても信じないとすれば、天上のことを話したところで、どうして信じるだろう。
+    '3:13':
+    - 天から降って来た者、すなわち人の子のほかには、天に上った者はだれもいない。
+    '3:14':
+    - そして、モーセが荒れ野で蛇を上げたように、人の子も上げられねばならない。
+    '3:15':
+    - それは、信じる者が皆、人の子によって永遠の命を得るためである。
+  vocabulary:
+    教師: n. きょうし. 教師. teacher
+    ありながら: grammar. ありながら. ありながら. although / even though / despite
+    のか: grammar. のか. のか. question particle indicating doubt or seeking confirmation
+    語り: v. かたる. 語り. to speak / to tell
+    証しして: v. あかしする. 証しして. to bear witness / to testify. te-form
+    のに: grammar. のに. のに. although / even though / despite
+    証し: n. あかし. 証し. testimony / witness
+    受け入れない: v. うけいれない. 受け入れない. to not accept / to not receive. dictionary form. negative
+      form
+    地上: n. ちじょう. 地上. the earth / the world
+    とすれば: grammar. とすれば. とすれば. if / in the case that
+    天上: n. てんじょう. 天上. the heavens / the sky
+    降って来た: v. ふってきた. 降って来た. came down / descended. past tense
+    すなわち: adv. すなわち. 即ち. that is to say / namely
+    ほかには: grammar. ほかには. 他には. besides / other than
+    上った: v. のぼった. 上った. went up / ascended. past tense
+    荒れ野: n. あれの. 荒れ野. wilderness / desert
+    蛇: n. へび. 蛇. snake
+    上げた: v. あげた. 上げた. raised / lifted up. past tense
+    上げられねばならない: grammar. あげられねばならない. 上げられねばならない. must be raised / must be lifted up
+    得るためである: grammar. えるためである. 得るためである. in order to obtain / for the purpose of obtaining
+  grammar:
+    とすれば:
+      meaning: Assuming that... / If it is the case that...
+      literal_translation: If [we] make it so that...
+      structure:
+        formation: Plain Form (Verb / Adjective / Noun) + とすれば
+        components:
+        - element: と
+          role: Quotative/conditional particle (if / that)
+        - element: すれば
+          role: Conditional form (ba-form) of する (to do)
+      usage_and_nuance:
+        primary_function: Sets up a hypothetical premise or logical assumption to
+          explore a hypothetical outcome.
+        tone: Objective, logical, and slightly formal.
+      contextual_example:
+        bible_verse: John 3:12
+        text_snippet: わたしが地上のことを話しても信じないとすれば……
+        translation: If [you] do not believe even when I speak of earthly things...
+        role_in_context: Establishes the initial condition (disbelief in earthly matters)
+          before introducing the main question about heavenly matters.
+      したところで:
+        meaning: even if [someone] does... / even supposing that...
+        underlying_structure:
+        - element: 話した
+          role: Past/completed form (Ta-form) of 話す (to speak/tell)
+        - element: ところ
+          role: 'Literal meaning: ''point'' or ''stage'' (used here abstractly to
+            represent a hypothetical point/situation)'
+        - element: で
+          role: Particle marking condition or scope ('at that stage')
+        grammatical_function:
+          fixed_pattern: Verb (Ta-form) + ところで
+          nuance: Sets up a hypothetical scenario only to state that doing so is useless,
+            ineffective, or produces no meaningful result.
+          contextual_meaning_in_verse: Even at the hypothetical point of speaking
+            about heavenly things, it won't lead to belief.
+    とすれば versus したところで:
+      とすれば: Focuses on setting a hypothetical condition ('Assuming X is true...').
+      したところで: Focuses on the pointlessness or futility of an action ('Even if X happens,
+        it won't matter...').
+    ねばならない:
+      meaning: must... / have to... / ought to...
+      literal_translation: If [one] does not do [it], it will not do (it is acceptable).
+      structure:
+        formation: Verb (Nai-stem / 未然形) + ねばならない
+        components:
+        - element: ねば
+          role: Classical/formal conditional negative form (equivalent to 〜なければ)
+        - element: ならない
+          role: Negative of なる (to become/be acceptable), meaning 'it won't do / it
+            is unacceptable'
+      usage_and_nuance:
+        primary_function: Expresses strong obligation, necessity, or inevitability.
+        tone: Formal, written, literary, or classical (commonly found in Biblical
+          texts, legal documents, and formal speeches).
+        modern_casual_equivalent: 〜しなければならない or 〜ないといけない
+      contextual_example:
+        bible_verse: John 3:14
+        text_snippet: 人の子も上げられねばならない
+        translation: The Son of Man must be lifted up
+        role_in_context: Emphasizes the divine necessity and inescapable decree of
+          Christ's sacrifice.
+  Friday_review: null
