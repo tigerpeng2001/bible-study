@@ -9090,3 +9090,92 @@
         role_in_context: Emphasizes the divine necessity and inescapable decree of
           Christ's sacrifice.
   Friday_review: null
+- date: '2026-09-21'
+  weekday: Monday
+  book: Juan
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '3:16':
+    - »Porque de tal manera amó Dios al mundo, que dio a Su Hijo unigénito, para que
+      todo aquel que cree en Él, no se pierda, sino que tenga vida eterna.
+    '3.17':
+    - Porque Dios no envió a Su Hijo al mundo para juzgar al mundo, sino para que
+      el mundo sea salvo por Él.
+    '3:18':
+    - El que cree en Él no es condenado; pero el que no cree, ya ha sido condenado,
+      porque no ha creído en el nombre del unigénito Hijo de Dios.
+    '3:19':
+    - ' »Y este es el juicio: que la Luz vino al mundo, y los hombres amaron más las
+      tinieblas que la Luz, pues sus acciones eran malas. '
+    '3:20':
+    - Porque todo el que hace lo malo odia la Luz, y no viene a la Luz para que sus
+      acciones no sean expuestas.
+    '3:21':
+    - Pero el que practica la verdad viene a la Luz, para que sus acciones sean manifestadas
+      que han sido hechas en Dios».
+  vocabulary:
+    de tal manera: exp. de tal manera. de tal manera. in such a way / in such a manner
+    cree: v. creer. cree. he/she/it believes (third person singular form of 'creer'
+      in the present tense)
+    juzgar: v. juzgar. juzgar. to judge
+    sea salvo: v. ser. sea salvo. be saved (third person singular form of 'ser' in
+      the present subjunctive tense)
+    es condenado: v. ser. es condenado. he/she/it is condemned (third person singular
+      form of 'ser' in the present tense)
+    ha sido condenado: v. ser. ha sido condenado. he/she/it has been condemned (third
+      person singular form of 'ser' in the present perfect tense)
+    el juicio: n. juicio. juicios. judgment
+    la Luz: n. luz. luces. light
+    las tinieblas: n. tinieblas. darkness
+    pues: conj. pues. pues. because / since
+    lo malo: exp. lo malo. lo malo. the evil / the wrong
+    practica: v. practicar. practica. he/she/it practices (third person singular form
+      of 'practicar' in the present tense)
+    la verdad: n. verdad. verdades. truth
+    manifestadas: v. manifestar. manifestadas. manifested (past participle form of
+      'manifestar')
+    han sido hechas: v. hacer. han sido hechas. have been done (third person plural
+      form of 'hacer' in the present perfect passive voice)
+  grammar:
+    lo malo: null
+    grammatical_components:
+      article:
+        type: neuter definite article
+        form: lo
+        function: nominalizer / abstracts the adjective
+      adjective:
+        root: malo
+        gender_form: masculine singular
+        function: functions as a noun core when combined with 'lo'
+    part_of_speech: substantivized adjective phrase (abstract noun phrase)
+    meaning:
+      literal: that which is bad
+      translations:
+      - the bad thing
+      - the bad part
+      - what is bad
+      - the downside
+      - evil / wrongdoing
+    usage_patterns:
+    - structure: lo malo + de + [noun/verb]
+      meaning: the bad thing / downside about [something]
+      example:
+        spanish: Lo malo de esta película es el final.
+        english: The bad thing about this movie is the ending.
+    - structure: lo malo + es que + [clause]
+      meaning: the bad thing / problem is that [clause]
+      example:
+        spanish: Lo malo es que no tenemos suficiente tiempo.
+        english: The bad part is that we don't have enough time.
+    - structure: hacer / practicar + lo malo
+      meaning: to do / practice what is bad or evil
+      example:
+        spanish: Todo el que hace lo malo odia la luz.
+        english: Everyone who does evil hates the light.
+    rules:
+    - The adjective following 'lo' must strictly remain in its singular masculine
+      form (malo), never changing for gender or number (*lo mala, *lo malos).
+    - '''Lo'' cannot modify standard concrete nouns; it only pairs with adjectives,
+      adverbs, or relative clauses to form abstract concepts.'
+  Friday_review: null
