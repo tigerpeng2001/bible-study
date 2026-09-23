@@ -9212,3 +9212,38 @@
       tense)
   grammar: null
   Friday_review: null
+- date: '2026-09-23'
+  weekday: Wednesday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '3:27':
+    - ヨハネは答えて言った。「天から与えられなければ、人は何も受けることができない。
+    '3:28':
+    - わたしは、『自分はメシアではない』と言い、『自分はあの方の前に遣わされた者だ』と言ったが、そのことについては、あなたたち自身が証ししてくれる。
+    '3:29':
+    - 花嫁を迎えるのは花婿だ。花婿の介添え人はそばに立って耳を傾け、花婿の声が聞こえると大いに喜ぶ。だから、わたしは喜びで満たされている。
+    '3:30':
+    - あの方は栄え、わたしは衰えねばならない。」
+  vocabulary:
+    与えられなければ: v. 与えられなければ. たとえられなければ. if not given. dictionary form
+    受ける: v. 受ける. うける. to receive. dictionary form
+    方: n. 方. かた. person / direction / way
+    遣わされた者: n. 遣わされた者. つかわされたもの. person who was sent
+    証し: n. 証し. あかし. testimony / evidence
+    証ししてくれる: v. 証ししてくれる. あかししてくれる. to testify / to give evidence. dictionary form
+    花嫁: n. 花嫁. はなよめ. bride
+    迎える: v. むかえる. to welcome / to receive. dictionary form
+    花婿: n. 花婿. はなむこ. groom
+    介添え人: n. 介添え人. かいぞえにん. attendant / helper
+    そばに立つ: v. そばに立つ. そばにたつ. to stand nearby. dictionary form
+    耳をかだむけ: v. 耳をかだむけ. みみをかだむけ. to listen attentively. dictionary form
+    きこえる: v. きこえる. to be heard / to be audible. dictionary form
+    喜ぶ: v. 喜ぶ. よろこぶ. to be glad / to rejoice. dictionary form
+    満たされている: v. 満たされている. みたされている. to be filled. dictionary form
+    栄え: v. 栄える. さかえる. to prosper / to flourish. dictionary form
+    衰え: v. 衰える. おとろえる. to decline / to wane. dictionary form
+    ねばならない: exp. ねばならない. must / have to
+  grammar: null
+  Friday_review: null
