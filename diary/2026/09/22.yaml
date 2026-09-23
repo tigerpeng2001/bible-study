@@ -1,0 +1,26 @@
+date: "2026-09-22"
+weekday: "Tuesday"
+book: "Juan"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "3:22":
+    - "Después de esto Jesús vino con Sus discípulos a la tierra de Judea, y estaba allí con ellos, y bautizaba."
+  "3:23":
+    - "Juan también bautizaba en Enón, cerca de Salim, porque allí había mucha agua; y muchos venían y eran bautizados."
+  "3:24":
+    - "Porque Juan todavía no había sido puesto en la cárcel."
+  "3:25":
+    - "Surgió entonces una discusión entre los discípulos de Juan y un judío acerca de la purificación."
+  "3:26":
+    - "Vinieron a Juan y le dijeron: «Rabí, mira, Aquel que estaba contigo al otro lado del Jordán, de quien diste testimonio, está bautizando y todos van a Él»."
+vocabulary:
+  todavía: "adv. todavía. todavía. still / yet"
+  la cárcel: "n. cárcel. cárceles. jail / prison"
+  surgió: "v. surgir. surgió. it arose / it emerged (third person singular form of 'surgir' in the preterite tense)"
+  entonces: "adv. entonces. entonces. then / so"
+  judío: "n. judío. judíos. Jew / Jews"
+  dijeron: "v. decir. dijeron. they said (third person plural form of 'decir' in the preterite tense)"
+  diste: "v. dar. diste. you gave (second person singular form of 'dar' in the preterite tense)"
+grammar:
+Friday_review:
