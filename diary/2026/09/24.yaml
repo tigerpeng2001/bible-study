@@ -1,0 +1,47 @@
+date: "2026-09-24"
+weekday: "Thursday"
+book: "ヨハネによる福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "3:31":
+    - "「上から来られる方は、すべてのものの上におられる。地から出る者は地に属し、地に属する者として語る。天から来られる方は、すべてのものの上におられる。"
+  "3:32":
+    - "この方は、見たこと、聞いたことを証しされるが、だれもその証しを受け入れない。"
+  "3:33":
+    - "その証しを受け入れる者は、神が真実であることを確認したことになる。"
+  "3:34": 
+    - "神がお遣わしになった方は、神の言葉を話される。神が“霊”を限りなくお与えになるからである。"
+  "3:35":
+    - "御父は御子を愛して、その手にすべてをゆだねられた。"
+  "3:36":
+    - "御子を信じる人は永遠の命を得ているが、御子に従わない者は、命にあずかることがないばかりか、神の怒りがその上にとどまる。」"
+vocabulary:
+  上から来られる方: "n. うえからこられるかた. 上から来られる方. the one who comes from above"
+  おられる: "grammar. おられる. おられる. to be (honorific). dictionary form. polite form of いる"
+  地: "n. ち. 地. the earth / the ground"
+  属し: "v. ぞくし. 属し. to belong to. dictionary form"
+  属する: "v. ぞくする. 属する. to belong to. dictionary form"
+  証し: "n. あかし. 証し. testimony / witness"
+  受け入れる: "v. うけいれる. 受け入れる. to accept / to receive. dictionary form"
+  証し: "n. あかし. 証し. testimony / witness"
+  受け入れない: "v. うけいれない. 受け入れない. to not accept / to not receive. dictionary form. negative form"
+  真実: "n. しんじつ. 真実. truth / reality"
+  である: "grammar. である. である. to be / is. dictionary form. formal form of だ"
+  確認: "v. かくにん. 確認. to confirm / to verify. dictionary form"
+  ことになる: "grammar. ことになる. ことになる. to result in / to come about. dictionary form. indicates a natural consequence or result"
+  お遣わしになった: "grammar. おつかわしになった. お遣わしになった. to be sent (honorific). dictionary form. past tense of お遣わしになる"
+  話される: "grammar. はなされる. 話される. to speak (honorific). dictionary form. passive/honorific form of 話す"
+  限りなく: "adv. かぎりなく. 限りなく. infinitely / without limit"
+  お与えになる: "grammar. おあたえになる. お与えになる. to give (honorific). dictionary form. polite form of 与える"
+  御父: "n. おんちち. 御父. the Father (God)"
+  御子: "n. みこ. 御子. the Son (Jesus Christ)"
+  ゆだねられた: "grammar. ゆだねられた. 委ねられた. to be entrusted (honorific). dictionary form. past tense of 委ねられる"
+  得ている: "grammar. えている. 得ている. to have obtained / to be in possession of. dictionary form. indicates a state resulting from a previous action"
+  従わない: "v. したがわない. 従わない. to not obey / to not follow. dictionary form. negative form of 従う"
+  あずかる: "v. あずかる. 預かる. to be entrusted with / to take part in. dictionary form"
+  ばかりか: "grammar. ばかりか. ばかりか. not only ... but also ... / on top of that ... . dictionary form. indicates an additional negative consequence"
+  怒り: "n. いかり. 怒り. anger / wrath"
+  とどまる: "v. とどまる. 止まる. to remain / to stay. dictionary form. indicates a state of staying in a particular condition or place"
+grammar:
+Friday_review:
