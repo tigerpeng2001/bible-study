@@ -1,0 +1,81 @@
+date: "2026-09-28"
+weekday: "Monday"
+book: "Juan"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "4:1":
+    - "Por tanto, cunado el Señor supo que los fariseos habían oído que Él hacía y bautizaba más discipulos que Juan,"
+  "4.2":
+    - "(aunque Jesús mismo no bautizaba, sino Sus discipulos),"
+  "4:3":
+    - "salió de Judea y se fue otra vez para Galilea."
+  "4:4":
+    - "YÉl tenía que apsar por Samaria."
+  "4:5":
+    - "Llegó, pues, a una ciudad de Samaria llamada Sicar, cerca de la parcela de tirra que Jacob dio a su hijo José;"
+  "4:6":
+    - "y allí estaba el pozo de Jacob. Entonces Jesús, cansado del camino, se sentó junto al pozo. Era cerca del mediodía."
+  "4.7":
+    - "Una mujer de Samaria vino* a sacar agua, y Jesús le dijo*: «Dame de beber.»"
+  "4:8":
+    - "Pues Sus discipulos habían ido a la ciudad a comprar alimentos."
+  "4:9":
+    - "Entonces la mujer samaritana le dijo*: «¿Cómo es que Tú, siendo judío, me pides de beber a mí, que soy samaritana?»"
+  "4:10":
+    - "Jesús le respondió: «Si tú conocieras el don de Dios, y quién es el que te dice: “Dame de beber”, "
+    - "tú le habría pedido a Él, y Él te hubiera dado agua viva»."
+vocabulary:
+  por tanto: "exp. por lo tanto. por lo tanto. therefore / consequently"
+  supo: "v. saber. supo. he/she/it knew (third person singular form of 'saber' in the past tense)"
+  habían oído: "v. oír. habían oído. they had heard (third person plural form of 'oír' in the past perfect tense)"
+  hacía: "v. hacer. hacía. he/she/it did/made (third person singular form of 'hacer' in the past tense)"
+  aunque: "conj. aunque. aunque. although / even though"
+  llegó: "v. llegar. llegó. he/she/it arrived (third person singular form of 'llegar' in the past tense)"
+  pues: "conj. pues. pues. because / since"
+  la parcela: "n. parcela. parcelas. plot / piece of land"
+  pozo: "n. pozo. pozos. well"
+  junto: "adv. junto. junto. together / next to"
+  sacar: "v. sacar. sacar. to draw/take out"
+  alimentos: "n. alimento. alimentos. food"
+  siendo: "v. ser. siendo. being (gerund form of 'ser')"
+  conocieras: "v. conocer. conocieras. you knew (second person singular form of 'conocer' in the past subjunctive tense)"
+  el don: "n. don. dones. gift / talent"
+  habría: "v. haber. habría. he/she/it would have (third person singular form of 'haber' in the conditional tense)"
+  hubiera dado: "v. dar. hubiera dado. he/she/it would have given (third person singular form of 'dar' in the past subjunctive tense)"
+grammar:
+  "Dame de beber":
+  translation: "Give me a drink"
+  grammar_breakdown:
+    components:
+      - word: "Dame"
+        gloss: "Give me"
+        structure:
+          verb:
+            base_infinitive: "dar"
+            meaning: "to give"
+            form: "imperative"
+            target: "tú (informal you)"
+            conjugated_form: "Da"
+          object_pronoun:
+            type: "indirect"
+            meaning: "to me"
+            form: "me"
+          syntax_rule: "In affirmative commands, pronouns attach directly to the end of the conjugated verb."
+      - word: "de"
+        gloss: "of / some"
+        function: "partitive preposition"
+        usage: "Implies an indefinite quantity or an unspecified amount of a substance ( liquid / water)."
+      - word: "beber"
+        gloss: "to drink"
+        form: "infinitive verb"
+    idiomatic_construction:
+      pattern: "dar + de + [infinitive]"
+      meaning: "to give [someone] something to [verb]"
+      examples:
+        - expression: "dar de beber"
+          meaning: "to give something to drink"
+        - expression: "dar de comer"
+          meaning: "to feed / to give something to eat"
+    structural_formula: "Verb_Command (Imperative) + Object_Pronoun + Preposition + Infinitive"
+Friday_review:
