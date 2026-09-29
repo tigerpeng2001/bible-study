@@ -4747,3 +4747,79 @@
       structural_formula: Verb_Command (Imperative) + Object_Pronoun + Preposition
         + Infinitive
   Friday_review: null
+- date: '2026-09-29'
+  weekday: Tuesday
+  book: Juan
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '4:11':
+    - 'Ella le dijo*: «Señor, no tienes con qué sacarla, y el pozo es hondo; ¿de dónde,
+      pues, tienes esa agua viva?'
+    '4:12':
+    - ¿Acaso eres Tú mayor que nuestro padre Jacob, que nos dio el pozo del cual bebió
+      él mismo, y sus hijos, y sus ganados?».
+    '4:13':
+    - 'Jesús le respondió: «Todo el que beba de esta agua volverá a tener sed,'
+    '4:14':
+    - pero el que beba del agua que Yo le daré, no tendrá sed jamás, sino que el agua
+      que Yo le daré se convertirá en él en una fuente de agua que brota para vida
+      eterna.
+    '4:15':
+    - «Señor», le dijo* la mujer, «dame esa agua, para que no tenga sed ni venga hasta
+      aqui a sacarla».
+    '4:16':
+    - 'Jesús le dijo*: «Ve, llama a tu marido y ven acá».'
+    '4:17':
+    - '«No tengo marido», respondió la mujer. Jesús le dijo•: «Bien has dicho: ”No
+      tengo marido”,'
+    '4:18':
+    - porque cinco maridos has tenido, y el que ahora tienes no es tu marido; en eso
+      has dicho la verdad».
+  vocabulary:
+    sacarla: v. sacar. sacarla. to take it out / to draw it (referring to water from
+      a well)
+    hondo: adj. hondo. honda. deep
+    acaso: adv. acaso. acaso. perhaps / by any chance
+    mayor: adj. mayor. mayor. greater / older
+    ganados: n. ganado. ganados. livestock / herds
+    volverá: v. volver. volverá. he/she/it will return
+    se convertirá: v. convertirse. se convertirá. it will become
+    brota: v. brotar. brota. it springs / it gushes
+    venga: v. venir. venga. he/she/it comes
+    acá: adv. acá. acá. here
+  grammar:
+    aquí vs acá:
+      aquí:
+        meaning: here
+        spatial_precision: Specific, exact location right where the speaker is
+        distance_concept: Proximity to speaker (close point)
+        movement_type: Fixed location / static state
+        regional_usage:
+          spain: Dominant and standard form
+          latin_america: Commonly used for precise spots
+        modifiers:
+          allows_degree_adverbs: false
+          examples: []
+        pronominal_use: Rare
+        example_sentence:
+          spanish: Pon el vaso aquí.
+          english: Put the glass right here.
+      acá:
+        meaning: here / over here
+        spatial_precision: Broader, less defined area near the speaker
+        distance_concept: Direction or general area toward speaker
+        movement_type: Implies motion or direction toward speaker
+        regional_usage:
+          spain: Rare, limited to fixed idioms (e.g., 'de acá para allá')
+          latin_america: Extremely common (e.g., Southern Cone, Colombia, Mexico)
+        modifiers:
+          allows_degree_adverbs: true
+          examples:
+          - más acá (further this way)
+          - tan acá (so far over here)
+        pronominal_use: Common with prepositions (e.g., 'los de acá')
+        example_sentence:
+          spanish: Ven acá.
+          english: Come over here.
+  Friday_review: null
