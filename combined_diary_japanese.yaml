@@ -4747,3 +4747,30 @@
       example: しみじみと思われてくる / 来られる
       note: Less common in modern daily usage compared to potential and honorific.
   Friday_review: null
+- date: '2026-10-01'
+  weekday: Thursday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '4:27':
+    - ちょうどそのとき、弟子たちが帰って来て、イエスが女の人と話をしておられるのに驚いた。
+    - しかし、「何か御用ですか」とか、「何をこの人と話しておられるのですか」と言う者はいなかった。
+    '4:28':
+    - 女は、水がめをそこに置いたまま町に行き、人々に言った。
+    '4:29':
+    - 「さあ、見に来てください。わたしが行ったことをすべて、言い当てた人がいます。もしかしたら、この方がメシアかもしれません。」
+    '4:30':
+    - 人々は町を出て、イエスのもとへやってきた。
+  vocabulary:
+    水がめ: n. みずがめ. 水がめ. water jar / water pot
+    置いたまま: grammar. おいたまま. 置いたまま. leaving something as it is / leaving something in
+      place. dictionary form. indicates the state of leaving something as it is
+    町: n. まち. 町. town / city
+    行ったこと: n. おこなったこと. 行ったこと. the things one has done / actions taken
+    言い当てた: v. いいあてた. 言い当てた. guessed correctly / predicted accurately. dictionary form.
+      past tense of 言い当て
+    もしかしたら: adv. もしかしたら. もしかしたら. perhaps / maybe
+    かも知れません: grammar. かもしれません. かも知れません. perhaps / maybe. dictionary form. polite form
+  grammar: null
+  Friday_review: null
