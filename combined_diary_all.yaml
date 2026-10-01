@@ -9476,3 +9476,99 @@
           spanish: Ven acá.
           english: Come over here.
   Friday_review: null
+- date: '2026-09-30'
+  weekday: Wednesday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '4:19':
+    - 女は言った。「主よ、あなたは預言者だとお見受けします。」
+    '4:20':
+    - わたしどもの先祖はこの山で礼拝しましたが、あなたがたは、礼拝すべき場所はエルサレムにあると言っています。」
+    '4:21':
+    - イエスは言われた。「婦人よ、わたしを信じなさい。あなたがたが、この山でもエルサレムでもない所で、父を礼拝する時が来る。
+    '4:22':
+    - あなたがたは知らないものを礼拝しているが、わたしたちは知っているものを礼拝している。救いはユダヤ人から来るからだ。
+    '4:23':
+    - しかし、まことの礼拝をする人たちが、霊と真理をもって父を礼拝する時が来る。今がその時である。なぜなら、父はこのように礼拝する者を求めておられるからだ。
+    '4:24':
+    - 神は霊である。だから、神を礼拝する者は、霊と真理をもって礼拝しなければならない。」
+    '4:25':
+    - 女が言った。「わたしは、キリストと呼ばれるメシアが来られることは知っています。その方が来られたとき、わたしたちに一切のことを知らせてくださいます。」
+    '4:26':
+    - イエスは言われた。「それは、あなたと話をしているこのわたしである。」
+  vocabulary:
+    お見受けします: v. お見受けします. おみうけします. to perceive / to recognize. お + 見受け + する
+    先祖: n. 先祖. せんぞ. ancestor
+    礼拝: n. 礼拝. れいはい. worship
+    すべき: exp. すべき. should / ought to
+    場所: n. 場所. ばしょ. place
+    救い: n. 救い. すくい. salvation
+    まこと: n. まこと. まこと. true / genuine
+    もって: exp. もって. もって. with / by means of
+    来られる: v. 来られる. こられる. to come (honorific / potential form of 来る)
+    一切: n. 一切. いっさい. all / everything
+    知らせてくださいます: v. 知らせてくださいます. しらせてくださいます. to inform / to let someone know (honorific)
+    この: pron. この. この. this
+  grammar:
+    なければならない:
+      meaning: must / have to / ought to
+      literal_meaning: if [one] does not, it is unacceptable
+      components:
+      - element: なく
+        base_form: ない
+        type: Adverbial form (連用形) of negative adjective
+        function: Negates the preceding verb or statement ('not').
+      - element: れば
+        type: Conditional particle / inflection suffix (仮定形)
+        function: Establishes a hypothetical condition ('if ...').
+        combination_note: なく + れば forms なければ ('if [one] does not...').
+      - element: なら
+        base_form: なる (成る/済る)
+        type: Imperfect/Hypothetical form (未然形) of verb
+        function: Means 'to be acceptable', 'to work out', or 'to pass'.
+      - element: ない
+        type: Negative auxiliary adjective
+        function: Negates なら, creating なら+ない ('it will not do / it is unacceptable').
+      grammar_structure:
+        pattern: Verb (未然形) + なければ + ならない
+        logic: Double Negative Imperative
+        translation_breakdown:
+          if_not: なければ (If ... is not done)
+          unacceptable: ならない (it will not do)
+          result: Must do (obligation / necessity)
+      register_variations:
+        formal_written: 〜なければならない (nakereba naranai)
+        polite_spoken: 〜なければなりません (nakereba narimasen)
+        conversational: 〜なければいけない (nakereba ikenai)
+        casual_spoken:
+        - 〜なくちゃ (nakucha)
+        - 〜きゃ (kya)
+  word_pair:
+    base_verb: 来る (くる / kuru)
+    derived_form: 来られる (こられる / korareru)
+    morphology:
+      verb_group: Irregular Verb (カ行変格活用 / K-irregular)
+      stem_change: くる (kuru) → こ- (ko-)
+      suffix: 〜られる (-rareru)
+    grammatical_functions_of_korareru:
+    - function: Potential (可能)
+      meaning: can come / able to come
+      example: 明日ここに来られますか。(Can you come here tomorrow?)
+      note: 'In modern casual speech, often shortened to ら抜き言葉 (ra-nuki): 来れる (これる
+        / koreru).'
+    - function: Honorific (尊敬)
+      meaning: to come (exalting the subject's action)
+      example: 先生が来られました。(The teacher has arrived / came.)
+      note: 'Used to show respect toward the person coming (e.g., in scripture: メシアが来られる
+        = ''the Messiah comes'').'
+    - function: Passive (受身)
+      meaning: to be visited / affected by someone coming
+      example: 雨に降られたり、急にお客さんに来られたりした。(I had an unexpected visitor come over.)
+      note: Often used as a suffering/adversative passive (迷惑の受身).
+    - function: Spontaneous (自発)
+      meaning: spontaneously comes to mind / felt
+      example: しみじみと思われてくる / 来られる
+      note: Less common in modern daily usage compared to potential and honorific.
+  Friday_review: null
