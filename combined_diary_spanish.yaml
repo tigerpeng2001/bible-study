@@ -4823,3 +4823,58 @@
           spanish: Ven acá.
           english: Come over here.
   Friday_review: null
+- date: '2026-10-05'
+  weekday: Tuesday
+  book: Juan
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '4:31':
+    - 'Mientras tanto, los discípulos le rogaban: «Rabí, come»'
+    '4:32':
+    - 'Pero Él les dijo: «Yo tengo para comer una comida que ustedes no saben».'
+    '4:33':
+    - 'Entonces los discípulos se decían entre sí: «¿Le habrá traído alguien de comer?».'
+    '4:34':
+    - 'Jesüs les dijo*: «Mi comida es hacer la voluntad del que me envió y llevar
+      a cabo Su obra.'
+    '4:35':
+    - '¿No dicen ustedes: “Todavia faltan cuatro meses, y después viene la siega”?
+      Pero Yo les digo: alcen sus ojos y vean los campos que ya están blancos para
+      la siega.'
+    '4:36':
+    - Ya el segador recibe salario y recoge fruto para vida eterna, para que el que
+      siembra se regocije junto con el que siega.
+    '4:37':
+    - 'Porque en este caso el dicho es verdadero: “Uno es el que siembra y otro el
+      que siega”.'
+    '4:38':
+    - Yo los envié a ustedes a segar lo que no han trabajado; otros han trabajado
+      y ustedes han entrado en su labor».
+  vocabulary:
+    mientras tanto: adv. mientras tanto. mientras tanto. meanwhile / in the meantime
+    rogaban: v. rogar. rogaban. they were begging / they were pleading
+    traído: v. traer. traído. brought. past participle
+    llevar a cabo: v. llevar a cabo. cabo. to carry out / to accomplish
+    cabo: n. cabo. end / completion / tip / cape
+    dicen: v. decir. dicen. they say / they tell
+    alcen: v. alzar. alcen. raise. imperative form
+    la siega: n. la siega. harvest
+    segador: n. segador. reaper
+    recoge: v. recoger. recoge. he/she/it gathers / collects
+    para que: conjunction. para que. so that / in order that
+    se regocije: v. regocijarse. se regocije. he/she/it rejoices. subjunctive form
+    entrado: v. entrar. entrado. entered. past participle
+  grammar:
+    habrá traído:
+      meaning: expresses a wonder or guess about what might have already happened
+      translations:
+      - Could someone have brought...?
+      - I wonder if someone brought...
+      term_en: Conjectural Future
+      term_es: Futuro de conjetura
+      language: Spanish
+      definition: 'In Spanish, the future tense (specifically the future perfect)
+        is frequently used to express probability, speculation, or conjecture about
+        a past event rather than indicating a future action.   '
+  Friday_review: null
