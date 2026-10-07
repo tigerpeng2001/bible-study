@@ -9654,3 +9654,31 @@
         is frequently used to express probability, speculation, or conjecture about
         a past event rather than indicating a future action.   '
   Friday_review: null
+- date: '2026-10-06'
+  weekday: Tuesday
+  book: Juan
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '4:39':
+    - Y de aquella ciudad, muchos de los samaritanos creyeron en Él por la palabra
+      de la mujer que daba testimonio,
+    - 'diciendo: «Él me dijo todo lo que yo he hecho».'
+    '4:40':
+    - De modo que cuando los samaritanos vinieron, rogaban a Jesús que se quedara
+      con ellos; y Él se quedó allí dos días.
+    '4:41':
+    - Muchos más creyeron por Su palabra.
+    '4:42':
+    - 'y decían a la mujer: «Ya no creemos por lo que tú has dicho. porque nosostros
+      mismos le hemos oído, y sabemos que Este es en verdad el Salvador de mundo».'
+  vocabulary:
+    palabra: n. palabra. palabra. word
+    daba: v. dar. daba. to give / was giving
+    diciendo: v. decir. diciendo. saying / telling
+    de modo que: adv. de modo que. de modo que. so that / in such a way that
+    se quedara: v. quedarse. se quedara. he/she/it stayed / would stay
+    se quedó: v. quedarse. se quedó. he/she/it stayed
+    sabemos: v. saber. sabemos. we know
+  grammar: null
+  Friday_review: null
