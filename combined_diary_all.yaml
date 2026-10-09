@@ -9682,3 +9682,32 @@
     sabemos: v. saber. sabemos. we know
   grammar: null
   Friday_review: null
+- date: '2026-10-07'
+  weekday: Wednesday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '4:43':
+    - 二日後、イエスはそこを出発して、ガリラヤへ行かれた。
+    '4:44':
+    - イエスは自ら、「預言者は自分の故郷では敬われないものだ」とはっきり言われたことがある。
+    '4:45':
+    - ガリラヤにわ着きになると、ガリラヤの人たちはイエスを歓迎した。
+    - 彼らも祭りに行ってので、そのときエルサレムでイエスがなさったのとをすべて、見ていたからである。
+  vocabulary:
+    二日: n. 二日. ふつか. two days
+    出発: n. 出発. しゅっぱつ. departure
+    行かれた: v. 行かれた. いかれた. went (honorific / potential form of 行く)
+    自ら: adv. 自ら. みずから. by oneself / personally
+    自ずから: adv. 自ずから. おのずから. naturally / of itself
+    預言者: n. 預言者. よげんしゃ. prophet
+    故郷: n. 故郷. こきょう. hometown
+    敬われない: adj. 敬われない. うやまわれない. not respected
+    敬う: v. 敬う. うやまう. to respect / to honor
+    はっきり: adv. はっきり. clearly / distinctly
+    お着きになると: exp. お着きになると. upon arrival (honorific form of 着く)
+    歓迎: v. 歓迎. かんげい. to welcome
+    祭り: n. 祭り. まつり. festival
+  grammar: null
+  Friday_review: null
