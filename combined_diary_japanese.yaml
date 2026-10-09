@@ -4803,3 +4803,38 @@
     祭り: n. 祭り. まつり. festival
   grammar: null
   Friday_review: null
+- date: '2026-10-08'
+  weekday: Thursday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '4:46':
+    - イエスは、再びガリラヤのカナに行かれた。そこは、前にイエスが水をぶどう酒に変えられた所である。
+    - さて、カファルナウムに王の役人たいて、その息子が病気であった。
+    '4:47':
+    - その人は、イエスがユダヤからガリラヤに来られたと聞き、イエスのもとに行き、カファルナウムまで下って来て息子をいやしてくださるように頼んだ。
+    - 息子が死にかかっていたからである。
+    '4:48':
+    - イエスは役人に、「あなたがたは、するすや不思議な業を見なければ、決して信じない」と言われた。
+  vocabulary:
+    再び: adv. ふたたび. 再び. again / once more
+    ぶどう酒: n. ぶどうしゅ. ぶどう酒. wine / grape wine
+    さて: adv. さて. さて. well then / now / so
+    役人: n. やくにん. 役人. government official / officer
+    王の役人: n. おうのやくにん. 王の役人. royal official / officer of the king
+    もと: n. もと. もと. origin / source / base / foundation / the place where someone belongs
+      or comes from
+    下って来て: grammar. くだってきて. 下って来て. coming down / descending. dictionary form. indicates
+      movement from a higher place to a lower place
+    いやしてくださる: grammar. いやしてくださる. いやしてくださる. to heal / to cure. dictionary form. indicates
+      a request for someone to heal or cure
+    ように: grammar. ように. ように. in order to / so that. dictionary form. indicates purpose
+      or request
+    頼んだ: grammar. たのんだ. 頼んだ. asked / requested. dictionary form. past tense of 頼む
+    死にかかっていた: grammar. しにかかっていた. 死にかかっていた. was on the verge of death. dictionary form.
+      past tense of 死にかかっている
+    しるし: n. しるし. しるし. sign / miracle / wonder
+    不思議な業: n. ふしぎなわざ. 不思議な業. miraculous work / wonder / miracle
+  grammar: null
+  Friday_review: null
