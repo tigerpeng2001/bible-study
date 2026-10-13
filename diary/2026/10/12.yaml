@@ -41,7 +41,7 @@ grammar:
   - segment: "salieron"
     part_of_speech: "Verb (Preterite, 3rd person plural)"
     root: "salir (to go out / to leave)"
-    function: "The primary action verb of the clause, taking an intransitive direction.
+    function: "The primary action verb of the clause, taking an intransitive direction."
   - segment: "al encuentro"
     part_of_speech: "Prepositional Phrase (Adverbial modifier of direction)"
     root: "a + el + encuentro (to the meeting / encounter)"
