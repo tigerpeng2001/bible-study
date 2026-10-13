@@ -9746,3 +9746,64 @@
     不思議な業: n. ふしぎなわざ. 不思議な業. miraculous work / wonder / miracle
   grammar: null
   Friday_review: null
+- date: '2026-10-12'
+  weekday: Tuesday
+  book: Juan
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '4:49':
+    - 'El oficial del rey le dijo*: «Señor, baja antes de que mi hijo muera».'
+    '4:50':
+    - «Puedes irte, tu hijo vive», le dijo* Jesús. Y el hombre creyó la palabra que
+      Jesús le dijo, y se fue.
+    '4:51':
+    - Y mientras bajaba a su casa, sus siervos le salieron al encuentro y le dijeron
+      que su hijo vivía.
+    '4:52':
+    - 'Entonces les preguntó a qué hora había empezado a mejorar. Y le respondieron:
+      «Ayer a la una de la tarde se le quitó la fiebre».'
+    '4:53':
+    - 'El padre entonces se dio cuenta que fue a la hora en que Jesús le dijo: «Tu
+      hijo vive». Y creyó él con toda su casa.'
+    '4:54':
+    - Esta fue la segunda señal que Jesús hizo cuando fue de Judea a Galilea.
+  vocabulary:
+    baja: v. bajar. baja. he/she/it goes down / descends
+    irte: v. irse. irte. to go away / to leave
+    se fue: v. irse. se fue. he/she/it went away / left
+    bajaba: v. bajar. bajaba. he/she/it was going down / descending
+    mientras bajaba: adv. mientras bajaba. mientras bajaba. while he/she/it was going
+      down
+    siervos: n. siervo. siervos. servants / attendants
+    le salieron al encuentro: v. salir al encuentro. le salieron al encuentro. they
+      went out to meet him
+    había empezado a mejorar: v. empezar. había empezado a mejorar. he/she/it had
+      started to get better
+    ayer: adv. ayer. ayer. yesterday
+    se le quitó: v. quitar. se le quitó. it was taken away from him/her
+    se dio cuenta: v. dar. se dio cuenta. he/she/it realized / became aware
+    fue de: v. ser. fue de. it was of / it happened at
+  grammar:
+    le salieron al encuentro:
+    - segment: le
+      part_of_speech: Indirect Object Pronoun (Dative of Interest / Reference)
+      referent: The royal official (the father returning home)
+      function: 'Indicates the person for whom the action of the  meeting is directed
+        or who receives the benefit of  the servants going out.
+
+        '
+    - segment: salieron
+      part_of_speech: Verb (Preterite, 3rd person plural)
+      root: salir (to go out / to leave)
+      function: The primary action verb of the clause, taking an intransitive direction.
+    - segment: al encuentro
+      part_of_speech: Prepositional Phrase (Adverbial modifier of direction)
+      root: a + el + encuentro (to the meeting / encounter)
+      function: 'Acts as the directional destination of the verb ''salir''  (forming
+        the idiomatic phrase ''salir al encuentro de alguien'',  meaning ''to go out
+        to meet someone''). Here, ''encuentro''  functions grammatically as the direct
+        object of the  directional movement, while the person met is ''le''.
+
+        '
+  Friday_review: null
