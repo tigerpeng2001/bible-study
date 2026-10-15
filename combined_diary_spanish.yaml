@@ -4967,3 +4967,37 @@
 
         '
   Friday_review: null
+- date: '2026-10-13'
+  weekday: Tuesday
+  book: Juan
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '5:1':
+    - Después de esto, se celebraba una fiesta de los judíos, y Jesús subió a Jerusalén.
+    '5:2':
+    - Hay en Jerusalén, junto a la puerta de las Ovejas, un estanque que en hebreo
+      se llama Betesda que tiene cinco pórticos.
+    '5:3':
+    - En estos estaba en el suelo una multitud de enfermos, ciegos, cojos y paraliticos
+      que esperaban la movimiento del agua;
+    '5:4':
+    - porque un ángel del Señor descendía de vez en cuando al estanque y agitaba el
+      agua;
+    - y el primero que descendía al estanque después del movimiento del agua,
+    - quedaba curado de cualquier enfermedad que tuviera.
+  vocabulary:
+    subió: v. subir. subió. he/she/it went up
+    junto a: adv. junto a. junto a. next to / beside
+    estanque: n. estanque. estanque. pond
+    hebreo: adj. hebreo. hebreo. Hebrew
+    pórtico: n. pórtico. pórtico. portico / porch
+    el suelo: n. el suelo. el suelo. ground / floor
+    agitaba: v. agitar. agitaba. was stirring / was agitating
+    quedaba: v. quedar. quedaba. was staying / would stay
+    curado: adj. curado. curado. cured
+    de: prep. de. de. of / from
+    cualquier: adj. cualquier. cualquier. any / whatever
+    tuviera: v. tener. tuviera. had / would have
+  grammar: null
+  Friday_review: null
