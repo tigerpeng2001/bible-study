@@ -1,0 +1,37 @@
+date: "2026-10-15"
+weekday: "Thursday"
+book: "ヨハネによる福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "5:10":
+    - "そこで、ユダヤ人たちは病気をいやしていただいたの人に言った。「今日は安息日だ。だから床を担ぐことは、律法で許されていない。」"
+  "5:11":
+    - "しかし、その人は、「わたしをいやしてくださった方が、『床を担いで歩きなさい』と言われたのです」と答えた。"
+  "5:12":
+    - "彼らは、「お前に『床を担いで歩きなさい』と言ったのはだれだ」と尋ねた。"
+  "5:13":
+    - "しかし、病気をいやしていただいた人は、それがだれであるか知らなかった。イエスは、群衆がそこにいる間に、立ち去られたからである。"
+vocabulary:
+  いただいた: "grammar. いただいた. いただいた. received / was given. dictionary form. past tense of いただく"
+  お前: "n. おまえ. お前. you (informal)"
+  尋ねた: "v. 尋ねた. たずねた. asked / inquired. dictionary form. past tense of 尋ねる"
+  立ち去られた: "v. たちさられた. 立ち去られた. left / departed. dictionary form. past tense of 立ち去る"
+grammar:
+  群衆がそこにいる間に:
+    - が:
+      meaning: [subject marker]
+      grammar: marks 群衆 as the subject of the dependent clause
+    - そこに:
+      grammar: そこ (pronoun "there") + に (location particle "at/in")
+    - 間に:
+      grammar: 間 (noun "space/interval/while") + に (particle); attached to a verb's dictionary form to indicate an ongoing action or state
+  間に:
+    - まに:
+      reading: ma ni
+      nuance: Literary, classical, or fixed in certain set expressions. Focuses directly on the ongoing action or state unfolding ("while...").
+      usage_context: Often attaches directly to the dictionary form of a verb.
+    - あいだに:
+      nuance: Very common in both everyday speech and formal writing. Emphasizes the literal span, gap, or interval of time ("during the time that...").
+      usage_context: Can attach to verbs as well as nouns combined with の.
+Friday_review:
