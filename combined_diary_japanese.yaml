@@ -4910,3 +4910,71 @@
         literal span, gap, or interval of time ("during the time that...").
       usage_context: Can attach to verbs as well as nouns combined with の.
   Friday_review: null
+- date: '2026-10-21'
+  weekday: Wednesday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '5:24':
+    - はっきり言っておく。わたしの言葉を聞いて、わたしをお遣わしになった方を信じる者は、永遠の命を得、また、裁かれることなく、死から命へと移っている。
+    '5:25':
+    - はっきり言っておく。死んだ者が神の子の声を聞く時が来る。今やその時である。その声を聞いた者は生きる。
+    '5:26':
+    - 父は、御自身の内に命を待っておたれるように、子にも自分の内に命を待つようにしてくださったからである。
+    '5:27':
+    - また、裁きを行う権能を子にお与えになった。子は人の子だからである。
+    '5:28':
+    - 驚いてはならない。時が来ると、墓の中にいる者は皆、人の子の声ろ聞き、
+    '5:29':
+    - 善を行った者は復活して命を受けるために、悪を行った者を復活して裁きを受けるために出て来るのだ。
+    '5:30':
+    - わたしは自分では何もできない。ただ、父から聞くままに裁く。わたしの裁きは正しい。
+    - わたしは自分の意志ではなく、わたしをお遣わしになった方の御心を行おうとするからである。」
+  vocabulary:
+    移っている: v. 移っている. うつっている. to have moved / to have transitioned
+    おく: v. auxiliary verb おく. to do in advance / to state definitively and deliberately
+      with future effect in mind
+    今や: 'adv. 今や. いまや. now '
+    生きる: v. 生きる. いきる. to live
+    裁き: n. 裁き. さばき. judgment / trial
+    おられる: v. おられる. to be (honorific form of いる)
+    また: conj. また. also / in addition / moreover
+    行う: v. 行う. おこなう. to do / to carry out
+    権能: n. 権能. けんのう. authority / power
+    与え: n. 与え. あたえ. giving / granting
+    なった: v. なった. became / has become
+    驚いて: v. 驚く. おどろいて. to be surprised. te-form of 驚く
+    墓: n. 墓. はか. grave / tomb
+    善: n. 善. ぜん. good / virtue
+    悪: n. 悪. あく. evil / wrongdoing
+  grammar:
+    今:
+    - meaning: Now / Present moment
+    - nuance: Objective, neutral, and straightforward
+    - usage: Everyday conversation and general writing for plain temporal reference
+    - example: 今、何時ですか？ (What time is it now?)
+    今や:
+    - meaning: Now at last / By this present time
+    - nuance: Dramatic, emphatic, highlighting a major shift, transition, or critical
+        turning point
+    - usage: Literary, formal, or emotionally heightened contexts (similar to Spanish
+        'ya')
+    - example: 今やその時である (Now is the exact time / The time has truly arrived)
+    悪:
+    - あく: null
+      type: 訓読み (Native Japanese reading)
+      nuance: Everyday, concrete, or standalone native words describing moral or physical
+        states, traits, or qualities
+      examples:
+      - word: 悪い
+        reading: わるい
+        meaning: bad / wrong / poor
+      - word: 悪者
+        reading: わるもの
+        meaning: bad guy / criminal
+      - word: 意地悪
+        reading: いじわる
+        meaning: mean-spirited / unkind
+      わる (waru) / 悪い (warui): null
+  Friday_review: null
