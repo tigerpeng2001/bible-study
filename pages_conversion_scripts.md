@@ -236,6 +236,43 @@ exit 0
 
 ## Installation notes
 
+### YAML validation dependencies
+
+Install Mike Farah's `yq` v4 and make it available on `PATH`:
+
+```bash
+brew install yq
+bash scripts/validate_yaml.sh diary/2026/10/22.yaml
+```
+
+YAML validation no longer requires Python, PyYAML, or a virtual environment.
+The wrapper checks every supplied file and every YAML document for syntax
+errors. It intentionally does not use `yq -e`, so valid YAML containing
+`false`, `null`, or an empty document remains accepted.
+
+For YAML validation in `.git/hooks/pre-commit`, add this block after changing
+to the repository root and before the `.pages` checks:
+
+```bash
+YAML_CHANGED=$(git diff --cached --name-only --diff-filter=ACM \
+  | grep -E '\.ya?ml$' || true)
+
+if [ -n "$YAML_CHANGED" ]; then
+  echo "[pre-commit] Validating YAML files:"
+  echo "$YAML_CHANGED" | sed 's/^/  - /'
+  if ! bash scripts/validate_yaml.sh $YAML_CHANGED; then
+    echo "[pre-commit] YAML validation failed. Fix the errors above."
+    exit 1
+  fi
+fi
+```
+
+If the hook already calls `scripts/validate_yaml.py`, replace that invocation
+with `bash scripts/validate_yaml.sh $YAML_CHANGED`. Git hooks are local and
+untracked, so repeat this hook setup in each clone.
+
+### Pages conversion setup
+
 1. Copy the files into your repository at the exact paths shown.
 2. Make the scripts executable:
 
@@ -272,4 +309,3 @@ If you’d like, I can now (choose one):
 ---
 
 *End of scripts document.*
-
