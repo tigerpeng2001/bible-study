@@ -1,0 +1,47 @@
+date: "2026-10-22"
+weekday: "Thursday"
+book: "ヨハネによる福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "5:31":
+    - "「もし、わたしが自分自身について証しをするなら、その証しは真実ではない。"
+  "5:32":
+    - "わたしについて証しをなさる方は別におられる。そして、その方がわたしについてなさる証しは真実であることを、わたしは知っている。"
+  "5:33":
+    - "あなたたちはヨハネのもとへ人を送ったが、彼は真理について証しをした。"
+  "5:34":
+    - "わたしは、人間による証しは受けない。しかし、あなたたちが救われるために、これらのことを言っておく。"  
+  "5:35":
+    - "ヨハネは、燃えて輝くともし火であった。あなたたちは、しばらくの間その光のもので喜び楽しもうとした。"
+vocabulary:
+  証し: "n. しょうし. 証し. testimony / evidence"
+  らな: "conditional particle used to indicate a hypothetical situation or condition"
+  なさる: "v. なさる. なさる. to do (honorific). dictionary form of なさる"
+  別に: "adv. べつに. 別に. separately / apart / otherwise"
+  おられる: "v. おられる. おられる. to exist / to be (honorific). dictionary form of おられる"
+  送った: "v. おくった. 送った. sent. dictionary form. past tense of 送る"
+  真理: "n. しんり. 真理. truth / reality"
+  人間: "n. にんげん. 人間. human being / person"
+  人間: "n. じんかん. 人間.the world / human society"
+  救われる: "v. すくわれる. 救われる. to be saved / to be rescued. dictionary form of 救われる"
+  ために: "grammar. ために. ために. for the purpose of / in order to. used to indicate the reason or purpose for an action"
+  おく: "v. おく. おく. to do something in advance / to put / to place. dictionary form of おく"
+  燃えて輝く: "v. もえてかがやく. 燃えて輝く. to burn and shine / to blaze. dictionary form of 燃えて輝く"
+  ともし火: "n. ともしび. ともし火. lamp / light / torch"
+  しばらく: "adv. しばらく. しばらく. for a while / for some time"
+  間: "n. あいだ. 間. interval / duration / space between"
+  もと: "n. もと. もと. origin / source / basis / foundation"
+  喜び楽しもう: "v. よろこびたのしもう. 喜び楽しもう. to rejoice and enjoy. volitional form of 喜び楽しむ"
+  とした: "grammar. とした. とした. attempted / tried to. used to indicate an attempt or effort to do something"
+grammar:
+  おく:
+    - type: "Auxiliary verb (attached to the te-form of a main verb)"
+    - meaning: "To do in advance / to state definitively and deliberately with future effect in mind"
+    - nuance: "Indicates that an action (such as speaking or advising) is performed intentionally, putting the statement firmly on record so the listener keeps it in mind and is prepared for what follows."
+    - examples:
+      - phrase: "言っておく (itte oku)"
+        meaning: "to state clearly and deliberately in advance / to put on record"
+      - phrase: "宿題をしておく (shukudai o shite oku)"
+        meaning: "to do homework ahead of time (as preparation)"
+Friday_review:
