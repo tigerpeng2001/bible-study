@@ -1,0 +1,45 @@
+date: "2026-10-26"
+weekday: "Tuesday"
+book: "Juan"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "5:36":
+    - "»Pero el testimonio que Yo tengo es mayor que el de Juan; porque las obras que el Padre me ha dado para llevar a cabo,"
+    - "las mismas obras que Yo hago, dan testimonio de Mí, de que el Padre me ha enviado."
+  "5:37":
+    - "El Padre que me envió, Él ha dado testimonio de Mí. Pero ustedes no han oído jamás Su voz ni han visto Su apariencia."
+  "5:38":
+    - "Y Su palabra no la tienen morando en ustedes, porque no creen en Aquel que Él envió."
+  "5:39":
+    - "Ustedes examinan las Escrituras porque piensan tener en ellas la vida eterna. ¡Y son ellas las que dan testimonio de Mí!"
+  "5:40":
+    - "Pero ustedes no quieren venir a Mí para que tengan esa vida."
+vocabulary:
+  mayor: "adj. mayor. mayor. greater"
+  obras: "n. obras. obras. works"
+  llevar a cabo: "v. llevar a cabo. llevar a cabo. to carry out"
+  cabo: "n. cabo. cabo. end"
+  mismas: "adj. mismas. mismas. same"
+  dan: "v. dar. dan. they give"
+  de que: "conj. de que. de que. that"
+  apariencia: "n. apariencia. apariencia. appearance"
+  morando: "v. morar. morando. dwelling"
+  piensan: "v. pensar. piensan. they think"
+grammar:
+  cleft_sentence_pattern:
+    description: "An emphatic identifying structure used in Spanish to spotlight a specific subject."
+    syntax:
+      - component: "Verb (ser)"
+        form: "son"
+        explanation: "Conjugated in the third-person plural present tense to agree with the subject."
+      - component: "Subject Pronoun"
+        form: "ellas"
+        explanation: "Third-person plural feminine pronoun referring back to a noun (e.g., las Escrituras)."
+      - component: "Relative Clause"
+        form: "las que dan testimonio de Mí"
+        explanation: "Definite article plus relative pronoun followed by the modifying clause that completes the thought."
+    example_sentence: "¡Y son ellas las que dan testimonio de Mí!"
+    literal_translation: "And are they the ones that give witness of Me!"
+    rhetorical_effect: "Places the verb first to invert standard word order, throwing strong emphasis onto the subject for dramatic and theological force."
+Friday_review:
