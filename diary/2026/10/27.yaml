@@ -1,0 +1,25 @@
+date: "2026-10-27"
+weekday: "Tuesday"
+book: "Juan"
+version: "Nueva Biblia de las Américas (NBLA)"
+target_language: "Spanish"
+verses:
+  "5:41":
+    - "»Yo no revibo gloria de los hombres;"
+  "5:42":
+    - "pero a ustedes ya los conozco, que no tienen el amore de Dios."
+  "5:43":
+    - "Yo he venido en nombre de Mi Padre y ustedes no me reviben; si otro viene en su propio numbre, a ese revibirán."
+  "5:44":
+    - "¿Cómo pueden creer, cuando reciben gloria los unos de los otros, y no buscan la gloria que viene del Dois único?"
+  "5:45":
+    - "»No piensen que Yo los acusaré delante del Padre; el que los acusa es Moisés, en quien ustedes han puesto su esperanza."
+  "5:46":
+    - "Porque si creyeran a Moisés, me creerían a Mi, porque de Mi escribió él."
+  "5:47":
+    - "Pero si no creen sus escritos, ¿cómo creerán Mis palabras?»"
+vocabulary:
+  acusaré: "v. acusar. acusaré. I will accuse. future tense of acusar"
+  delante: "adv. delante. delante. in front of / before"
+grammar:
+Friday_review:
