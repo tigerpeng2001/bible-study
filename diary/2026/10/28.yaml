@@ -1,0 +1,57 @@
+date: "2026-10-28"
+weekday: "Wednesday"
+book: "ヨハネによる福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "6:1":
+    - "その後、イエスはガリラヤ湖、すなわちティベリアス湖の向こう岸に渡られた。"
+  "6:2":
+    - "大勢の群衆が後を追った。イエスが病人たちになさったしるしを見たからである。"
+  "6:3":
+    - "イエスは山に登り、弟子たちと一緒にそこにお座りになった。"
+  "6:4":
+    - "ユダヤ人の祭りである過越祭が近づいていた。"
+  "6:5":
+    - "イエスは目を上げ、大勢の群衆が御自分の方へ来るのを見て、フィリポに、「この人たちに食べさせるには、どこでパンを買えばよ意だろうか」と言われたが、"
+  "6:6":
+    - "こう言ったのはフィリポを試みるためであって、御自分では何をしようとしているが知っておられたのである。"
+vocabulary:
+  その後:
+    - その後: そのあと
+      formality: Casual to Standard
+      nuance: Most natural and common for everyday speech and general storytelling ("after that").
+      example: "そのあと、どうしたの？。"
+    - その後: そのご
+      formality: Polite / Business
+      nuance: Uses the on'yomi reading; common in business emails, news, and formal updates ("since then").
+      example: "その後の進捗はいかがでしょうか？"
+    - 其の後: そののち
+      formality: Literary / Formal
+      nuance: Archaic or narrative style used in historical texts, novels, and solemn writing ("thereafter").
+      example: "王は都を去り、そののち二度と戻らなかった。"
+  湖:
+    - こ:
+      usage: Used primarily in compound words (jukugo) and proper names.
+      examples:
+        - びわこ (Biwako - Lake Biwa)
+        - こしょう (Koshō - lakes and marshes)
+    - みずうみ:
+      usage: Used as a standalone noun for any general body of water recognized as a lake.
+      examples:
+        - きれいなみずうみ (A beautiful lake)
+        - みずうみのかぜ (Lake breeze)
+  すらわち: "conj. すなわち. that is / namely"
+  向こう岸: "n. 向こう岸. むこうぎし. opposite shore / far bank"
+  渡られた: "v. 渡られる. わたられる. to cross / to go over (honorific form). past tense of 渡られる."
+  大勢: "n. 大勢. おおぜい. large number of people / crowd"
+  後を追った: "v. 後を追う. のちをおう. to follow after / to pursue. past tense of 後を追う."
+  なさった: "v. なさる. to do (honorific form). past tense of なさる."
+  しるし: "n. しるし. sign / miracle / token"
+  祭り: "n. 祭り. まつり. festival / celebration"
+  過越祭: "n. 過越祭. すぎこしさい. Passover festival"
+  食べさせる: "v. 食べさせる. to feed / to make someone eat"
+  買えば: "v. 買う. かえば. to buy. conditional form of 買う."
+  だろう: "aux. だろう. probably / I suppose / I wonder"
+grammar:
+Friday_review:
