@@ -1,0 +1,29 @@
+date: "2026-10-29"
+weekday: "Thursday"
+book: "ヨハネによる福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "6:7":
+    - "フィリポは、「めいめいが少しずつ食べるためにも、二百デナりオン分のパンでは足りないでしょう」と答えた。"
+  "6:8":
+    - "弟子の一人で、シモン・ペトロの兄弟アンデルが、イエスに言った。"
+  "6:9":
+    - "「ここに大麦のパン五つと魚二匹とを待っている少年がいます。けれども、こんなに大勢の人では、何の役にも立たないでしょう。」"
+  "6:10":
+    - "イエスは、「人々を座らせなさい」と言われた。そこには草がたくさん生えていた。男たちはそこに座ったが、その数はおよそ五千人であった。" 
+vocabulary:
+  めいめい: "n. めいめい. めいめい. each person / individually"
+  少しずつ: "adv. すこしずつ. 少しずつ. little by little / gradually"
+  足りない: "v. たりない. 足りない. not enough / insufficient. dictionary form of 足りない"
+  大麦: "n. おおむぎ. 大麦. barley"
+  けれども: "conj. けれども. けれども. but / however / although"
+  こんなに: "adv. こんなに. こんなに. so / this much / to this extent"
+  役にも立たない: "exp. やくにもたたない. 役にも立たない. useless / of no help"
+  座らせなさい: "v. すわらせなさい. 座らせなさい. to make sit / to have sit. imperative form of 座らせる"
+  草: "n. くさ. 草. grass"
+  生えていた: "v. はえていた. 生えていた. was growing / was sprouting. past tense of 生える"
+  数: "n. かず. 数. number / quantity"
+  およそ: "adv. およそ. およそ. approximately / about"
+grammar:
+Friday_review:
