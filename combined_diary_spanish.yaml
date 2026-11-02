@@ -5107,3 +5107,45 @@
     delante: adv. delante. delante. in front of / before
   grammar: null
   Friday_review: null
+- date: '2026-11-02'
+  weekday: Tuesday
+  book: Juan
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '6:11':
+    - Entonces Jesús tomó los panes, y habiendo dado gracias, los repartió a los que
+      estaban sentados;
+    - y lo mismo hizo con los pescados, dándoles todo lo que queríen.
+    '6:12':
+    - 'Cuando se saciaron, dijo* a Sus discípulos: «Recojan los pedazos que sobran,
+      para que no se pierda nada».'
+    '6:13':
+    - Ellos los recogieron, y llenaron doce cestas con los pedazos de los cinco panes
+      de cebada que sobraron a los que habían comido.
+    '6:14':
+    - 'La gente, entonces, al ver la señal que Jesús había hecho, decía: «Verdaderamente
+      Este es el Profeta que había de venir  al mundo».'
+    '6:15':
+    - Por lo que Jesús, dándose cuenta de que iban a venir y por loa fuerza hacerle
+      rey, se retiró Él solo otro vez al monte.
+  vocabulary:
+    habiendo: v. haber. habiendo. having. gerund form of haber
+    repartió: v. repartir. repartió. he/she distributed. preterite tense for él/ella/usted
+    estaban sentados: v. estar. estaban sentados. they were sitting. imperfect tense
+      for ellos/ellas/ustedes
+    recojan: v. recoger. recojan. they gather. imperative form for ellos/ellas/ustedes
+    se saciaron: v. saciarse. saciaron. they were satisfied. preterite tense for ellos/ellas/ustedes
+    pedazos: n. pedazo. pedazos. pieces
+    sobraron: v. sobrar. sobraron. they remained. preterite tense for ellos/ellas/ustedes
+    pierda: v. perder. pierda. he/she loses. subjunctive form for él/ella/usted
+    recogieron: v. recoger. recogieron. they gathered. preterite tense for ellos/ellas/ustedes
+    cestas: n. cesta. cestas. baskets
+    cebada: n. cebada. cebada. barley
+    señal: n. señal. señal. sign
+    dándose: v. dar. dándose. giving oneself. gerund form of dar reflexively
+    cuenta: n. cuenta. cuenta. account
+    iban: v. ir. iban. they were going. imperfect tense for ellos/ellas/ustedes
+    fuerza: n. fuerza. fuerza. force
+  grammar: null
+  Friday_review: null
