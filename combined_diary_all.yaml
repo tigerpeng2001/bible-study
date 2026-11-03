@@ -10271,3 +10271,50 @@
     fuerza: n. fuerza. fuerza. force
   grammar: null
   Friday_review: null
+- date: '2026-11-03'
+  weekday: Tuesday
+  book: Juan
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '6:16':
+    - Al atardecer Sus Discípulos bajaron hasta el mar,
+    '6:17':
+    - y subiendo en una barca, se dirigieron al otro lado del mar, hacia Capernaún.
+    - Ya hanía oscurecido, y Jesús todavía no havía venido adonde ellos estaban;
+    '6:18':
+    - y el mar estaba agitado porque soplaba un fuerte viento.
+    '6:19':
+    - Cuando habían remado unos 25 o 30 estadios (cuatro o cinco kilómetros), vieron*
+      a Jesús caminando sobre el mar y que se acercaba a la barca, y se asustaron.
+    '6:20':
+    - 'Pero Él les dijo*: «Soy Yo; no teman».'
+    '6:21':
+    - Entonces ellos querían recibir a Jesús en la barca, y la barca llegó enseguida
+      a la tierra adonde iban.
+  vocabulary:
+    altardecer: n. atardecer. atardecer. sunset / evening
+    bajaron: v. bajar. bajaron. they went down / they descended. past tense of bajar
+      for ellos/ellas/ustedes
+    subiendo: v. subir. subiendo. going up / ascending. present participle of subir
+    barca: n. barca. barca. boat. small boat or vessel
+    dirigieron: v. dirigir. dirigieron. they went / they headed. past tense of dirigir
+      for ellos/ellas/ustedes
+    hacia: prep. hacia. hacia. towards / to
+    hanía oscurecido: v. oscurecer. hanía oscurecido. it had darkened. pluperfect
+      tense of oscurecer for él/ella/usted
+    agitado: adj. agitar. agitado. agitated / stirred up. past participle of agitar
+    soplaba: v. soplar. soplaba. it was blowing. imperfect tense of soplar for él/ella/usted
+    habían remado: v. remar. habían remado. they had rowed. pluperfect tense of remar
+      for ellos/ellas/ustedes
+    estadios: n. estadio. estadios. stadia / stadiums. unit of length used in ancient
+      times, approximately 185 meters each
+    se acercaba: v. acercar. se acercaba. he/she/it was approaching. imperfect tense
+      of acercar for él/ella/usted
+    se asustaron: v. asustar. se asustaron. they got scared / they were frightened.
+      past tense of asustar for ellos/ellas/ustedes
+    enseguida: adv. enseguida. enseguida. immediately / right away
+    adonde iban: v. ir. adonde iban. where they were going. imperfect tense of ir
+      for ellos/ellas/ustedes
+  grammar: null
+  Friday_review: null
