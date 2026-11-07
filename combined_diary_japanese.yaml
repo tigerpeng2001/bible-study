@@ -5166,3 +5166,53 @@
         function: Classical and literary negative conjunctive ending meaning "without
           doing..." (equivalent to modern *-nai de*)
   Friday_review: null
+- date: '2026-11-05'
+  weekday: Thursday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '6:26':
+    - イエスは答えて言われた。「はっきり言っておく。あなたがたがわたしを捜しているのは、しるしを見たからではなく、パンを食べて満腹したからだ。
+    '6:27':
+    - 朽ちる食べ物のためではなく、いつまでもなくならないで、永遠の命に至る食べ物のために働きなさい。
+    - これこそ、人の子があなたがたに与える食べ物である。父である神が、人の子を認証されたからである。」
+    '6:28':
+    - そこで彼らが、「神の業を行うためには、何をしたらよいでしょうか」というと、
+    '6:29':
+    - イエスは答えて言われた。「神がお遣わしになった者を信じること、それが神の業である。」
+    '6:30':
+    - そこで、彼らは言った。「それでは、わたしたちが見てあなたを信じることができるように、どんなしるしを行ってくださいますか。
+    - どのようなことをしてくださいますか。
+    '6:31':
+    - わたしたちの先祖は、荒れ野でマンナを食べました。『天からのパンを彼らに与えて食べさせた』と書いてあるとおりです。」
+    '6:32':
+    - すると、イエスは言われた。「はっきり言っておく。モーセが天からのパンをあなたがたに与えたのではなく、わたしの父が天からのまことのパンをお与えになる。
+    '6:33':
+    - 神のパンは、天から降って来て、世に命を与えるものである。」
+  vocabulary:
+    朽ちる: v. くちる. 朽ちる. to decay / to rot
+    いつまでも: adv. いつまでも. いつまでも. forever / for all time
+    なくならないで: v. なくならないで. なくならないで. not disappear / not run out. で form of なくなる
+    至る: v. いたる. 至る. to reach / to arrive at
+    働きなさい: v. はたらきなさい. 働きなさい. work / labor. imperative form of 働く
+    これこそ: exp. これこそ. これこそ. this is it / this very thing
+    認証された: v. にんしょうされた. 認証された. to be authenticated / to be certified
+    業: n. ぎょう. 業. work / deed / act
+    行う: v. おこなう. 行う. to do / to perform
+    したら: v. したら. したら. if (you) do / when (you) do
+    したらよいでしょうか: exp. したらよいでしょうか. したらよいでしょうか. what should (I/you) do / what is the
+      right thing to do
+    お遣わしになった: v. おつかわしになった. お遣わしになった. to send / to dispatch (honorific form)
+    どのような: na-adj. どのような. どのような. what kind of / in what way
+    先祖: n. せんぞ. 先祖. ancestor / forebear
+    荒れ野: n. あれの. 荒れ野. wilderness / desert
+    書いてある: v. かいてある. 書いてある. it is written / it says. a state resulting from an action
+      having been done
+    とおり: n. とおり. 通り. as / in accordance with / in the way
+    すると: conj. すると. すると. then / thereupon
+    まこと: n. まこと. 真実. truth / reality
+    降って来て: v. ふってきて. 降って来て. to fall down / to come down
+    世: n. よ. 世. world / society
+  grammar: null
+  Friday_review: null
