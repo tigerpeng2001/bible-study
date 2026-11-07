@@ -10318,3 +10318,49 @@
       for ellos/ellas/ustedes
   grammar: null
   Friday_review: null
+- date: '2026-11-04'
+  weekday: Wednesday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '6:22':
+    - その翌日、湖の向こう岸に残っていた群衆は、そこには小舟が一そうしかなかったこと、また、イエスは弟子とちと一緒に舟に乗り込まれず、弟子たちだけが出かけたことに気づいた。
+    '6:23':
+    - ところが、ほかの小舟が数そうディベリアスから、主が感謝の祈りを唱えられた後に人々がパンを食べた場所へ近づいて来た。
+    '6:24':
+    - 群衆は、イエスも弟子たちもそこにいないと知ると、自分たちもそれらの小舟に乗り、イエスを捜し求めてカファルナウムに来た。
+    '6:25':
+    - そして、湖の向こう岸でイエスを見つけると、「ラビ、いつ、ここにおいでになったのですか」と言った。
+  vocabulary:
+    翌日: adv. 翌日. よくじつ. the next day / the following day
+    向こう: n. 向こう. むこう. the other side / over there
+    向こう岸: n. 向こう岸. むこうぎし. opposite shore / far bank
+    残っていた: v. 残る. のこっていた. to remain / to be left behind. past tense of 残る. いた past
+      tense of いる. conjugated form of 残る + いる. continued action or statein the past.
+    一そう: n. 一そう. いっそう. 一艘. one (boat / vessel)
+    しかなかった: aux. しかない. しかなかった. there was only / there were only. past tense of しかない.
+    乗り込まれず: v. 乗り込む. のりこまれず. not to board / not to get into (honorific form). negative
+      form of 乗り込まれる.
+    だけ: adv. だけ. だけ. only / just
+    出かけた: v. 出かける. でかけた. to go out / to set out. past tense of 出かける.
+    唱えられた: v. 唱える. となえられた. to recite / to chant (honorific form). past tense of 唱えられる.
+    近づいて来た: v. 近づく. ちかづいてきた. to approach / to come near. past tense of 近づく.
+    捜し求めて: v. 捜し求める. さがしもとめて. to search for / to seek. te-form of 捜し求める.
+    見つける: v. 見つける. みつける. to find / to discover.
+  grammar:
+    乗り込まれず:
+      reading: のりこまれず
+      base_form: 乗り込む (のりこむ) - to board / to embark
+      part_of_speech: Verb (Negative Conjunctive / Zu-form)
+      meaning: Without boarding / without getting into (the boat) together
+      components:
+      - root: 乗り込む
+        meaning: To board or get into a vehicle or boat
+      - voice_suffix: られる (rareru)
+        function: Passive / Honorific (尊敬語/そんけいご) form indicating deep respect for
+          a person of higher status (Jesus)
+      - negative_suffix: ず (zu)
+        function: Classical and literary negative conjunctive ending meaning "without
+          doing..." (equivalent to modern *-nai de*)
+  Friday_review: null
