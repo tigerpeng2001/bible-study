@@ -72,6 +72,15 @@ Fonts are installed into:
 ~/Library/Fonts
 ```
 
+### Hentaigana in VS Code
+
+Install the HanaMinA and HanaMinB fonts from the
+[HanaMinAFDKO releases](https://github.com/cjkvi/HanaMinAFDKO/releases) on each
+computer where you edit this repository, then restart VS Code. The workspace
+YAML setting uses Menlo first and HanaMin as a fallback for glyphs Menlo does
+not contain. You can enter Hentaigana using an input method that supports the
+characters or paste the desired Unicode characters into the YAML file.
+
 ---
 
 ## 4. Create Pandoc LaTeX Template (System-Wide)

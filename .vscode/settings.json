@@ -1,4 +1,7 @@
 {
+    "[yaml]": {
+        "editor.fontFamily": "'Menlo', 'HanaMinA', 'HanaMinB', monospace"
+    },
     "cSpell.words": [
         "Capernaúm",
         "Isaías",
