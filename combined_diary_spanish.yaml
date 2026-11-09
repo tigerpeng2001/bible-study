@@ -4824,7 +4824,7 @@
           english: Come over here.
   Friday_review: null
 - date: '2026-10-05'
-  weekday: Tuesday
+  weekday: Monday
   book: Juan
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
@@ -5002,7 +5002,7 @@
   grammar: null
   Friday_review: null
 - date: '2026-10-19'
-  weekday: Tuesday
+  weekday: Monday
   book: Juan
   version: Nueva Biblia de las Américas (NBLA)
   target_language: Spanish
