@@ -5196,3 +5196,39 @@
       for ellos/ellas/ustedes
   grammar: null
   Friday_review: null
+- date: '2026-11-09'
+  weekday: Tuesday
+  book: Juan
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '6:34':
+    - «Señor, danos siempre este pan», le dijeron.
+    '6:35':
+    - 'Jesús les dijo: «Yo soy el pan de la vida; el que viene a Mí no tendrá hambre,
+      y el que cree en Mí nunca tendrá sed.'
+    - Pero ya les dije que aunque me han visto, no creen.
+    '6:37':
+    - Todo lo que el Padre me da, vendrá a Mí; y al que viene a Mí, de ningún modo
+      lo echaré fuera.
+    '6:38':
+    - Porque he descendido del cielo, no para hacer Mi voluntad, sino la voluntad
+      del que me envió.
+    '6:39':
+    - 'Y esta es la voluntad del que me envió: que de todo lo que Él me ha dado Yo
+      no pierdo nada, sino que lo resucite el el día final.'
+    '6:40':
+    - 'Porque esta es la voluntad de Mi Padre: que todo aquel que ve al Hijo y cree
+      en Él, tenga vida eterna, y Yo mismo lo resucitaré en el día final».'
+  vocabulary:
+    dije: v. decir. dije. I said. preterite tense for yo
+    aunque: conj. although, even though
+    de ningún modo: exp. by no means, in no way
+    lo echaré fuera: v. echar. lo echaré fuera. I will throw it out. future tense
+      for yo
+    fuera: adv. out
+    pierdo: v. perder. pierdo. I lose. present tense for yo
+    resucite: v. resucitar. resucite. I resurrect. subjunctive form for yo
+    aquel: pron. that one, that person
+  grammar: null
+  Friday_review: null
