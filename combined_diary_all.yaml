@@ -10450,3 +10450,44 @@
     aquel: pron. that one, that person
   grammar: null
   Friday_review: null
+- date: '2026-11-10'
+  weekday: Tuesday
+  book: Juan
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '6:41':
+    - 'Por eso los judíos murmuraban de Él, porque había dicho: «Yo soy el pan que
+      descendió del cielo».'
+    '6:42':
+    - 'Y decían: «¿No es este Jesús, el hijo de José, cuyo padre y madre nosotros
+      conocemos? ¿Cómo es que ahora dice: “Yo he descendido del cielo”?»'
+    '6:43':
+    - 'Jesús les dijo: «No murmuren entre sí.'
+    '6:44':
+    - Nadie puede venir a Mí si no lo trae el Padre que me envió, y Yo lo resucitaré
+      en el día final.
+    '6:45':
+    - 'Escrito está en los profetas: “Y todos serán enseñados por Dios”. Todo el que
+      ha oído y aprendido del Padre, viene a Mí.'
+    '6:46':
+    - No es que alguien haya visto al Padre; sino Aquel que viene de Dios, Él ha visto
+      al Padre.
+    '6:47':
+    - 'En verdad les digo: el que cree, tiene vida eterna.'
+  vocabulary:
+    murmuraban: v. murmurar. murmuraban. they murmured / they grumbled. past tense
+      of murmurar for ellos/ellas/ustedes
+    decían: v. decir. decían. they said / they were saying. imperfect tense of decir
+      for ellos/ellas/ustedes
+    cuyo: adj. cuyo. cuyo. whose. used to indicate possession
+    entre sí: adv. entre sí. entre sí. among themselves / with each other
+    trae: v. traer. lo trae. he/she/it brings. present tense of traer for él/ella/usted
+    envió: v. enviar. lo envió. he/she/it sent. past tense of enviar for él/ella/usted
+    escrito: v. escribir. escrito. written. past participle of escribir
+    serán enseñados: v. enseñar. serán enseñados. they will be taught. future tense
+      of enseñar for ellos/ellas/ustedes, passive voice
+    haya visto: v. ver. haya visto. has seen. present perfect subjunctive of ver for
+      él/ella/usted
+  grammar: null
+  Friday_review: null
