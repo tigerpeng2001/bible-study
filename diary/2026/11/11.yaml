@@ -5,38 +5,48 @@ version: "新共同訳 (日本聖書協会 1987, 1988)"
 target_language: "Japanese"
 verses:
   "6:48":
-    - "その翌日、湖の向こう岸に残っていた群衆は、そこには小舟が一そうしかなかったこと、また、イエスは弟子とちと一緒に舟に乗り込まれず、弟子たちだけが出かけたことに気づいた。"
-  "6:23":
-    - "ところが、ほかの小舟が数そうディベリアスから、主が感謝の祈りを唱えられた後に人々がパンを食べた場所へ近づいて来た。"
-  "6:24":
-    - "群衆は、イエスも弟子たちもそこにいないと知ると、自分たちもそれらの小舟に乗り、イエスを捜し求めてカファルナウムに来た。"
-  "6:25":
-    - "そして、湖の向こう岸でイエスを見つけると、「ラビ、いつ、ここにおいでになったのですか」と言った。"
+    - "わたしは命のパンである。"
+  "6:49":
+    - "あなたたちの先祖は荒れ野でマンナを食べたが、死んでしまった。"
+  "6:50":
+    - "しかし、これは、天から降ってきたパンであり、これを食べる者は死なない。"
+  "6:51":
+    - "わたしは、天から降って来たいきたパンである。このパンを食べるならば、その人は永遠に生きる。"
+    - "わたしが与えるパンとは、世を生かすためのわたしの肉のことである。」"
 vocabulary:
-  翌日: "adv. 翌日. よくじつ. the next day / the following day"
-  向こう: "n. 向こう. むこう. the other side / over there"
-  向こう岸: "n. 向こう岸. むこうぎし. opposite shore / far bank"
-  残っていた: "v. 残る. のこっていた. to remain / to be left behind. past tense of 残る. いた past tense of いる. conjugated form of 残る + いる. continued action or statein the past."
-  一そう: "n. 一そう. いっそう. 一艘. one (boat / vessel)"
-  しかなかった: "aux. しかない. しかなかった. there was only / there were only. past tense of しかない."
-  乗り込まれず: "v. 乗り込む. のりこまれず. not to board / not to get into (honorific form). negative form of 乗り込まれる."
-  だけ: "adv. だけ. だけ. only / just"
-  出かけた: "v. 出かける. でかけた. to go out / to set out. past tense of 出かける."
-  唱えられた: "v. 唱える. となえられた. to recite / to chant (honorific form). past tense of 唱えられる."
-  近づいて来た: "v. 近づく. ちかづいてきた. to approach / to come near. past tense of 近づく."
-  捜し求めて: "v. 捜し求める. さがしもとめて. to search for / to seek. te-form of 捜し求める."
-  見つける: "v. 見つける. みつける. to find / to discover."
+  荒れ野: "n. wilderness / desert"
+  降って来た: "v. 降って来る. ふってきた. to come down / to fall from above. past tense of 降って来る."
+  生きた: "v. 生きる. いきた. to live. past tense of 生きる."
+  生きる: "v. 生きる. いきる. to live."
+  生かす: "v. 生かす. いかす. to keep alive / to make the most of. continuative form of 生きる."
+  生きす: "v. 生きる. いきす. to live. continuative form of 生きる."
 grammar:
-  乗り込まれず:
-    reading: のりこまれず
-    base_form: 乗り込む (のりこむ) - to board / to embark
-    part_of_speech: Verb (Negative Conjunctive / Zu-form)
-    meaning: Without boarding / without getting into (the boat) together
-    components:
-      - root: 乗り込む
-        meaning: To board or get into a vehicle or boat
-      - voice_suffix: られる (rareru)
-        function: Passive / Honorific (尊敬語/そんけいご) form indicating deep respect for a person of higher status (Jesus)
-      - negative_suffix: ず (zu)
-        function: Classical and literary negative conjunctive ending meaning "without doing..." (equivalent to modern *-nai de*)
+  copula_comparison:
+  - term: である
+    formality: High / Formal
+    register: "Academic papers, essays, official documents, literature, formal news"
+    nuance: "Objective, analytical, detached, timeless, authoritative"
+    conjugations:
+      non_past_affirmative: である
+      non_past_negative: ではない
+      past_affirmative: であった
+      past_negative: ではなかった
+  - term: です
+    formality: Polite (Teineigo)
+    register: "Daily conversations, business settings, polite speech with strangers/colleagues"
+    nuance: "Respectful, safe, standard conversational tone"
+    conjugations:
+      non_past_affirmative: です
+      non_past_negative: ではありません / じゃありません
+      past_affirmative: でした
+      past_negative: ではありませんでした
+  - term: だ
+    formality: Plain / Casual
+    register: "Casual speech with friends/family, inner thoughts, casual writing/manga"
+    nuance: "Direct, abrupt, personal"
+    conjugations:
+      non_past_affirmative: だ
+      non_past_negative: ではない / じゃない
+      past_affirmative: だった
+      past_negative: ではなかった / じゃなかった
 Friday_review:
