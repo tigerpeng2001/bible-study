@@ -10571,3 +10571,39 @@
     議論: n. ぎろん. 議論. argument / debate / discussion
   grammar: null
   Friday_review: null
+- date: '2026-11-16'
+  weekday: Monday
+  book: Juan
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    6:60:
+    - 'Por eso muchos de Sus discípulos, cuando oyeron esto, dijeron: «Dura es esta
+      declaración; ¿quién puede escucharla?».'
+    6:61:
+    - 'Pero Jesús, consciente de que Sus discípulos murmuraban por esto, les dijo:
+      «¿Esto los escandaliza? ¿Pues qué si vieran al Hijo del Hombre ascender adonde
+      estaba antes?».'
+    6:63:
+    - »El Espíritu es el que da vida; la carne para nada aprovecha; las palabras que
+      Yo les he hablado son espíritu y son vida.»
+    6:64:
+    - Pero hay algunos de ustedes que no creen». Porque Jesús sabía desde el principio
+      quiénes eran los que no creían, y quién era el que lo iba a traicionar.
+    6:65:
+    - 'También decía: «Por eso les he dicho que nadie puede venir a Mí si no lo ha
+      concediodo el Padre».'
+  vocabulary:
+    dura: adj. dura. hard / tough
+    escucharla: v. escuchar. escucharla. to listen to it / to hear it
+    consciente: adj. consciente. aware / conscious
+    los escandaliza: v. escandalizar. los escandaliza. it scandalizes them / it offends
+      them
+    pues qué: adv. out / well then
+    vieran: v. ver. vieran. they saw. subjunctive form for ellos/ustedes
+    aprovecha: v. aprovechar. aprovecha. it benefits / it is useful
+    sabía: v. saber. sabía. he/she knew. imperfect tense for él/ella
+    ha concediodo: v. conceder. ha concediodo. has granted. present perfect tense
+      for él/ella
+  grammar: null
+  Friday_review: null
