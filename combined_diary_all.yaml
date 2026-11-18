@@ -10607,3 +10607,41 @@
       for él/ella
   grammar: null
   Friday_review: null
+- date: '2026-11-17'
+  weekday: Tuesday
+  book: Juan
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    6:66:
+    - Como resultado de esto muchos de Sus discípulos se apartaron y ya no andaban
+      con Él.
+    6:67:
+    - 'Entonces Jesús dijo a los doce discípulos: «¿Acaso también ustedes quieren
+      irse?».'
+    6:68:
+    - 'Simón Pedro le respondió: «Señor, ¿a quién iremos? Tú tienes palabras de vida
+      eterna.»'
+    6:69:
+    - Y nosotros hemos creído y sabemos que Tú eras el Santo de Dios».
+    6:70:
+    - 'Jesús les respondió: «¿No los escogí Yo a ustedes, los doce, y sin embargo
+      uno de ustedes es un diablo?».'
+    6:71:
+    - Él se refería a Judas, hijo de Simón Iscariote, porque este, uno de los doce,
+      lo iba a entregar.
+  vocabulary:
+    como resultado: adv. como resultado. como resultado. as a result / consequently
+    andaban: v. andar. andaban. they walked / they were walking. imperfect tense of
+      andar for ellos/ellas/ustedes
+    acaso: adv. acaso. acaso. perhaps / maybe
+    irse: v. irse. se fue. he/she/it left. past tense of irse for él/ella/usted
+    iremos: v. ir. iremos. we will go. future tense of ir for nosotros
+    escogí: v. escoger. escogí. I chose. past tense of escoger for yo
+    sin embargo: conj. sin embargo. sin embargo. however / nevertheless
+    diablo: n. diablo. diablo. devil / demon
+    se refería: v. referirse. se refería. he/she/it referred. imperfect tense of referirse
+      for él/ella/usted
+    entregar: v. entregar. entregar. to deliver / to hand over
+  grammar: null
+  Friday_review: null
