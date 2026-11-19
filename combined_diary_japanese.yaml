@@ -5296,3 +5296,81 @@
     議論: n. ぎろん. 議論. argument / debate / discussion
   grammar: null
   Friday_review: null
+- date: '2026-11-18'
+  weekday: Wednesday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '7:1':
+    - その後、イエスはガリラヤを巡っておられた。ユダヤ人が殺そうとねらっていたので、ユダヤを巡ろうとは思われなかった。
+    '7:2':
+    - ときに、ユダヤ人の仮庵祭が近づいていた。
+    '7:3':
+    - イエスの兄弟たちが言った。「ここを去ってユダヤに行き、あなたのしている業を弟子たちにも見せてやりなさい。
+    '7:4':
+    - 公に知られようとしながら、ひそかに行動するような人はいない。こういうことをしているからには、自分を世にはっきり示しなさい。」
+    '7:5':
+    - 兄弟たちも、イエスは信じていなかったのである。
+    '7:6':
+    - そこで、イエスは言われた。「わたしの時はまだ来ていない。しかし、あなたがたの時はいつも備えられている。
+    '7:7':
+    - 世はあなたがたを憎むことができないが、わたしを憎んでいる。わたしが、世の行っている業を悪いと証ししているからだ。
+    '7:8':
+    - あなたがたは祭りに登っていくがよい。わたしはこの祭りには登っていかない、まだ、わたしの時が来ていないからである。」
+    '7:9':
+    - こう言って、イエスはガリラヤにとどまられた。
+  vocabulary:
+    巡っておられた: v. 巡る. めぐっておられた. to go around / to travel around. past tense of 巡っておられる.
+      polite form of 巡った.
+    殺そう: v. 殺す. ころそう. to try to kill. volitional form of 殺す.
+    狙っていたので: v. 狙う. ねらっていたので. because (someone) was aiming at / targeting. past continuous
+      form of 狙う with ので.
+    仮庵祭: n. 仮庵祭. かりあんさい. Feast of Tabernacles / Sukkot.
+    している: v. する. している. to be doing / to be in the state of doing. continuative form
+      of する.
+    業: n. 業. ごう. deed / action / work.
+    去って: v. 去る. さって. to leave / to go away. continuative form of 去る.
+    見せてやりなさい: v. 見せる. みせてやりなさい. to show (someone) / to let (someone) see. imperative
+      form of 見せる with やる.
+    やる: v. やる. to do / to perform an action. auxiliary verb used to indicate doing
+      something for someone else.
+    公に: adv. 公に. おおやけに. publicly / openly.
+    しながら: conj. しながら. while doing / during the act of doing. continuative form of
+      する with ながら.
+    ひそかに: adv. 秘かに. ひそかに. secretly / in private.
+    こういう: adj. こういう. こういう. such / like this.
+    こういうこと: n. こういうこと. こういうこと. such a thing / this kind of matter.
+    備えられている: v. 備える. そなえられている. to be prepared / to be ready. passive form of 備える in
+      the present continuous tense.
+    憎んでいる: v. 憎む. にくんでいる. to hate / to detest. present continuous form of 憎む.
+    行っている: v. 行う. おこなっている. to be going / to be in the state of going. continuative
+      form of 行う.
+    copula_comparison:
+    - verb: 行く
+      reading: いく (iku) / ゆく (yuku)
+      class: godan_intransitive
+      core_meaning: physical motion, going toward a destination, or progression over
+        time
+      object_particle: none (ni/e/o for movement through/along space)
+      register: everyday, neutral
+      example: 祭りに上って行く (go up to the festival)
+    - verb: 行う
+      reading: おこなう (okonau)
+      class: godan_transitive
+      core_meaning: deliberate execution, carrying out, holding, or performing an
+        action/event
+      object_particle: を (o)
+      register: neutral to formal/ceremonial
+      example: 業を行う (perform deeds/works)
+    止まられた: v. 止まる. とまられた. to stop / to stay. past tense of 止まられる. polite form of 止まる.
+  grammar:
+  - term: しながら
+    type: conjunction
+    meaning: while doing / during the act of doing
+    usage: continuative form of する with ながら
+  - term: ている
+    type: auxiliary verb
+    meaning: indicates ongoing action or state
+    usage: attached to the continuative form of a verb
+  Friday_review: null
