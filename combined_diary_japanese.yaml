@@ -5374,3 +5374,30 @@
     meaning: indicates ongoing action or state
     usage: attached to the continuative form of a verb
   Friday_review: null
+- date: '2026-11-19'
+  weekday: Thursday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '7:10':
+    - しかし、兄弟たちが祭りに上って行ったとき、イエスご自身も、人目を避け、隠れるようにして上って行かれた。
+    '7:11':
+    - 祭りのときユダヤ人たちはイエスを捜し、「あの男はどこにいるのか」と言っていた。
+    '7:12':
+    - 群衆の間では、イエスのことがいろいろとささやかれていた。「良い人だ」という者もいれば、「うや、群衆を惑わしている」と言う者もいた。
+    '7:13':
+    - しかし、ユダヤ人たちを恐れて、イエスについて公然と語る者はいなかった。
+  vocabulary:
+    祭り: n. まつり. 祭り. festival / feast
+    人目: n. ひとめ. 人目. public attention / notice
+    避け: v. さけ. 避ける. to avoid. to stay away from. to shun. continuative stem さけ
+    隠れる: v. かくれる. 隠れる. to hide oneself. to conceal oneself. continuative stem かくれ
+    探し: v. さがし. 探す. to search for. to look for. continuative stem さがし
+    間: n. あいだ. 間. interval / space / between / among
+    囁かれていた: v. ささやかれていた. 囁かれる. to be whispered / to be rumored. past tense ささやかれていた
+    惑わしている: v. まどわしている. 惑わす. to mislead / to deceive. continuative stem まどわして
+    恐れて: v. おそれて. 恐れる. to fear / to be afraid of. continuative stem おそれ
+    公然: adv. こうぜん. 公然. openly / publicly
+  grammar: null
+  Friday_review: null
