@@ -5347,3 +5347,42 @@
     entregar: v. entregar. entregar. to deliver / to hand over
   grammar: null
   Friday_review: null
+- date: '2026-11-23'
+  weekday: Monday
+  book: Juan
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '7:14':
+    - A la mitad de la fiesta, Jesús subió al templo y se puso a enseñar.
+    '7:15':
+    - 'Entonces los judíos se maravillaban, diciendo: «¿Cómo puede Este saber de letras
+      sin haber estudiado?».'
+    '7:16':
+    - 'Jesús entonces les respondió: «Mi enseñanza no es Mía, sino del que me envió.'
+    '7:17':
+    - Si alguno está dispuesto a hacer la voluntad de Dios, sabrá si Mi enseñanza
+      es de Dios o si hablo de Mí mismo.
+    '7:18':
+    - El que habla de sí mismo busca su propia gloria; pero Aquel que busca la gloria
+      del que lo envió, Él es verdadero y no hay injusticia en Él.
+    '7:19':
+    - ¿No les dio Moisés la ley, y sin embargo ninguno de ustedes la cumple? ¿Por
+      qué me quieren matar?».
+  vocabulary:
+    la mitad: adj. la mitad. half
+    subió: v. subir. subió. he/she went up / he/she ascended. preterite tense for
+      él/ella
+    se puso a enseñar: v. poner. se puso a enseñar. he/she began to teach. preterite
+      tense for él/ella
+    entonces: adv. entonces. then / so
+    se maravillaban: v. maravillarse. se maravillaban. they were amazed. imperfect
+      tense for ellos/ustedes
+    saber de letras: v. saber. saber de letras. to know about letters / to be literate
+    dispuesto: adj. dispuesto. dispuesto. willing / ready
+    la ley: n. la ley. la ley. the law
+    sin embargo: adv. sin embargo. however / nevertheless
+    cumpla: v. cumplir. cumpla. he/she fulfills / he/she obeys. present tense for
+      él/ella
+  grammar: null
+  Friday_review: null
