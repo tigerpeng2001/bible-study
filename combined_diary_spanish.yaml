@@ -5386,3 +5386,43 @@
       él/ella
   grammar: null
   Friday_review: null
+- date: '2026-11-24'
+  weekday: Tuesday
+  book: Juan
+  version: Nueva Biblia de las Américas (NBLA)
+  target_language: Spanish
+  verses:
+    '7:20':
+    - 'La multitud contestó: «¡Tienes un demonio! ¿Quié  te quiere matar?»'
+    '7:21':
+    - 'Jesús les respondió: «Una sola obra hice y todos se admiran.'
+    '7:22':
+    - Por eso Moisés les ha dado la ciruncisión (no porque sea de Mosisés, sino de
+      los padres),
+    - y en el día de reposo ustedes circuncidan al hombre.
+    '7:23':
+    - Y si para no violar la ley de Moisés un hombre recibe la circuncisión aún en
+      el día de reposo,
+    - ¿por qué están enojados conmigo porque sané por completo a un hombre en el día
+      de reposo?
+    '7:24':
+    - No juzguen por la apariencia, sino juzguen con juicio justo».
+  vocabulary:
+    demonio: n. demonio. demonio. demon / evil spirit
+    hice: v. hacer. hice. I did / I made. past tense of hacer for yo
+    se admiran: v. admirarse. se admiran. they are amazed. present tense of admirarse
+      for ellos/ellas/ustedes
+    ciruncisión: n. ciruncisión. ciruncisión. circumcision
+    circuncidan: v. circuncidar. circuncidan. they circumcise. present tense of circuncidar
+      for ellos/ellas/ustedes
+    violar: v. violar. violar. to violate / to break (a law)
+    aún: adv. aún. aún. still / yet
+    enojados: adj. enojado. enojados. angry. plural form of enojado
+    sané: v. sanar. sané. I healed. past tense of sanar for yo
+    por completo: adv. por completo. por completo. completely / fully
+    juzguen: v. juzgar. juzguen. judge. imperative form of juzgar for ustedes
+    apariencia: n. apariencia. apariencia. appearance
+    juicio: n. juicio. juicio. judgment / trial
+    justo: adj. justo. justo. fair / just
+  grammar: null
+  Friday_review: null
