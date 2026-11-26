@@ -1,0 +1,73 @@
+date: "2026-11-26"
+weekday: "Thursday"
+book: "ヨハネによる福音書"
+version: "新共同訳 (日本聖書協会 1987, 1988)"
+target_language: "Japanese"
+verses:
+  "7:30":
+    - "人々はイエスを捕らえようとしたが、手をかける者はいなかった。イエスの時はまだ来ていなかったからである。"
+  "7:31":
+    - "しかし、群衆の中にはイエスを信じる者が大勢いて、「メシアが来られても、この人よりも多くのしるしをなさるだろうか」と言った。"
+  "7:32":
+    - "ファリサイ派の人々は、群衆がエイスについてこのようにささやいているのを耳にした。
+    - "祭司長たちとファリサイ派の人々は、イエスを捕らえるために下役たちを遣わした。"
+  "7:33":
+    - "そこで、イエスは言われた。「今しばらく、わたしはあなたたちと共にいる。それから、自分をお遣わしになった方のもとへ帰る。" 
+  "7:34":
+    - "あなたたちは、わたしを捜しても、見つけることがない。わたしのいる所に、あなたたちは来ることができない。」"
+vocabulary:
+  捉えようとした: "v. とらえようとした. 捉えようとする. to try to catch / to try to seize. past tense とらえようとした"
+  手をかける: "v. てをかける. 手を掛ける. to lay hands on. to touch. continuative stem てをかけ"
+  捕らえようとする:
+  - definition: "v. とらえようとする. 捕らえようとする. to try to catch / to try to seize. continuative stem とらえようとし"
+  - etymology:
+      - root: "(とる / 捕る)"
+        origin: "native verb とる ('to take / grasp / catch') with iterative/durative extension shifting 'taking' to 'capturing/apprehending'"
+        cognate_forms:
+          - "とる: base verb ('to take / pick up / catch')"
+          - "捕らわれる: passive/stative ('to be captured / seized / obsessed with')"
+          - "捕まえる: related verb ('to catch / grab', more colloquial or hands-on)"
+        漢字_note: "捕 (phono-semantic: hand radical 扌 + 甫; okurigana ら distinguishes 捕らえる from 捕まえる)"
+  - grammar:
+      - term: "[Volitional form (未然形 + よう)] + とする"
+        type: volitional_attempt_construction
+        meaning: "to try to [verb] / attempt to [verb] / be on the verge of [verb]ing"
+        usage: "捕らえ (mizenkei of 捕らえる) + よう (volitional auxiliary) + と (quotation particle) + する (to do; past in v.7:30: とした)"
+  ささやいている: "v. ささやいている. ささやく. 囁く. to whisper / to murmur. continuative stem ささやいて"
+  耳にした: "v. みみにした. 耳にする. to hear / to catch (a remark). past tense 耳にした"
+  祭司長: "n. さいしちょう. 祭司長. chief priest."
+  下役: "n. したやく. 下役. subordinate / assistant / underling."
+  しばらく: "adv. しばらく. 暫く. for a while / for some time."
+  共にいる: "v. ともにいる. 共にいる. to be with / to stay with. continuative stem 共にい"
+  もと: "n. もと. 本. origin / source / basis. can also mean 'the one who sent (someone)' in context."
+  探しても: "v. さがしても. 探しても. even if (one) searches / looks for. conditional form 探しても"
+  見つける: "v. みつける. 見つける. to find / to discover. continuative stem 見つけ"
+  所: "n. ところ. 所. place / location. can also mean 'situation' or 'circumstance' in context."
+grammar:
+  のである:
+  - form: "〜のである"
+    register: "literary, solemn, formal"
+    nuance_in_context: "states the decisive truth or explanation with gravitas"
+  - form: "〜のだ"
+    register: "plain, conversational"
+    nuance_in_context: "explains 'it's (because)...' in everyday speech"
+  - form: "〜のです"
+    register: "polite conversational"
+    nuance_in_context: "soft explanation in polite dialogue"
+  - form: "〜た"
+    register: "plain past narrative (without explanatory framing)"
+    nuance_in_context: "simple past fact without explanatory framing"
+  だろうか:
+  - ending: "だろうか"
+    register: "reflective, literary, neutral-formal"
+    nuance_in_context: "I wonder if / would... (speculative or rhetorical question)"
+  - ending: "でしょうか"
+    register: "polite 丁寧語[ていねいご]"
+    nuance_in_context: "polite 'I wonder if / would...?'"
+  - ending: "だろう？"
+    register: "casual / plain"
+    nuance_in_context: "direct, conversational conjecture or question"
+  - ending: "のか"
+    register: "explanatory / investigative"
+    nuance_in_context: "questions an underlying reason, fact, or situation ('is it that...?')"
+Friday_review:
