@@ -13,6 +13,8 @@ verses:
   "7:28":
     - "そると、神殿の境内で教えていたイエスは、大声で言われた。「あなたたちはわたしのことを知っており、また、どこの出身かも知っている。"
     - "わたしは自分勝手に来たのではない。わたしをお遣わしになった方は真実であるが、あなたたちはその方を知らない。"
+  "7:29":
+    - "わたしはその方を知っている。わたしはその方のもとから来た者であり、その方がわたしをお遣わしになったのである。」"
 vocabulary:
   さて: "adv. さて. さて. well then / now / so."
   殺そう: "v. 殺す. ころそう. to try to kill. volitional form of 殺す."
@@ -36,4 +38,8 @@ vocabulary:
   お遣わしになった方: "n. お遣わしになった方. おつかわしになったかた. the one who sent (Jesus). respectful expression referring to God."
   お遣わしになった方は真実: "phrase. お遣わしになった方は真実. おつかわしになったかたはしんじつ. The one who sent (Jesus) is true. respectful expression referring to God."
 grammar:
+  - term: "お +  連用形[れんようけい] + になる"
+    type: honorific_construction
+    meaning: respectful action (尊敬語[そんけいご]) elevating the subject's action
+    usage: "お + continuative/masu-stem (遣わし) + になる (past: になった)"
 Friday_review:
