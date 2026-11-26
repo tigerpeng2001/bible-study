@@ -5401,3 +5401,47 @@
     公然: adv. こうぜん. 公然. openly / publicly
   grammar: null
   Friday_review: null
+- date: '2026-11-25'
+  weekday: Wednesday
+  book: ヨハネによる福音書
+  version: 新共同訳 (日本聖書協会 1987, 1988)
+  target_language: Japanese
+  verses:
+    '7:25':
+    - さて、エルサレムの人々の中には次のように言う者たちがいた。「これは、人々が殺そうとねらっている者ではないか。
+    '7:26':
+    - あんなに公然と話しているのに、何も言われない。議員たちは、この人がメシアだと言うことを、本当に認めたのではなかろうか。
+    '7:27':
+    - しかし、わたしたちは、この人がどこの出身かを知っている。メシアが来られるときは、どこから来られるのか、だれも知らないはずだ。」
+    '7:28':
+    - そると、神殿の境内で教えていたイエスは、大声で言われた。「あなたたちはわたしのことを知っており、また、どこの出身かも知っている。
+    - わたしは自分勝手に来たのではない。わたしをお遣わしになった方は真実であるが、あなたたちはその方を知らない。
+  vocabulary:
+    さて: adv. さて. さて. well then / now / so.
+    殺そう: v. 殺す. ころそう. to try to kill. volitional form of 殺す.
+    ねらっている: v. 狙う. ねらっている. to be aiming at / targeting. present continuous form of
+      狙う.
+    あんなに: adv. あんなに. あんなに. so / to that extent / like that / in that way.
+    公然: adv. 公然. こうぜん. openly / publicly.
+    言われない: v. 言う. いわれない. not be told / not be said. negative passive form of 言う.
+    議員: n. 議員. ぎいん. member of parliament / legislator.
+    認めた: v. 認める. みとめた. to acknowledge / to admit. past tense of 認める.
+    なかろう: aux. ない. なかろう. probably not / unlikely to be. volitional negative form of
+      ない.
+    来られる: v. 来る. こられる. to come. potential or respectful form of 来る.
+    知らないずだ: v. 知る. しらないずだ. not know / without knowing. classical negative form of
+      知る with ずだ.
+    知らない: v. 知る. しらない. not know. negative form of 知る.
+    ずだ: aux. ない. ずだ. not / without. classical negative auxiliary verb.
+    そると: conj. それと. そると. then / in that case / accordingly.
+    神殿: n. 神殿. しんでん. temple.
+    境内: n. 境内. けいだい. precincts / grounds of a temple or shrine.
+    大声: n. 大声. おおごえ. loud voice / shout.
+    自分勝手: adj-na. 自分勝手. じぶんかって. selfish / self-centered.
+    お遣わしになった: v. 遣わす. おつかわしになった. to send. respectful past form of 遣わす.
+    お遣わしになった方: n. お遣わしになった方. おつかわしになったかた. the one who sent (Jesus). respectful expression
+      referring to God.
+    お遣わしになった方は真実: phrase. お遣わしになった方は真実. おつかわしになったかたはしんじつ. The one who sent (Jesus)
+      is true. respectful expression referring to God.
+  grammar: null
+  Friday_review: null
